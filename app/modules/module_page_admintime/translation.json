@@ -1,0 +1,232 @@
+{
+  "_AdmOnline": {
+    "EN": "Admins online",
+    "RU": "Онлайн админов",
+    "UA": "Онлайн адмінів"
+  },
+  "_NO_RIGHTS": {
+    "EN": "You do not have the rights to perform this action",
+    "RU": "У вас нет прав для выполнения данного действия",
+    "UA": "У вас немає прав для виконання цієї дії"
+  },
+  "_INVALID_FILLED_FIELDS": {
+    "EN": "Not all fields were filled in or some fields are invalid",
+    "RU": "Не все поля были заполнены или некоторые из них невалидны",
+    "UA": "Не всі поля були заповнені або деякі з них невалідні"
+  },
+  "_ADD_ACCESS": {
+    "EN": "You have successfully added access",
+    "RU": "Вы успешно добавили доступ",
+    "UA": "Ви успішно додали доступ"
+  },
+  "_ACCESS_EXISTS": {
+    "EN": "Access already exists",
+    "RU": "Доступ уже существует",
+    "UA": "Доступ вже існує"
+  },
+  "_WITHDRAWN_ACCESS": {
+    "EN": "You have successfully withdrawn access",
+    "RU": "Вы успешно забрали доступ",
+    "UA": "Ви успішно забрали доступ"
+  },
+  "_UPDATE_STATUS": {
+    "EN": "You have successfully updated your status",
+    "RU": "Вы успешно обновили статус",
+    "UA": "Ви успішно оновили статус"
+  },
+  "_DELETE_SERVER": {
+    "EN": "You have successfully deleted the server",
+    "RU": "Вы успешно удалили сервер",
+    "UA": "Ви успішно видалили сервер"
+  },
+  "_LINK_SERVER": {
+    "EN": "You have successfully bound the server",
+    "RU": "Вы успешно привязали сервер",
+    "UA": "Ви успішно прив'язали сервер"
+  },
+  "_UPDATE_SETTINGS": {
+    "EN": "You have successfully updated the settings",
+    "RU": "Вы успешно обновили настройки",
+    "UA": "Ви успішно оновили налаштування"
+  },
+  "_ALREADY_EXISTS": {
+    "EN": "The record already exists",
+    "RU": "Запись уже существует",
+    "UA": "Запис уже існує"
+  },
+  "_NOT_ACCESS": {
+    "EN": "No accesses",
+    "RU": "Нет доступов",
+    "UA": "Немає доступів"
+  },
+  "_DELETE": {
+    "EN": "Delete",
+    "RU": "Удалить",
+    "UA": "Видалити"
+  },
+  "_USERS_WITH_ACCESS": {
+    "EN": "Users with access",
+    "RU": "Пользователи с доступом",
+    "UA": "Користувачі з доступом"
+  },
+  "_adminsStats": {
+    "EN": "Administrators statistics",
+    "RU": "Статистика администраторов",
+    "UA": "Статистика адміністраторів"
+  },
+  "_TimePLayed": {
+    "EN": "Time played",
+    "RU": "Наиграно времени",
+    "UA": "Найграно часу"
+  },
+  "_adminSession": {
+    "EN": "Admin session",
+    "RU": "Сессия админа",
+    "UA": "Сесія адміну"
+  },
+  "_sessions": {
+    "EN": "Sessions",
+    "RU": "Сессии",
+    "UA": "Сесії"
+  },
+  "_findAdmin": {
+    "EN": "Find admin",
+    "RU": "Найти админа",
+    "UA": "Знайти адміна"
+  },
+  "_searchAdminBy": {
+    "EN": "Search admin by",
+    "RU": "Поиск админа по",
+    "UA": "Пошук адміна по"
+  },
+  "_joinTime": {
+    "EN": "Join time",
+    "RU": "Время входа",
+    "UA": "Час входу"
+  },
+  "_leaveTime": {
+    "EN": "Leave time",
+    "RU": "Время выхода",
+    "UA": "Час виходу"
+  },
+  "_played": {
+    "EN": "Played out",
+    "RU": "Наиграно",
+    "UA": "Награно"
+  },
+  "_errorLoadData": {
+    "EN": "Error loading data",
+    "RU": "Ошибка при загрузке данных",
+    "UA": "Помилка під час завантаження даних"
+  },
+  "_failedToPlayVideo": {
+    "EN": "Failed to play video:",
+    "RU": "Не удалось воспроизвести видео:",
+    "UA": "Не вдалося відтворити відео:"
+  },
+  "_days": {
+    "EN": "d.",
+    "RU": "д.",
+    "UA": "д."
+  },
+  "_hours": {
+    "EN": "h.",
+    "RU": "ч.",
+    "UA": "г."
+  },
+  "_minutes": {
+    "EN": "m.",
+    "RU": "м.",
+    "UA": "х."
+  },
+  "_seconds": {
+    "EN": "s.",
+    "RU": "с.",
+    "UA": "с."
+  },
+  "_iksServerID": {
+    "EN": "Server ID",
+    "RU": "ID сервера",
+    "UA": "ID сервера"
+  },
+  "_addServer": {
+    "EN": "Add server",
+    "RU": "Добавить сервер",
+    "UA": "Додати сервер"
+  },
+  "_serverList": {
+    "EN": "List of servers",
+    "RU": "Список серверов",
+    "UA": "Список серверів"
+  },
+  "_noServers": {
+    "EN": "No servers",
+    "RU": "Нет серверов",
+    "UA": "Немає серверів"
+  },
+  "_accessPage": {
+    "EN": "Access to page",
+    "RU": "Доступ к странице",
+    "UA": "Доступ до сторінки"
+  },
+  "_addAccessIksSystem": {
+    "EN": "Automatically add access to all admins from the Iks admin system",
+    "RU": "Автоматически добавлять доступ всем админам из админ-системы Iks",
+    "UA": "Автоматично додавати доступ всім адмінам з адмін-системи Iks"
+  },
+  "_autoAccess": {
+    "EN": "Automatically grant access to the page",
+    "RU": "Автоматически выдавать доступ к странице",
+    "UA": "Автоматично надавати доступ до сторінки"
+  },
+  "_addAccess": {
+    "EN": "Add access",
+    "RU": "Добавить доступ",
+    "UA": "Додати доступ"
+  },
+  "_addAccessPage": {
+    "EN": "Add access to page",
+    "RU": "Добавить доступ к странице",
+    "UA": "Додати доступ до сторінки"
+  },
+  "_usersWithAccess": {
+    "EN": "Users with access",
+    "RU": "Пользователи с доступом",
+    "UA": "Користувачі з доступом"
+  },
+  "_adminCharts": {
+    "EN": "Admin online chart",
+    "RU": "График онлайна",
+    "UA": "Чарт онлайну адміністраторів"
+  },
+  "_last30days": {
+    "EN": "Last 30 days",
+    "RU": "за последние 30 дней",
+    "UA": "за останні 30 днів"
+  },
+  "_from": {
+    "EN": "from",
+    "RU": "с",
+    "UA": "з"
+  },
+  "_to": {
+    "EN": "to",
+    "RU": "по",
+    "UA": "до"
+  },
+  "_time": {
+    "EN": "Time",
+    "RU": "Время",
+    "UA": "Час"
+  },
+  "_cleanGroup": {
+    "EN": "Groups to clean",
+    "RU": "Группы которые не отображать",
+    "UA": "Групи які не відображати"
+  },
+  "_INVALID_STEAMID": {
+    "EN": "Invalid SteamID provided",
+    "RU": "Указан неверный SteamID",
+    "UA": "Вказано невірний SteamID"
+  }
+}

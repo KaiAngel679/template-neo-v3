@@ -1,0 +1,182 @@
+{
+    "_notifications": {
+        "EN": "Notifications",
+        "RU": "Уведомления"
+    },
+    "_NotificationSettings": {
+        "EN": "Settings",
+        "RU": "Настройки"
+    },
+    "_Settings": {
+        "EN": "Settings",
+        "RU": "Настройки"
+    },
+    "_needAuth": {
+        "EN": "Authorization is required.",
+        "RU": "Требуется авторизация."
+    },
+    "_SendNotification": {
+        "EN": "Send Notification",
+        "RU": "Отправка уведомления"
+    },
+    "_Recipient": {
+        "EN": "Recipient",
+        "RU": "Получатель"
+    },
+    "_RecipientHelp": {
+        "EN": "Enter SteamID or 'all' for all online users",
+        "RU": "Введите SteamID или 'all' для всех онлайн пользователей"
+    },
+    "_Title": {
+        "EN": "Title",
+        "RU": "Заголовок"
+    },
+    "_Message": {
+        "EN": "Message",
+        "RU": "Сообщение"
+    },
+    "_Icon": {
+        "EN": "Icon",
+        "RU": "Иконка"
+    },
+    "_IconInfo": {
+        "EN": "Information",
+        "RU": "Информация"
+    },
+    "_IconStore": {
+        "EN": "Store",
+        "RU": "Магазин"
+    },
+    "_IconPay": {
+        "EN": "Payment",
+        "RU": "Оплата"
+    },
+    "_IconRequest": {
+        "EN": "Request",
+        "RU": "Запрос"
+    },
+    "_IconMs": {
+        "EN": "Messages",
+        "RU": "Сообщения"
+    },
+    "_IconPunish": {
+        "EN": "Punishment",
+        "RU": "Наказание"
+    },
+    "_IconProfile": {
+        "EN": "Profile",
+        "RU": "Профиль"
+    },
+    "_IconReports": {
+        "EN": "Reports",
+        "RU": "Жалобы"
+    },
+    "_IconChallenges": {
+        "EN": "Challenges",
+        "RU": "Испытания"
+    },
+    "_URL": {
+        "EN": "URL",
+        "RU": "Ссылка"
+    },
+    "_ButtonText": {
+        "EN": "Button Text",
+        "RU": "Текст кнопки"
+    },
+    "_ButtonPlaceholder": {
+        "EN": "Go →",
+        "RU": "Перейти →"
+    },
+    "_Variables": {
+        "EN": "Variables",
+        "RU": "Переменные"
+    },
+    "_VariablesHelp": {
+        "EN": "Use %name% in text to substitute values",
+        "RU": "Используйте %имя% в тексте для подстановки значений"
+    },
+    "_Send": {
+        "EN": "Send",
+        "RU": "Отправить"
+    },
+    "_TestNotification": {
+        "EN": "Test Notification",
+        "RU": "Тестовое уведомление"
+    },
+    "_SendToAll": {
+        "EN": "Send to all registered",
+        "RU": "Отправить всем зарегистрированным"
+    },
+    "_SendToUser": {
+        "EN": "Send to User",
+        "RU": "Отправить пользователю"
+    },
+    "_NotificationSent": {
+        "EN": "Notification sent successfully",
+        "RU": "Уведомление успешно отправлено"
+    },
+    "_NotificationError": {
+        "EN": "Error sending notification",
+        "RU": "Ошибка отправки уведомления"
+    },
+    "_InvalidSteamID": {
+        "EN": "Invalid SteamID format",
+        "RU": "Неверный формат SteamID"
+    },
+    "_EmptyFields": {
+        "EN": "Please fill in all required fields",
+        "RU": "Заполните все обязательные поля"
+    },
+    "_NoOnlineUsers": {
+        "EN": "No online users found",
+        "RU": "Онлайн пользователи не найдены"
+    },
+    "_UsersNotified": {
+        "EN": "users notified",
+        "RU": "пользователей уведомлено"
+    },
+    "_SendToOnline": {
+        "EN": "Send to all online",
+        "RU": "Отправить всем онлайн"
+    },
+    "_SendToSingle": {
+        "EN": "Send to specific user",
+        "RU": "Отправить конкретному пользователю"
+    },
+    "_RecipientsType": {
+        "EN": "Recipients type",
+        "RU": "Тип получателей"
+    },
+    "_OnlineUsers": {
+        "EN": "online users",
+        "RU": "онлайн пользователей"
+    },
+    "_RegisteredUsers": {
+        "EN": "registered users",
+        "RU": "зарегистрированных пользователей"
+    },
+    "_title_531c568fd0fc36495945d389661dc554": {
+        "EN": "Новое уведомление от администрации",
+        "RU": "Новое уведомление от администрации"
+    },
+    "_text_37e60df737ec5eb63227a33661b64b41": {
+        "EN": "Привет, %username%!\n\nНа сервере обновление. Зайдите и проверьте новые возможности!",
+        "RU": "Привет, %username%!\n\nНа сервере обновление. Зайдите и проверьте новые возможности!"
+    },
+    "_text_8a669e9418750c81ab90ae159a8ec410": {
+        "EN": "Привет",
+        "RU": "Привет"
+    },
+    "_button_c2b06a006d468ccc5b5242f15ee2f05c": {
+        "EN": "Перейти",
+        "RU": "Перейти"
+    },
+    "_title_8c2e7f9b218a64d0dc68db81780b2d34": {
+        "EN": "Для любимых",
+        "RU": "Для любимых"
+    },
+    "_text_003bef50c8846c0cde8bdd2c4a9d7820": {
+        "EN": "Привет, как дела?",
+        "RU": "Привет, как дела?"
+    }
+}

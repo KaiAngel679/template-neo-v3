@@ -1,0 +1,24 @@
+{
+    "name": "Палитра № 2",
+    "colors": {
+        "--span": "rgb(190, 126, 255)",
+        "--span-low": "rgb(190, 126, 255)",
+        "--span-10": "rgb(190, 126, 255)",
+        "--span-middle": "rgb(190, 126, 255)",
+        "--span-half": "rgb(190, 126, 255)",
+        "--text-default": "#ffffff",
+        "--text-default-invert": "#1b1c24",
+        "--text-custom": "#e9d9ff",
+        "--text-secondary": "#ca9cff",
+        "--money": "#fffb9c",
+        "--money-bg": "rgb(255, 251, 156, 0.1)",
+        "--bg": "#1f0035",
+        "--card": "#2b0047",
+        "--tooltip": "#570087",
+        "--bg-modal": "#1f0035d4",
+        "--input-form": "#400067",
+        "--btn-disabled": "#4b0077",
+        "--button": "#620098",
+        "--button-hover": "#7800b9"
+    }
+}

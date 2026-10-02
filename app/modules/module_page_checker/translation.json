@@ -1,0 +1,152 @@
+{
+    "_checkTitle": {
+        "EN": "Check cheats",
+        "RU": "Проверки на читы",
+        "UA": "Перевірки на чити"
+    },
+    "_checkDescription": {
+        "EN": "Section for downloading programs for checking for cheats",
+        "RU": "Раздел для загрузки программ для проверки на читы",
+        "UA": "Розділ для завантаження програм для перевірки на чити"
+    },
+    "_download": {
+        "EN": "Download checker",
+        "RU": "Скачать чекер",
+        "UA": "Завантажити чекер"
+    },
+    "_iread": {
+        "EN": "I read the information about the checker",
+        "RU": "Я прочитал информацию о чекере",
+        "UA": "Я прочитав інформацію про чекера"
+    },
+    "_loadSite": {
+        "EN": "Download from the site",
+        "RU": "Скачать с сайта",
+        "UA": "Завантажити із сайту"
+    },
+    "_loadShare": {
+        "EN": "Download file sharing",
+        "RU": "Скачать файлообменника",
+        "UA": "Завантажити файлообмінник"
+    },
+    "_content": {
+        "EN": "Content",
+        "RU": "Содержимое",
+        "UA": "Вміст"
+    },
+    "_vtotal": {
+        "EN": "Verified by VirusTotal",
+        "RU": "Проверено на VirusTotal",
+        "UA": "Verified by VirusTotal"
+    },
+    "_login": {
+        "EN": "Login to download",
+        "RU": "Войти, чтобы скачать",
+        "UA": "Увійти, щоб скачати"
+    },
+    "_filesSettings": {
+        "EN": "Setting up files",
+        "RU": "Настройка файлов",
+        "UA": "Налаштування файлів"
+    },
+    "_onlyAuth": {
+        "EN": "Downloading programs only for authorized users",
+        "RU": "Загрузка программ только для авторизованных",
+        "UA": "Завантаження програм лише для авторизованих"
+    },
+    "_vtLink": {
+        "EN": "Link to VirusTotal",
+        "RU": "Ссылка на VirusTotal",
+        "UA": "Link to VirusTotal"
+    },
+    "_blink": {
+        "EN": "If not needed, leave blank",
+        "RU": "Если не нужно, оставьте пустым",
+        "UA": "Якщо не потрібно, залиште пустим"
+    },
+    "_shareLink": {
+        "EN": "Link to file sharing service",
+        "RU": "Ссылка на файлообменник",
+        "UA": "Посилання на файлообмінник"
+    },
+    "_checkerName": {
+        "EN": "Checker name (for block with description)",
+        "RU": "Название чекера (для блока с описанием)",
+        "UA": "Назва чекеру (для блоку з описом)"
+    },
+    "_checkerContent": {
+        "EN": "Checker Contents",
+        "RU": "Содержимое чекера",
+        "UA": "Вміст чекеру"
+    },
+    "_checkerInside": {
+        "EN": "Write what is inside the checker. Press Enter to break the line",
+        "RU": "Напишите, что находится внутри чекера. Нажмите на Enter для переноса строки",
+        "UA": "Напишіть, що знаходиться усередині чекера. Натисніть на Enter для перенесення рядка"
+    },
+    "_checkerDemo": {
+        "EN": "Description and demonstration",
+        "RU": "Описание и демонстрация",
+        "UA": "Опис та демонстрація"
+    },
+    "_addParagraph": {
+        "EN": "Add a paragraph",
+        "RU": "Добавить абзац",
+        "UA": "Додати абзац"
+    },
+    "_headParagraph": {
+        "EN": "Paragraph heading",
+        "RU": "Заголовок абзаца",
+        "UA": "Заголовок абзацу"
+    },
+    "_contentParagraph": {
+        "EN": "Paragraph content. Press Enter to break a line.",
+        "RU": "Содержимое абзаца. Нажмите на Enter для переноса строки",
+        "UA": "Вміст абзацу. Натисніть на Enter для перенесення рядка"
+    },
+    "_hideImg": {
+        "EN": "Hide Image Banner Carousel",
+        "RU": "Скрыть карусель баннеров с изображениями",
+        "UA": "Приховати карусель банерів із зображеннями"
+    },
+    "_delParagraph": {
+        "EN": "Delete paragraph",
+        "RU": "Удалить параграф",
+        "UA": "Видалити параграф"
+    },
+    "_currentFiles": {
+        "EN": "You currently have images uploaded",
+        "RU": "В данный момент у вас загружены изображения",
+        "UA": "Наразі у вас завантажено зображення"
+    },
+    "_currentFiles2": {
+        "EN": "You currently have a file uploaded",
+        "RU": "В данный момент у вас загружен файл",
+        "UA": "Наразі у вас завантажено файл"
+    },
+    "_noName": {
+        "EN": "You did not specify a name",
+        "RU": "Вы не указали название",
+        "UA": "Ви не вказали назву"
+    },
+    "_noChecker": {
+        "EN": "You did not add a checker for download",
+        "RU": "Вы не добавили чекер для скачивания",
+        "UA": "Ви не додали чекер для завантаження"
+    },
+    "_fourFiles": {
+        "EN": "You need to upload at least 4 images",
+        "RU": "Нужно загрузить минимум 4 изображения",
+        "UA": "Потрібно завантажити мінімум 4 зображення"
+    },
+    "_uploadZip": {
+        "EN": "Upload the checker file in exe, zip or rar format",
+        "RU": "Загрузите файл чекера в exe, zip или rar формате",
+        "UA": "Завантажте файл чекера у форматі exe, zip або rar"
+    },
+    "_uploadFour": {
+        "EN": "Upload at least 4 photos for the slider",
+        "RU": "Загрузите от 4 фотографий для слайдера",
+        "UA": "Завантажте щонайменше 4 фотографії для слайдера"
+    }
+}

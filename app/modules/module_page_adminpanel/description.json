@@ -1,0 +1,18 @@
+{
+  "title": "NEO 3 - Admin Panel",
+  "info": "Administrator panel allows flexible management of LR WEB settings",
+  "author": "onevalve.ru",
+  "page": "adminpanel",
+  "version": "1.0",
+  "setting": {
+    "status": 1,
+    "type": 1,
+    "available_types": "1",
+    "translation": 1,
+    "interface": 1,
+    "interface_adjacent": "afternavbar",
+    "data": 1,
+    "css": 1,
+    "js": 1
+  }
+}

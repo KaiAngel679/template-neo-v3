@@ -1,0 +1,99 @@
+.input-form .border-checkbox-label {
+  width: max-content;
+}
+
+.check__inputs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: .3rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+  width: 10rem;
+}
+
+.check__long-text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  color: inherit;
+}
+
+@media (max-width:768px) {
+  .check__inputs {
+    flex-direction: column;
+    gap: .3rem;
+  }
+}
+
+.add-verdict button,
+.add-admin button {
+  white-space: nowrap;
+}
+
+.grid-text {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+}
+
+.check__verdict-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-block: .3rem;
+  gap: .15rem;
+}
+
+.check__verdict-add {
+  background-color: rgb(100 206 130 / 15%);
+  color: var(--green);
+}
+
+.check__verdict-add:hover {
+  background-color: rgb(100 206 130 / 20%);
+  color: var(--green);
+}
+
+.check__verdict-flex {
+  display: flex;
+  gap: .3rem;
+}
+
+.check__verdict-flex button {
+  padding-inline: 0;
+  flex: none;
+  width: var(--input-height);
+}
+
+.chek__info {
+  display: block;
+  background-color: var(--orange);
+  color: var(--bg);
+  text-align: center;
+  width: 100%;
+  margin-bottom: .5rem;
+  border-radius: var(--br-6);
+  padding: .5rem;
+  font-weight: var(--font-weight-6);
+}
+
+.adm_online_servers {
+  display: flex;
+  gap: 3px;
+  flex-direction: column;
+  margin-top: .3rem;
+}
+
+.adm_online_server {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--input-form);
+  padding: 5px 5px 5px 10px;
+  border-radius: var(--br-12);
+  gap: 1rem;
+}

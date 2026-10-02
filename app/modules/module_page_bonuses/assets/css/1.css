@@ -1,0 +1,264 @@
+.bonuses__title {
+    font-family: var(--font-family-1);
+    font-size: var(--font-size-l);
+    display: flex;
+    align-items: center;
+    line-height: normal;
+    gap: .5rem;
+    margin-block: 0 1rem;
+}
+
+.bonuses__title svg {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+.bonuses__containers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+    gap: 1rem;
+}
+
+.bonuses__container-tg,
+.bonuses__container-ds,
+.bonuses__container-vk,
+.bonuses__container-socials {
+    background-color: var(--card);
+    padding: 1.3rem;
+    border-radius: var(--br-16);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: var(--transition-duration);
+}
+
+.bonuses__container-socials {
+    margin-top: 1rem;
+}
+
+.bonuses__container-tg:hover .bonuses__container-image,
+.bonuses__container-ds:hover .bonuses__container-image,
+.bonuses__container-vk:hover .bonuses__container-image {
+    scale: 1.2;
+}
+
+.bonuses__container-content {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    z-index: 2;
+    height: 100%;
+}
+
+.bonuses__container-title {
+    font-size: var(--font-size-xxl);
+    font-weight: var(--font-weight-6);
+}
+
+.bonuses__container-description {
+    color: var(--text-custom);
+    font-size: var(--font-size-m);
+    max-width: 20rem;
+}
+
+.bonuses__container-buttons {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin-top: auto;
+}
+
+.bonuses__container-buttons button {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.bonuses__container-socials .bonuses__container-buttons {
+    gap: .3rem;
+    margin-top: 1rem;
+}
+
+.bonuses__container-socials .bonuses__container-buttons button {
+    border-top-right-radius: var(--br-8);
+    border-bottom-right-radius: var(--br-8);
+    padding-inline: 0;
+    width: var(--input-height);
+}
+
+.bonuses__container-socials .bonuses__container-description {
+    max-width: 30rem;
+}
+
+.bonuses__container-buttons button:disabled {
+    border-top-right-radius: var(--br-8);
+    border-bottom-right-radius: var(--br-8);
+    cursor: no-drop;
+}
+
+.bonuses__container-price {
+    height: var(--input-height);
+    background-color: transparent;
+    width: max-content;
+    display: flex;
+    padding-inline: 1rem;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--font-size-m);
+    font-family: var(--font-family-1);
+    font-weight: var(--font-weight-7);
+    color: var(--text-default);
+    border-radius: var(--br-8);
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    gap: .3rem;
+    border: 1px solid currentColor;
+}
+
+.bonuses__container-image {
+    position: absolute;
+    right: -4rem;
+    bottom: -4rem;
+    display: flex;
+    transition: var(--transition-duration);
+}
+
+.bonuses__container-image:before {
+    content: '';
+    position: absolute;
+    width: 25rem;
+    height: 25rem;
+    border-radius: var(--br-50);
+    opacity: .5;
+    top: -6rem;
+    right: -6rem;
+    pointer-events: none;
+    filter: blur(150px);
+}
+
+.bonuses__container-image img {
+    width: 13rem;
+    height: 13rem;
+    z-index: 1;
+}
+
+@media (max-width:638px) {
+
+    .bonuses__container-image {
+        position: absolute;
+        right: -2rem;
+        bottom: -2rem;
+        display: flex;
+    }
+
+    .bonuses__container-image img {
+        width: 10rem;
+        height: 10rem;
+    }
+}
+
+.bonuses__container-tg .bonuses__container-image:before {
+    background-color: var(--brand-telegram-color);
+}
+
+.bonuses__container-tg:has(.bonuses__container-buttons) button {
+    background-color: var(--brand-telegram-color);
+    color: var(--text-default);
+}
+
+.bonuses__container-tg:has(.bonuses__container-buttons) .bonuses__container-price {
+    color: var(--brand-telegram-color);
+}
+
+.bonuses__container-ds .bonuses__container-image:before {
+    background-color: var(--brand-discord-color);
+    opacity: .8;
+}
+
+.bonuses__container-ds:has(.bonuses__container-buttons) button {
+    background-color: var(--brand-discord-color);
+    color: var(--text-default);
+}
+
+.bonuses__container-ds:has(.bonuses__container-buttons) .bonuses__container-price {
+    color: var(--brand-discord-color);
+}
+
+.bonuses__container-vk .bonuses__container-image:before {
+    background-color: var(--brand-vkontakte-color);
+    opacity: .8;
+}
+
+.bonuses__container-vk:has(.bonuses__container-buttons) button {
+    background-color: var(--brand-vkontakte-color);
+    color: var(--text-default);
+}
+
+.bonuses__container-vk:has(.bonuses__container-buttons) .bonuses__container-price {
+    color: var(--brand-vkontakte-color);
+}
+
+.bonuses__settings-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(24rem, 1fr));
+    gap: 1rem;
+}
+
+.bonuses__settings-block {
+    flex: 1;
+}
+
+.bonuses__settings-block h3 {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin-bottom: .5rem;
+}
+
+.bonuses__settings-block svg {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.bonuses__container-video {
+    position: absolute;
+    right: 4rem;
+    top: -1rem;
+}
+
+.bonuses__container-video:before {
+    content: '';
+    position: absolute;
+    background-color: var(--money);
+    border-radius: var(--br-50);
+    width: 30rem;
+    height: 30rem;
+    filter: blur(250px);
+    opacity: .3;
+    right: 1rem;
+}
+
+.bonuses__container-video video {
+    max-height: 19rem;
+    position: relative;
+    z-index: 3;
+}
+
+@media (max-width: 768px) {
+    .bonuses__settings-wrapper {
+        grid-template-columns: 1fr;
+    }
+
+    .bonuses__container-video video {
+        display: none;
+    }
+
+    .bonuses__container-video:before {
+        width: 10rem;
+        height: 10rem;
+        right: -6rem;
+        bottom: -18rem;
+        filter: blur(100px);
+    }
+}

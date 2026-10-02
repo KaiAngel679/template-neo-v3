@@ -1,0 +1,82 @@
+{
+    "_faq": {
+        "EN": "Frequently Asked Questions (FAQ)",
+        "RU": "Часто задаваемые вопросы (FAQ)",
+        "UA": "Часті питання (FAQ)"
+    },
+    "_createFaq": {
+        "EN": "Create FAQ",
+        "RU": "Создать FAQ",
+        "UA": "Створити FAQ"
+    },
+    "_noFaq": {
+        "EN": "There are no questions or answers",
+        "RU": "Вопрос-ответы отсутствуют",
+        "UA": "Питання-відповіді відсутні"
+    },
+    "_newFaq": {
+        "EN": "Create a new question and answer",
+        "RU": "Создание нового вопрос-ответа",
+        "UA": "Створення нового питання-відповіді"
+    },
+    "_shortFaq": {
+        "EN": "Short question",
+        "RU": "Короткий вопрос",
+        "UA": "Коротке питання"
+    },
+    "_fullAnswer": {
+        "EN": "Detailed answer to the question",
+        "RU": "Подробный ответ на вопрос",
+        "UA": "Детальна відповідь на запитання"
+    },
+    "_createNewFaq": {
+        "EN": "Create a new FAQ",
+        "RU": "Создать новый FAQ",
+        "UA": "Створити новий FAQ"
+    },
+    "_filFaq": {
+        "EN": "Fill in all the details",
+        "RU": "Заполните все данные",
+        "UA": "Заповніть усі дані"
+    },
+    "_idFaq": {
+        "EN": "ID is not a number",
+        "RU": "ID не число",
+        "UA": "ID не число"
+    },
+    "_deletedFaq": {
+        "EN": "Question deleted",
+        "RU": "Вопрос удален",
+        "UA": "Питання видалено"
+    },
+    "_idNotFound": {
+        "EN": "ID not found",
+        "RU": "ID не найден",
+        "UA": "ID не знайдено"
+    },
+    "_dialogConfirm": {
+        "EN": "Confirmation of action",
+        "RU": "Подтверждение действия",
+        "UA": "Підтвердження дії"
+    },
+    "_dialogDelete": {
+        "EN": "Are you sure you want to delete this question?",
+        "RU": "Вы уверены, что хотите удалить этот вопрос?",
+        "UA": "Ви впевнені, що хочете видалити це питання?"
+    },
+    "_dialogNo": {
+        "EN": "No",
+        "RU": "Нет",
+        "UA": "Нi"
+    },
+    "_editingFaq": {
+        "EN": "Editing a question and answer",
+        "RU": "Редактирование вопрос-ответа",
+        "UA": "Редагування питання-відповіді"
+    },
+    "_editFaq": {
+        "EN": "Edit FAQ",
+        "RU": "Изменить FAQ",
+        "UA": "Змінити FAQ"
+    }
+}

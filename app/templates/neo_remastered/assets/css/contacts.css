@@ -1,0 +1,95 @@
+.contact_modal {
+  display: none;
+  position: fixed;
+  z-index: 9998;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: var(--bg-modal);
+  pointer-events: auto;
+}
+
+.contact_modal-content {
+  display: flex;
+  background-color: var(--card);
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  border: 1px solid var(--transparent-2-w);
+  width: 80%;
+  border-radius: var(--br-16);
+  max-width: 400px;
+  position: relative;
+  flex-direction: column;
+  z-index: 9999;
+  gap: 15px;
+  left: 50%;
+  top: 50%;
+}
+
+.contact_close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.contact_close svg {
+  width: 20px;
+  height: 20px;
+  fill: var(--text-default);
+  opacity: 0.5;
+  transition: var(--transition-duration);
+}
+
+.contact_close:hover svg {
+  opacity: 1;
+}
+
+.contact_close:hover,
+.contact_close:focus {
+  color: var(--text-default);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.contact_link {
+  cursor: pointer;
+  color: var(--text-custom);
+  transition: var(--transition-duration);
+}
+
+.contact_link:hover {
+  color: var(--span);
+}
+
+.contact_head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-7);
+}
+
+.contact_body {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+.contact_body span {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: var(--text-default);
+  font-size: var(--font-size-m);
+  flex-direction: column;
+}
+
+.contact_mail a {
+  font-size: var(--font-size-l);
+  font-weight: var(--font-weight-7);
+  font-family: var(--font-family-1);
+}

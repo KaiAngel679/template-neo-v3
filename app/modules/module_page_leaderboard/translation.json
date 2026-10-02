@@ -1,0 +1,137 @@
+{
+    "_Experience": {
+        "RU": "Опыт",
+        "EN": "Experience",
+        "UA": "Досвід"
+    },
+    "_Played": {
+        "RU": "Наиграл",
+        "EN": "Played",
+        "UA": "Награв"
+    },
+    "_KilHead": {
+        "RU": "В голову",
+        "EN": "HS",
+        "UA": "В голову"
+    },
+    "_YourStats": {
+        "RU": "Ваша статистика",
+        "EN": "Your statistics",
+        "UA": "Ваша статистика"
+    },
+    "_hello": {
+        "RU": "Привет, ",
+        "EN": "Hello, ",
+        "UA": "Привіт, "
+    },
+    "_yourGameStat": {
+        "RU": "Это твоя игровая статистика",
+        "EN": "These are your game statistics.",
+        "UA": "Це твоя ігрова статистика, "
+    },
+    "_place": {
+        "RU": "Место",
+        "EN": "Place",
+        "UA": "Місце"
+    },
+    "_points": {
+        "RU": "Очков",
+        "EN": "Points",
+        "UA": "Окулярів"
+    },
+    "_kills": {
+        "RU": "Убийств",
+        "EN": "Kills",
+        "UA": "Вбивств"
+    },
+    "_deaths": {
+        "RU": "Смертей",
+        "EN": "Deaths",
+        "UA": "Смерть"
+    },
+    "_inHead": {
+        "RU": "В голову",
+        "EN": "In the head",
+        "UA": "В голову"
+    },
+    "_guest": {
+        "RU": "Гость",
+        "EN": "Guest",
+        "UA": "Гість"
+    },
+    "_haventPlay": {
+        "RU": "Вы еще не играли на этом сервере",
+        "EN": "You haven't played on this server yet.",
+        "UA": "Ви ще не грали на цьому сервері"
+    },
+    "_logIn": {
+        "RU": "Войдите в аккаунт, чтобы получить доступ к быстрому просмотру личной статистики на серверах",
+        "EN": "Log in to your account to get access to a quick view of your personal statistics on servers",
+        "UA": "Увійдіть до облікового запису, щоб отримати доступ до швидкого перегляду особистої статистики на серверах"
+    },
+    "_sortBy": {
+        "RU": "Отсортировать по:",
+        "EN": "Sort by:",
+        "UA": "Сортувати за:"
+    },
+    "_gamePoints": {
+        "RU": "Игровым очкам",
+        "EN": "Game points",
+        "UA": "Ігровим окулярам"
+    },
+    "_numbersKills": {
+        "RU": "Количеству убийств",
+        "EN": "Number of kills",
+        "UA": "Кількості вбивств"
+    },
+    "_numbersDeaths": {
+        "RU": "Количеству смертей",
+        "EN": "Number of deaths",
+        "UA": "Кількість смертей"
+    },
+    "_killsHead": {
+        "RU": "Убийствам в голову",
+        "EN": "Kills in the head",
+        "UA": "Вбивствам на думку"
+    },
+    "_playedTime": {
+        "RU": "Наигранному времени",
+        "EN": "Played out time",
+        "UA": "Награний час"
+    },
+    "_lastSession": {
+        "RU": "Последней сессии",
+        "EN": "Last session",
+        "UA": "Остання сесія"
+    },
+    "_reset": {
+        "RU": "Сбросить фильтр",
+        "EN": "Reset filter",
+        "UA": "Скинути фільтр"
+    },
+    "_noDataLeaderboard": {
+        "RU": "В таблице лидеров нет данных.",
+        "EN": "There is no data in the leaderboard.",
+        "UA": "У таблиці лідерів немає даних."
+    },
+    "_Server_Not_Found" : {
+        "RU": "Сервер не найден",
+        "EN": "Server not found",
+        "UA": "Сервер не знайдено"
+    },
+    "_other" : {
+        "RU": "Другое",
+        "EN": "Other",
+        "UA": "Інше"
+    },
+    "_clear_banned" : {
+        "RU": "Скрыть забаненных",
+        "EN": "Hide banned",
+        "UA": "Приховати забанених"
+    },
+    "_bannedPlayer" : {
+        "RU": "Забаненый игрок",
+        "EN": "Banned player",
+        "UA": "Забанений гравець"
+    }
+}

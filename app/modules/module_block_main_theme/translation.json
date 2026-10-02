@@ -1,0 +1,442 @@
+{
+  "_theme_not_found": {
+    "RU": "Тема не найдена",
+    "EN": "Theme not found",
+    "UA": "Тему не знайдено"
+  },
+  "_theme_changed": {
+    "RU": "Тема изменена",
+    "EN": "Theme changed",
+    "UA": "Тему змінено"
+  },
+  "_theme_change_error": {
+    "RU": "Ошибка при смене темы",
+    "EN": "Error changing theme",
+    "UA": "Помилка при зміні теми"
+  },
+  "_theme_restored": {
+    "RU": "Тема восстановлена",
+    "EN": "Theme restored",
+    "UA": "Тему відновлено"
+  },
+  "_theme_restore_error": {
+    "RU": "Ошибка при восстановлении темы",
+    "EN": "Error restoring theme",
+    "UA": "Помилка при відновленні теми"
+  },
+  "_reset_theme": {
+    "RU": "Сбросить тему",
+    "EN": "Reset theme",
+    "UA": "Скинути тему"
+  },
+  "_apply_theme": {
+    "RU": "Использование готовой темы",
+    "EN": "Use a ready-made theme",
+    "UA": "Використати готову тему"
+  },
+  "_apply_theme_message": {
+    "RU": "Вы уверены, что хотите применить эту тему?",
+    "EN": "Are you sure you want to apply this theme?",
+    "UA": "Ви впевнені, що хочете застосувати цю тему?"
+  },
+  "_apply_theme_confirm": {
+    "RU": "Применить",
+    "EN": "Apply",
+    "UA": "Застосувати"
+  },
+  "_reset_theme_confirm": {
+    "RU": "Вы уверены, что хотите сбросить тему на значение по умолчанию?",
+    "EN": "Are you sure you want to reset the theme to the default value?",
+    "UA": "Ви впевнені, що хочете скинути тему до значення за замовчуванням?"
+  },
+  "_cancel": {
+    "RU": "Отмена",
+    "EN": "Cancel",
+    "UA": "Скасувати"
+  },
+  "_change": {
+    "RU": "Изменить тему",
+    "EN": "Change theme",
+    "UA": "Змінити тему"
+  },
+  "_changing": {
+    "RU": "Измение темы",
+    "EN": "Change theme",
+    "UA": "Зміна теми"
+  },
+  "_palette": {
+    "RU": "Палитра",
+    "EN": "Palette",
+    "UA": "Палітра"
+  },
+  "_themes": {
+    "RU": "Темы",
+    "EN": "Themes",
+    "UA": "Теми"
+  },
+  "_bg": {
+    "RU": "Фон",
+    "EN": "Background",
+    "UA": "Фон"
+  },
+  "_primary": {
+    "RU": "Основной цвет",
+    "EN": "Primary color",
+    "UA": "Основний колір"
+  },
+  "_shadesPrimary": {
+    "RU": "Оттенки",
+    "EN": "Shades",
+    "UA": "Відтінки"
+  },
+  "_textDefault": {
+    "RU": "Стандартный текст",
+    "EN": "Default text",
+    "UA": "Стандартний текст"
+  },
+  "_textInversion": {
+    "RU": "Инверсия текста",
+    "EN": "Text inversion",
+    "UA": "Інверсія тексту"
+  },
+  "_textCustom": {
+    "RU": "Кастомный текст",
+    "EN": "Custom text",
+    "UA": "Кастомний текст"
+  },
+  "_textSecondary": {
+    "RU": "Второстепенный текст",
+    "EN": "Secondary text",
+    "UA": "Другий текст"
+  },
+  "_money": {
+    "RU": "Денежный цвет",
+    "EN": "Money color",
+    "UA": "Грошовий колір"
+  },
+  "_moneyShade": {
+    "RU": "Оттенок",
+    "EN": "Shade",
+    "UA": "Відтінок"
+  },
+  "_bgSite": {
+    "RU": "Фон сайта",
+    "EN": "Website background",
+    "UA": "Фон сайту"
+  },
+  "_card": {
+    "RU": "Карточка",
+    "EN": "Card",
+    "UA": "Картка"
+  },
+  "_tooltip": {
+    "RU": "Подсказка, тултип",
+    "EN": "Toolltip",
+    "UA": "Підказка, тултіп"
+  },
+  "_bgModal": {
+    "RU": "Фон модального окна",
+    "EN": "Modal background",
+    "UA": "Фон модального вікна"
+  },
+  "_inputs": {
+    "RU": "Поля ввода",
+    "EN": "Input fields",
+    "UA": "Поля вводу"
+  },
+  "_disabledButton": {
+    "RU": "Отключенная кнопка",
+    "EN": "Disabled button",
+    "UA": "Відключена кнопка"
+  },
+  "_button": {
+    "RU": "Кнопка",
+    "EN": "Button",
+    "UA": "Кнопка"
+  },
+  "_buttonHover": {
+    "RU": "Кнопка с наведением",
+    "EN": "Button on hover",
+    "UA": "Кнопка з наведенням"
+  },
+  "_nothing": {
+    "RU": "Ничего",
+    "EN": "Nothing",
+    "UA": "Нічого"
+  },
+  "_bgColor": {
+    "RU": "При этом режиме будет виден только цвет фона сайта из палитры",
+    "EN": "In this mode, only the website background color from the palette will be visible",
+    "UA": "У цьому режимі буде видно тільки колір фону сайту з палітри"
+  },
+  "_image": {
+    "RU": "Своё изображение",
+    "EN": "Your own image",
+    "UA": "Своє зображення"
+  },
+  "_ratio": {
+    "RU": "Рекомендуем загружать изображения с пропорциями 16:9",
+    "EN": "We recommend uploading images with a 16:9 aspect ratio",
+    "UA": "Рекомендуємо завантажувати зображення з пропорціями 16:9"
+  },
+  "_selectImage": {
+    "RU": "Файл",
+    "EN": "File",
+    "UA": "Файл"
+  },
+  "_gradient": {
+    "RU": "Градиент",
+    "EN": "Gradient",
+    "UA": "Градієнт"
+  },
+  "_gradientText": {
+    "RU": "С хорошо подобранным цветом/оттенком фона сайта градиенты будут выглядеть лучше, чем просто на черном фоне. Не забудьте настроить цвета остальных элементов, потому что серые элементы плохо смотрятся с градиентами",
+    "EN": "With a well-chosen color/shade of the website background, gradients will look better than just on a black background. Don't forget to adjust the colors of other elements, as gray elements look bad with gradients",
+    "UA": "З добре підібраним кольором/відтінком фону сайту градієнти будуть виглядати краще, ніж просто на чорному фоні. Не забудьте налаштувати кольори інших елементів, тому що сірі елементи погано виглядають з градієнтами"
+  },
+  "_0deg": {
+    "RU": "Вертикальный снизу вверх",
+    "EN": "Vertical from bottom to top",
+    "UA": "Вертикальний знизу вгору"
+  },
+  "_diagonal": {
+    "RU": "Диагональный мягкий",
+    "EN": "Diagonal soft",
+    "UA": "Діагональний м'який"
+  },
+  "_180deg": {
+    "RU": "Вертикальный сверху вниз",
+    "EN": "Vertical from top to bottom",
+    "UA": "Вертикальний зверху вниз"
+  },
+  "_radialCenter": {
+    "RU": "Радиальный акцент из центра",
+    "EN": "Radial accent from the center",
+    "UA": "Радіальний акцент з центру"
+  },
+  "_radialSide": {
+    "RU": "Радиальный боковой",
+    "EN": "Radial side",
+    "UA": "Радіальний боковий"
+  },
+  "_stripes": {
+    "RU": "Повторяющийся градиент-полосы",
+    "EN": "Repeating gradient-stripes",
+    "UA": "Повторюваний градієнт-смуги"
+  },
+  "_mixed": {
+    "RU": "Смешанный многослойный",
+    "EN": "Mixed multi-layered",
+    "UA": "Змішаний багатошаровий"
+  },
+  "_halftone": {
+    "RU": "Полутоновые слои",
+    "EN": "Halftone layers",
+    "UA": "Півтонові шари"
+  },
+  "_diagonalOnly": {
+    "RU": "Диагональный",
+    "EN": "Diagonal",
+    "UA": "Діагональний"
+  },
+  "_threeMixed": {
+    "RU": "Трёхточечный смешанный",
+    "EN": "Three-point mixed",
+    "UA": "Трьохточковий змішаний"
+  },
+  "_radialSoft": {
+    "RU": "Мягкий радиальный",
+    "EN": "Soft radial",
+    "UA": "М'який радіальний"
+  },
+  "_metallic": {
+    "RU": "Металлический",
+    "EN": "Metallic",
+    "UA": "Металевий"
+  },
+  "_starsOnly": {
+    "RU": "Звезды",
+    "EN": "Stars",
+    "UA": "Зірки"
+  },
+  "_starsOnlyInfo": {
+    "RU": "При этом режиме будет виден только цвет фона сайта из палитры и анимированное звездное небо",
+    "EN": "In this mode, only the website background color from the palette and an animated starry sky will be visible",
+    "UA": "У цьому режимі буде видно тільки колір фону сайту з палітри та анімоване зоряне небо"
+  },
+  "_stars": {
+    "RU": "Цвет звезд",
+    "EN": "Star color",
+    "UA": "Колір зірок"
+  },
+  "_starsGradient": {
+    "RU": "Звезды + градиент",
+    "EN": "Stars + gradient",
+    "UA": "Зірки + градієнт"
+  },
+  "_apply": {
+    "RU": "Применить",
+    "EN": "Apply",
+    "UA": "Застосувати"
+  },
+  "_reset": {
+    "RU": "Сброс",
+    "EN": "Reset",
+    "UA": "Скинути"
+  },
+  "_saveTheme": {
+    "RU": "Сохранить как новую тему",
+    "EN": "Save as new theme",
+    "UA": "Зберегти як нову тему"
+  },
+  "_noThemes": {
+    "RU": "Темы отсутствуют",
+    "EN": "No themes available",
+    "UA": "Теми відсутні"
+  },
+  "_createdThemes": {
+    "RU": "Созданные вами темы",
+    "EN": "Your created themes",
+    "UA": "Створені вами теми"
+  },
+  "_readyThemes": {
+    "RU": "Готовые темы",
+    "EN": "Ready-made themes",
+    "UA": "Готові теми"
+  },
+  "_theme_1": {
+    "RU": "Лавандовый закат",
+    "EN": "Lavender Sunset",
+    "UA": "Лавандовий захід"
+  },
+  "_theme_2": {
+    "RU": "Багровое сияние",
+    "EN": "Crimson Glow",
+    "UA": "Багряне сяйво"
+  },
+  "_theme_3": {
+    "RU": "Изумрудный лес",
+    "EN": "Emerald Forest",
+    "UA": "Смарагдовий ліс"
+  },
+  "_theme_4": {
+    "RU": "Янтарный очаг",
+    "EN": "Amber Hearth",
+    "UA": "Бурштиновий вогнище"
+  },
+  "_theme_5": {
+    "RU": "Забвение",
+    "EN": "Oblivion",
+    "UA": "Забуття"
+  },
+  "_theme_6": {
+    "RU": "Полуночный пульс",
+    "EN": "Midnight Pulse",
+    "UA": "Північний пульс"
+  },
+  "_theme_7": {
+    "RU": "Темное цветение",
+    "EN": "Dark bloom",
+    "UA": "Темне цвітіння"
+  },
+  "_theme_8": {
+    "RU": "Синий инферно",
+    "EN": "Blue Inferno",
+    "UA": "Синій інферно"
+  },
+  "_theme_9": {
+    "RU": "Бархатное цветение",
+    "EN": "Velvet Bloom",
+    "UA": "Бархатне цвітіння"
+  },
+  "_theme_10": {
+    "RU": "Тема 10",
+    "EN": "Theme 10",
+    "UA": "Тему 10"
+  },
+  "_theme_number": {
+    "RU": "Тема №",
+    "EN": "Theme №",
+    "UA": "Тема №"
+  },
+  "_palette_number": {
+    "RU": "Палитра №",
+    "EN": "Palette №",
+    "UA": "Палітра №"
+  },
+  "_theme_saved": {
+    "RU": "Тема сохранена",
+    "EN": "Theme saved",
+    "UA": "Тему збережено"
+  },
+  "_theme_save_error": {
+    "RU": "Ошибка при сохранении темы",
+    "EN": "Error saving theme",
+    "UA": "Помилка при збереженні теми"
+  },
+  "_palette_saved": {
+    "RU": "Палитра сохранена",
+    "EN": "Palette saved",
+    "UA": "Палітру збережено"
+  },
+  "_palette_save_error": {
+    "RU": "Ошибка при сохранении палитры",
+    "EN": "Error saving palette",
+    "UA": "Помилка при збереженні палітри"
+  },
+  "_delete_theme": {
+    "RU": "Удалить тему?",
+    "EN": "Delete theme?",
+    "UA": "Видалити тему?"
+  },
+  "_delete_theme_message": {
+    "RU": "Вы уверены, что хотите удалить эту тему?",
+    "EN": "Are you sure you want to delete this theme?",
+    "UA": "Ви впевнені, що хочете видалити цю тему?"
+  },
+  "_delete": {
+    "RU": "Удалить",
+    "EN": "Delete",
+    "UA": "Видалити"
+  },
+  "_theme_not_found_delete": {
+    "RU": "Тема не найдена или вы не можете её удалить",
+    "EN": "Theme not found or you cannot delete it",
+    "UA": "Тему не знайдено або ви не можете її видалити"
+  },
+  "_theme_deleted": {
+    "RU": "Тема удалена",
+    "EN": "Theme deleted",
+    "UA": "Тему видалено"
+  },
+  "_theme_delete_error": {
+    "RU": "Ошибка при удалении темы",
+    "EN": "Error deleting theme",
+    "UA": "Помилка при видаленні теми"
+  },
+  "_emptyImages": {
+    "RU": "Изображение не выбрано",
+    "EN": "No image selected",
+    "UA": "Зображення не вибрано"
+  },
+  "_errorUpload": {
+    "RU": "Ошибка при загрузке изображения",
+    "EN": "Error uploading image",
+    "UA": "Помилка при завантаженні зображення"
+  },
+  "_errorWritingFile": {
+    "RU": "Ошибка при записи файла",
+    "EN": "Error writing file",
+    "UA": "Помилка при записі файлу"
+  },
+  "_backgroundSaved": {
+    "RU": "Фон сохранен",
+    "EN": "Background saved",
+    "UA": "Фон збережено"
+  },
+  "_colors_changed": {
+    "RU": "Цвета темы изменены",
+    "EN": "Theme colors changed",
+    "UA": "Кольори теми змінено"
+  }
+}

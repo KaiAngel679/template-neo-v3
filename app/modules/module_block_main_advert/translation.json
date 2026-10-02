@@ -1,0 +1,133 @@
+{
+    "_exampleTitle": {
+        "EN": "There could be a banner here",
+        "RU": "Здесь мог бы быть баннер",
+        "UA": "Тут міг би бути банер"
+    },
+    "_exampleDescription": {
+        "EN": "Banner Description",
+        "RU": "Описание баннера",
+        "UA": "Опис банера"
+    },
+    "_addingBanner": {
+        "EN": "Adding a banner",
+        "RU": "Добавление баннера",
+        "UA": "Додавання банера"
+    },
+    "_editingBanner": {
+        "EN": "Changing the banner",
+        "RU": "Изменение баннера",
+        "UA": "Зміна банера"
+    },
+    "_link": {
+        "EN": "Link",
+        "RU": "Ссылка",
+        "UA": "Посилання"
+    },
+    "_linkPlaceholder": {
+        "EN": "Specify a link for the banner",
+        "RU": "Укажите ссылку для баннера",
+        "UA": "Вкажіть посилання для банера"
+    },
+    "_mainText": {
+        "EN": "Main text",
+        "RU": "Основной текст",
+        "UA": "Основний текст"
+    },
+    "_mainTextPlaceholder": {
+        "EN": "Specify the main text of the banner",
+        "RU": "Укажите основной текст баннера",
+        "UA": "Вкажіть основний текст банера"
+    },
+    "_mainTextColor": {
+        "EN": "Primary text color",
+        "RU": "Цвет основного текста",
+        "UA": "Колір основного тексту"
+    },
+    "_additionalText": {
+        "EN": "Additional text",
+        "RU": "Дополнительный текст",
+        "UA": "Додатковий текст"
+    },
+    "_additionalTextPlaceholder": {
+        "EN": "Please provide additional banner text",
+        "RU": "Укажите дополнительный текст баннера",
+        "UA": "Вкажіть додатковий текст банера"
+    },
+    "_additionalTextColor": {
+        "EN": "Additional text color",
+        "RU": "Цвет дополнительного текста",
+        "UA": "Колір додаткового тексту"
+    },
+    "_initialBgColor": {
+        "EN": "Initial background color",
+        "RU": "Начальный цвет фона",
+        "UA": "Початковий колір тла"
+    },
+    "_finalBgColor": {
+        "EN": "Final background color",
+        "RU": "Конечный цвет фона",
+        "UA": "Кінцевий колір тла"
+    },
+    "_selectImage": {
+        "EN": "Select image",
+        "RU": "Выберите изображение",
+        "UA": "Виберіть зображення"
+    },
+    "_CreateBanner": {
+        "EN": "Create a banner",
+        "RU": "Создать баннер",
+        "UA": "Створити банер"
+    },
+    "_editBanner": {
+        "EN": "Change banner",
+        "RU": "Изменить баннер",
+        "UA": "Змінити банер"
+    },
+    "_ChangeBanner": {
+        "EN": "Change banner",
+        "RU": "Изменить баннер",
+        "UA": "Змінити банер"
+    },
+    "_notAllDataIsFilledIn": {
+        "EN": "Not all data is filled in!",
+        "RU": "Не все данные заполнены!",
+        "UA": "Не всі дані заповнені!"
+    },
+    "_errorSavingFile": {
+        "EN": "Error saving file",
+        "RU": "Ошибка при сохранении файла",
+        "UA": "Помилка збереження файлу"
+    },
+    "_invalidFileFormatOrSize": {
+        "EN": "Invalid file format or size",
+        "RU": "Недопустимый формат или размер файла",
+        "UA": "Неприпустимий формат або розмір файлу"
+    },
+    "_successfully": {
+        "EN": "Successfully",
+        "RU": "Успешно",
+        "UA": "Успішно"
+    },
+    "_delete_banner": {
+        "EN": "Delete banner?",
+        "RU": "Удалить баннер?",
+        "UA": "Видалити банер?"
+    },
+    "_confirm_text_delete_banner": {
+        "EN": "Are you sure you want to remove the banner?",
+        "RU": "Вы действительно хотите удалить баннер?",
+        "UA": "Ви дійсно бажаєте видалити банер?"
+    },
+    "_sorted": {
+        "EN": "Are you sure you want to remove the banner?",
+        "RU": "Вы действительно хотите удалить баннер?",
+        "UA": "Ви дійсно бажаєте видалити банер?"
+    },
+    "_fileNotImage": {
+        "EN": "File not selected or not an image",
+        "RU": "Файл не выбран или не является изображением",
+        "UA": "Файл не вибраний або не є зображенням"
+    }
+    
+}

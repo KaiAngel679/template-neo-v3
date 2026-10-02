@@ -1,0 +1,688 @@
+/* @import '/app/modules/module_page_results/assets/css/vanilla-calendar.min.css'; */
+@import 'https://cdn.jsdelivr.net/npm/vanilla-calendar-pro/styles/index.css';
+
+.results__filters {
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+.adaptive-select-wrapper {
+    margin-bottom: 0;
+}
+
+.results__wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: .5rem;
+    margin-block: 1rem;
+}
+
+.results__block {
+    border-radius: var(--br-12);
+    display: grid;
+    padding: 1rem;
+    background-color: var(--card);
+    cursor: pointer;
+    transition: var(--transition-duration);
+    position: relative;
+    align-items: center;
+}
+
+.results__block:hover {
+    background-color: var(--input-form);
+}
+
+.results__block.new:before {
+    content: 'New';
+    position: absolute;
+    left: 1rem;
+    top: -8px;
+    background-color: var(--span);
+    color: var(--text-default);
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-5);
+    padding: .1rem .4rem;
+    border-radius: var(--br-5);
+    z-index: 1;
+}
+
+.results__block.new::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border: 2px solid var(--span);
+    border-top-left-radius: var(--br-12);
+    pointer-events: none;
+    mask-image: radial-gradient(circle at top left,
+            black 0,
+            black 20px,
+            transparent 80px),
+        linear-gradient(black, black);
+    mask-composite: intersect;
+}
+
+.results__block.new .results__shadow {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: var(--br-12);
+    background-image: linear-gradient(157deg, color-mix(in srgb, var(--span) 50%, transparent), transparent, transparent);
+    z-index: 0;
+    pointer-events: none;
+}
+
+.results__block span {
+    font-size: var(--font-size-l);
+    font-weight: var(--font-weight-7);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.results__block small {
+    color: var(--text-secondary);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.results__subtitle {
+    font-size: var(--font-size-m);
+    color: var(--text-custom);
+}
+
+.results__info {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
+
+.results__no {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: color-mix(in srgb, var(--red) 10%, transparent);
+    border-radius: var(--br-50);
+    width: 2rem;
+    height: 2rem;
+}
+
+.results__no svg {
+    fill: var(--red);
+}
+
+.results__yes {
+    color: var(--money);
+    background-color: var(--money-bg);
+    padding: .3rem .6rem;
+    border-radius: var(--br-12);
+    font-size: var(--font-size-s);
+    font-weight: var(--font-weight-7);
+}
+
+.results__taken {
+    color: var(--green);
+    background-color: color-mix(in srgb, var(--green) 10%, transparent);
+}
+
+.results__admin {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    align-items: center;
+    gap: .5rem;
+    background-color: var(--span);
+    color: var(--text-default);
+    width: max-content;
+    padding: .3rem .5rem;
+    border-radius: var(--br-4);
+    border: 1px solid var(--transparent-3-w);
+}
+
+.results__admin a {
+    color: inherit;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    ьфч-ц width: 9rem;
+    max-width: 8rem;
+}
+
+.results__admin svg {
+    width: .8rem;
+    height: .8rem;
+    cursor: pointer;
+}
+
+.results__time {
+    display: flex;
+    flex-direction: column;
+}
+
+.results__time span {
+    font-weight: var(--font-weight-7);
+}
+
+.results__time-verdict {
+    font-size: var(--font-size-s);
+    color: var(--text-secondary);
+}
+
+.not-completed {
+    color: var(--orange);
+}
+
+.completed {
+    color: var(--green);
+}
+
+.results__header-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-block: .5rem;
+}
+
+.result__back {
+    display: flex;
+    align-items: center;
+    gap: .3rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+}
+
+.result__back svg {
+    width: .8rem;
+    height: .8rem;
+    fill: currentColor;
+}
+
+.ai__modal {
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+
+.ai__admins {
+    margin-top: 1rem;
+}
+
+.results__title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+
+.results__status {
+    display: flex;
+    align-items: center;
+    gap: .3rem;
+    font-size: var(--font-size-s);
+    color: var(--orange);
+    z-index: 1;
+}
+
+.results__status.completed {
+    color: var(--green);
+}
+
+.results__status svg {
+    width: .8rem;
+    height: .8rem;
+    fill: currentColor;
+}
+
+.reason__info-noty {
+    padding: 1rem;
+    border: 1px dashed var(--text-secondary);
+    border-radius: var(--br-12);
+    color: var(--text-custom);
+    margin-bottom: 1rem;
+    max-width: 28rem;
+    font-size: var(--font-size-m);
+}
+
+.results__filter-label {
+    font-size: var(--font-size-m);
+    color: var(--text-secondary);
+    font-weight: var(--font-weight-5);
+    margin-bottom: .5rem;
+}
+
+#VanillaCalendar {
+    margin-block: .5rem;
+    background-color: var(--input-form);
+    border: 1px solid var(--transparent-4-w);
+    overflow: hidden;
+    min-width: unset;
+}
+
+.results__sorting {
+    display: flex;
+    flex-direction: column;
+}
+
+.table-filter {
+    display: flex;
+    align-items: center;
+    gap: .3rem;
+    cursor: pointer;
+}
+
+th.active {
+    color: var(--span);
+    opacity: 1;
+}
+
+th.active.rotated .table-filter svg {
+    transform: scaleX(-1);
+}
+
+.table-filter svg {
+    width: .8rem;
+    height: .8rem;
+    transition: transform .2s ease;
+}
+
+.apexcharts-canvas svg {
+    width: unset;
+    height: unset;
+}
+
+.apexcharts-legend {
+    overflow: unset !important;
+    margin-block: 1rem;
+    background-color: var(--input-form);
+    padding: .5rem !important;
+    border-radius: var(--br-7);
+}
+
+.results__calendare-height {
+    min-height: 17.538rem;
+}
+
+.apexchatr__content {
+    min-width: 50vw;
+}
+
+.apexchatr__info-noty {
+    max-width: unset;
+}
+
+.apexcharts-legend-series {
+    justify-content: center;
+    flex: 1;
+    gap: .3rem;
+}
+
+.apexcharts-legend-text {
+    font-size: var(--font-size-m) !important;
+    font-family: var(--font-family-2) !important;
+}
+
+[data-vc-theme=dark] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--input-form);
+    color: var(--text-secondary);
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-month=prev] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-today][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-today][data-vc-date-month=prev] .vc-date__btn {
+    color: color-mix(in srgb, var(--text-default) 10%, transparent);
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-month=prev] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-month=prev] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--transparent-3-w);
+    color: var(--text-default);
+}
+
+@media (hover: hover) and (pointer: fine) {
+    [data-vc-theme=dark] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--transparent-10-w);
+        color: var(--text-default);
+    }
+}
+
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend] .vc-date__btn {
+    color: var(--span);
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--span-middle);
+    }
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-selected] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-selected] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--span);
+    color: #fff;
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-hover=first] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-hover=last] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--transparent-10-w);
+    }
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-today] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-today] .vc-date__btn {
+    color: var(--span);
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-hover] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--transparent-10-w);
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-hover] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-hover] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--span);
+    color: var(--text-default);
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-selected] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-selected] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--span);
+        color: #fff;
+    }
+}
+
+[data-vc-theme=dark] .vc-week__day[data-vc-week-day-off] {
+    color: var(--span);
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-selected] .vc-date__btn {
+    background-color: var(--transparent-10-w);
+    --tw-bg-opacity: 0.8;
+    color: #fff;
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-selected] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--transparent-10-w);
+    color: #fff;
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-holiday][data-vc-date-selected] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-weekend][data-vc-date-selected] .vc-date__btn {
+    background-color: var(--span);
+    --tw-bg-opacity: 0.8;
+    color: #fff;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-selected] .vc-date__btn:hover {
+        background-color: var(--transparent-20-w);
+        --tw-bg-opacity: 0.8;
+        color: #fff;
+    }
+}
+
+@media (hover: hover) and (pointer: fine) {
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--transparent-20-w);
+        color: #fff;
+    }
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-holiday][data-vc-date-selected] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-weekend][data-vc-date-selected] .vc-date__btn:hover {
+        background-color: var(--span-half);
+        --tw-bg-opacity: 0.8;
+        color: #fff;
+    }
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-month=next] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-month=prev] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-month=next] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-month=prev] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--transparent-10-w);
+        color: var(--text-default);
+    }
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-month=next][data-vc-date-selected] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-month=prev][data-vc-date-selected] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--transparent-5-w);
+    color: var(--text-secondary);
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-today] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--span);
+    color: var(--text-default) !important;
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-holiday][data-vc-date-month=next][data-vc-date-selected] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-holiday][data-vc-date-month=prev][data-vc-date-selected] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-weekend][data-vc-date-month=next][data-vc-date-selected] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-weekend][data-vc-date-month=prev][data-vc-date-selected] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--transparent-2-w);
+    color: var(--text-secondary);
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-holiday][data-vc-date-month=next][data-vc-date-selected] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-holiday][data-vc-date-month=prev][data-vc-date-selected] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-weekend][data-vc-date-month=next][data-vc-date-selected] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-weekend][data-vc-date-month=prev][data-vc-date-selected] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--transparent-3-w);
+        color: var(--text-secondary);
+    }
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-selected][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-selected][data-vc-date-month=prev] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-selected][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-selected][data-vc-date-month=prev] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--span-10);
+    color: var(--span);
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-selected][data-vc-date-month=next] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-selected][data-vc-date-month=prev] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-selected][data-vc-date-month=next] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-selected][data-vc-date-month=prev] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--span-middle);
+        color: var(--span);
+    }
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-hover=first] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-hover=last] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-hover=first] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-hover=last] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--span-middle);
+    }
+}
+
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-hover][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-holiday][data-vc-date-hover][data-vc-date-month=prev] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-hover][data-vc-date-month=next] .vc-date__btn,
+[data-vc-theme=dark] .vc-date[data-vc-date-weekend][data-vc-date-hover][data-vc-date-month=prev] .vc-date__btn {
+    --tw-bg-opacity: 1;
+    background-color: var(--span-middle);
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-month=next][data-vc-date-selected] .vc-date__btn:hover,
+    [data-vc-theme=dark] .vc-date[data-vc-date-selected=middle][data-vc-date-month=prev][data-vc-date-selected] .vc-date__btn:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--transparent-10-w);
+        color: var(--text-default);
+    }
+}
+
+[data-vc-theme=dark] .vc-arrow {
+    background-color: transparent;
+    border: unset;
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-month:hover,
+    [data-vc-theme=dark] .vc-year:hover {
+        color: var(--span);
+        background-color: transparent;
+    }
+}
+
+[data-vc-theme=dark] .vc-header__content:focus,
+[data-vc-theme=dark] .vc-month:focus,
+[data-vc-theme=dark] .vc-year:focus {
+    border: none !important;
+}
+
+[data-vc-theme=dark] .vc-months__month,
+[data-vc-theme=dark] .vc-years__year {
+    --tw-bg-opacity: 1;
+    background-color: var(--button);
+    color: var(--text-secondary);
+    padding-inline: .5rem;
+}
+
+[data-vc-theme=dark] .vc-months__month[data-vc-months-month-selected],
+[data-vc-theme=dark] .vc-years__year[data-vc-years-year-selected] {
+    --tw-bg-opacity: 1;
+    background-color: var(--span);
+    color: var(--text-default);
+}
+
+[data-vc-theme=dark] .vc-months__month,
+[data-vc-theme=dark] .vc-years__year {
+    --tw-bg-opacity: 1;
+    background-color: var(--button);
+    color: var(--text-secondary);
+    width: 100%;
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-months__month[data-vc-months-month-selected]:hover,
+    [data-vc-theme=dark] .vc-years__year[data-vc-years-year-selected]:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--span);
+        color: #fff;
+    }
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+    [data-vc-theme=dark] .vc-months__month:hover,
+    [data-vc-theme=dark] .vc-years__year:hover {
+        --tw-bg-opacity: 1;
+        background-color: var(--button-hover);
+        color: var(--text-custom);
+    }
+}
+
+[data-vc=months],
+[data-vc=years] {
+    align-items: center;
+    -moz-column-gap: .25rem;
+    column-gap: .25rem;
+    display: grid;
+    flex-grow: 1;
+    row-gap: .25rem;
+}
+
+[data-vc-theme=dark].vc [tabindex="0"]:focus-visible,
+[data-vc-theme=dark].vc button:focus-visible,
+[data-vc-theme=dark].vc:focus-visible {
+    outline-color: unset;
+}
+
+.tabs__buttons {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-direction: row;
+    background-color: var(--card);
+    width: 100%;
+    padding: .5rem;
+    border-radius: var(--br-16);
+    border: 1px solid var(--transparent-5-w);
+}
+
+[role="tab"],
+[role="tab"]:focus,
+[role="tab"]:hover {
+    width: unset;
+}
+
+[role="tab"][aria-selected="true"] {
+    background-color: var(--text-default);
+    color: var(--bg);
+    cursor: pointer;
+    transition: all 0.25s;
+    border: 1px solid transparent !important;
+}
+
+.tabs {
+    flex-direction: column;
+}
+
+[role="tabpanel"] {
+    padding: 0;
+    border: unset;
+    border-radius: 0;
+    background-color: transparent;
+    padding: unset;
+    min-height: unset;
+    width: unset;
+    transition: unset;
+    outline: unset;
+}
+
+.abs-select {
+    position: absolute;
+    top: .8rem;
+    right: 1rem;
+}

@@ -1,0 +1,20 @@
+{
+  "title": "NEO 3 - Cards",
+  "info": "Cards",
+  "author": "onevalve.ru",
+  "page": "cards",
+  "version": "1.0",
+  "setting": {
+    "status": 1,
+    "type": 1,
+    "translation": 1,
+    "interface_always": 1,
+    "data_always": 1,
+    "data": 1,
+    "js": 1,
+    "css": 1,
+    "js_always": 1,
+    "css_always": 1,
+    "interface": 1
+  }
+}

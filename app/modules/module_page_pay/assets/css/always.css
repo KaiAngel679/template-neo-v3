@@ -1,0 +1,397 @@
+.popup_balance_content {
+  display: flex;
+  gap: 15px;
+}
+
+@media (max-width: 1186.9px) {
+  .popup_balance_content {
+    display: flex;
+    flex-direction: column;
+    max-height: 80dvh;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding-right: .5rem;
+  }
+}
+
+.popub_balance_first,
+.popub_balance_second {
+  background: transparent;
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 1186.9px) {
+  .popub_balance_first,
+  .popub_balance_second {
+    width: 26rem;
+  }
+}
+
+.popup_pay_area {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.popup_balance_second_flex {
+  width: 100% !important;
+  display: flex;
+  flex-direction: column;
+}
+.popup_gateways {
+  display: none !important;
+  transition: var(--transition-duration-long) !important;
+}
+
+.popup_gateways-label {
+  position: relative;
+  width: 100% !important;
+  height: 100px !important;
+  background-color: var(--input-form);
+  outline: 1px solid var(--transparent-5-w);
+  display: flex !important;
+  border-radius: var(--br-12);
+  transition: var(--transition-duration-long) !important;
+  margin: 0 !important;
+  cursor: pointer !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.popup_gateways-label img {
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 60%;
+  height: auto;
+  z-index: 1;
+}
+
+input.popup_gateways:checked + label.popup_gateways-label:before {
+  content: "";
+  -webkit-animation: popup_check linear 0.3s;
+  animation: popup_check linear 0.3s;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  border-radius: var(--br-12);
+  background: linear-gradient(to top right, var(--span-middle), transparent);
+  height: 100%;
+  width: 100%;
+  outline: 1px solid var(--span-middle);
+}
+
+input.popup_gateways:checked + label.popup_gateways-label:after {
+  content: "\2713";
+  font-size: var(--font-size-s);
+  font-weight: var(--font-weight-5);
+  color: var(--span);
+  -webkit-animation: popup_check linear 0.3s;
+  animation: popup_check linear 0.3s;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  border-radius: var(--br-24);
+  background: var(--span-low);
+  height: 18px;
+  width: 18px;
+  padding-top: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 2px solid var(--span);
+}
+
+@-webkit-keyframes popup_check {
+  0% {
+    opacity: 0;
+    transition: var(--transition-duration-long);
+  }
+
+  50% {
+    opacity: 0.5;
+    transition: var(--transition-duration-long);
+  }
+
+  100% {
+    opacity: 1;
+    transition: var(--transition-duration-long);
+  }
+}
+
+@keyframes popup_check {
+  0% {
+    opacity: 0;
+    transition: var(--transition-duration-long);
+  }
+
+  50% {
+    opacity: 0.5;
+    transition: var(--transition-duration-long);
+  }
+
+  100% {
+    opacity: 1;
+    transition: var(--transition-duration-long);
+  }
+}
+
+.popup_pay_info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--transparent-2-w);
+  padding: 10px 20px;
+  border-radius: var(--br-12);
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+div#kass_img {
+  width: 80px;
+  height: auto;
+}
+
+.popup_pay_info::before {
+  content: "";
+  background-image: url(/../resources/img/pay/wallet.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: -39%;
+  left: 30%;
+  opacity: 0.5;
+  width: 200px;
+  height: 200px;
+  z-index: 0;
+  pointer-events: none;
+  filter: blur(2px);
+}
+
+.popup_pay_info_left {
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}
+
+.popup_title_text {
+  color: var(--text-custom);
+  font-size: var(--font-size-s);
+}
+
+.popup_pay_method {
+  color: var(--text-default);
+  font-size: var(--font-size-default);
+  font-weight: var(--font-weight-6);
+  font-family: var(--font-family-1);
+}
+
+.popup_column {
+  width: 100% !important;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.promoresult_st {
+  text-align: center;
+  background-color: rgb(100 206 130 / 10%);
+  padding: 0.3rem;
+  border-radius: var(--br-8);
+  color: var(--green);
+  font-size: var(--font-size-s);
+  font-weight: var(--font-weight-4);
+}
+
+.amount_st {
+  color: var(--green);
+  font-weight: var(--font-weight-7);
+  text-decoration: underline;
+  filter: brightness(1.2);
+}
+
+.popup_middle_line {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+@media (max-width: 1186.9px) {
+  .popup_middle_line {
+    display: none;
+  }
+}
+
+span.popup_line_top {
+  display: block;
+  height: 52%;
+  width: 1px;
+  background: var(--transparent-5-w);
+}
+
+span.popup_line_bottom {
+  display: block;
+  height: 52%;
+  width: 1px;
+  background: var(--transparent-5-w);
+}
+
+span.popup_arrow {
+  height: 13px;
+  position: relative;
+  width: 6px;
+  overflow: hidden;
+}
+
+.popup_arrow::before,
+.popup_arrow::after {
+  border-right: 1px solid var(--transparent-5-w);
+  content: "";
+  display: block;
+  height: 12px;
+  top: -3px;
+  position: absolute;
+  transform: rotate(135deg);
+  left: 2px;
+  width: 0;
+}
+
+.popup_arrow::after {
+  margin-top: 7px;
+  transform: rotate(45deg);
+}
+
+.popup_promo_list {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--transparent-5-w);
+  border-radius: var(--br-8);
+  padding: 3px;
+  gap: 2px;
+  min-height: var(--input-height);
+  justify-content: center;
+}
+
+.popup_current_promo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 0.5rem;
+  background: transparent;
+  cursor: pointer;
+  font-size: var(--font-size-s);
+  overflow: hidden;
+  color: var(--green);
+}
+
+.popup_current_promo svg {
+  width: 0.8rem;
+  height: 0.8rem;
+  fill: currentColor;
+}
+
+.popup_copybtn {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.popup_clear_promo {
+  display: flex !important;
+  position: absolute;
+  right: 0;
+  width: var(--input-height);
+  height: var(--input-height);
+  padding: 0;
+  font-size: var(--font-size-l);
+  font-weight: var(--font-weight-5);
+  align-items: center;
+  justify-content: center;
+  border-top-right-radius: var(--br-8);
+  border-bottom-right-radius: var(--br-8);
+  background-color: var(--button);
+  color: var(--text-custom);
+  cursor: pointer;
+  transition: var(--transition-duration);
+  backdrop-filter: blur(10px);
+  z-index: 2;
+}
+
+.popup_clear_promo svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  transition: var(--transition-duration);
+}
+
+.popup_clear_promo:hover {
+  background-color: var(--button-hover);
+  color: var(--text-default);
+}
+
+.popup_promo_area {
+  display: flex;
+  position: relative;
+  width: 100%;
+  align-items: center;
+}
+
+#promoresult {
+  margin-top: 0 !important;
+}
+
+.skintoggle {
+  display: flex;
+  flex-direction: column;
+}
+
+div#kass_img img {
+  width: 80px;
+  height: auto;
+}
+
+.pay_access {
+  height: max-content;
+  transition: 0.2s;
+}
+
+.pay_hide {
+  height: 0;
+  transition: height 2s ease-out;
+  overflow: hidden;
+}
+
+.popup_promo_block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: .3rem;
+}
+
+.preset_buttons {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.delete-amount {
+  padding-inline: 0;
+  width: var(--input-height);
+}
+
+.button-pay {
+  background: var(--money);
+  color: var(--text-default-invert);
+  margin-top: .5rem;
+}
+
+.button-pay:hover {
+  background: var(--money);
+  color: var(--text-default-invert);
+}

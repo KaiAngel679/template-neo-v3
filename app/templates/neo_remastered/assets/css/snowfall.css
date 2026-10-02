@@ -1,0 +1,172 @@
+:root {
+  --snow-flake-color: #c1dcec;
+  --snow-flake-index: 200;
+  --snow-flake-start: -1.5em;
+  --snow-flake-end: 1.5em;
+  --snow-flake-icon-size: 24px;
+  --snow-flake-button-shadow: inset 0px 0px 5px 1px rgb(255 255 255 / 0%);
+  --snow-flake-button-hover: inset 0px 0px 5px 1px rgb(255 255 255 / 50%);
+  --snow-flake-button-bg: linear-gradient(45deg, #7bb7bd, #4773ff);
+}
+
+.snowfal-icon {
+  background: var(--snow-flake-button-bg);
+  box-shadow: var(--snow-flake-button-shadow);
+  -webkit-user-drag: none;
+  transition: var(--transition-duration);
+}
+
+.snowfal-icon svg {
+  height: var(--snow-flake-icon-size);
+  width: var(--snow-flake-icon-size);
+  transition: var(--transition-duration);
+}
+
+.snowfal-icon:hover {
+  box-shadow: var(--snow-flake-button-hover);
+}
+
+.snowfal-icon:hover svg {
+  scale: 0.9;
+}
+
+.snowfal-popup__content {
+  padding: 1rem;
+}
+
+.snow-toggle {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 1rem 0 0 0;
+  gap: 0.5rem;
+  border: 0;
+}
+
+.snow-toggle__btn {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .snow-toggle {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 768px) {
+  .stop-sound {
+    width: 100%;
+  }
+}
+
+.snow {
+  --animation-name: snowfall;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: var(--snow-flake-index);
+  display: flex;
+  justify-content: space-between;
+  pointer-events: none;
+}
+
+.snow__flake {
+  position: relative;
+  top: var(--snow-flake-start);
+  color: var(--snow-flake-color);
+  animation-name: var(--animation-name);
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
+
+@keyframes snowfall {
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(calc(100vh + var(--snow-flake-end)));
+  }
+}
+
+.snowfall-banner {
+  position: relative;
+  min-height: 10rem;
+  display: flex;
+  justify-content: center;
+}
+
+.snowfall-banner:before {
+  content: '';
+  position: absolute;
+  bottom: -10.7rem;
+  left: 0;
+  width: 100%;
+  height: 180%;
+  background: linear-gradient(to top, var(--card), color-mix(in srgb, var(--card) 70%, transparent), transparent);
+  z-index: 1;
+}
+
+.snowfall-banner img {
+  position: absolute;
+  max-width: 24rem;
+  height: 24rem;
+  -webkit-user-drag: none;
+  bottom: -10.7rem;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.newyear-timer {
+  text-align: center;
+  z-index: 1;
+  font-size: var(--font-size-xxxl);
+  font-weight: var(--font-weight-7);
+  font-family: var(--font-family-1);
+}
+
+.timer-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.newyear-timer span {
+  color: var(--text-default);
+  border-radius: var(--br-6);
+  padding: 0.5rem 0.7rem;
+  font-size: var(--font-size-7xl);
+  font-weight: var(--font-weight-8);
+  background-color: var(--transparent-b-2);
+  backdrop-filter: blur(4px);
+  font-variant-numeric: tabular-nums;
+  font-family: monospace;
+  border: 1px solid var(--transparent-10-w);
+}
+
+.timer-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-inline: 1.7rem;
+  gap: 23px;
+  font-size: var(--font-size-s);
+  text-transform: uppercase;
+  justify-items: center;
+  z-index: 1;
+}
+
+.timer-items span {
+  color: var(--text-secondary);
+  font-weight: var(--font-weight-6);
+}
+
+.snowfall-body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}

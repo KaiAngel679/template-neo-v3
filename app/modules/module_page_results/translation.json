@@ -1,0 +1,967 @@
+{
+    "_results": {
+        "EN" : "Summary on administrators",
+        "RU" : "Звіт по адміністраторах",
+        "UA" : "Сводка по админам"
+    },
+    "_resultsAdmins": {
+        "EN" : "Results",
+        "RU" : "Результативность",
+        "UA" : "Результативність"
+    },
+    "_Summary": {
+        "EN" : "Online summary",
+        "RU" : "Сводки по онлайну",
+        "UA" : "Сводки по онлайну"
+    },
+    "_adminsInfo": {
+        "EN" : "Admins list",
+        "RU" : "Список админов",
+        "UA" : "Список админов"
+    },
+    "_warnsList": {
+        "EN" : "Warns archive",
+        "RU" : "Архив варнов",
+        "UA" : "Архив варнов"
+    },
+    "_resultsInterval": {
+        "EN" : "Results for interval",
+        "RU" : "Результативность за интервал",
+        "UA" : "Результативность за интервал"
+    },
+    "_admin": {
+        "EN" : "Admin",
+        "RU" : "Админ",
+        "UA" : "Админ"
+    },
+    "_position": {
+        "EN" : "Position",
+        "RU" : "Должность",
+        "UA" : "Должность"
+    },
+    "_played": {
+        "EN" : "Played",
+        "RU" : "Наиграно",
+        "UA" : "Наиграно"
+    },
+    "_bans": {
+        "EN" : "Bans",
+        "RU" : "Баны",
+        "UA" : "Баны"
+    },
+    "_gags": {
+        "EN" : "Gags/mutes",
+        "RU" : "Гаги/муты",
+        "UA" : "Гаги/муты"
+    },
+    "_silence": {
+        "EN" : "Silence",
+        "RU" : "Заглушения",
+        "UA" : "Заглушения"
+    },
+    "_checks": {
+        "EN" : "Checks",
+        "RU" : "Проверки",
+        "UA" : "Проверки"
+    },
+    "_reports": {
+        "EN" : "Reports",
+        "RU" : "Репорты",
+        "UA" : "Репорты"
+    },
+    "_sessions": {
+        "EN" : "Sessions",
+        "RU" : "Сессии",
+        "UA" : "Сессии"
+    },
+    "_graphics": {
+        "EN" : "Graphics",
+        "RU" : "Графики",
+        "UA" : "Графики"
+    },
+    "_giveAwardWarn": {
+        "EN" : "Give award/warn",
+        "RU" : "Выдать награду/предупреждение",
+        "UA" : "Выдать награду/предупреждение"
+    },
+    "_filter": {
+        "EN" : "Filter and sorting",
+        "RU" : "Фильтр и сортировка",
+        "UA" : "Фильтр и сортировка"
+    },
+    "_givingAwardWarn": {
+        "EN" : "Giving award/warn",
+        "RU" : "Выдача награды/предупреждения",
+        "UA" : "Выдача награды/предупреждения"
+    },
+    "_infoText": {
+        "EN" : "Please note that warnings and awards are issued in the",
+        "RU" : "Обратите внимание, что предупреждения и награды выдаются в разделе",
+        "UA" : "Обратите внимание, что предупреждения и награды выдаются в разделе"
+    },
+    "_infoText2": {
+        "EN" : "Results",
+        "RU" : "Сводки",
+        "UA" : "Сводки"
+    },
+    "_infoText3": {
+        "EN" : "by the button in the automatically generated report. Here you can additionally issue a warning or an award at your discretion.",
+        "RU" : "по кнопке в автоматически сгенерированном отчете. Здесь вы можете дополнительно выдать предупреждение или награду по своему желанию.",
+        "UA" : "по кнопке в автоматически сгенерированном отчете. Здесь вы можете дополнительно выдать предупреждение или награду по своему желанию."
+    },
+    "_giveWarn": {
+        "EN" : "Give warn",
+        "RU" : "Выдать предупреждение",
+        "UA" : "Выдать предупреждение"
+    },
+    "_giveAward": {
+        "EN" : "Give award",
+        "RU" : "Выдать награду",
+        "UA" : "Выдать награду"
+    },
+    "_warnReason": {
+        "EN" : "Warn reason",
+        "RU" : "Причина предупреждения",
+        "UA" : "Причина предупреждения"
+    },
+    "_warnTime": {
+        "EN" : "Warn time (in days)",
+        "RU" : "Время действия (в днях.)",
+        "UA" : "Время действия (в днях.)"
+    },
+    "_awardReason": {
+        "EN" : "Award reason",
+        "RU" : "Причина награды",
+        "UA" : "Причина награды"
+    },
+    "_awardFor": {
+        "EN" : "For what",
+        "RU" : "За что награда",
+        "UA" : "За что награда"
+    },
+    "_awardForplaceholder": {
+        "EN" : "For what additional award?",
+        "RU" : "За что дополнительная награда?",
+        "UA" : "За что дополнительная награда?"
+    },
+    "_count": {
+        "EN" : "Count",
+        "RU" : "Количество",
+        "UA" : "Количество"
+    },
+    "_moduleSettings": {
+        "EN" : "Module settings",
+        "RU" : "Настройки модуля",
+        "UA" : "Настройки модуля"
+    },
+    "_settings": {
+        "EN" : "Settings",
+        "RU" : "Настройки",
+        "UA" : "Настройки"
+    },
+    "_normHours": {
+        "EN" : "Number of hours to complete the norm",
+        "RU" : "Количество часов для выполнения нормы ",
+        "UA" : "Количество часов для выполнения нормы "
+    },
+    "_warnIfNotPlayed": {
+        "EN" : "Give warn if not played time",
+        "RU" : "Выдавать варн, если не наиграно время",
+        "UA" : "Выдавать варн, если не наиграно время"
+    },
+    "_warnTimeSeconds": {
+        "EN" : "Warn time (in seconds)",
+        "RU" : "Время варна (в секундах)",
+        "UA" : "Время варна (в секундах)"
+    },
+    "_awards": {
+        "EN" : "Awards",
+        "RU" : "Награды",
+        "UA" : "Награды"
+    },
+    "_addAward": {
+        "EN" : "Add award",
+        "RU" : "Добавить награду",
+        "UA" : "Добавить награду"
+    },
+    "_time": {
+        "EN" : "Time",
+        "RU" : "Время",
+        "UA" : "Время"
+    },
+    "_award": {
+        "EN" : "Award",
+        "RU" : "Награда",
+        "UA" : "Награда"
+    },
+    "_accesses": {
+        "EN" : "Accesses",
+        "RU" : "Доступы",
+        "UA" : "Доступы"
+    },
+    "_AwardWarnsAccess": {
+        "EN" : "Access to give warns and awards",
+        "RU" : "Доступ к выдаче варнов и наград",
+        "UA" : "Доступ к выдаче варнов и наград"
+    },
+    "_resultsAccess": {
+        "EN" : "Access to view results",
+        "RU" : "Доступ к просмотру результативности",
+        "UA" : "Доступ к просмотру результативности"
+    },
+    "_warnsAccess": {
+        "EN" : "Access to view warns archive",
+        "RU" : "Доступ к просмотру архива варнов",
+        "UA" : "Доступ к просмотру архива варнов"
+    },
+    "_adminsAccess": {
+        "EN" : "Access to view admins list",
+        "RU" : "Доступ к просмотру списка админов",
+        "UA" : "Доступ к просмотру списка админов"
+    },
+    "_fullAccess": {
+        "EN" : "Full access",
+        "RU" : "Полный доступ",
+        "UA" : "Полный доступ"
+    },
+    "_addAccess": {
+        "EN" : "Add access",
+        "RU" : "Добавить доступ",
+        "UA" : "Добавить доступ"
+    },
+    "_addingAwards": {
+        "EN" : "Adding awards",
+        "RU" : "Добавление наград",
+        "UA" : "Добавление наград"
+    },
+    "_playedTime": {
+        "EN" : "Played time",
+        "RU" : "Наигранное время",
+        "UA" : "Наигранное время"
+    },
+    "_howMuchMoney": {
+        "EN" : "How much money to give",
+        "RU" : "Сколько выдавать денег",
+        "UA" : "Сколько выдавать денег"
+    },
+    "_editingAward": {
+        "EN" : "Editing award",
+        "RU" : "Изменение награды",
+        "UA" : "Изменение награды"
+    },
+    "_editAward": {
+        "EN" : "Edit award",
+        "RU" : "Изменить награду",
+        "UA" : "Изменить награду"
+    },
+    "_selectInterval": {
+        "EN" : "Select interval",
+        "RU" : "Выберите интервал",
+        "UA" : "Выберите интервал"
+    },
+    "_selectGroups": {
+        "EN" : "Select groups",
+        "RU" : "Выберите группы",
+        "UA" : "Выберите группы"
+    },
+    "_selectServer": {
+        "EN" : "Select server",
+        "RU" : "Выберите сервер",
+        "UA" : "Выберите сервер"
+    },
+    "_allGroups": {
+        "EN" : "All groups",
+        "RU" : "Все группы",
+        "UA" : "Все группы"
+    },
+    "_selectGroup": {
+        "EN" : "Select group",
+        "RU" : "Выберите группу",
+        "UA" : "Выберите группу"
+    },
+    "_allServers": {
+        "EN" : "All servers",
+        "RU" : "Все сервера",
+        "UA" : "Все сервера"
+    },
+    "_withNorm": {
+        "EN" : "With completed norm",
+        "RU" : "С выполненной нормой",
+        "UA" : "С выполненной нормой"
+    },
+    "_normOnline": {
+        "EN" : "Norm online",
+        "RU" : "Норма по онлайну",
+        "UA" : "Норма по онлайну"
+    },
+    "_searchAdmin": {
+        "EN" : "Search admin",
+        "RU" : "Поиск админа",
+        "UA" : "Поиск админа" 
+    },
+    "_searchAdminPlaceholder": {
+        "EN" : "Enter name or SteamID",
+        "RU" : "Введите имя или SteamID",
+        "UA" : "Введите имя или SteamID"
+    },
+    "_graphicsInfo": {
+        "EN" : "Select the necessary parameters under the chart to display other charts. Available charts: online, bans, mutes/gags, checks, reports. By default, the online chart is displayed, as it is the main one for assessing the effectiveness of the admin.",
+        "RU" : "Выберите необходимые параметры под графиком для отображения других графиков. Доступные графики: онлайн, баны, муты/гаги, проверки, репорты. По умолчанию показывается график онлайн, так как он является основным для оценки результативности админа.",
+        "UA" : "Выберите необходимые параметры под графиком для отображения других графиков. Доступные графики: онлайн, баны, муты/гаги, проверки, репорты. По умолчанию показывается график онлайн, так как он является основным для оценки результативности админа."
+    },
+    "_addNewAdmin": {
+        "EN" : "Add new admin",
+        "RU" : "Добавить нового админа",
+        "UA" : "Добавить нового админа"
+    },
+    "_nickname": {
+        "EN" : "Nickname",
+        "RU" : "Никнейм",
+        "UA" : "Никнейм"
+    },
+    "_server": {
+        "EN" : "Server",
+        "RU" : "Сервер",
+        "UA" : "Сервер"
+    },
+    "_dateOfAdoption": {
+        "EN" : "Date of adoption",
+        "RU" : "Дата принятия",
+        "UA" : "Дата принятия"
+    },
+    "_Date": {
+        "EN" : "Date",
+        "RU" : "Дата",
+        "UA" : "Дата"
+    },
+    "_joinleaveTime": {
+        "EN" : "Join/leave time",
+        "RU" : "Время входа/выхода",
+        "UA" : "Время входа/выхода"
+    },
+    "_acceptedBy": {
+        "EN" : "Accepted by",
+        "RU" : "Принял",
+        "UA" : "Принял"
+    },
+    "_addmingNewAdmin": {
+        "EN" : "Adding new admin",
+        "RU" : "Добавление нового админа",
+        "UA" : "Добавление нового админа"
+    },
+    "_positionOnProject": {
+        "EN" : "Specify the position on the project",
+        "RU" : "Укажите должность на проекте",
+        "UA" : "Укажите должность на проекте"
+    },
+    "_steamAccount": {
+        "EN" : "Admin's Steam account",
+        "RU" : "Steam аккаунт админа",
+        "UA" : "Steam аккаунт админа"
+    },
+    "_addAdmin": {
+        "EN" : "Add admin",
+        "RU" : "Добавить админа",
+        "UA" : "Добавить админа"
+    },
+    "_editingAdmin": {
+        "EN" : "Editing admin",
+        "RU" : "Редактирование админа",
+        "UA" : "Редактирование админа"
+    },
+    "_saveChanges": {
+        "EN" : "Save changes",
+        "RU" : "Сохранить изменения",
+        "UA" : "Сохранить изменения"
+    },
+    "_issued": {
+        "EN" : "Issued",
+        "RU" : "Выдан",
+        "UA" : "Выдан"
+    },
+    "_expires": {
+        "EN" : "Expires",
+        "RU" : "Истекает",
+        "UA" : "Истекает"
+    },
+    "_error": {
+        "EN" : "An error occurred while sending the request",
+        "RU" : "Произошла ошибка при отправке запроса",
+        "UA" : "Произошла ошибка при отправке запроса"
+    },
+    "_noResults": {
+        "EN" : "No available results",
+        "RU" : "Нет доступных отчетов",
+        "UA" : "Нет доступных отчетов"
+    },
+    "_summaryOn": {
+        "EN" : "Summary on",
+        "RU" : "Сводка по",
+        "UA" : "Сводка по"
+    },
+    "_onAdmins": {
+        "EN" : " admins",
+        "RU" : " админам",
+        "UA" : " админам"
+    },
+    "_confirmed": {
+        "EN" : "Confirmed",
+        "RU" : "Подтверждено",
+        "UA" : "Подтверждено"
+    },
+    "_notConfirmed": {
+        "EN" : "Not confirmed",
+        "RU" : "Не подтверждено",
+        "UA" : "Не подтверждено"
+    },
+    "_giveAwardsWarns": {
+        "EN" : "Give awards/warns",
+        "RU" : "Выдать награды/варны",
+        "UA" : "Выдать награды/варны"
+    },
+    "_weeklySummary": {
+        "EN" : "Weekly summary",
+        "RU" : "Сводка за неделю",
+        "UA" : "Сводка за неделю"
+    },
+    "_interval": {
+        "EN" : "For interval",
+        "RU" : "За интервал",
+        "UA" : "За интервал"
+    },
+    "_adminNotFound": {
+        "EN" : "Admin not found",
+        "RU" : "Админ не найден",
+        "UA" : "Админ не найден"
+    },
+    "_deletingAdmin": {
+        "EN" : "Deleting admin",
+        "RU" : "Удаление админа",
+        "UA" : "Удаление админа"
+    },
+    "_deletingAdminText": {
+        "EN" : "Are you sure you want to delete this admin?",
+        "RU" : "Вы уверены, что хотите удалить этого администратора?",
+        "UA" : "Вы уверены, что хотите удалить этого администратора?"
+    },
+    "_Cancel_Action": {
+        "EN" : "Cancel",
+        "RU" : "Отмена",
+        "UA" : "Отмена"
+    },
+    "_awardNotFound": {
+        "EN" : "Award not found",
+        "RU" : "Награда не найдена",
+        "UA" : "Награда не найдена"
+    },
+    "_deletingAward": {
+        "EN" : "Deleting award",
+        "RU" : "Удаление награды",
+        "UA" : "Удаление награды"
+    },
+    "_deletingAwardText": {
+        "EN" : "Are you sure you want to delete this award?",
+        "RU" : "Вы уверены, что хотите удалить эту награду?",
+        "UA" : "Вы уверены, что хотите удалить эту награду?"
+    },
+    "_deletingAccess": {
+        "EN" : "Deleting access",
+        "RU" : "Удаление доступа",
+        "UA" : "Удаление доступа"
+    },
+    "_deletingAccessText": {
+        "EN" : "Are you sure you want to delete this access?",
+        "RU" : "Вы уверены, что хотите удалить этот доступ?",
+        "UA" : "Вы уверены, что хотите удалить этот доступ?"
+    },
+    "_grantingAwards": {
+        "EN" : "Granting awards",
+        "RU" : "Выдача наград",
+        "UA" : "Выдача наград"
+    },
+    "_grantingAwardsText": {
+        "EN" : "Are you sure you want to grant awards to administrators according to this report?",
+        "RU" : "Вы уверены, что хотите выдать награды администраторам согласно этому отчету?",
+        "UA" : "Вы уверены, что хотите выдать награды администраторам согласно этому отчету?"
+    },
+    "_Deliver_Action": {
+        "EN" : "Grant",
+        "RU" : "Выдать",
+        "UA" : "Выдать"
+    },
+    "_playedHours": {
+        "EN" : "Played",
+        "RU" : "Наиграно",
+        "UA" : "Наиграно"
+    },
+    "_mon": {
+        "EN" : "Mon",
+        "RU" : "Пн",
+        "UA" : "Пн"
+    },
+    "_tue": {
+        "EN" : "Tue",
+        "RU" : "Вт",
+        "UA" : "Вт"
+    },
+    "_wed": {
+        "EN" : "Wed",
+        "RU" : "Ср",
+        "UA" : "Ср"
+    },
+    "_thu": {
+        "EN" : "Thu",
+        "RU" : "Чт",
+        "UA" : "Чт"
+    },
+    "_fri": {
+        "EN" : "Fri",
+        "RU" : "Пт",
+        "UA" : "Пт"
+    },
+    "_sat": {
+        "EN" : "Sat",
+        "RU" : "Сб",
+        "UA" : "Сб"
+    },
+    "_sun": {
+        "EN" : "Sun",
+        "RU" : "Вс",
+        "UA" : "Вс"
+    },
+    "_Describe_Reason": {
+        "EN" : "Describe the reason",
+        "RU" : "Опишите причину",
+        "UA" : "Опишите причину"
+    },
+    "_ResultNotFound": {
+        "EN" : "Result not found",
+        "RU" : "Отчет не найден",
+        "UA" : "Отчет не найден"
+    },
+    "_NormCompleted": {
+        "EN" : "Norm completed",
+        "RU" : "Норма выполнена",
+        "UA" : "Норма выполнена"
+    },
+    "_NormNotCompleted": {
+        "EN" : "Norm not completed",
+        "RU" : "Норма не выполнена",
+        "UA" : "Норма не выполнена"
+    },
+    "_noData": {
+        "EN" : "No data",
+        "RU" : "Данных нет",
+        "UA" : "Данных нет"
+    },
+    "_Expired": {
+        "EN" : "Expired",
+        "RU" : "Истекло",
+        "UA" : "Истекло"
+    },
+    "_AwardAdded": {
+        "EN" : "Award added",
+        "RU" : "Награда добавлена",
+        "UA" : "Награда добавлена"
+    },
+    "_AwardEdited": {
+        "EN" : "Award edited",
+        "RU" : "Награда изменена",
+        "UA" : "Награда изменена"
+    },
+    "_AwardDeleted": {
+        "EN" : "Award deleted",
+        "RU" : "Награда удалена",
+        "UA" : "Награда удалена"
+    },
+    "_AwardsAlreadyGiven": {
+        "EN" : "Awards already given",
+        "RU" : "Награды уже выданы",
+        "UA" : "Награды уже выданы"
+    },
+    "_NormNotCompletedForPeriod": {
+        "EN" : "Norm not completed for the period ",
+        "RU" : "Норма не выполнена за период ",
+        "UA" : "Норма не выполнена за период "
+    },
+    "_NoAdminsToGive": {
+        "EN" : "No admins to give awards/warns",
+        "RU" : "Нет админов для выдачи наград/варнов",
+        "UA" : "Нет админов для выдачи наград/варнов"
+    },
+    "_AndWarnsGiven": {
+        "EN" : " and warns given ",
+        "RU" : " и выданы варны ",
+        "UA" : " и выданы варны "
+    },
+    "_AwardsGiven": {
+        "EN" : "Awards given to ",
+        "RU" : "Награды выданы ",
+        "UA" : "Награды выданы "
+    },
+    "_InvalidSteamID": {
+        "EN" : "Invalid SteamID",
+        "RU" : "Неверный SteamID",
+        "UA" : "Неверный SteamID"
+    },
+    "_AccessAlreadyExists": {
+        "EN" : "User already has this access",
+        "RU" : "Пользователь уже имеет этот доступ",
+        "UA" : "Пользователь уже имеет этот доступ"
+    },
+    "_AccessAdded": {
+        "EN" : "Access added",
+        "RU" : "Доступ добавлен",
+        "UA" : "Доступ добавлен"
+    },
+    "_AccessDeleted": {
+        "EN" : "Access deleted",
+        "RU" : "Доступ удалён",
+        "UA" : "Доступ удалён"
+    },
+    "_AwardForNorm": {
+        "EN" : "Award for completing the norm for the week: ",
+        "RU" : "Награда за выполнение нормы за неделю: ",
+        "UA" : "Награда за выполнение нормы за неделю: "
+    },
+    "_BalanceReplenished": {
+        "EN" : "Balance replenished",
+        "RU" : "Баланс пополнен",
+        "UA" : "Баланс пополнен"
+    },
+    "_WarnGiven": {
+        "EN" : "Warn given to ",
+        "RU" : "Варн выдан на ",
+        "UA" : "Варн выдан на "
+    },
+    "_asNotConnected": {
+        "EN" : "AdminSystem module is not connected",
+        "RU" : "Модуль AdminSystem не подключён",
+        "UA" : "Модуль AdminSystem не подключён"
+    },
+    "_h": {
+        "EN" : "h",
+        "RU" : "ч",
+        "UA" : "г"
+    },
+    "_m": {
+        "EN" : "m",
+        "RU" : "м",
+        "UA" : "хв"
+    },
+    "_s": {
+        "EN" : "s",
+        "RU" : "с",
+        "UA" : "с"
+    },
+    "_days": {
+        "EN" : "d",
+        "RU" : "д",
+        "UA" : "д"
+    },
+    "_selectOption": {
+        "EN" : "Select at least one option",
+        "RU" : "Выберите хотя бы один вариант",
+        "UA" : "Виберіть хоча б один варіант"
+    },
+    "_addServers": {
+        "EN" : "Add servers",
+        "RU" : "Добавление серверов",
+        "UA" : "Додавання серверів"
+    },
+    "_serverName": {
+        "EN" : "Server name",
+        "RU" : "Название сервера",
+        "UA" : "Назва сервера"
+    },
+    "_serverId": {
+        "EN" : "ID from admin",
+        "RU" : "ID из админки",
+        "UA" : "ID из админки"
+    },
+    "_reportsId": {
+        "EN" : "ID from reports",
+        "RU" : "ID из репортов",
+        "UA" : "ID из репортов"
+    },
+    "_addServer": {
+        "EN" : "Add server",
+        "RU" : "Добавить сервер",
+        "UA" : "Добавить сервер"
+    },
+    "_serverList": {
+        "EN" : "Server list",
+        "RU" : "Список серверов",
+        "UA" : "Список серверов"
+    },
+    "_ServerDeleted": {
+        "EN" : "Server deleted",
+        "RU" : "Сервер удалён",
+        "UA" : "Сервер удалён"
+    },
+    "_serverNotFound": {
+        "EN" : "Server not found",
+        "RU" : "Сервер не найден",
+        "UA" : "Сервер не найден"
+    },
+    "_fillAllFields": {
+        "EN" : "Please fill in all fields",
+        "RU" : "Пожалуйста, заполните все поля",
+        "UA" : "Будь ласка, заповніть всі поля"
+    },
+    "_deletingServer": {
+        "EN" : "Deleting server",
+        "RU" : "Удаление сервера",
+        "UA" : "Удаление сервера"
+    },
+    "_deletingServerText": {
+        "EN" : "Are you sure you want to delete this server?",
+        "RU" : "Вы уверены, что хотите удалить этот сервер?",
+        "UA" : "Вы уверены, что хотите удалить этот сервер?"
+    },
+    "_ServerAdded": {
+        "EN" : "Server added",
+        "RU" : "Сервер добавлен",
+        "UA" : "Сервер добавлен"
+    },
+    "_EmptyServerName": {
+        "EN" : "Server name is empty",
+        "RU" : "Название сервера не указано",
+        "UA" : "Назва сервера не вказана"
+    },
+    "_InvalidData": {
+        "EN" : "Invalid data",
+        "RU" : "Неверные данные",
+        "UA" : "Невірні дані"
+    },
+    "_AdminDeleted": {
+        "EN" : "Admin deleted",
+        "RU" : "Админ удалён",
+        "UA" : "Адмін видалений"
+    },
+    "_AwardUpdated": {
+        "EN" : "Award updated",
+        "RU" : "Награда обновлена",
+        "UA" : "Нагорода оновлена"
+    },
+    "_SettingsSaved": {
+        "EN" : "Settings saved",
+        "RU" : "Настройки сохранены",
+        "UA" : "Налаштування збережено"
+    },
+    "_UnknownAction": {
+        "EN" : "Unknown action",
+        "RU" : "Неизвестное действие",
+        "UA" : "Невідоме дію"
+    },
+    "_AdminAdded": {
+        "EN" : "Admin added",
+        "RU" : "Админ добавлен",
+        "UA" : "Админ добавлен"
+    },
+    "_AdminUpdated": {
+        "EN" : "Admin updated",
+        "RU" : "Админ обновлен",
+        "UA" : "Админ обновлен"
+    },
+    "_AdminNotFound": {
+        "EN" : "Admin not found",
+        "RU" : "Админ не найден",
+        "UA" : "Админ не найден"
+    },
+    "_AdminAlreadyExists": {
+        "EN" : "Admin with this SteamID already exists",
+        "RU" : "Админ с таким SteamID уже существует",
+        "UA" : "Админ с таким SteamID уже существует"
+    },
+    "_admins": {
+        "EN" : " admins",
+        "RU" : " админам",
+        "UA" : " админам"
+    },
+    "_and": {
+        "EN" : " and ",
+        "RU" : " и ",
+        "UA" : " и "
+    },
+    "_warns": {
+        "EN" : " warns",
+        "RU" : " варнов",
+        "UA" : " варнов"
+    },
+    "_SpecifyAmount": {
+        "EN" : "Please specify the amount of money to give",
+        "RU" : "Пожалуйста количество выдаваемых денег",
+        "UA" : "Будь ласка кількість видаваних грошей"
+    },
+    "_ManualAward": {
+        "EN" : "Manual award",
+        "RU" : "Ручная награда",
+        "UA" : "Ручна нагорода"
+    },
+    "_AwardGiven": {
+        "EN" : "Award given in the amount of: ",
+        "RU" : "Награда выдана в размере: ",
+        "UA" : "Нагорода видана в розмірі: "
+    },
+    "_SpecifyReasonAndDuration": {
+        "EN" : "Please specify the reason and duration of the warn",
+        "RU" : "Пожалуйста, укажите причину и длительность варна",
+        "UA" : "Будь ласка, вкажіть причину і тривалість варна"
+    },
+    "_DaysToAdmin": {
+        "EN" : " days to admin",
+        "RU" : " дней админу",
+        "UA" : " днів адміну"
+    },
+    "_Servers_list": {
+        "EN" : "Servers list",
+        "RU" : "Список серверов",
+        "UA" : "Список серверов"
+    },
+    "_TheirAccess": {
+        "EN" : "Access to view their own results",
+        "RU" : "Доступ к просмотру своих результатов",
+        "UA" : "Доступ к просмотру своих результатов"
+    },
+    "_AdminTheirAccess": {
+        "EN" : "Admins can only see their own results",
+        "RU" : "Админы могут видеть только свои результаты",
+        "UA" : "Админы могут видеть только свои результаты"
+    },
+    "_NoPermission": {
+        "EN" : "You do not have permission",
+        "RU" : "У вас нет прав",
+        "UA" : "У вас нет прав"
+    },
+    "_SendHooks": {
+        "EN" : "Send hooks to Discord",
+        "RU" : "Отправлять хуки в Discord",
+        "UA" : "Отправлять хуки в Discord"
+    },
+    "_DiscordWebhook": {
+        "EN" : "Discord webhook URL",
+        "RU" : "URL Discord вебхука",
+        "UA" : "URL Discord вебхука"
+    },
+    "_ManualGeneration": {
+        "EN" : "Attention! If you have installed the module for the first time, then use manual generation of previous reports for past weeks, but only after adding the entire list of administrators, otherwise empty reports will be generated",
+        "RU" : "Внимание! Если вы установили модуль впервые, то используйте ручную генерацию предыдущих отчетов за прошедшие недели, но только после добавления всего списка администраторов, иначе сгенерируются пустые отчеты",
+        "UA" : "Внимание! Если вы установили модуль впервые, то используйте ручную генерацию предыдущих отчетов за прошедшие недели, но только после добавления всего списка администраторов, иначе сгенерируются пустые отчеты"
+    },
+    "_SpecifyWeeks": {
+        "EN" : "Specify the number of weeks for generation",
+        "RU" : "Укажите количество недель для генерации",
+        "UA" : "Укажите количество недель для генерации"
+    },
+    "_Generate": {
+        "EN" : "Generate",
+        "RU" : "Сгенерировать",
+        "UA" : "Сгенерировать"
+    },
+    "_MainSettings": {
+        "EN" : "Main settings",
+        "RU" : "Основные настройки",
+        "UA" : "Основные настройки"
+    },
+    "_Logs": {
+        "EN" : "Logs",
+        "RU" : "Логи",
+        "UA" : "Логи"
+    },
+    "_Log": {
+        "EN" : "Log",
+        "RU" : "Лог",
+        "UA" : "Лог"
+    },
+    "_logSettings": {
+        "EN" : "Log settings",
+        "RU" : "Настройки логов",
+        "UA" : "Настройки логов"
+    },
+    "_imageLink": {
+        "EN" : "Image link",
+        "RU" : "Ссылка на изображение",
+        "UA" : "Ссылка на изображение"
+    },
+    "_GenerateReportForServer": {
+        "EN" : "Generate report for server %s for the period %s. <br> Admins in the report: %d.",
+        "RU" : "Генерация отчёта для сервера %s за период %s. <br> Администраторов в отчёте: %d.",
+        "UA" : "Сгенерировать отчет для сервера %s за период %s. <br> Администраторов в отчёте: %d."
+    },
+    "_ReportGenerated": {
+        "EN" : "%d reports generated.",
+        "RU" : "Сформировано %d отчётов.",
+        "UA" : "Сформировано %d отчётов."
+    },
+    "_serversandadmins": {
+        "EN" : "👮 Admins: %d\n🎮 Server: %s",
+        "RU" : "👮 Админов: %d\n🎮 Сервер: %s",
+        "UA" : "👮 Админов: %d\n🎮 Сервер: %s"
+    },
+    "_ViewReport": {
+        "EN" : "View report",
+        "RU" : "Смотреть отчет",
+        "UA" : "Смотреть отчет"
+    },
+    "_ReportGeneratedForPeriod": {
+        "EN" : "📆 Report generated for **%s**",
+        "RU" : "📆 Сформирован отчет за **%s**",
+        "UA" : "📆 Сформовано звіт за **%s**"
+    },
+    "_AwardsGivenToAdmin": {
+        "EN" : "[**%s**](%s) gave awards to admin **%s** for the period **%s**: %s.",
+        "RU" : "[**%s**](%s) подтвердил отчет для сервера **%s** за период **%s**, все доступные награды и предупреждения выданы администраторам.",
+        "UA" : "[**%s**](%s) підтвердив звіт для сервера **%s** за період **%s**, всі доступні нагороди та попередження видані адміністраторам."
+    },
+    "_skippedAdmins": {
+        "EN" : "Administrators %s were not included in the weekly performance because they were added last week. To avoid false warns, they were excluded from the list for awarding and warns.",
+        "RU" : "Администраторы %s не были учтены в еженедельной результативности, потому что были добавлены на прошлой неделе. Во избежание ложных варнов они были исключены из списка на выдачу награды и варнов.",
+        "UA" : "Адміністратори %s не були враховані в щотижневій результативності, оскільки були додані на минулому тижні. Щоб уникнути помилкових попереджень, вони були виключені зі списку на видачу нагород і попереджень."
+    },
+    "_importAdmins": {
+        "EN" : "Import admins",
+        "RU" : "Импорт админов",
+        "UA" : "Импорт админов"
+    },
+    "_none": {
+        "EN" : "None",
+        "RU" : "Нет",
+        "UA" : "Нет"
+    },
+    "_skipImportGroups": {
+        "EN" : "Skip groups",
+        "RU" : "Пропустить группы",
+        "UA" : "Пропустить группы"
+    },
+    "_import": {
+        "EN" : "Import",
+        "RU" : "Импортировать",
+        "UA" : "Импортировать"
+    },
+    "_importMessage": {
+        "EN" : "Imported %d admins, %d skipped",
+        "RU" : "Импортировано %d администраторов, %d пропущено",
+        "UA" : "Імпортовано %d адміністраторів, %d пропущено"
+    },
+    "_AllInOneReport": {
+        "EN" : "Create only all-in-one report",
+        "RU" : "Создавать только единый отчёт",
+        "UA" : "Створювати тільки єдиний звіт"
+    },
+    "_nodata": {
+        "EN" : "No data",
+        "RU" : "Нет данных",
+        "UA" : "Немає даних"
+    },
+    "_noServersForImport": {
+        "EN" : "First add servers to import admins",
+        "RU" : "Сначала добавьте сервера для импорта админов",
+        "UA" : "Спочатку додайте сервери для імпорту адміністраторів"
+    },
+    "_IgnoreIssetAdmins": {
+        "EN" : "Ignore already existing admins",
+        "RU" : "Игнорировать уже существующих админов",
+        "UA" : "Игнорировать уже существующих админов"
+    }
+}

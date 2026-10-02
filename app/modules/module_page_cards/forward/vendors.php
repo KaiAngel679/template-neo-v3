@@ -1,0 +1,1 @@
+<script src="/<?= MODULES ?>module_page_cards/assets/js/vendors/confetti.min.js"></script>

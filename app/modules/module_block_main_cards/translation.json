@@ -1,0 +1,27 @@
+{
+    "_lastDropFromCards": {
+        "EN": "Last drop from cards",
+        "UA": "Останнє падіння з карток",
+        "RU": "Последний дроп из карточек"
+    },
+    "_all": {
+        "EN": "All",
+        "UA": "Всі",
+        "RU": "Все"
+    },
+    "_topDrop": {
+        "EN": "Top drop",
+        "UA": "Топ падіння",
+        "RU": "Топ дроп"
+    },
+    "_balanceSite": {
+        "EN": " site balance",
+        "UA": " баланс сайту",
+        "RU": " на баланс сайта"
+    },
+    "_creditsOnTheServert": {
+        "EN": " credits ★ on the server",
+        "UA": " кредитів ★ на сервері",
+        "RU": " кредитов ★ на сервер"
+    }
+}

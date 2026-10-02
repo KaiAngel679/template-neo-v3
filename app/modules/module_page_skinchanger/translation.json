@@ -1,0 +1,1117 @@
+{
+    "_set_page_title": {
+        "RU": "Скинченджер",
+        "EN": "SkinChanger",
+        "UA": "Скінченджер"
+    },
+    "_set_page_description": {
+        "RU": "Выбор скинов для оружия",
+        "EN": "Select skins for weapons",
+        "UA": "Вибір скинів для зброї"
+    },
+    "_my_collections": {
+        "RU": "Мои коллекции",
+        "EN": "My collections",
+        "UA": "Мої колекції"
+    },
+    "_community": {
+        "RU": "Комьюнити",
+        "EN": "Community",
+        "UA": "Комьюніті"
+    },
+    "_create_collection": {
+        "RU": "Создать коллекцию",
+        "EN": "Create collection",
+        "UA": "Створити колекцію"
+    },
+    "_available_slots": {
+        "RU": "Доступно еще %s слот(-ов) из %s",
+        "EN": "%s slot(s) available out of %s",
+        "UA": "Доступно ще %s слот(-ів) з %s"
+    },
+    "_limit": {
+        "RU": "Достигнут лимит коллекций %s из %s",
+        "EN": "Collections limit reached %s out of %s",
+        "UA": "Досягнуто ліміт колекцій %s з %s"
+    },
+    "_skins": {
+        "RU": "%s скинов",
+        "EN": "%s skins",
+        "UA": "%s скінів"
+    },
+    "_no_collections": {
+        "RU": "У вас нет коллекций",
+        "EN": "You have no collections",
+        "UA": "У вас немає колекцій"
+    },
+    "_find_skin": {
+        "RU": "Найти скин по названию...",
+        "EN": "Find skin by name...",
+        "UA": "Знайти скин по названию..."
+    },
+    "_create_collection_title": {
+        "RU": "Создание коллекции",
+        "EN": "Create collection",
+        "UA": "Створення колекції"
+    },
+    "_main_collection": {
+        "RU": "Основная коллекция",
+        "EN": "Main collection",
+        "UA": "Основна колекція"
+    },
+    "_create_collection_desc": {
+        "RU": "Здесь вы можете создать новую коллекцию, в которую сможете добавлять скины. Коллекции позволяют удобно организовать ваши скины и быстро находить нужные.",
+        "EN": "Here you can create a new collection where you can add skins. Collections allow you to conveniently organize your skins and quickly find the ones you need.",
+        "UA": "Тут ви можете створити нову колекцію, в яку зможете додавати скіни. Колекції дозволяють зручно організувати ваші скіни та швидко знаходити потрібні."
+    },
+    "_edit_collection_desc": {
+        "RU": "Здесь вы можете изменить название коллекции и ее видимость. Видимость коллекции определяет, смогут ли другие пользователи видеть вашу коллекцию и устанавливать скины из нее.",
+        "EN": "Here you can change the collection name and its visibility. Collection visibility determines whether other users can see your collection and set skins from it.",
+        "UA": "Тут ви можете змінити назву колекції та її видимість. Видимість колекції визначає, чи зможуть інші користувачі бачити вашу колекцію та встановлювати скіни з неї."
+    },
+    "_edit_collection_name_title": {
+        "RU": "Изменение названия коллекции",
+        "EN": "Edit collection name",
+        "UA": "Зміна назви колекції"
+    },
+    "_change": {
+        "RU": "Изменить",
+        "EN": "Change",
+        "UA": "Змінити"
+    },
+    "_collection_name": {
+        "RU": "Название коллекции",
+        "EN": "Collection name",
+        "UA": "Назва колекції"
+    },
+    "_create": {
+        "RU": "Создать коллекцию",
+        "EN": "Create collection",
+        "UA": "Створити колекцію"
+    },
+    "_saveChanges": {
+        "RU": "Сохранить изменения",
+        "EN": "Save changes",
+        "UA": "Зберегти зміни"
+    },
+    "_edit_collection": {
+        "RU": "Редактировать коллекцию",
+        "EN": "Edit collection",
+        "UA": "Редагувати колекцію"
+    },
+    "_ready_collections": {
+        "RU": "Готовые коллекции",
+        "EN": "Ready collections",
+        "UA": "Готові колекції"
+    },
+    "_your_collections": {
+        "RU": "Ваши коллекции",
+        "EN": "Your collections",
+        "UA": "Ваші колекції"
+    },
+    "_knifes": {
+        "RU": "Ножи",
+        "EN": "Knifes",
+        "UA": "Ножі"
+    },
+    "_gloves": {
+        "RU": "Перчатки",
+        "EN": "Gloves",
+        "UA": "Рукавиці"
+    },
+    "_hidden": {
+        "RU": "Скрыто %s",
+        "EN": "Hidden %s",
+        "UA": "Приховано %s"
+    },
+    "_show_all": {
+        "RU": "Показать все",
+        "EN": "Show all",
+        "UA": "Показать все"
+    },
+    "_go_to_skins": {
+        "RU": "Перейти к скинам",
+        "EN": "Go to skins",
+        "UA": "Перейти к скинам"
+    },
+    "_ct_side": {
+        "RU": "Только для CT",
+        "EN": "Only for CT",
+        "UA": "Тільки для CT"
+    },
+    "_t_side": {
+        "RU": "Только для T",
+        "EN": "Only for T",
+        "UA": "Тільки для T"
+    },
+    "_both_sides": {
+        "RU": "За обе стороны",
+        "EN": "Both sides",
+        "UA": "За обидві сторони"
+    },
+    "_back": {
+        "RU": "Назад",
+        "EN": "Back",
+        "UA": "Назад"
+    },
+    "_choosenWeapon": {
+        "RU": "Оружие: %s",
+        "EN": "Weapon: %s",
+        "UA": "Зброя: %s"
+    },
+    "_configure_skin": {
+        "RU": "Настроить скин",
+        "EN": "Configure skin",
+        "UA": "Налаштувати скин"
+    },
+    "_choose_another_skin": {
+        "RU": "Выбрать другой скин",
+        "EN": "Choose another skin",
+        "UA": "Выбрать другой скин"
+    },
+    "_delete_skin": {
+        "RU": "Удалить скин",
+        "EN": "Delete skin",
+        "UA": "Удалить скин"
+    },
+    "_add_skin": {
+        "RU": "Добавить",
+        "EN": "Add",
+        "UA": "Добавить"
+    },
+    "_knife": {
+        "RU": "нож",
+        "EN": "knife",
+        "UA": "ніж"
+    },
+    "_gloves2": {
+        "RU": "перчатки",
+        "EN": "gloves",
+        "UA": "рукавиці"
+    },
+    "_ctAgent": {
+        "RU": "агента CT",
+        "EN": "CT agent",
+        "UA": "агента CT"
+    },
+    "_tAgent": {
+        "RU": "агента T",
+        "EN": "T agent",
+        "UA": "агента T"
+    },
+    "_coin": {
+        "RU": "монету",
+        "EN": "coin",
+        "UA": "монету"
+    },
+    "_cancel": {
+        "RU": "Отмена",
+        "EN": "Cancel",
+        "UA": "Отмена"
+    },
+    "_reset": {
+        "RU": "Сбросить",
+        "EN": "Reset",
+        "UA": "Скинути"
+    },
+    "_copy_collection": {
+        "RU": "Скопировать коллекцию",
+        "EN": "Copy collection",
+        "UA": "Скопіювати колекцію"
+    },
+    "_copy_collection_desc": {
+        "RU": "Здесь вы можете скопировать существующую коллекцию. Это может быть полезно, если вы хотите создать новую коллекцию на основе уже существующей, сохраняя при этом все скины из нее.",
+        "EN": "Here you can copy an existing collection. This can be useful if you want to create a new collection based on an already existing one, while keeping all the skins from it.",
+        "UA": "Тут ви можете скопіювати існуючу колекцію. Це може бути корисно, якщо ви хочете створити нову колекцію на основі вже існуючої, зберігаючи при цьому всі скіни з неї."
+    },
+    "_copying_collection": {
+        "RU": "Копирование коллекции",
+        "EN": "Copying collection",
+        "UA": "Копіювання колекції"
+    },
+    "_go_to_collection": {
+        "RU": "Перейти",
+        "EN": "Go to",
+        "UA": "Перейти"
+    },
+    "_installations": {
+        "RU": "Установок: %s",
+        "EN": "Installations: %s",
+        "UA": "Установок: %s"
+    },
+    "_collection_ratings": {
+        "RU": "Оценок коллекции от игроков: %s",
+        "EN": "Collection ratings from players: %s",
+        "UA": "Оцінок колекції від гравців: %s"
+    },
+    "_collection_author": {
+        "RU": "Автор коллекции",
+        "EN": "Collection author",
+        "UA": "Автор колекції"
+    },
+    "_musicKit": {
+        "RU": "Музыкальный набор",
+        "EN": "music kit",
+        "UA": "Музичний набір"
+    },
+    "_skin_settings": {
+        "RU": "Настройки скина",
+        "EN": "Skin settings",
+        "UA": "Налаштування скина"
+    },
+    "_all": {
+        "RU": "Все",
+        "EN": "All",
+        "UA": "Все"
+    },
+    "_golden": {
+        "RU": "Золотые",
+        "EN": "Golden",
+        "UA": "Золоті"
+    },
+    "_holo": {
+        "RU": "Голографические",
+        "EN": "Holo",
+        "UA": "Голографические"
+    },
+    "_glitter": {
+        "RU": "Глиттер",
+        "EN": "Glitter",
+        "UA": "Глиттер"
+    },
+    "_glitter2": {
+        "RU": "Переливающиеся",
+        "EN": "Glitter",
+        "UA": "Переливающиеся"
+    },
+    "_embroidered": {
+        "RU": "С вышивкой",
+        "EN": "Embroidered",
+        "UA": "З вишивкой"
+    },
+    "_lenticular": {
+        "RU": "Лентикулярные",
+        "EN": "Lenticular",
+        "UA": "Лентикулярные"
+    },
+    "_stattrakInfo": {
+        "RU": "Добавляет счетчик убийств, совершенных лично вами из данного предмета. Выглядит как оранжевый LED-дисплей на оружии или выгравированные цифры на ноже",
+        "EN": "Adds a kill counter that tracks the number of kills you personally have with that item. It appears as an orange LED display on weapons or engraved numbers on knives",
+        "UA": "Додає лічильник вбивств, який відстежує кількість вбивств, які ви особисто зробили с этим предметом. Выглядит как оранжевый LED-дисплей на оружии или выгравированные цифры на ноже"
+    },
+    "_stattrak": {
+        "RU": "Счетчик StatTrak™",
+        "EN": "StatTrak™ Counter",
+        "UA": "Счетчик StatTrak™"
+    },
+    "_float": {
+        "RU": "Износ",
+        "EN": "Float",
+        "UA": "Износ"
+    },
+    "_pattern": {
+        "RU": "Паттерн",
+        "EN": "Pattern",
+        "UA": "Паттерн"
+    },
+    "_nameTag": {
+        "RU": "Именной тег",
+        "EN": "Name tag",
+        "UA": "Іменний тег"
+    },
+    "_enterName": {
+        "RU": "Введите название",
+        "EN": "Enter name",
+        "UA": "Введите название"
+    },
+    "_type": {
+        "RU": "Тип",
+        "EN": "Type",
+        "UA": "Тип"
+    },
+    "_team": {
+        "RU": "Сторона",
+        "EN": "Team",
+        "UA": "Сторона"
+    },
+    "_notFound": {
+        "RU": "Отсутствует",
+        "EN": "Not found",
+        "UA": "Отсутствует"
+    },
+    "_keychain": {
+        "RU": "Брелок",
+        "EN": "Keychain",
+        "UA": "Брелок"
+    },
+    "_stickers": {
+        "RU": "Стикеры",
+        "EN": "Stickers",
+        "UA": "Стикеры"
+    },
+    "_collections": {
+        "RU": "Коллекции игроков",
+        "EN": "Player collections",
+        "UA": "Колекції гравців"
+    },
+    "_apply_changes": {
+        "RU": "Применить изменения",
+        "EN": "Apply changes",
+        "UA": "Застосувати зміни"
+    },
+    "_factory_new": {
+        "RU": "Прямо с завода",
+        "EN": "Factory new",
+        "UA": "Прямо с завода"
+    },
+    "_minimal_wear": {
+        "RU": "Немного поношенное",
+        "EN": "Minimal wear",
+        "UA": "Немного поношенное"
+    },
+    "_field_tested": {
+        "RU": "После полевых испытаний",
+        "EN": "Field-tested",
+        "UA": "После полевых испытаний"
+    },
+    "_well_worn": {
+        "RU": "Поношенное",
+        "EN": "Well-worn",
+        "UA": "Поношенное"
+    },
+    "_battle_scarred": {
+        "RU": "Закаленное в боях",
+        "EN": "Battle-scarred",
+        "UA": "Закаленное в боях"
+    },
+    "_pattern2": {
+        "RU": "Паттерн — это числовой параметр (от 0 до 999), который определяет, как именно текстура рисунка накладывается на скин оружия. Паттерн меняет положение узора, что делает два внешне одинаковых скина уникальными",
+        "EN": "Pattern is a numerical parameter (ranging from 0 to 999) that determines how the pattern texture is applied to a weapon skin. The pattern changes the position of the design, making two visually identical skins unique",
+        "UA": "Паттерн — это числовой параметр (от 0 до 999), который определяет, как именно текстура рисунка накладывается на скин оружия. Паттерн меняет положение узора, что делает два внешне одинаковых скина уникальными"
+    },
+    "_placeholder_nameTag": {
+        "RU": "Как хотите назвать скин?",
+        "EN": "How do you want to name the skin?",
+        "UA": "Как хотите назвать скин?"
+    },
+    "_search_collections": {
+        "RU": "Поиск коллекций",
+        "EN": "Search collections",
+        "UA": "Пошук колекцій"
+    },
+    "_search_collections_placeholder": {
+        "RU": "Искать по названию...",
+        "EN": "Search by name...",
+        "UA": "Шукати за назвою..."
+    },
+    "_only_with_downloads": {
+        "RU": "Только со скачиваниями",
+        "EN": "Only with downloads",
+        "UA": "Только с скачиваниями"
+    },
+    "_only_liked_me": {
+        "RU": "Только понравившиеся мне",
+        "EN": "Only liked by me",
+        "UA": "Только понравившиеся мне"
+    },
+    "_only_my_collections": {
+        "RU": "Только мои коллекции",
+        "EN": "Only my collections",
+        "UA": "Только мои коллекции"
+    },
+    "_most_popular": {
+        "RU": "Самые популярные",
+        "EN": "Most popular",
+        "UA": "Найпопулярніші"
+    },
+    "_most_liked": {
+        "RU": "Самые залайканные",
+        "EN": "Most liked",
+        "UA": "Найзалайканніші"
+    },
+    "_new_collections": {
+        "RU": "Новые коллекции",
+        "EN": "New collections",
+        "UA": "Нові колекції"
+    },
+    "_last_7_days": {
+        "RU": "За последние 7 дней",
+        "EN": "Last 7 days",
+        "UA": "За останні 7 днів"
+    },
+    "_collection_visible_to_all": {
+        "RU": "Коллекция видна всем",
+        "EN": "Collection visible to all",
+        "UA": "Колекція видна всем"
+    },
+    "_delete_collection": {
+        "RU": "Удалить коллекцию",
+        "EN": "Delete collection",
+        "UA": "Удалить коллекцию"
+    },
+    "_backPreview": {
+        "RU": "Назад к предпросмотру",
+        "EN": "Back to preview",
+        "UA": "Назад к предпросмотру"
+    },
+    "_deleteAllSkins": {
+        "RU": "Удалить все скины",
+        "EN": "Delete all skins",
+        "UA": "Удалить все скины"
+    },
+    "_backToCollections": {
+        "RU": "Назад к коллекциям",
+        "EN": "Back to collections",
+        "UA": "Назад к коллекциям"
+    },
+    "_order_likes": {
+        "RU": "По лайкам",
+        "EN": "By likes",
+        "UA": "За лайками"
+    },
+    "_order_installs": {
+        "RU": "По установкам",
+        "EN": "By installs",
+        "UA": "За встановленнями"
+    },
+    "_no_community_collections": {
+        "RU": "Публичных коллекций пока нет",
+        "EN": "No public collections yet",
+        "UA": "Публічних колекцій поки немає"
+    },
+    "_install_collection": {
+        "RU": "Установить коллекцию",
+        "EN": "Install collection",
+        "UA": "Встановити колекцію"
+    },
+    "_collection_saved": {
+        "RU": "Коллекция сохранена",
+        "EN": "Collection saved",
+        "UA": "Колекцію збережено"
+    },
+    "_collection_activated": {
+        "RU": "Коллекция активирована",
+        "EN": "Collection activated",
+        "UA": "Колекцію активовано"
+    },
+    "_collection_deleted": {
+        "RU": "Коллекция удалена",
+        "EN": "Collection deleted",
+        "UA": "Колекцію видалено"
+    },
+    "_collection_installed": {
+        "RU": "Коллекция установлена",
+        "EN": "Collection installed",
+        "UA": "Колекцію встановлено"
+    },
+    "_save_snapshot": {
+        "RU": "Сохранить текущие скины в коллекцию",
+        "EN": "Save current skins to collection",
+        "UA": "Зберегти поточні скіни до колекції"
+    },
+    "_page": {
+        "RU": "Стр.",
+        "EN": "Page",
+        "UA": "Стор."
+    },
+    "_collections_limit": {
+        "RU": "Лимит коллекций",
+        "EN": "Collections limit",
+        "UA": "Ліміт колекцій"
+    },
+    "_collection_creator": {
+        "RU": "Автор коллекции",
+        "EN": "Collection creator",
+        "UA": "Автор колекції"
+    },
+    "_created": {
+        "RU": "Создана",
+        "EN": "Created",
+        "UA": "Створена"
+    },
+    "_published": {
+        "RU": "Опубликована",
+        "EN": "Published",
+        "UA": "Опублікована"
+    },
+    "_updated": {
+        "RU": "Обновлена",
+        "EN": "Updated",
+        "UA": "Оновлена"
+    },
+    "_installed": {
+        "RU": "Установлена",
+        "EN": "Installed",
+        "UA": "Встановлена"
+    },
+    "_rated": {
+        "RU": "Оценена",
+        "EN": "Rated",
+        "UA": "Оцінена"
+    },
+    "_delete_collection_message": {
+        "RU": "Вы уверены, что хотите удалить эту коллекцию? Это действие нельзя отменить.",
+        "EN": "Are you sure you want to delete this collection? This action cannot be undone.",
+        "UA": "Ви впевнені, що хочете видалити цю колекцію? Цю дію не можна скасувати."
+    },
+    "_last_collection_error": {
+        "RU": "Нельзя удалить единственную коллекцию",
+        "EN": "Cannot delete the only collection",
+        "UA": "Не можна видалити єдину колекцію"
+    },
+    "_no_free_slots": {
+        "RU": "Нет свободных слотов для коллекции",
+        "EN": "No free collection slots available",
+        "UA": "Немає вільних слотів для колекції"
+    },
+    "_collection_liked": {
+        "RU": "Вы оценили коллекцию",
+        "EN": "Collection liked",
+        "UA": "Ви оцінили колекцію"
+    },
+    "_collection_unliked": {
+        "RU": "Оценка снята",
+        "EN": "Like removed",
+        "UA": "Оцінку знято"
+    },
+    "_collection_copied": {
+        "RU": "Коллекция скопирована",
+        "EN": "Collection copied",
+        "UA": "Колекцію скопійовано"
+    },
+    "_cat_knives": {
+        "RU": "Ножи",
+        "EN": "Knives",
+        "UA": "Ножі"
+    },
+    "_cat_gloves": {
+        "RU": "Перчатки",
+        "EN": "Gloves",
+        "UA": "Рукавиці"
+    },
+    "_cat_rifles": {
+        "RU": "Винтовки",
+        "EN": "Rifles",
+        "UA": "Гвинтівки"
+    },
+    "_cat_sniper_rifles": {
+        "RU": "Снайперские винтовки",
+        "EN": "Sniper rifles",
+        "UA": "Снайперські гвинтівки"
+    },
+    "_cat_pistols": {
+        "RU": "Пистолеты",
+        "EN": "Pistols",
+        "UA": "Пістолети"
+    },
+    "_cat_heavy": {
+        "RU": "Тяжёлое",
+        "EN": "Heavy",
+        "UA": "Важке"
+    },
+    "_cat_smg": {
+        "RU": "Пистолеты-пулемёты",
+        "EN": "Submachine guns",
+        "UA": "Пістолети-кулемети"
+    },
+    "_cat_utility": {
+        "RU": "Утилиты",
+        "EN": "Utility Items",
+        "UA": "Утиліти"
+    },
+    "_cat_agents": {
+        "RU": "Агенты",
+        "EN": "Agents",
+        "UA": "Агенти"
+    },
+    "_nothing_found": {
+        "RU": "Ничего не найдено",
+        "EN": "Nothing found",
+        "UA": "Нічого не знайдено"
+    },
+    "_settings_saved": {
+        "RU": "Настройки сохранены",
+        "EN": "Settings saved",
+        "UA": "Налаштування збережено"
+    },
+    "_default_collection_added": {
+        "RU": "Коллекция добавлена в готовые",
+        "EN": "Collection added to featured",
+        "UA": "Колекцію додано до готових"
+    },
+    "_not_found": {
+        "RU": "Не найдено",
+        "EN": "Not found",
+        "UA": "Не знайдено"
+    },
+    "_tables_installed": {
+        "RU": "Таблицы успешно установлены",
+        "EN": "Tables installed successfully",
+        "UA": "Таблиці успішно встановлено"
+    },
+    "_share_collection": {
+        "RU": "Поделиться",
+        "EN": "Share",
+        "UA": "Поделиться"
+    },
+    "_link_copied": {
+        "RU": "Ссылка скопирована",
+        "EN": "Link copied",
+        "UA": "Посилання скопійовано"
+    },
+    "_order_saved": {
+        "RU": "Порядок сохранён",
+        "EN": "Order saved",
+        "UA": "Порядок збережено"
+    },
+    "_cat_ct_agents": {
+        "RU": "Агенты CT",
+        "EN": "CT Agents",
+        "UA": "Агенти CT"
+    },
+    "_cat_t_agents": {
+        "RU": "Агенты T",
+        "EN": "T Agents",
+        "UA": "Агенти T"
+    },
+    "_cat_music_kits": {
+        "RU": "Музыкальные наборы",
+        "EN": "Music Kits",
+        "UA": "Музичні набори"
+    },
+    "_cat_coins": {
+        "RU": "Монеты и значки",
+        "EN": "Coins & Pins",
+        "UA": "Монети та значки"
+    },
+    "_ap_install_tables_desc": {
+        "RU": "Создаёт таблицы коллекций модуля в базе данных Skins. Безопасно запускать повторно — существующие таблицы не затрагиваются.",
+        "EN": "Creates the module collection tables in the Skins database. Safe to run repeatedly — existing tables are not affected.",
+        "UA": "Створює таблиці колекцій модуля в базі даних Skins. Безпечно запускати повторно — існуючі таблиці не зачіпаються."
+    },
+    "_ap_install_tables": {
+        "RU": "Установить таблицы",
+        "EN": "Install tables",
+        "UA": "Встановити таблиці"
+    },
+    "_ap_skin_cache": {
+        "RU": "Кеш скинов",
+        "EN": "Skin cache",
+        "UA": "Кеш скінів"
+    },
+    "_ap_update_status": {
+        "RU": "Статус обновления:",
+        "EN": "Update status:",
+        "UA": "Статус оновлення:"
+    },
+    "_ap_refresh_all": {
+        "RU": "Обновить все вместе",
+        "EN": "Update all at once",
+        "UA": "Оновити все разом"
+    },
+    "_ap_refresh_skins": {
+        "RU": "Обновить только скины",
+        "EN": "Update skins only",
+        "UA": "Оновити тільки скіни"
+    },
+    "_ap_refresh_stickers": {
+        "RU": "Обновить только стикеры",
+        "EN": "Update stickers only",
+        "UA": "Оновити тільки стікери"
+    },
+    "_ap_refresh_keychains": {
+        "RU": "Обновить только брелоки",
+        "EN": "Update keychains only",
+        "UA": "Оновити тільки брелоки"
+    },
+    "_ap_refresh_agents": {
+        "RU": "Обновить только агентов",
+        "EN": "Update agents only",
+        "UA": "Оновити тільки агентів"
+    },
+    "_ap_refresh_coins": {
+        "RU": "Обновить только монеты",
+        "EN": "Update coins only",
+        "UA": "Оновити тільки монети"
+    },
+    "_ap_refresh_music": {
+        "RU": "Обновить только музыкальные наборы",
+        "EN": "Update music kits only",
+        "UA": "Оновити тільки музичні набори"
+    },
+    "_ap_refresh_collections": {
+        "RU": "Обновить только коллекции",
+        "EN": "Update collections only",
+        "UA": "Оновити тільки колекції"
+    },
+    "_ap_select_new_collections": {
+        "RU": "Выберите новые коллекции",
+        "EN": "Select new collections",
+        "UA": "Виберіть нові колекції"
+    },
+    "_ap_select_update_type": {
+        "RU": "Выберите тип обновления",
+        "EN": "Select update type",
+        "UA": "Виберіть тип оновлення"
+    },
+    "_ap_update": {
+        "RU": "Обновить",
+        "EN": "Update",
+        "UA": "Оновити"
+    },
+    "_ap_settings": {
+        "RU": "Настройки",
+        "EN": "Settings",
+        "UA": "Налаштування"
+    },
+    "_ap_plugin_for_skins": {
+        "RU": "Плагин для работы со скинами на сервере",
+        "EN": "Plugin for managing skins on the server",
+        "UA": "Плагін для роботи зі скінами на сервері"
+    },
+    "_ap_select_plugin": {
+        "RU": "Выберите плагин",
+        "EN": "Select plugin",
+        "UA": "Виберіть плагін"
+    },
+    "_ap_collections_limit_desc": {
+        "RU": "Максимальное количество коллекций, которое может создать один игрок.",
+        "EN": "Maximum number of collections a single player can create.",
+        "UA": "Максимальна кількість колекцій, яку може створити один гравець."
+    },
+    "_ap_vip_slots_title": {
+        "RU": "Дополнительные слоты для VIP групп",
+        "EN": "Additional slots for VIP groups",
+        "UA": "Додаткові слоти для VIP груп"
+    },
+    "_ap_vip_slots_desc": {
+        "RU": "Игроки, состоящие в этих группах, будут иметь дополнительное количество слотов для коллекций. Например, если указать 3 дополнительных слота для группы \"PREMIUM\", то игроки из этой группы смогут создавать на 3 коллекции больше, чем обычные игроки.",
+        "EN": "Players in these groups will have additional collection slots. For example, if you set 3 extra slots for the \"PREMIUM\" group, players in that group will be able to create 3 more collections than regular players.",
+        "UA": "Гравці, що перебувають у цих групах, матимуть додаткову кількість слотів для колекцій. Наприклад, якщо вказати 3 додаткових слоти для групи \"PREMIUM\", гравці з цієї групи зможуть створювати на 3 колекції більше, ніж звичайні гравці."
+    },
+    "_ap_group_name": {
+        "RU": "Название группы",
+        "EN": "Group name",
+        "UA": "Назва групи"
+    },
+    "_ap_extra_slots": {
+        "RU": "Доп. слотов",
+        "EN": "Extra slots",
+        "UA": "Дод. слотів"
+    },
+    "_ap_save": {
+        "RU": "Сохранить",
+        "EN": "Save",
+        "UA": "Зберегти"
+    },
+    "_ap_preset_collections": {
+        "RU": "Готовые коллекции",
+        "EN": "Preset collections",
+        "UA": "Готові колекції"
+    },
+    "_ap_preset_collections_desc": {
+        "RU": "Отображаются всем игрокам в разделе «Готовые коллекции». Создавайте готовые коллекции сами или ищите подходящие коллекции, созданные игроками и на их основе создавайте готовые для всех",
+        "EN": "Visible to all players in the \"Preset Collections\" section. Create preset collections yourself or find suitable collections made by players and use them as a basis to create presets for everyone.",
+        "UA": "Відображаються всім гравцям у розділі «Готові колекції». Створюйте готові колекції самі або шукайте підходящі колекції, створені гравцями, і на їх основі створюйте готові для всіх."
+    },
+    "_ap_collection_id": {
+        "RU": "ID коллекции",
+        "EN": "Collection ID",
+        "UA": "ID колекції"
+    },
+    "_ap_name_optional": {
+        "RU": "Название (не обязательно)",
+        "EN": "Name (optional)",
+        "UA": "Назва (необов'язково)"
+    },
+    "_ap_add_preset_collection": {
+        "RU": "Добавить готовую коллекцию",
+        "EN": "Add preset collection",
+        "UA": "Додати готову колекцію"
+    },
+    "_ap_col_name": {
+        "RU": "Название",
+        "EN": "Name",
+        "UA": "Назва"
+    },
+    "_ap_col_skins": {
+        "RU": "Скинов",
+        "EN": "Skins",
+        "UA": "Скінів"
+    },
+    "_ap_vip_groups": {
+        "RU": "VIP группы",
+        "EN": "VIP groups",
+        "UA": "VIP групи"
+    },
+    "_ap_vip_groups_desc": {
+        "RU": "Если включено, только игроки из указанных групп будут видеть и использовать скины. Впишите группы через точку с запятой. Например: PREMIUM;VIP",
+        "EN": "If enabled, only players from the specified groups will see and use the skins. Enter groups separated by a semicolon. For example: PREMIUM;VIP",
+        "UA": "Якщо увімкнено, тільки гравці з вказаних груп будуть видеть и использовать скины. Впишите группы через точку с запятой. Например: PREMIUM;VIP"
+    },
+    "_ap_vip_only": {
+        "RU": "Доступ только для VIP игроков",
+        "EN": "VIP players only",
+        "UA": "Доступ только для VIP игроков"
+    },
+    "_vip_access": {
+        "RU": "Вип-доступ",
+        "EN": "VIP access",
+        "UA": "Вип-доступ"
+    },
+    "_access_denied": {
+        "RU": "Доступ запрещен!",
+        "EN": "Access denied!",
+        "UA": "Доступ заборонено!"
+    },
+    "_vip_access_desc": {
+        "RU": "Только пользователи с %s доступом могут использовать функционал скинченджера.",
+        "EN": "Only users with %s access can use the skin changer functionality.",
+        "UA": "Тільки користувачі з %s доступом можуть використовувати функционал скинченджера."
+    },
+    "_buy_vip": {
+        "RU": "Купить привилегию",
+        "EN": "Buy VIP",
+        "UA": "Купить привилегию"
+    },
+    "_auth_access_desc": {
+        "RU": "Только авторизованные пользователи могут использовать функционал скинченджера. Пожалуйста, авторизуйтесь через Steam, чтобы получить доступ.",
+        "EN": "Only authenticated users can use the skin changer functionality. Please log in through Steam to gain access.",
+        "UA": "Тільки авторизовані користувачі можуть використовувати функционал скинченджера. Будь ласка, авторизуйтесь через Steam, чтобы получить доступ."
+    },
+    "_reset_collection": {
+        "RU": "Сбросить коллекцию",
+        "EN": "Reset collection",
+        "UA": "Скинути колекцію"
+    },
+    "_reset_collection_message": {
+        "RU": "Вы уверены, что хотите сбросить все скины в коллекции? Это действие нельзя отменить.",
+        "EN": "Are you sure you want to reset all skins in the collection? This action cannot be undone.",
+        "UA": "Ви впевнені, що хочете скинути всі скіни в колекції? Цю дію не можна скасувати."
+    },
+    "_no_presets": {
+        "RU": "Нет готовых коллекций",
+        "EN": "No preset collections",
+        "UA": "Немає готових колекцій"
+    },
+    "_cache_type_skins": {
+        "RU": "Скины",
+        "EN": "Skins",
+        "UA": "Скіни"
+    },
+    "_cache_type_stickers": {
+        "RU": "Наклейки",
+        "EN": "Stickers",
+        "UA": "Наклейки"
+    },
+    "_cache_type_keychains": {
+        "RU": "Брелки",
+        "EN": "Keychains",
+        "UA": "Брелки"
+    },
+    "_cache_type_agents": {
+        "RU": "Агенты",
+        "EN": "Agents",
+        "UA": "Агенти"
+    },
+    "_cache_type_coins": {
+        "RU": "Монеты",
+        "EN": "Coins",
+        "UA": "Монети"
+    },
+    "_cache_type_music": {
+        "RU": "Музыка",
+        "EN": "Music",
+        "UA": "Музика"
+    },
+    "_cache_type_collections": {
+        "RU": "Коллекции",
+        "EN": "Collections",
+        "UA": "Колекції"
+    },
+    "_cache_no_data": {
+        "RU": "Нет данных",
+        "EN": "No data",
+        "UA": "Немає даних"
+    },
+    "_cache_stale": {
+        "RU": "⚠ Требуется обновление",
+        "EN": "⚠ Needs update",
+        "UA": "⚠ Потрібне оновлення"
+    },
+    "_cache_actual": {
+        "RU": "✓ Актуально",
+        "EN": "✓ Up to date",
+        "UA": "✓ Актуально"
+    },
+    "_cache_absent": {
+        "RU": "Кеш отсутствует",
+        "EN": "Cache absent",
+        "UA": "Кеш відсутній"
+    },
+    "_cache_updating": {
+        "RU": "Обновление: %s (%d из %d)...",
+        "EN": "Updating: %s (%d of %d)...",
+        "UA": "Оновлення: %s (%d з %d)..."
+    },
+    "_auth": {
+        "RU": "Авторизоваться на сайте",
+        "EN": "Authenticate on the website",
+        "UA": "Авторизоваться на сайте"
+    },
+    "_install_skins": {
+        "RU": "Установить скины",
+        "EN": "Install skins",
+        "UA": "Установить скины"
+    },
+    "_skins_not_installed": {
+        "RU": "Скины не установлены.",
+        "EN": "Skins are not installed.",
+        "UA": "Скіни не встановлені."
+    },
+    "_publish": {
+        "RU": "Опубликовать",
+        "EN": "Publish",
+        "UA": "Опубліковать"
+    },
+    "_hide_from_public": {
+        "RU": "Скрыть",
+        "EN": "Hide",
+        "UA": "Приховати"
+    },
+    "_noty_skin_set": {
+        "RU": "Скин установлен",
+        "EN": "Skin applied",
+        "UA": "Скін встановлено"
+    },
+    "_noty_skin_removed": {
+        "RU": "Скин удалён",
+        "EN": "Skin removed",
+        "UA": "Скін видалено"
+    },
+    "_noty_all_cleared": {
+        "RU": "Все скины очищены",
+        "EN": "All skins cleared",
+        "UA": "Всі скіни очищено"
+    },
+    "_noty_item_set": {
+        "RU": "Предмет установлен",
+        "EN": "Item applied",
+        "UA": "Предмет встановлено"
+    },
+    "_noty_item_removed": {
+        "RU": "Предмет удалён",
+        "EN": "Item removed",
+        "UA": "Предмет видалено"
+    },
+    "_noty_sticker_set": {
+        "RU": "Наклейка установлена",
+        "EN": "Sticker applied",
+        "UA": "Наклейку встановлено"
+    },
+    "_noty_sticker_removed": {
+        "RU": "Наклейка удалена",
+        "EN": "Sticker removed",
+        "UA": "Наклейку видалено"
+    },
+    "_noty_keychain_set": {
+        "RU": "Брелок установлен",
+        "EN": "Keychain applied",
+        "UA": "Брелок встановлено"
+    },
+    "_noty_keychain_removed": {
+        "RU": "Брелок удалён",
+        "EN": "Keychain removed",
+        "UA": "Брелок видалено"
+    },
+    "_noty_skin_settings_saved": {
+        "RU": "Настройки скина сохранены",
+        "EN": "Skin settings saved",
+        "UA": "Налаштування скіна збережено"
+    },
+    "_collection_published": {
+        "RU": "Коллекция опубликована",
+        "EN": "Collection published",
+        "UA": "Колекцію опубліковано"
+    },
+    "_collection_unpublished": {
+        "RU": "Коллекция скрыта",
+        "EN": "Collection unpublished",
+        "UA": "Колекцію приховано"
+    },
+    "_db_working": {
+        "RU": "Работа с базой данных",
+        "EN": "Database operations",
+        "UA": "Работа с базой данных"
+    },
+    "_requestsLimit": {
+        "RU": "Ограничение запросов",
+        "EN": "Request limit",
+        "UA": "Обмеження запитів"
+    },
+    "_requestsLimit_desc": {
+        "RU": "Укажите количетсво допустимых запросов (кликов), чтобы избежать лишнюю нагрузку на базу данных. рекомендуемые значения от 5 до 15",
+        "EN": "Set the number of allowed requests (clicks) to avoid unnecessary load on the database. Recommended values are between 5 and 15",
+        "UA": "Укажите количетсво допустимых запросов (кликов), чтобы избежать лишнюю нагрузку на базу данных. рекомендуемые значения от 5 до 15"
+    },
+    "_requestsLimit_reached": {
+        "RU": "Количество запросов",
+        "EN": "Request limit reached",
+        "UA": "Количество запросов"
+    },
+    "_noty_rate_limited": {
+        "RU": "Превышение лимита запросов. Пожалуйста, подождите немного.",
+        "EN": "Too many requests. Please wait a moment.",
+        "UA": "Перевищення ліміту запитів. Будь ласка, зачекайте."
+    },
+    "_skinChanger": {
+        "RU": "Скинченджер",
+        "EN": "Skin changer",
+        "UA": "Скінченджер"
+    },
+    "_module_settings": {
+        "RU": "Настройки модуля",
+        "EN": "Module settings",
+        "UA": "Налаштування модуля"
+    },
+    "_sc_checked_delete": {
+        "RU": "Удалить отмеченные",
+        "EN": "Delete checked",
+        "UA": "Видалити обрані"
+    },
+    "_delete_checked_skins_message": {
+        "RU": "Вы уверены, что хотите удалить выбранные скины? Это действие нельзя отменить.",
+        "EN": "Are you sure you want to delete the selected skins? This action cannot be undone.",
+        "UA": "Ви впевнені, що хочете видалити вибрані скини? Цю дію не можна відмінити."
+    },
+    "_select_skin": {
+        "RU": "Выбрать",
+        "EN": "Select",
+        "UA": "Выбрать"
+    },
+    "_showNew": {
+        "RU": "Показ новых скинов",
+        "EN": "Show new skins",
+        "UA": "Показ новых скинов"
+    },
+    "_showNew_desc": {
+        "RU": "Относительно какой коллекции будет накладываться бейджик NEW на скинах. Выберите коллекцию ниже.",
+        "EN": "Relative to which collection the NEW badge will be applied to skins. Select a collection below.",
+        "UA": "Относительно какой коллекции будет накладываться бейджик NEW на скинах. Выберите коллекцию ниже."
+    },
+    "_searchCollection": {
+        "RU": "Поиск коллекции",
+        "EN": "Search collection",
+        "UA": "Пошук колекції"
+    },
+    "_warning": {
+        "RU": "Внимание!",
+        "EN": "Warning!",
+        "UA": "Внимание!"
+    },
+    "_apply_skins_warning": {
+        "RU": "Не забудьте применить скины на сервере командой !wp в чате",
+        "EN": "Don't forget to apply skins on the server using the !wp command in chat",
+        "UA": "Не забудьте применить скины на сервере командой !wp в чате"
+    }
+}

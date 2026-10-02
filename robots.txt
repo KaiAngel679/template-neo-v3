@@ -1,0 +1,14 @@
+User-agent: Amazonbot
+Disallow: /
+User-agent: *
+Disallow: /reports/
+Disallow: /inventory/
+Disallow: /profiles
+Disallow: /managersystem/
+Disallow: /cases/admin/
+Disallow: /admins_online/
+Disallow: /reviews
+Disallow: /store/*/
+Disallow: /check/
+Disallow: /reviews/settings/
+Disallow: /adminpanel/

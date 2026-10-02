@@ -1,0 +1,16 @@
+{
+    "title": "Neo | Ticket System",
+    "info": "ticket system",
+    "author": "onevalve.ru",
+    "page": "tickets",
+    "version": "2.2.6",
+    "setting": {
+        "status": 1,
+        "type": 1,
+        "translation": 1,
+        "interface": 1,
+        "data": 1,
+        "css": 1,
+        "js": 1
+    }
+}

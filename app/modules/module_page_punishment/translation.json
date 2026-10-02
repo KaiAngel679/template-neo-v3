@@ -1,0 +1,366 @@
+{
+    "_punishment": {
+        "EN": "Punishments",
+        "RU": "Наказания",
+        "UA": "Покарання"
+    },
+    "_searchPlayers": {
+        "EN": "Search inptruder",
+        "RU": "Найти нарушителя",
+        "UA": "Знайти порушника"
+    },
+    "_searchAdmin": {
+        "EN": "Search admin",
+        "RU": "Найти админа"
+    },
+    "_Bans": {
+        "EN": "Bans",
+        "RU": "Баны",
+        "UA": "Бани"
+    },
+    "_Comms": {
+        "EN": "Comms",
+        "RU": "Муты",
+        "UA": "М'юти"
+    },
+    "_Info": {
+        "EN": "Info",
+        "RU": "Инфо",
+        "UA": "Інфо"
+    },
+    "_StatusAcc": {
+        "EN": "Your account Status",
+        "RU": "Состояние вашего аккаунта",
+        "UA": "Статус вашого акаунту"
+    },
+    "_FilterPunishes": {
+        "EN": "Punishments filter",
+        "RU": "Фильтр наказаний",
+        "UA": "Фільтр покарань"
+    },
+    "_DataNotAuth": {
+        "EN": "Data is only available to authorized users.",
+        "RU": "Данные доступны только авторизованным пользователям.",
+        "UA": "Дані доступні лише авторизованим користувачам."
+    },
+    "_Authorize": {
+        "EN": "Authorize",
+        "RU": "Авторизуйтесь",
+        "UA": "Авторизуйтеся"
+    },
+    "_PunishmentList": {
+        "EN": "Punishment list",
+        "RU": "Список наказаний",
+        "UA": "Список покарань"
+    },
+    "_AdminsList": {
+        "EN": "Admins list",
+        "RU": "Список админов",
+        "UA": "Список админов"
+    },
+    "_NoGameBlocks": {
+        "EN": "No game blocking or communication blocking was found",
+        "RU": "Игровых блокировок и блокировок общения не найдено",
+        "UA": "Ігрових блокувань та блокувань спілкування не знайдено"
+    },
+    "_GameBlocks": {
+        "EN": "Game blocks: ",
+        "RU": "Игровых блокировок: ",
+        "UA": "Ігрових блокувань: "
+    },
+    "_CommunicateBlocks": {
+        "EN": "Comms blocks: ",
+        "RU": "Блокировок общения: ",
+        "UA": "Блокувань спілкування: "
+    },
+    "_PunishStats": {
+        "EN": "Punishment stats",
+        "RU": "Статистика наказаний",
+        "UA": "Статистика покарань"
+    },
+    "_Show": {
+        "EN": "Show",
+        "RU": "Показать",
+        "UA": "Показати"
+    },
+    "_Hide": {
+        "EN": "Hide",
+        "RU": "Скрыть",
+        "UA": "Сховати"
+    },
+    "_TotalBans": {
+        "EN": "Total bans",
+        "RU": "Всего банов",
+        "UA": "Всього банів"
+    },
+    "_ActiveBans": {
+        "EN": "Active bans",
+        "RU": "Активных банов",
+        "UA": "Активних банів"
+    },
+    "_PermanentBans": {
+        "EN": "Permanent bans",
+        "RU": "Перманентных банов",
+        "UA": "Постійних банів"
+    },
+    "_RemovedBans": {
+        "EN": "Removed bans",
+        "RU": "Снятых банов",
+        "UA": "Знятих банів"
+    },
+    "_TotalComms": {
+        "EN": "Total comms",
+        "RU": "Всего мутов",
+        "UA": "Всього м'ютів"
+    },
+    "_TotalGags": {
+        "EN": "Total gags",
+        "RU": "Всего гагов",
+        "UA": "Всього гагів"
+    },
+    "_TypePunish": {
+        "EN": "Type",
+        "RU": "Тип",
+        "UA": "Тип"
+    },
+    "_Player": {
+        "EN": "Player",
+        "RU": "Игрок",
+        "UA": "Гравець"
+    },
+    "_Reason": {
+        "EN": "Reason",
+        "RU": "Причина",
+        "UA": "Причина"
+    },
+    "_Expire": {
+        "EN": "Expire",
+        "RU": "Окончание",
+        "UA": "Закінчення"
+    },
+    "_Term": {
+        "EN": "Term",
+        "RU": "Срок",
+        "UA": "Термін"
+    },
+    "_Admin": {
+        "EN": "Admin",
+        "RU": "Админ",
+        "UA": "Адмін"
+    },
+    "_DetailsPunishment": {
+        "EN": "Details of the punishment",
+        "RU": "Подробности наказания",
+        "UA": "Деталі покарання"
+    },
+    "_BuyUnban": {
+        "EN": "Buy unban",
+        "RU": "Купить разбан",
+        "UA": "Купити розбан"
+    },
+    "_RemovePunishButton": {
+        "EN": "Remove punishment",
+        "RU": "Снять наказание",
+        "UA": "Зняти покарання"
+    },
+    "_PunishedPlayer": {
+        "EN": "Punished player",
+        "RU": "Наказанный игрок",
+        "UA": "Покараний гравець"
+    },
+    "_SteamidPlayer": {
+        "EN": "STEAM ID player",
+        "RU": "STEAM ID игрока",
+        "UA": "STEAM ID гравця"
+    },
+    "_IPpunished": {
+        "EN": "IP punished",
+        "RU": "IP наказанного",
+        "UA": "IP покараного"
+    },
+    "_DatePunishment": {
+        "EN": "Date of punishment",
+        "RU": "Дата наказания",
+        "UA": "Дата покарання"
+    },
+    "_ExpirePunishModal": {
+        "EN": "Expire",
+        "RU": "Заканчивается",
+        "UA": "Закінчується"
+    },
+    "_TermModal": {
+        "EN": "Term",
+        "RU": "Срок",
+        "UA": "Термін"
+    },
+    "_AllServers": {
+        "EN": "All servers",
+        "RU": "Все сервера",
+        "UA": "Усі сервери"
+    },
+    "_IssuedBy": {
+        "EN": "The punishment was issued by an administrator",
+        "RU": "Наказание выдал администратор",
+        "UA": "Покарання видав адміністратор"
+    },
+    "_unpunish_By": {
+        "EN": "The punishment was removed by an administrator",
+        "RU": "Наказание снял администратор",
+        "UA": "Покарання зняв адміністратор"
+    },
+    "_UnMute": {
+        "EN": "You have purchased the unmute service",
+        "RU": "Вы приобрели услугу размут",
+        "UA": "Ви придбали послугу размут"
+    },
+    "_UnBan": {
+        "EN": "You have purchased the unban service",
+        "RU": "Вы приобрели услугу разбан",
+        "UA": "Ви придбали послугу разбан"
+    },
+    "_viewInfo": {
+        "EN": "View information",
+        "RU": "Посмотреть информацию",
+        "UA": "Переглянути інформацію"
+    },
+    "_openProfile": {
+        "EN": "Open proile ",
+        "RU": "Открыть профиль ",
+        "UA": "Відкрити профіль "
+    },
+    "_setupTables": {
+        "EN": "Set up tables",
+        "RU": "Установить таблицы",
+        "UA": "Встановити таблиці"
+    },
+    "_adminInfo": {
+        "EN": "Admin info",
+        "RU": "Информация об админе",
+        "UA": "Інформація про адмін"
+    },
+    "_haventEnouh": {
+        "EN": "You don't have enough funds!",
+        "RU": "У вас недостаточно средств!",
+        "UA": "У вас недостатньо коштів!"
+    },
+    "_notAuth": {
+        "EN": "You are not authorized!",
+        "RU": "Вы не авторизированны!",
+        "UA": "Ви не авторизовані!"
+    },
+    "_notValid": {
+        "EN": "The punishment is not valid",
+        "RU": "Наказание не действительно",
+        "UA": "Покарання не дійсне"
+    },
+    "_errorRcon": {
+        "EN": "Error sending RCON! Contact the site administrator.",
+        "RU": "Ошибка отправки RCON! Обратитесь к администратору сайта.",
+        "UA": "Помилка надсилання RCON! Зверніться до адміністратора сайту."
+    },
+    "_buyUnban": {
+        "EN": "You have successfully purchased the unban service!",
+        "RU": "Вы успешно приобрели услугу разбан!",
+        "UA": "Ви успішно придбали послугу розбан!"
+    },
+    "_adminUnban": {
+        "EN": "You have successfully unbanned the player!",
+        "RU": "Вы успешно разбанили игрока!",
+        "UA": "Ви успішно розбаняли гравця!"
+    },
+    "_buyUnmute": {
+        "EN": "You have successfully purchased the unmute service!",
+        "RU": "Вы успешно приобрели услугу размут!",
+        "UA": "Ви успішно придбали послугу розмут!"
+    },
+    "_adminUnmute": {
+        "EN": "You have successfully disturbed the player.",
+        "RU": "Вы успешно размутили игрока",
+        "UA": "Ви успішно розмутили гравця"
+    },
+    "_fewHours": {
+        "EN": "Too few hours played for the voice!",
+        "RU": "Слишком мало наиграно часов для голоса!",
+        "UA": "Надто мало награно годинника для голосу!"
+    },
+    "_voteRemove": {
+        "EN": "The vote has been removed!",
+        "RU": "Голос снят!",
+        "UA": "Голос знятий!"
+    },
+    "_votedAlready": {
+        "EN": "You have already voted for this admin!",
+        "RU": "Вы уже голосовали за этого админа!",
+        "UA": "Ви вже голосували за цього адміна!"
+    },
+    "_voteCounted": {
+        "EN": "The vote has been counted!",
+        "RU": "Голос засчитан!",
+        "UA": "Голос зарахований!"
+    },
+    "_reportsReviewed": {
+        "EN": "Reports reviewed",
+        "RU": "Рассмотрено репортов",
+        "UA": "Розглянуто репортів"
+    },
+    "_passedChecks": {
+        "EN": "Passed checks",
+        "RU": "Пройдено проверок",
+        "UA": "Пройдено перевірок"
+    },
+    "_gagsIssued": {
+        "EN": "Gags issued",
+        "RU": "Выдано гагов",
+        "UA": "Видано гагівк"
+    },
+    "_mutesIssued": {
+        "EN": "Muts issued",
+        "RU": "Выдано мутов",
+        "UA": "Видано мутів"
+    },
+    "_bansIssued": {
+        "EN": "Bans issued",
+        "RU": "Выдано банов",
+        "UA": "Видано банів"
+    },
+    "_warns": {
+        "EN": "Warns",
+        "RU": "Предупреждения",
+        "UA": "Попередження"
+    },
+    "_term": {
+        "EN": "Term of privilege",
+        "RU": "Срок привилегии",
+        "UA": "Термін привілею"
+    },
+    "_group": {
+        "EN": "Group",
+        "RU": "Группа",
+        "UA": "Група"
+    },
+    "_Unmuted": {
+        "EN": "Unmuted",
+        "RU": "Размучен",
+        "UA": "Розмучений"
+    },
+    "_Unbanned": {
+        "EN": "Unbanned",
+        "RU": "Разбанен",
+        "UA": "Розбанений"
+    },
+    "_connectMod": {
+        "EN": "None of the supported mods are connected! (AdminSystem | IksAdmin | IksAdminNew)",
+        "RU": "Не подключен ни один из поддерживаемых модов! (AdminSystem | IksAdmin | IksAdminNew)",
+        "UA": "Не підключено жодного з підтримуваних модів! (AdminSystem | IksAdmin | IksAdminNew)"
+    },
+    "_console": {
+        "EN": "Console",
+        "RU": "Консоль",
+        "UA": "Консоль"
+    },
+    "_notAdmin": {
+        "EN": "You are not an administrator!",
+        "RU": "Вы не администратор!",
+        "UA": "Ви не адміністратор!"
+    }
+}

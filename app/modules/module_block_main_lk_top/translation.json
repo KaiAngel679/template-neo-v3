@@ -1,0 +1,32 @@
+{
+    "_infoUpdate": {
+        "EN": "Information is updated once per hour.",
+        "UA": "Інформація оновлюється раз на годину",
+        "RU": "Информация обновляется раз в час"
+    },
+    "_topDonors": {
+        "EN": "Top project donors for",
+        "UA": "Топ донатерів проекту за",
+        "RU": "Топ донатеров проекта за"
+    },
+    "_sevenDays": {
+        "EN": "7 days",
+        "UA": "7 днів",
+        "RU": "7 дней"
+    },
+    "_thirtyDays": {
+        "EN": "30 days",
+        "UA": "30 дні",
+        "RU": "30 дней"
+    },
+    "_allTime": {
+        "EN": "All time",
+        "UA": "Весь час",
+        "RU": "Всё время"
+    },
+    "_place": {
+        "EN": "place",
+        "UA": "місце",
+        "RU": "место"
+    }
+}

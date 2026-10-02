@@ -1,0 +1,302 @@
+{
+    "_cacheFileNotFound": {
+        "EN": "Cache file not found",
+        "UA": "Файл кешу не знайдено",
+        "RU": "Файл кэша не найден"
+    },
+    "_noPermissionToWrite": {
+        "EN": "No permission to write to cache file",
+        "UA": "Недостатньо прав для запису у файл кешу",
+        "RU": "Недостаточно прав для записи в файл кэша"
+    },
+    "_errorWritingCache": {
+        "EN": "Error writing to cache file",
+        "UA": "Помилка запису у файл кешу",
+        "RU": "Ошибка записи в файл кэша"
+    },
+    "_unknownErrorSavingParameters": {
+        "EN": "Unknown error saving parameters",
+        "UA": "Невідома помилка збереження параметрів",
+        "RU": "Неизвестная ошибка сохранения параметров"
+    },
+    "_settingsSavedSuccessfully": {
+        "EN": "Settings saved successfully",
+        "UA": "Налаштування успішно збережено",
+        "RU": "Настройки успешно сохранены"
+    },
+    "_subscriptionTelegram": {
+        "EN": "Telegram Subscription",
+        "UA": "Підписка Telegram",
+        "RU": "Подписка Telegram"
+    },
+    "_subscriptionDiscord": {
+        "EN": "Discord Subscription",
+        "UA": "Підписка Discord",
+        "RU": "Подписка Discord"
+    },
+    "_subscriptionVk": {
+        "EN": "VK Subscription",
+        "UA": "Підписка Вконтакте",
+        "RU": "Подписка Вконтакте"
+    },
+    "_execute": {
+        "EN": "Execute",
+        "UA": "Виконати",
+        "RU": "Выполнить"
+    },
+    "_done": {
+        "EN": "Done",
+        "UA": "Виконано",
+        "RU": "Выполнено"
+    },
+    "_heyFriend": {
+        "EN": "Hey friend, need more bonuses?",
+        "UA": "Гей, друже, потрібні ще бонуси?",
+        "RU": "Эй, друг, еще бонусы нужны?"
+    },
+    "_heyFriendDescription": {
+        "EN": "Then subscribe to all our social networks, follow all important news and posts, as other bonuses, giveaways, promo codes and much more may be published there!",
+        "UA": "Тоді підпишись на всі наші соціальні мережі, відстежуй всі важливі новини та пости, там можуть публікуватися інші бонуси, розіграші, промокоди та багато іншого!",
+        "RU": "Тогда подпишись на все наши социальные сети, отслеживай все важные новости и посты, там могут публиковаться прочие бонусы, розыгрыши, промокоды и многое другое!"
+    },
+    "_checkingSubscription": {
+        "EN": "Checking subscription...",
+        "UA": "Перевірка підписки...",
+        "RU": "Проверка подписки..."
+    },
+    "_subscribe": {
+        "EN": "Subscribe",
+        "UA": "Підписатися",
+        "RU": "Подписаться"
+    },
+    "_checkSubscription": {
+        "EN": "Check Subscription",
+        "UA": "Перевірити підписку",
+        "RU": "Проверить подписку"
+    },
+    "_settings": {
+        "EN": "Settings",
+        "UA": "Налаштування",
+        "RU": "Настройки"
+    },
+    "_telegramSettings": {
+        "EN": "Telegram Settings",
+        "UA": "Налаштування Telegram",
+        "RU": "Настройки Telegram"
+    },
+    "_discordSettings": {
+        "EN": "Discord Settings",
+        "UA": "Налаштування Discord",
+        "RU": "Настройки Discord"
+    },
+    "_vkSettings": {
+        "EN": "VK Settings",
+        "UA": "Налаштування Вконтакте",
+        "RU": "Настройки Вконтакте"
+    },
+    "_enableBonus": {
+        "EN": "Activate Bonus",
+        "UA": "Активувати бонус",
+        "RU": "Активировать бонус"
+    },
+    "_bannerDescription": {
+        "EN": "Banner Description",
+        "UA": "Опис на банері",
+        "RU": "Описаниее на баннере"
+    },
+    "_amountOfMoney": {
+        "EN": "Amount of Money",
+        "UA": "Кількість грошей",
+        "RU": "Количество денег"
+    },
+    "_telegramLink": {
+        "EN": "Telegram Link",
+        "UA": "Посилання на Telegram",
+        "RU": "Ссылка на Telegram"
+    },
+    "_discordLink": {
+        "EN": "Discord Link",
+        "UA": "Посилання на Discord",
+        "RU": "Ссылка на Discord"
+    },
+    "_vkLink": {
+        "EN": "VK Link",
+        "UA": "Посилання на Вконтакте",
+        "RU": "Ссылка на Вконтакте"
+    },
+    "_telegramBotSecretKey": {
+        "EN": "Telegram Bot Secret Key",
+        "UA": "Секретний ключ Telegram-бота",
+        "RU": "Секретный ключ Telegram-бота"
+    },
+    "_telegramBotId": {
+        "EN": "Telegram Bot ID",
+        "UA": "ID Telegram-бота",
+        "RU": "ID Telegram-бота"
+    },
+    "_saveSettings": {
+        "EN": "Save Settings",
+        "UA": "Зберегти налаштування",
+        "RU": "Сохранить настройки"
+    },
+    "_discordInviteLink": {
+        "EN": "Discord Invite Link",
+        "UA": "Посилання на запрошення в Discord",
+        "RU": "Ссылка на приглашение в Discord"
+    },
+    "_discordGuildId": {
+        "EN": "Discord Guild ID",
+        "UA": "ID гільдії Discord",
+        "RU": "ID гильдии Discord"
+    },
+    "_discordPublicKey": {
+        "EN": "Discord Public Key",
+        "UA": "Публічний ключ Discord",
+        "RU": "Публичный ключ Discord"
+    },
+    "_discordSecretKey": {
+        "EN": "Discord Secret Key",
+        "UA": "Секретний ключ Discord",
+        "RU": "Секретный ключ Discord"
+    },
+    "_vkPublicLink": {
+        "EN": "VK Public Link",
+        "UA": "Посилання на паблік Вконтакте",
+        "RU": "Ссылка паблик Вконтакте"
+    },
+    "_bonuses": {
+        "EN": "Bonuses",
+        "UA": "Бонуси",
+        "RU": "Бонусы"
+    },
+    "_yourDescriptionHere": {
+        "EN": "Your description here...",
+        "UA": "Ваш опис тут...",
+        "RU": "Ваше описание здесь..."
+    },
+    "_youNotAuth": {
+        "EN": "You are not authorized",
+        "UA": "Ви не авторизовані",
+        "RU": "Вы не авторизованы"
+    },
+    "_youHaveBonus": {
+        "EN": "You have a bonus available",
+        "UA": "Вам доступний бонус",
+        "RU": "Вам доступен бонус"
+    },
+    "_takeBonus": {
+        "EN": "Take Bonus",
+        "UA": "Забрати бонус",
+        "RU": "Забрать бонус"
+    },
+    "_refuseBonus": {
+        "EN": "No Thanks",
+        "UA": "Не потрібен",
+        "RU": "Не нужен"
+    },
+    "_issuedForDiscordSubscription": {
+        "EN": "Issued for subscribing to Discord",
+        "UA": "Видано за підписку на Discord",
+        "RU": "Выдано за подписку на Discord"
+    },
+    "_bonusCredited": {
+        "EN": "Bonus credited",
+        "UA": "Бонус зараховано",
+        "RU": "Бонус начислен"
+    },
+    "_youAlreadyReceivedReward": {
+        "EN": "You have already received the reward",
+        "UA": "Ви вже отримували нагороду",
+        "RU": "Вы уже получали награду"
+    },
+    "_failedGetAccessToken": {
+        "EN": "Failed to get Access Token",
+        "UA": "Не вдалося отримати Access Token",
+        "RU": "Не удалось получить Access Token"
+    },
+    "_notSubscribed": {
+        "EN": "You are not subscribed",
+        "UA": "Ви не підписані",
+        "RU": "Вы не подписаны"
+    },
+    "_failedGetCode": {
+        "EN": "Failed to get Code",
+        "UA": "Не вдалося отримати Code",
+        "RU": "Не удалось получить Code"
+    },
+    "_failedGetDiscordId": {
+        "EN": "Failed to get Discord ID",
+        "UA": "Не вдалося отримати Discord ID",
+        "RU": "Не удалось получить Discord ID"
+    },
+    "_authorizationError": {
+        "EN": "Authorization Error",
+        "UA": "Помилка авторизації",
+        "RU": "Ошибка авторизации" 
+    },
+    "_issuedForTelegramSubscription": {
+        "EN": "Issued for subscribing to Telegram",
+        "UA": "Видано за підписку на Telegram",
+        "RU": "Выдано за подписку на Telegram"
+    },
+    "_hashMismatch": {
+        "EN": "Hash mismatch",
+        "UA": "Не співпадає Hash",
+        "RU": "Не совпадает Hash"
+    },
+    "_failedGetHash": {
+        "EN": "Failed to get Hash",
+        "UA": "Не вдалося отримати Hash",
+        "RU": "Не удалось получить Hash"
+    },
+    "_tgBotTokenMissing": {
+        "EN": "Telegram bot token is not configured",
+        "UA": "Не налаштовано токен Telegram-бота",
+        "RU": "Не указан токен Telegram-бота"
+    },
+    "_tgAuthExpired": {
+        "EN": "Telegram authorization expired, try again",
+        "UA": "Авторизація Telegram застаріла, спробуйте ще раз",
+        "RU": "Авторизация Telegram устарела, попробуйте снова"
+    },
+    "_tgChannelOrBotNotConfigured": {
+        "EN": "Telegram channel link or bot token is not configured",
+        "UA": "Не налаштовано посилання на канал або токен бота",
+        "RU": "Не указана ссылка на канал или токен бота"
+    },
+    "_issuedForVkSubscription": {
+        "EN": "Issued for subscribing to VK",
+        "UA": "Видано за підписку на Вконтакте",
+        "RU": "Выдано за подписку на VK"
+    },
+    "_youNotSubscribed": {
+        "EN": "You are not subscribed to the group",
+        "UA": "Ви не підписані на групу",
+        "RU": "Вы не подписаны на группу"
+    },
+    "_vkAuthorizationError": {
+        "EN": "VK Authorization Error",
+        "UA": "Помилка авторизації ВК",
+        "RU": "Ошибка авторизации ВК"
+    },
+    "_youHaveNewBonus": {
+        "EN": "Dear player, subscribe to our social networks and get nice bonuses!",
+        "UA": "Шановний гравець, підпишись на наші соціальні мережі та забери приємні бонуси!",
+        "RU": "Дорогой игрок, подпишись на наши социальные сети и забери приятные бонусы!"
+    },
+    "_forDiscordSubscription": {
+        "EN": "For subscribing to Discord:",
+        "UA": "За підписку на Discord:",
+        "RU": "За подписку на Discord:"
+    },
+    "_forTelegramSubscription": {
+        "EN": "For subscribing to Telegram:",
+        "UA": "За підписку на Telegram:",
+        "RU": "За подписку на Telegram:"
+    },
+    "_forVkSubscription": {
+        "EN": "For subscribing to VK:",
+        "UA": "За підписку на Вконтакте:",
+        "RU": "За подписку на Вконтакте:"
+    }
+}

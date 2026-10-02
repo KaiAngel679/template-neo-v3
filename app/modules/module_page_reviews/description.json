@@ -1,0 +1,16 @@
+{
+    "title":"NEO3 - Reviews",
+    "info":"...",
+    "author":"onevalve.ru",
+    "page":"reviews",
+    "version":"1.0.3",
+    "setting":{
+        "status":1,
+        "type":1,
+        "interface":1,
+        "data":1,
+        "css":1,
+        "js":1,
+        "translation":1
+    }
+}

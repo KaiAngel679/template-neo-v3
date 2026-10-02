@@ -1,0 +1,3277 @@
+{
+    "_at_info": {
+        "EN": "Information",
+        "RU": "Информация",
+        "UA": "Інформація"
+    },
+    "_at_addingAdmin": {
+        "EN": "Adding admin",
+        "RU": "Добавление админа",
+        "UA": "Додавання адміна"
+    },
+    "_at_addingAdminImpossible": {
+        "EN": "Adding admins is impossible, missing:",
+        "RU": "Добавление админов невозможно, отсутствуют:",
+        "UA": "Додавання адмінів неможливо, відсутні:"
+    },
+    "_at_checksImpossible": {
+        "EN": "Viewing checks is impossible, missing:",
+        "RU": "Просмотр проверок невозможен, отсутствуют:",
+        "UA": "Перегляд перевірок неможливий, відсутні:"
+    },
+    "_at_addingAdminNeedConnects": {
+        "EN": "At least one admin panel must be connected: SourceBans, AdminSystem or IksAdminNew",
+        "RU": "Необходимо подключить хотя бы одну админку: SourceBans, AdminSystem или IksAdminNew",
+        "UA": "Потрібно підключити хоча б одну адмінку: SourceBans, AdminSystem або IksAdminNew"
+    },
+    "_at_checksNeedConnects": {
+        "EN": "At least one admin panel must be connected: AdminSystem or IksAdminNew",
+        "RU": "Необходимо подключить хотя бы одну админку: AdminSystem или IksAdminNew",
+        "UA": "Потрібно підключити хоча б одну адмінку: AdminSystem або IksAdminNew"
+    },
+    "_at_addingAdminConnectAny": {
+        "EN": "Connect any admin panel",
+        "RU": "Подключите любую админку",
+        "UA": "Підключите будь-яку адмінку"
+    },
+    "_at_MaIts": {
+        "EN": "MaterialAdmin group - this is the admin server group from the SourceBans++ Material Admin plugin related to the CS:GO game",
+        "RU": "Группа MaterialAdmin - это серверная группа админа от плагина SourceBans++ Material Admin, относящийся к игре CS:GO",
+        "UA": "Група MaterialAdmin - це серверна група адміна від плагіна SourceBans++ Material Admin, що відноситься до гри CS:GO"
+    },
+    "_at_MaItsShort": {
+        "EN": "MaterialAdmin groups",
+        "RU": "Группы MaterialAdmin",
+        "UA": "Групи MaterialAdmin"
+    },
+    "_at_ASIts": {
+        "EN": "AdminSystem group - this is the admin server group from the Admin System plugin related to the CS 2 game",
+        "RU": "Группа AdminSystem - это серверная группа админа от плагина Admin System, относящийся к игре CS 2",
+        "UA": "Група AdminSystem - це серверна група адміна від плагіна Admin System, що відноситься до гри CS 2"
+    },
+    "_at_ASItsShort": {
+        "EN": "AdminSystem groups",
+        "RU": "Группы AdminSystem",
+        "UA": "Групи AdminSystem"
+    },
+    "_at_IksAdminIts": {
+        "EN": "IksAdmin group - this is the admin server group from the Iks Admin plugin related to the CS 2 game",
+        "RU": "Группа IksAdmin - это серверная группа админа от плагина Iks Admin, относящийся к игре CS 2",
+        "UA": "Група IksAdmin - це серверна група адміна від плагіна Iks Admin, що відноситься до гри CS 2"
+    },
+    "_at_IksAdminItsShort": {
+        "EN": "IksAdmin groups",
+        "RU": "Группы IksAdmin",
+        "UA": "Групи IksAdmin"
+    },
+    "_at_createGroups": {
+        "EN": "Create groups",
+        "RU": "Создать группы",
+        "UA": "Створити групи"
+    },
+    "_at_account": {
+        "EN": "Account (link or STEAMID)",
+        "RU": "Аккаунт (ссылка или STEAMID)",
+        "UA": "Акаунт (посилання або STEAMID)"
+    },
+    "_at_cs2Group": {
+        "EN": "Servers group CS2",
+        "RU": "Серверная группа CS2",
+        "UA": "Серверна група CS2"
+    },
+    "_at_csgoGroup": {
+        "EN": "Servers group CS:GO",
+        "RU": "Серверная группа CS:GO",
+        "UA": "Серверна група CS:GO"
+    },
+    "_at_selectGroupType": {
+        "EN": "Select group type",
+        "RU": "Выберите тип группы",
+        "UA": "Виберіть тип групи"
+    },
+    "_at_ownTime": {
+        "EN": "Own time",
+        "RU": "Свой срок в секундах",
+        "UA": "Свій термін в секундах"
+    },
+    "_at_selectExpire": {
+        "EN": "Select expire",
+        "RU": "Выберите срок",
+        "UA": "Виберіть термін"
+    },
+    "_at_findGroup": {
+        "EN": "Find group",
+        "RU": "Найти группу",
+        "UA": "Знайти групу"
+    },
+    "_at_selectPanelAccessGroup": {
+        "EN": "Select admin panel access group",
+        "RU": "Выберите группу доступа панели",
+        "UA": "Виберіть групу доступу панелі"
+    },
+    "_at_noGroup": {
+        "EN": "No group",
+        "RU": "Нет группы",
+        "UA": "Немає групи"
+    },
+    "_at_selectGroup": {
+        "EN": "Select group",
+        "RU": "Выберите группу",
+        "UA": "Виберіть групу"
+    },
+    "_at_findFlags": {
+        "EN": "Find flags",
+        "RU": "Найти флаги",
+        "UA": "Знайти флаги"
+    },
+    "_at_watchAdmins": {
+        "EN": "Watch admins",
+        "RU": "Просмотр админов",
+        "UA": "Перегляд адмінів"
+    },
+    "_at_addingAdmins": {
+        "EN": "Adding admins",
+        "RU": "Добавление админов",
+        "UA": "Додавання адмінів"
+    },
+    "_at_deletingAdmins": {
+        "EN": "Deleting admins",
+        "RU": "Удаление админов",
+        "UA": "Видалення адмінів"
+    },
+    "_at_changingAdmins": {
+        "EN": "Changing admins",
+        "RU": "Изменение админов",
+        "UA": "Зміна адмінів"
+    },
+    "_at_addingWarns": {
+        "EN": "Adding warns",
+        "RU": "Добавление варнов",
+        "UA": "Додавання варнів"
+    },
+    "_at_removingWarns": {
+        "EN": "Removing warns",
+        "RU": "Снятие варнов",
+        "UA": "Зняття варнів"
+    },
+    "_at_deletingWarns": {
+        "EN": "Deleting warns",
+        "RU": "Удаление варнов",
+        "UA": "Видалення варнів"
+    },
+    "_at_changingWarns": {
+        "EN": "Changing warns",
+        "RU": "Изменение варнов",
+        "UA": "Зміна варнів"
+    },
+    "_at_watchPunishments": {
+        "EN": "Watch punishments",
+        "RU": "Просмотр наказаний",
+        "UA": "Перегляд покарань"
+    },
+    "_at_addingBans": {
+        "EN": "Adding bans",
+        "RU": "Добавление банов",
+        "UA": "Додавання банів"
+    },
+    "_at_removingBans": {
+        "EN": "Removing bans",
+        "RU": "Снятие банов",
+        "UA": "Зняття банів"
+    },
+    "_at_deletingBans": {
+        "EN": "Deleting bans",
+        "RU": "Удаление банов",
+        "UA": "Видалення банів"
+    },
+    "_at_changingBans": {
+        "EN": "Changing bans",
+        "RU": "Изменение банов",
+        "UA": "Зміна банів"
+    },
+    "_at_addingMutes": {
+        "EN": "Adding mutes",
+        "RU": "Добавление мутов",
+        "UA": "Додавання мутів"
+    },
+    "_at_removingMutes": {
+        "EN": "Removing mutes",
+        "RU": "Снятие мутов",
+        "UA": "Зняття мутів"
+    },
+    "_at_deletingMutes": {
+        "EN": "Deleting mutes",
+        "RU": "Удаление мутов",
+        "UA": "Видалення мутів"
+    },
+    "_at_changingMutes": {
+        "EN": "Changing mutes",
+        "RU": "Изменение мутов",
+        "UA": "Зміна мутів"
+    },
+    "_at_watchChecks": {
+        "EN": "Watch checks",
+        "RU": "Просмотр проверок",
+        "UA": "Перегляд перевірок"
+    },
+    "_at_deletingChecks": {
+        "EN": "Deleting checks",
+        "RU": "Удаление проверок",
+        "UA": "Видалення перевірок"
+    },
+    "_at_watchFinances": {
+        "EN": "Watch finances",
+        "RU": "Просмотр финансов",
+        "UA": "Перегляд фінансів"
+    },
+    "_at_changingFinances": {
+        "EN": "Changing finances",
+        "RU": "Изменение финансов",
+        "UA": "Зміна фінансів"
+    },
+    "_at_resettingFinances": {
+        "EN": "Resetting finances",
+        "RU": "Сброс финансов",
+        "UA": "Скидання фінансів"
+    },
+    "_at_watchVIPs": {
+        "EN": "Watch VIPs",
+        "RU": "Просмотр VIP привилегий",
+        "UA": "Перегляд VIP привілеїв"
+    },
+    "_at_addingVIPs": {
+        "EN": "Adding VIPs",
+        "RU": "Добавление VIP привилегий",
+        "UA": "Додавання VIP привілеїв"
+    },
+    "_at_deletingVIPs": {
+        "EN": "Deleting VIPs",
+        "RU": "Удаление VIP привилегий",
+        "UA": "Видалення VIP привілеїв"
+    },
+    "_at_changingVIPs": {
+        "EN": "Changing VIPs",
+        "RU": "Изменение VIP привилегий",
+        "UA": "Зміна VIP привілеїв"
+    },
+    "_at_watchCredits": {
+        "EN": "Watch credits",
+        "RU": "Просмотр кредитов",
+        "UA": "Перегляд кредитів"
+    },
+    "_at_changingCredits": {
+        "EN": "Changing credits",
+        "RU": "Изменение кредитов",
+        "UA": "Зміна кредитів"
+    },
+    "_at_viperResettingCredits": {
+        "EN": "Resetting credits to zero",
+        "RU": "Сброс кредитов до нуля",
+        "UA": "Скидання кредитів до нуля"
+    },
+    "_at_watchExperience": {
+        "EN": "Watch experience",
+        "RU": "Просмотр опыта",
+        "UA": "Перегляд досвіду"
+    },
+    "_at_changingExperience": {
+        "EN": "Changing experience",
+        "RU": "Изменение опыта",
+        "UA": "Зміна досвіду"
+    },
+    "_at_viperResettingExperience": {
+        "EN": "Resetting experience to zero",
+        "RU": "Сброс опыта до нуля",
+        "UA": "Скидання досвіду до нуля"
+    },
+    "_at_watchLogs": {
+        "EN": "Watch logs",
+        "RU": "Просмотр логов",
+        "UA": "Перегляд логів"
+    },
+    "_at_deletingLogs": {
+        "EN": "Deleting logs",
+        "RU": "Удаление логов",
+        "UA": "Видалення логів"
+    },
+    "_at_selectPanelAccessFlags": {
+        "EN": "Select admin panel access flags",
+        "RU": "Выберите флаги доступа панели",
+        "UA": "Виберіть прапори доступу панелі"
+    },
+    "_at_addAdmin": {
+        "EN": "Add admin",
+        "RU": "Добавить админа",
+        "UA": "Додати адміна"
+    },
+    "_at_enterNickOrSteamID": {
+        "EN": "Enter nickname or STEAMID",
+        "RU": "Введите никнейм или STEAMID",
+        "UA": "Введіть нікнейм або STEAMID"
+    },
+    "_at_findPlayer": {
+        "EN": "Find player",
+        "RU": "Найти игрока",
+        "UA": "Знайти гравця"
+    },
+    "_at_adminsList": {
+        "EN": "Admins list",
+        "RU": "Список админов",
+        "UA": "Список адмінів"
+    },
+    "_at_wantToSee": {
+        "EN": "I want to see:",
+        "RU": "Хочу видеть:",
+        "UA": "Хочу бачити:"
+    },
+    "_at_reset": {
+        "EN": "Reset",
+        "RU": "Сбросить",
+        "UA": "Скинути"
+    },
+    "_at_admin": {
+        "EN": "Admin",
+        "RU": "Админ",
+        "UA": "Адмін"
+    },
+    "_at_serverGroup": {
+        "EN": "Server group",
+        "RU": "Серверная группа",
+        "UA": "Серверна група"
+    },
+    "_at_expire": {
+        "EN": "Expire",
+        "RU": "Срок",
+        "UA": "Термін"
+    },
+    "_at_noAdmins": {
+        "EN": "No admins",
+        "RU": "Админов нет",
+        "UA": "Адмінів немає"
+    },
+    "_at_findServer": {
+        "EN": "Find server",
+        "RU": "Найти сервер",
+        "UA": "Знайти сервер"
+    },
+    "_at_allServers": {
+        "EN": "All servers",
+        "RU": "Все сервера",
+        "UA": "Усі сервери"
+    },
+    "_at_server": {
+        "EN": "Server",
+        "RU": "Сервер",
+        "UA": "Сервер"
+    },
+    "_at_hideInfo": {
+        "EN": "Hide information",
+        "RU": "Скрыть информацию",
+        "UA": "Приховати інформацію"
+    },
+    "_at_infoAdmin": {
+        "EN": "Information about admin",
+        "RU": "Информация об админе",
+        "UA": "Інформація про адміна"
+    },
+    "_at_copySteamID": {
+        "EN": "Copy STEAMID",
+        "RU": "Скопировать STEAMID",
+        "UA": "Скопіювати STEAMID"
+    },
+    "_at_adminGroup": {
+        "EN": "Admin group",
+        "RU": "Админ группа",
+        "UA": "Адмін група"
+    },
+    "_at_warns": {
+        "EN": "Warns",
+        "RU": "Предупреждения",
+        "UA": "Попередження"
+    },
+    "_at_give": {
+        "EN": "Give",
+        "RU": "Выдать",
+        "UA": "Видати"
+    },
+    "_at_remove": {
+        "EN": "Remove",
+        "RU": "Снять",
+        "UA": "Зняти"
+    },
+    "_at_dateGiving": {
+        "EN": "Date of giving:",
+        "RU": "Дата выдачи:",
+        "UA": "Дата видачі:"
+    },
+    "_at_gave": {
+        "EN": "Gave:",
+        "RU": "Выдал:",
+        "UA": "Видав:"
+    },
+    "_at_noWarns": {
+        "EN": "No warns",
+        "RU": "Предупреждений нет",
+        "UA": "Попереджень немає"
+    },
+    "_at_accesses": {
+        "EN": "Accesses",
+        "RU": "Доступы",
+        "UA": "Доступи"
+    },
+    "_at_noAccesses": {
+        "EN": "No accesses",
+        "RU": "Доступов нет",
+        "UA": "Доступів немає"
+    },
+    "_at_servers": {
+        "EN": "Servers",
+        "RU": "Сервера",
+        "UA": "Сервери"
+    },
+    "_at_noServers": {
+        "EN": "No servers",
+        "RU": "Серверов нет",
+        "UA": "Серверів немає"
+    },
+    "_at_term": {
+        "EN": "Term",
+        "RU": "Срок",
+        "UA": "Термін"
+    },
+    "_at_main": {
+        "EN": "Main",
+        "RU": "Основное",
+        "UA": "Основне"
+    },
+    "_at_givingWarn": {
+        "EN": "Giving warn",
+        "RU": "Выдача предупреждения",
+        "UA": "Видача попередження"
+    },
+    "_at_punishType": {
+        "EN": "Type",
+        "RU": "Тип",
+        "UA": "Тип"
+    },
+    "_at_reason": {
+        "EN": "Reason",
+        "RU": "Причина",
+        "UA": "Причина"
+    },
+    "_at_enterReason": {
+        "EN": "Enter the reason for giving the warn",
+        "RU": "Введите причину выдачи предупреждения",
+        "UA": "Введіть причину видачі попередження"
+    },
+    "_at_ownTimePlaceholder": {
+        "EN": "Enter your own term in seconds",
+        "RU": "Укажите свой срок в секундах",
+        "UA": "Вкажіть свій термін у секундах"
+    },
+    "_at_selectReadyTime": {
+        "EN": "Select ready time",
+        "RU": "Выберите готовое время",
+        "UA": "Виберіть готовий час"
+    },
+    "_at_giveWarn": {
+        "EN": "Give warn",
+        "RU": "Выдать предупреждение",
+        "UA": "Видати попередження"
+    },
+    "_at_changingWarn": {
+        "EN": "Changing warn",
+        "RU": "Изменение предупреждения",
+        "UA": "Зміна попередження"
+    },
+    "_at_changeWarn": {
+        "EN": "Change warn",
+        "RU": "Изменить предупреждение",
+        "UA": "Змінити попередження"
+    },
+    "_at_addingPunishnemt": {
+        "EN": "Adding punishment",
+        "RU": "Добавление наказания",
+        "UA": "Додавання покарання"
+    },
+    "_at_userIP": {
+        "EN": "User IP without port",
+        "RU": "IP пользователя без порта",
+        "UA": "IP користувача без порту"
+    },
+    "_at_selectPunishType": {
+        "EN": "Select punishment type",
+        "RU": "Выберите тип наказания",
+        "UA": "Виберіть тип покарання"
+    },
+    "_at_gameBlock": {
+        "EN": "Game block",
+        "RU": "Игровая блокировка",
+        "UA": "Ігрове блокування"
+    },
+    "_at_micBlock": {
+        "EN": "Microphone block",
+        "RU": "Блокировка микрофона",
+        "UA": "Блокування мікрофона"
+    },
+    "_at_chatBlock": {
+        "EN": "Chat block",
+        "RU": "Блокировка чата",
+        "UA": "Блокування чату"
+    },
+    "_at_SilenceBlock": {
+        "EN": "Chat and microphone block",
+        "RU": "Блокировка чата и микрофона",
+        "UA": "Блокування чату та мікрофона"
+    },
+    "_at_selectPunishReason": {
+        "EN": "Select punishment reason",
+        "RU": "Выберите причину наказания",
+        "UA": "Виберіть причину покарання"
+    },
+    "_at_customReason": {
+        "EN": "Custom reason",
+        "RU": "Своя причина",
+        "UA": "Власна причина"
+    },
+    "_at_selectPunishTime": {
+        "EN": "Select punishment time",
+        "RU": "Выберите срок наказания",
+        "UA": "Виберіть термін покарання"
+    },
+    "_at_customTime": {
+        "EN": "Custom time in seconds",
+        "RU": "Свой срок в секундах",
+        "UA": "Власний термін у секундах"
+    },
+    "_at_givePunish": {
+        "EN": "Give punishment",
+        "RU": "Выдать наказание",
+        "UA": "Видати покарання"
+    },
+    "_at_PunishList": {
+        "EN": "Punishments list",
+        "RU": "Список наказаний",
+        "UA": "Список покарань"
+    },
+    "_at_PunishType": {
+        "EN": "Punishment type",
+        "RU": "Тип наказания",
+        "UA": "Тип покарання"
+    },
+    "_at_PunishTypeBan": {
+        "EN": "Bans",
+        "RU": "Баны",
+        "UA": "Бани"
+    },
+    "_at_PunishTypeMute": {
+        "EN": "Mutes",
+        "RU": "Муты",
+        "UA": "Мути"
+    },
+    "_at_byAdmin": {
+        "EN": "By admin",
+        "RU": "От админа",
+        "UA": "Від адміна"
+    },
+    "_at_byAdminAll": {
+        "EN": "By all admins",
+        "RU": "От всех админов",
+        "UA": "Від усіх адмінів"
+    },
+    "_at_startDate": {
+        "EN": "Start",
+        "RU": "Начало",
+        "UA": "Початок"
+    },
+    "_at_endDate": {
+        "EN": "End",
+        "RU": "Конец",
+        "UA": "Кінець"
+    },
+    "_at_allPunishments": {
+        "EN": "All punishments",
+        "RU": "Все наказания",
+        "UA": "Усі покарання"
+    },
+    "_at_activePunishments": {
+        "EN": "Active only",
+        "RU": "Только активные",
+        "UA": "Тільки активні"
+    },
+    "_at_expiredPunishments": {
+        "EN": "Expired only",
+        "RU": "Только истекшие",
+        "UA": "Тільки прострочені"
+    },
+    "_at_removePunish": {
+        "EN": "Remove punishment",
+        "RU": "Снять наказание",
+        "UA": "Зняти покарання"
+    },
+    "_at_offender": {
+        "EN": "Offender",
+        "RU": "Нарушитель",
+        "UA": "Порушник"
+    },
+    "_at_expiring": {
+        "EN": "Expiring",
+        "RU": "Истекает",
+        "UA": "Спливає"
+    },
+    "_at_never": {
+        "EN": "Never",
+        "RU": "Никогда",
+        "UA": "Ніколи"
+    },
+    "_at_expired": {
+        "EN": "Expired",
+        "RU": "Истекло",
+        "UA": "Минуло"
+    },
+    "_at_removed": {
+        "EN": "Removed",
+        "RU": "Снято",
+        "UA": "Знято"
+    },
+    "_at_removePunishments": {
+        "EN": "Remove punishments",
+        "RU": "Снять наказания",
+        "UA": "Зняти покарання"
+    },
+    "_at_changeAdmin": {
+        "EN": "Change admin",
+        "RU": "Изменить админа",
+        "UA": "Змінити адміна"
+    },
+    "_at_changingAdmin": {
+        "EN": "Changing admin",
+        "RU": "Изменение админа",
+        "UA": "Зміна адміна"
+    },
+    "_at_changingPunishment": {
+        "EN": "Changing punishment",
+        "RU": "Изменение наказания",
+        "UA": "Зміна покарання"
+    },
+    "_at_changePunishment": {
+        "EN": "Change punishment",
+        "RU": "Изменить наказание",
+        "UA": "Змінити покарання"
+    },
+    "_at_CheckList": {
+        "EN": "Checks list",
+        "RU": "Список проверок",
+        "UA": "Список перевірок"
+    },
+    "_at_allVerdicts": {
+        "EN": "All verdicts",
+        "RU": "Все вердикты",
+        "UA": "Усі вердикти"
+    },
+    "_at_chooseServers": {
+        "EN": "Select servers",
+        "RU": "Выберите сервера",
+        "UA": "Виберіть сервери"
+    },
+    "_at_addingPunishmentsImpossible": {
+        "EN": "Adding punishments is impossible, missing:",
+        "RU": "Добавление наказаний невозможно, отсутствуют:",
+        "UA": "Додавання покарань неможливо, відсутні:"
+    },
+    "_at_findAdmin": {
+        "EN": "Find admin",
+        "RU": "Найти админа",
+        "UA": "Знайти адміна"
+    },
+    "_at_addIP": {
+        "EN": "Add IP to punishment",
+        "RU": "Добавить IP в наказание",
+        "UA": "Додати IP до покарання"
+    },
+    "_at_editingPunish": {
+        "EN": "Editing punishment",
+        "RU": "Редактирование наказания",
+        "UA": "Редагування покарання"
+    },
+    "_at_editPunish": {
+        "EN": "Edit punishment",
+        "RU": "Изменить наказание",
+        "UA": "Змінити покарання"
+    },
+    "_at_checkedPlayer": {
+        "EN": "Checked player",
+        "RU": "Проверяемый",
+        "UA": "Перевірюваний"
+    },
+    "_at_checkStart": {
+        "EN": "Check start",
+        "RU": "Начало проверки",
+        "UA": "Початок перевірки"
+    },
+    "_at_checkEnd": {
+        "EN": "Check end",
+        "RU": "Конец проверки",
+        "UA": "Кінець перевірки"
+    },
+    "_at_checkVerdict": {
+        "EN": "Check verdict",
+        "RU": "Вердикт проверки",
+        "UA": "Вердикт перевірки"
+    },
+    "_at_contact": {
+        "EN": "Contact",
+        "RU": "Контакт",
+        "UA": "Контакт"
+    },
+    "_at_financeList": {
+        "EN": "Finances list",
+        "RU": "Список финансов",
+        "UA": "Список фінансів"
+    },
+    "_at_allFinances": {
+        "EN": "All finances",
+        "RU": "Все финансы",
+        "UA": "Усі фінанси"
+    },
+    "_at_financesWithBalance": {
+        "EN": "Only with balance",
+        "RU": "Только с балансом",
+        "UA": "Лише з балансом"
+    },
+    "_at_financesEmptyBalance": {
+        "EN": "Only empty",
+        "RU": "Только пустые",
+        "UA": "Лише порожні"
+    },
+    "_at_financeActions": {
+        "EN": "Finance actions",
+        "RU": "Действия с финансами",
+        "UA": "Дії з фінансами"
+    },
+    "_at_clearPlayersWithoutDonation": {
+        "EN": "Delete players without donations",
+        "RU": "Очистить игроков без доната",
+        "UA": "Очистити гравців без донату"
+    },
+    "_at_clearPlayersWithoutDonationDesc": {
+        "EN": "Removes ghost accounts that were created in the database but never donated and have zero balance.",
+        "RU": "Удаляются аккаунты, которые попали в базу, но ни разу не пополняли баланс и не имеют средств на счёте.",
+        "UA": "Видаляються акаунти, які потрапили в базу, але жодного разу не поповнювали баланс і не мають коштів на рахунку."
+    },
+    "_at_reason0IksAdminNew": {
+        "EN": "Player is clean",
+        "RU": "Игрок чист",
+        "UA": "Гравець чистий"
+    },
+    "_at_reason1IksAdminNew": {
+        "EN": "Cheater",
+        "RU": "Читер",
+        "UA": "Читер"
+    },
+    "_at_reason2IksAdminNew": {
+        "EN": "Left the check",
+        "RU": "Покинул проверку",
+        "UA": "Покинув перевірку"
+    },
+    "_at_reason3IksAdminNew": {
+        "EN": "Refused the check",
+        "RU": "Отказался от проверки",
+        "UA": "Відмовився від перевірки"
+    },
+    "_at_reason4IksAdminNew": {
+        "EN": "Other reason (with ban)",
+        "RU": "Другая причина (с баном)",
+        "UA": "Інша причина (з баном)"
+    },
+    "_at_reason5IksAdminNew": {
+        "EN": "Other reason (without ban)",
+        "RU": "Другая причина (без бана)",
+        "UA": "Інша причина (без бану)"
+    },
+    "_at_general": {
+        "EN": "Main",
+        "RU": "Основное",
+        "UA": "Основне"
+    },
+    "_at_accessesPanel": {
+        "EN": "Accesses panel",
+        "RU": "Доступы панели",
+        "UA": "Доступи панелі"
+    },
+    "_at_reasonsPunishments": {
+        "EN": "Reasons for punishments",
+        "RU": "Причины наказаний",
+        "UA": "Причини покарань"
+    },
+    "_at_expires": {
+        "EN": "Expires",
+        "RU": "Сроки",
+        "UA": "Терміни"
+    },
+    "_at_adminGroups": {
+        "EN": "Admin groups",
+        "RU": "Админ-группы",
+        "UA": "Адмін-групи"
+    },
+    "_at_vipGroups": {
+        "EN": "VIP groups",
+        "RU": "VIP-группы",
+        "UA": "VIP-групи"
+    },
+    "_at_generalModuleSettings": {
+        "EN": "General module settings",
+        "RU": "Основные настройки модуля",
+        "UA": "Основні налаштування модуля"
+    },
+    "_at_removeAdminWithMaxWarns": {
+        "EN": "Remove admin when reaching the maximum number of warns",
+        "RU": "Снимать админа при достижении максимального количества варнов",
+        "UA": "Знімати адміна при досягненні максимальної кількості варнів"
+    },
+    "_at_maxWarnCount": {
+        "EN": "Maximum number of warns",
+        "RU": "Максимальное количество варнов",
+        "UA": "Максимальна кількість варнів"
+    },
+    "_at_maxWarnCountPlaceholder": {
+        "EN": "Enter a number greater than 0",
+        "RU": "Введите число больше 0",
+        "UA": "Введіть число більше 0"
+    },
+    "_at_logs": {
+        "EN": "Logs",
+        "RU": "Логи",
+        "UA": "Логи"
+    },
+    "_at_enableDetailedLogs": {
+        "EN": "Enabling this feature may lead to a rapid increase in log size, which can take up a lot of space on your server. It is recommended to use this feature only for debugging and to disable it when it is not needed.",
+        "RU": "Включение данной функции может привести к быстрому росту размера логов, что может занять много места на вашем сервере. Рекомендуется использовать эту функцию только для отладки и отключать ее, когда она не нужна.",
+        "UA": "Увімкнення цієї функції може призвести до швидкого зростання розміру логів, що може зайняти багато місця на вашому сервері. Рекомендується використовувати цю функцію лише для налагодження та вимикати її, коли вона не потрібна."
+    },
+    "_at_detailedLogs": {
+        "EN": "Enabling detailed logs",
+        "RU": "Ведение дебаг-логов",
+        "UA": "Ведення дебаг-логів"
+    },
+    "_at_settingsAccesses": {
+        "EN": "Setting accesses to the atools panel",
+        "RU": "Настройка доступов к панели atools",
+        "UA": "Налаштування доступів до панелі atools"
+    },
+    "_at_creatingGroup": {
+        "EN": "Creating group",
+        "RU": "Создание группы",
+        "UA": "Створення групи"
+    },
+    "_at_groupName": {
+        "EN": "Group name",
+        "RU": "Название группы",
+        "UA": "Назва групи"
+    },
+    "_at_groupNamePlaceholder": {
+        "EN": "Enter group name",
+        "RU": "Введите название группы",
+        "UA": "Введіть назву групи"
+    },
+    "_at_createGrpup": {
+        "EN": "Create group",
+        "RU": "Создать группу",
+        "UA": "Створити групу"
+    },
+    "_at_flagAll": {
+        "EN": "All flags",
+        "RU": "Все флаги",
+        "UA": "Усі прапори"
+    },
+    "_at_flagsSelect": {
+        "EN": "Flags access to the atools panel",
+        "RU": "Флаги доступа к панели atools",
+        "UA": "Прапори доступу до панелі atools"
+    },
+    "_at_createReadyGroups": {
+        "EN": "Create ready groups of accesses to the atools panel to quickly issue them to the administrator when necessary, rather than collecting them from scratch every time. For example, you can create a group called \"Moderators\" with access to view admins and punishments, as well as to add warnings, and give it to all moderators so that they can work with these functions but do not have access to the banhammer and financial information.",
+        "RU": "Создайте готовые группы доступов к панели atools, чтобы быстро выдавать их администратору при необходимости, а не собирать каждый раз с нуля. Например, вы можете создать группу \"Модераторы\" с доступами на просмотр админов и наказаний, а также на добавление предупреждений, и выдавать её всем модераторам, чтобы они могли работать с этими функциями, но не имели доступа к банхаммеру и финансовой информации.",
+        "UA": "Створіть готові групи доступів до панелі atools, щоб швидко видавати їх адміністратору за потреби, а не збирати щоразу з нуля. Наприклад, ви можете створити групу \"Модератори\" з доступами на перегляд адмінів і покарань, а також на додавання попереджень, і видавати її всім модераторам, щоб вони могли працювати з цими функціями, але не мали доступу до банхамера та фінансової інформації."
+    },
+    "_at_flagsAccess": {
+        "EN": "Flags access",
+        "RU": "Флаги доступа",
+        "UA": "Прапори доступу"
+    },
+    "_at_changingGroup": {
+        "EN": "Changing group atools",
+        "RU": "Изменение группы atools",
+        "UA": "Зміна групи atools"
+    },
+    "_at_settingsReasons": {
+        "EN": "Setting reasons punishments",
+        "RU": "Настройка причин наказаний",
+        "UA": "Налаштування причин покарань"
+    },
+    "_at_editGroup": {
+        "EN": "Edit group",
+        "RU": "Редактировать группу",
+        "UA": "Редагувати групу"
+    },
+    "_at_deleteGroup": {
+        "EN": "Delete group",
+        "RU": "Удалить группу",
+        "UA": "Видалити групу"
+    },
+    "_at_settingsTerms": {
+        "EN": "Setting terms",
+        "RU": "Настройка сроков",
+        "UA": "Налаштування термінів"
+    },
+    "_at_creatingTerms": {
+        "EN": "Creating terms",
+        "RU": "Создание сроков",
+        "UA": "Створення термінів"
+    },
+    "_at_TermsDescription": {
+        "EN": "Create ready terms conveniently, separately for admins, punishments and privileges",
+        "RU": "Создавайте готовые сроки с удобством, отдельно для админов, наказаний и привилегий",
+        "UA": "Створюйте готові терміни зручно, окремо для адмінів, покарань та привілеїв"
+    },
+    "_at_TermTitle": {
+        "EN": "Term title",
+        "RU": "Название срока",
+        "UA": "Назва терміну"
+    },
+    "_at_TermTitlePlaceholder": {
+        "EN": "For example: One week",
+        "RU": "Например: Одна неделя",
+        "UA": "Наприклад: Один тиждень"
+    },
+    "_at_TermValue": {
+        "EN": "Term in seconds",
+        "RU": "Срок в секундах",
+        "UA": "Термін у секундах"
+    },
+    "_at_TermValuePlaceholder": {
+        "EN": "Enter the term in seconds (0 - permanent)",
+        "RU": "Укажите срок в секундах (0 - навсегда)",
+        "UA": "Вкажіть термін у секундах (0 - назавжди)"
+    },
+    "_at_selectTermType": {
+        "EN": "Select term type",
+        "RU": "Выберите тип срока",
+        "UA": "Виберіть тип терміну"
+    },
+    "_at_TermType": {
+        "EN": "Term type",
+        "RU": "Тип срока",
+        "UA": "Тип терміну"
+    },
+    "_at_TermTypeAdmins": {
+        "EN": "Admins",
+        "RU": "Админы",
+        "UA": "Адміни"
+    },
+    "_at_TermTypePunishments": {
+        "EN": "Punishments",
+        "RU": "Наказания",
+        "UA": "Покарання"
+    },
+    "_at_TermTypeVIPs": {
+        "EN": "Privileges",
+        "RU": "Привилегии",
+        "UA": "Привілеї"
+    },
+    "_at_createTerm": {
+        "EN": "Create term",
+        "RU": "Создать срок",
+        "UA": "Створити термін"
+    },
+    "_at_editTerm": {
+        "EN": "Edit term",
+        "RU": "Редактировать срок",
+        "UA": "Редагувати термін"
+    },
+    "_at_deleteTerm": {
+        "EN": "Delete term",
+        "RU": "Удалить срок",
+        "UA": "Видалити термін"
+    },
+    "_at_settingsAdminGroups": {
+        "EN": "Setting server admin groups",
+        "RU": "Настройка серверных админ-групп",
+        "UA": "Налаштування серверних адмін-груп"
+    },
+    "_at_creatingAdminGroup": {
+        "EN": "Creating admin group",
+        "RU": "Создание админ-группы",
+        "UA": "Створення адмін-групи"
+    },
+    "_at_AdminGroupsDescription": {
+        "EN": "Create server admin groups for plugins Admin System, IksAdmin or MaterialAdmin and assign access flags to them",
+        "RU": "Создавайте серверные админ-группы для плагинов Admin System, IksAdmin или MaterialAdmin и назначайте им флаги доступа",
+        "UA": "Створюйте серверні адмін-групи для плагінів Admin System, IksAdmin або MaterialAdmin та призначайте їм прапори доступу"
+    },
+    "_at_adminGroupName": {
+        "EN": "Admin group name",
+        "RU": "Название админ-группы",
+        "UA": "Назва адмін-групи"
+    },
+    "_at_adminGroupNamePlaceholder": {
+        "EN": "Enter the admin group name",
+        "RU": "Введите название админ-группы",
+        "UA": "Введіть назву адмін-групи"
+    },
+    "_at_selectFlags": {
+        "EN": "Select flags",
+        "RU": "Выберите флаги",
+        "UA": "Виберіть прапори"
+    },
+    "_at_flags": {
+        "EN": "Flags",
+        "RU": "Флаги",
+        "UA": "Прапори"
+    },
+    "_at_createAdminGroup": {
+        "EN": "Create admin group",
+        "RU": "Создать админ-группу",
+        "UA": "Створити адмін-групу"
+    },
+    "_at_editAdminGroup": {
+        "EN": "Edit admin group",
+        "RU": "Редактировать админ-группу",
+        "UA": "Редагувати адмін-групу"
+    },
+    "_at_deleteAdminGroup": {
+        "EN": "Delete admin group",
+        "RU": "Удалить админ-группу",
+        "UA": "Видалити адмін-групу"
+    },
+    "_at_immunity": {
+        "EN": "Immunity",
+        "RU": "Иммунитет",
+        "UA": "Імунітет"
+    },
+    "_at_immunityPlaceholder": {
+        "EN": "Enter the immunity value",
+        "RU": "Введите значение иммунитета",
+        "UA": "Введіть значення імунітету"
+    },
+    "_at_changingTerm": {
+        "EN": "Changing term",
+        "RU": "Изменение срока",
+        "UA": "Зміна терміну"
+    },
+    "_at_changingAdminGroup": {
+        "EN": "Changing admin group",
+        "RU": "Изменение админ-группы",
+        "UA": "Зміна адмін-групи"
+    },
+    "_at_changingReason": {
+        "EN": "Changing reason",
+        "RU": "Изменение причины",
+        "UA": "Зміна причини"
+    },
+    "_at_settingsVipGroups": {
+        "EN": "Setting VIP groups",
+        "RU": "Настройка VIP-групп",
+        "UA": "Налаштування VIP-груп"
+    },
+    "_at_creatingVipGroup": {
+        "EN": "Creating VIP group",
+        "RU": "Создание VIP-группы",
+        "UA": "Створення VIP-групи"
+    },
+    "_at_VipGroupsDescription": {
+        "EN": "Create VIP groups by specifying the group name from groups.ini and a display name shown in the panel",
+        "RU": "Создавайте VIP-группы, указывая название группы из groups.ini и отображаемое название, которое будет показано в панели",
+        "UA": "Створюйте VIP-групи, вказуючи назву групи з groups.ini та відображувану назву, яка буде показана в панелі"
+    },
+    "_at_vipGroupIni": {
+        "EN": "Group name from groups.ini",
+        "RU": "Название группы из groups.ini",
+        "UA": "Назва групи з groups.ini"
+    },
+    "_at_vipGroupIniPlaceholder": {
+        "EN": "For example: VIP",
+        "RU": "Например: VIP",
+        "UA": "Наприклад: VIP"
+    },
+    "_at_vipGroupDisplay": {
+        "EN": "Display group name",
+        "RU": "Отображаемое название группы",
+        "UA": "Відображувана назва групи"
+    },
+    "_at_vipGroupDisplayPlaceholder": {
+        "EN": "For example: VIP status",
+        "RU": "Например: VIP статус",
+        "UA": "Наприклад: VIP статус"
+    },
+    "_at_createVipGroup": {
+        "EN": "Create VIP group",
+        "RU": "Создать VIP-группу",
+        "UA": "Створити VIP-групу"
+    },
+    "_at_editVipGroup": {
+        "EN": "Edit VIP group",
+        "RU": "Редактировать VIP-группу",
+        "UA": "Редагувати VIP-групу"
+    },
+    "_at_deleteVipGroup": {
+        "EN": "Delete VIP group",
+        "RU": "Удалить VIP-группу",
+        "UA": "Видалити VIP-групу"
+    },
+    "_at_changingVipGroup": {
+        "EN": "Changing VIP group",
+        "RU": "Изменение VIP-группы",
+        "UA": "Зміна VIP-групи"
+    },
+    "_at_selectGame": {
+        "EN": "Select game",
+        "RU": "Выберите игру",
+        "UA": "Виберіть гру"
+    },
+    "_at_game": {
+        "EN": "Game",
+        "RU": "Игра",
+        "UA": "Гра"
+    },
+    "_at_gameCSGO": {
+        "EN": "CS:GO",
+        "RU": "CS:GO",
+        "UA": "CS:GO"
+    },
+    "_at_gameCS2": {
+        "EN": "CS2",
+        "RU": "CS2",
+        "UA": "CS2"
+    },
+    "_at_addingVip": {
+        "EN": "Adding VIP",
+        "RU": "Добавление VIP",
+        "UA": "Додавання VIP"
+    },
+    "_at_addVip": {
+        "EN": "Add VIP",
+        "RU": "Добавить VIP",
+        "UA": "Додати VIP"
+    },
+    "_at_vipSteamId": {
+        "EN": "Player STEAMID",
+        "RU": "STEAMID игрока",
+        "UA": "STEAMID гравця"
+    },
+    "_at_selectVipGroup": {
+        "EN": "Select VIP group",
+        "RU": "Выберите VIP-группу",
+        "UA": "Виберіть VIP-групу"
+    },
+    "_at_vipGroup": {
+        "EN": "VIP group",
+        "RU": "VIP-группа",
+        "UA": "VIP-група"
+    },
+    "_at_selectVipExpire": {
+        "EN": "Select expire",
+        "RU": "Выберите срок",
+        "UA": "Виберіть термін"
+    },
+    "_at_selectVipServers": {
+        "EN": "Select servers",
+        "RU": "Выберите сервера",
+        "UA": "Виберіть сервери"
+    },
+    "_at_vipList": {
+        "EN": "VIP players list",
+        "RU": "Список VIP-игроков",
+        "UA": "Список VIP-гравців"
+    },
+    "_at_noVips": {
+        "EN": "No VIP players",
+        "RU": "VIP-игроков нет",
+        "UA": "VIP-гравців немає"
+    },
+    "_at_changeVip": {
+        "EN": "Change VIP",
+        "RU": "Изменить VIP",
+        "UA": "Змінити VIP"
+    },
+    "_at_changingVip": {
+        "EN": "Changing VIP",
+        "RU": "Изменение VIP",
+        "UA": "Зміна VIP"
+    },
+    "_at_deleteVip": {
+        "EN": "Delete VIP",
+        "RU": "Удалить VIP",
+        "UA": "Видалити VIP"
+    },
+    "_at_creatingReasons": {
+        "EN": "Creating punishment reasons",
+        "RU": "Создание причин наказаний",
+        "UA": "Створення причин покарань"
+    },
+    "_at_ReasonsDeasription": {
+        "EN": "Create punishment reasons conveniently, separately for game blocks and separately for communication blocks",
+        "RU": "Создавайте причины наказаний с удобством, отдельно для игровых блокировок, отдельно для блокировок общения",
+        "UA": "Створюйте причини покарань зручно, окремо для ігрових блокувань, окремо для блокувань спілкування"
+    },
+    "_at_ReasonTitle": {
+        "EN": "Reason title",
+        "RU": "Название причины",
+        "UA": "Назва причини"
+    },
+    "_at_ReasonTitlePlaceholder": {
+        "EN": "For example: Violation of server rules",
+        "RU": "Например: Нарушение правил сервера",
+        "UA": "Наприклад: Порушення правил сервера"
+    },
+    "_at_PunishMute": {
+        "EN": "Communication block",
+        "RU": "Блокировка общения",
+        "UA": "Блокування спілкування"
+    },
+    "_at_createReason": {
+        "EN": "Create reason",
+        "RU": "Создать причину",
+        "UA": "Створити причину"
+    },
+    "_at_editReason": {
+        "EN": "Edit reason",
+        "RU": "Редактировать причину",
+        "UA": "Редагувати причину"
+    },
+    "_at_deleteReason": {
+        "EN": "Delete reason",
+        "RU": "Удалить причину",
+        "UA": "Видалити причину"
+    },
+    "_at_convenience": {
+        "EN": "Convenience",
+        "RU": "Удобство",
+        "UA": "Зручність"
+    },
+    "_at_integrations": {
+        "EN": "Integrations",
+        "RU": "Интеграции",
+        "UA": "Інтеграції"
+    },
+    "_at_blockdbDescription": {
+        "EN": "BlockDB is a shared cheater database for CS2 projects. If a player is banned on one server, they will be automatically banned when joining yours — instantly, without moderators or manual checks.",
+        "RU": "BlockDB — общая база читеров для проектов CS2. Если игрок забанен на одном сервере, он будет автоматически забанен при заходе на ваш — мгновенно, без модераторов и ручной проверки.",
+        "UA": "BlockDB — спільна база читерів для проєктів CS2. Якщо гравця забанено на одному сервері, він буде автоматично забанений при заході на ваш — миттєво, без модераторів і ручної перевірки."
+    },
+    "_at_blockdbApiKey": {
+        "EN": "BlockDB API key",
+        "RU": "API-ключ BlockDB",
+        "UA": "API-ключ BlockDB"
+    },
+    "_at_blockdbApiKeyPlaceholder": {
+        "EN": "Enter BlockDB API key",
+        "RU": "Введите API-ключ BlockDB",
+        "UA": "Введіть API-ключ BlockDB"
+    },
+    "_at_defaultAllServers": {
+        "EN": "Select «All servers» by default in server selects",
+        "RU": "По умолчанию выбирать «Все серверы» в селектах серверов",
+        "UA": "За замовчуванням обирати «Усі сервери» в селектах серверів"
+    },
+    "_at_defaultAllServersHint": {
+        "EN": "It is applied to server selections when issuing penalties, adding admins, VIP, and experience.",
+        "RU": "Применяется к селектам серверов при выдаче наказаний, добавлении админов, VIP и опыта.",
+        "UA": "Застосовується до селектів серверів при видачі покарань, додаванні адмінів, VIP і досвіду."
+    },
+    "_at_hideTestGroup": {
+        "EN": "Hide the test period group?",
+        "RU": "Скрывать ли группу тестового периода?",
+        "UA": "Чи приховувати групу тестового періоду?"
+    },
+    "_at_testGroupName": {
+        "EN": "Enter the test group name",
+        "RU": "Укажите название тестовой группы",
+        "UA": "Вкажіть назву тестової групи"
+    },
+    "_at_remaining": {
+        "EN": "Remaining",
+        "RU": "Осталось",
+        "UA": "Залишилось"
+    },
+    "_at_sortBySumm": {
+        "EN": "Sort by amount",
+        "RU": "Сортировка по сумме",
+        "UA": "Сортування за сумою"
+    },
+    "_at_sortUp": {
+        "EN": "Ascending",
+        "RU": "По возрастанию",
+        "UA": "За зростанням"
+    },
+    "_at_sortDown": {
+        "EN": "Descending",
+        "RU": "По убыванию",
+        "UA": "За спаданням"
+    },
+    "_at_addingBalance": {
+        "EN": "Adding balance",
+        "RU": "Добавление баланса",
+        "UA": "Додавання балансу"
+    },
+    "_at_balanceSteamId": {
+        "EN": "Player STEAMID",
+        "RU": "STEAMID игрока",
+        "UA": "STEAMID гравця"
+    },
+    "_at_summAdding": {
+        "EN": "Amount to add",
+        "RU": "Сумма добавления",
+        "UA": "Сума додавання"
+    },
+    "_at_addBalance": {
+        "EN": "Add balance",
+        "RU": "Добавить баланс",
+        "UA": "Додати баланс"
+    },
+    "_at_allTime": {
+        "EN": "All time",
+        "RU": "За всё время",
+        "UA": "За весь час"
+    },
+    "_at_lastDeposit": {
+        "EN": "Last deposit",
+        "RU": "Последний депозит",
+        "UA": "Останній депозит"
+    },
+    "_at_noFinances": {
+        "EN": "No finances",
+        "RU": "Финансов нет",
+        "UA": "Фінансів немає"
+    },
+    "_at_changeBalance": {
+        "EN": "Change balance",
+        "RU": "Изменить баланс",
+        "UA": "Змінити баланс"
+    },
+    "_at_changingBalance": {
+        "EN": "Changing balance",
+        "RU": "Изменение баланса",
+        "UA": "Зміна балансу"
+    },
+    "_at_deleteBalance": {
+        "EN": "Clear balance",
+        "RU": "Очистить баланс",
+        "UA": "Очистити баланс"
+    },
+    "_at_summBalance": {
+        "EN": "Balance amount",
+        "RU": "Сумма баланса",
+        "UA": "Сума балансу"
+    },
+    "_at_changingBalancePlayer": {
+        "EN": "Change in player balance",
+        "RU": "Изменение баланса игрока",
+        "UA": "Зміна балансу гравця"
+    },
+    "_at_allGroups": {
+        "EN": "All groups",
+        "RU": "Все группы",
+        "UA": "Усі групи"
+    },
+    "_at_allPrivileges": {
+        "EN": "All privileges",
+        "RU": "Все привилегии",
+        "UA": "Усі привілеї"
+    },
+    "_at_foreverPrivileges": {
+        "EN": "Permanent only",
+        "RU": "Только навсегда",
+        "UA": "Тільки назавжди"
+    },
+    "_at_temporaryPrivileges": {
+        "EN": "Temporary only",
+        "RU": "Только временные",
+        "UA": "Тільки тимчасові"
+    },
+    "_at_expiredPrivileges": {
+        "EN": "Expired only",
+        "RU": "Только истекшие",
+        "UA": "Тільки прострочені"
+    },
+    "_at_logsList": {
+        "EN": "ATools panel logs",
+        "RU": "Логи панели ATools",
+        "UA": "Логи панелі ATools"
+    },
+    "_at_logsType": {
+        "EN": "Type of displayed logs",
+        "RU": "Тип отображаемых логов",
+        "UA": "Тип відображуваних логів"
+    },
+    "_at_logsShowAll": {
+        "EN": "Show all logs",
+        "RU": "Показывать все логи",
+        "UA": "Показувати всі логи"
+    },
+    "_at_logsPunish": {
+        "EN": "Punishment logs",
+        "RU": "Логи наказаний",
+        "UA": "Логи покарань"
+    },
+    "_at_logsAdmins": {
+        "EN": "Admin logs",
+        "RU": "Логи админов",
+        "UA": "Логи адмінів"
+    },
+    "_at_logsChecks": {
+        "EN": "Check logs",
+        "RU": "Логи проверок",
+        "UA": "Логи перевірок"
+    },
+    "_at_logsFinances": {
+        "EN": "Finance logs",
+        "RU": "Логи финансов",
+        "UA": "Логи фінансів"
+    },
+    "_at_logsPrivilegies": {
+        "EN": "Privilege logs",
+        "RU": "Логи привилегий",
+        "UA": "Логи привілеїв"
+    },
+    "_at_logsCredits": {
+        "EN": "Credit logs",
+        "RU": "Логи кредитов",
+        "UA": "Логи кредитів"
+    },
+    "_at_logsExperience": {
+        "EN": "Experience logs",
+        "RU": "Логи опыта",
+        "UA": "Логи досвіду"
+    },
+    "_at_addingPrivilegesImpossible": {
+        "EN": "Adding privileges is impossible",
+        "RU": "Добавление привилегий невозможно",
+        "UA": "Додавання привілеїв неможливе"
+    },
+    "_at_addingPrivilegesNeedConnects": {
+        "EN": "Need to connect the Vips database",
+        "RU": "Необходимо подключить Vips",
+        "UA": "Необхідно підключити Vips"
+    },
+    "_at_addingPrivilegesConnectAny": {
+        "EN": "Connect VIPs database",
+        "RU": "Подключите Vips",
+        "UA": "Підключіть Vips"
+    },
+    "_at_navHome": {
+        "EN": "Home",
+        "RU": "Главная",
+        "UA": "Головна"
+    },
+    "_at_navPunishments": {
+        "EN": "Punishments",
+        "RU": "Наказания",
+        "UA": "Покарання"
+    },
+    "_at_navAdmins": {
+        "EN": "Admins",
+        "RU": "Админы",
+        "UA": "Адміни"
+    },
+    "_at_navChecks": {
+        "EN": "Cheat checks",
+        "RU": "Проверки на читы",
+        "UA": "Перевірки на чіти"
+    },
+    "_at_navPrivileges": {
+        "EN": "Privileges",
+        "RU": "Привилегии",
+        "UA": "Привілеї"
+    },
+    "_at_navLogs": {
+        "EN": "Logs",
+        "RU": "Логи",
+        "UA": "Логи"
+    },
+    "_at_navSettings": {
+        "EN": "Settings",
+        "RU": "Настройки",
+        "UA": "Налаштування"
+    },
+    "_at_navFinances": {
+        "EN": "Player finances",
+        "RU": "Финансы игроков",
+        "UA": "Фінанси гравців"
+    },
+    "_at_navCredits": {
+        "EN": "Credits",
+        "RU": "Кредиты",
+        "UA": "Кредити"
+    },
+    "_at_navExperience": {
+        "EN": "Experience",
+        "RU": "Опыт",
+        "UA": "Досвід"
+    },
+    "_at_statAdmins": {
+        "EN": "Administrators",
+        "RU": "Администраторов",
+        "UA": "Адміністраторів"
+    },
+    "_at_peopleShort": {
+        "EN": "ppl.",
+        "RU": "чел.",
+        "UA": "ос."
+    },
+    "_at_piecesShort": {
+        "EN": "pcs.",
+        "RU": "шт.",
+        "UA": "шт."
+    },
+    "_at_statTemporary": {
+        "EN": "Temporary",
+        "RU": "Временных",
+        "UA": "Тимчасових"
+    },
+    "_at_statForever": {
+        "EN": "Permanent",
+        "RU": "Навсегда",
+        "UA": "Назавжди"
+    },
+    "_at_statVipPlayers": {
+        "EN": "Players with privileges",
+        "RU": "Игроков с привилегиями",
+        "UA": "Гравців з привілеями"
+    },
+    "_at_statBans": {
+        "EN": "Bans",
+        "RU": "Блокировок",
+        "UA": "Блокувань"
+    },
+    "_at_statMutes": {
+        "EN": "Mutes",
+        "RU": "Мутов",
+        "UA": "Мутів"
+    },
+    "_at_statActive": {
+        "EN": "Active",
+        "RU": "Активные",
+        "UA": "Активні"
+    },
+    "_at_statChecks": {
+        "EN": "Cheat checks",
+        "RU": "Проверок на читы",
+        "UA": "Перевірок на чіти"
+    },
+    "_at_statLast30Days": {
+        "EN": "Last 30 days",
+        "RU": "За последние 30 дней",
+        "UA": "За останні 30 днів"
+    },
+    "_at_statRevenueWeek": {
+        "EN": "Revenue this week",
+        "RU": "Выручка за неделю",
+        "UA": "Виручка за тиждень"
+    },
+    "_at_statRevenueWeekCompare": {
+        "EN": "Compared to last week",
+        "RU": "Относительно прошлой недели",
+        "UA": "Відносно минулого тижня"
+    },
+    "_at_statReports": {
+        "EN": "Reports",
+        "RU": "Репортов",
+        "UA": "Репортів"
+    },
+    "_at_statReviewed": {
+        "EN": "Reviewed",
+        "RU": "Рассмотрено",
+        "UA": "Розглянуто"
+    },
+    "_at_statViolatorsDay": {
+        "EN": "Daily violators share",
+        "RU": "Доля нарушителей за сутки",
+        "UA": "Частка порушників за добу"
+    },
+    "_at_statPunishedPercent": {
+        "EN": "Percent of punished players",
+        "RU": "Процент наказанных игроков",
+        "UA": "Відсоток покараних гравців"
+    },
+    "_at_chartBansDynamics": {
+        "EN": "Ban dynamics",
+        "RU": "Динамика блокировок",
+        "UA": "Динаміка блокувань"
+    },
+    "_at_chartMutesDynamics": {
+        "EN": "Mute dynamics",
+        "RU": "Динамика мутов",
+        "UA": "Динаміка мутів"
+    },
+    "_at_days7": {
+        "EN": "7 days",
+        "RU": "7 дней",
+        "UA": "7 днів"
+    },
+    "_at_days30": {
+        "EN": "30 days",
+        "RU": "30 дней",
+        "UA": "30 днів"
+    },
+    "_at_days90": {
+        "EN": "90 days",
+        "RU": "90 дней",
+        "UA": "90 днів"
+    },
+    "_at_chartIssued": {
+        "EN": "Issued",
+        "RU": "Выдано",
+        "UA": "Видано"
+    },
+    "_at_chartRemoved": {
+        "EN": "Removed",
+        "RU": "Снято",
+        "UA": "Знято"
+    },
+    "_at_topAdminsMonth": {
+        "EN": "Top admins this month",
+        "RU": "Топ админов в этом месяце",
+        "UA": "Топ адмінів у цьому місяці"
+    },
+    "_at_topMetricBans": {
+        "EN": "Bans",
+        "RU": "Баны",
+        "UA": "Бани"
+    },
+    "_at_topMetricMutes": {
+        "EN": "Mutes",
+        "RU": "Муты",
+        "UA": "Мути"
+    },
+    "_at_topMetricChecks": {
+        "EN": "Checks",
+        "RU": "Проверки",
+        "UA": "Перевірки"
+    },
+    "_at_topMetricReports": {
+        "EN": "Reports",
+        "RU": "Репорты",
+        "UA": "Репорти"
+    },
+    "_at_logsNewestFirst": {
+        "EN": "Newest first",
+        "RU": "Сначала новые",
+        "UA": "Спочатку нові"
+    },
+    "_at_logsOldestFirst": {
+        "EN": "Oldest first",
+        "RU": "Сначала старые",
+        "UA": "Спочатку старі"
+    },
+    "_at_logsByFreshness": {
+        "EN": "By freshness",
+        "RU": "По свежести",
+        "UA": "За свіжістю"
+    },
+    "_at_dateStart": {
+        "EN": "Start",
+        "RU": "Начало",
+        "UA": "Початок"
+    },
+    "_at_dateEnd": {
+        "EN": "End",
+        "RU": "Конец",
+        "UA": "Кінець"
+    },
+    "_at_selectDateRange": {
+        "EN": "Select period",
+        "RU": "Выберите период",
+        "UA": "Оберіть період"
+    },
+    "_at_logDetails": {
+        "EN": "Log details",
+        "RU": "Детали лога",
+        "UA": "Деталі логу"
+    },
+    "_at_logAdmin": {
+        "EN": "Admin:",
+        "RU": "Админ:",
+        "UA": "Адмін:"
+    },
+    "_at_logTarget": {
+        "EN": "Target:",
+        "RU": "Цель:",
+        "UA": "Ціль:"
+    },
+    "_at_customGroup": {
+        "EN": "Custom group",
+        "RU": "Своя группа",
+        "UA": "Своя група"
+    },
+    "_at_inDevelopment": {
+        "EN": "In development",
+        "RU": "В разработке",
+        "UA": "В розробці"
+    },
+    "_at_migration": {
+        "EN": "Migration",
+        "RU": "Миграция",
+        "UA": "Міграція"
+    },
+    "_at_msDetected": {
+        "EN": "ManagerSystem module detected. You can import data from it! Click the button to migrate information.",
+        "RU": "Обнаружен модуль ManagerSystem. Предоставляется возможность импортировать данные из модуля! Нажмите на кнопку для миграции информации",
+        "UA": "Виявлено модуль ManagerSystem. Надається можливість імпортувати дані з модуля! Натисніть кнопку для міграції інформації"
+    },
+    "_at_importSettings": {
+        "EN": "Import settings",
+        "RU": "Импортировать настройки",
+        "UA": "Імпортувати налаштування"
+    },
+    "_at_msNotDetected": {
+        "EN": "ManagerSystem module not detected...",
+        "RU": "Модуль ManagerSystem не обнаружен...",
+        "UA": "Модуль ManagerSystem не виявлено..."
+    },
+    "_at_welcomeTitle": {
+        "EN": "Welcome to Admin Tools 🤩",
+        "RU": "Добро пожаловать в Admin Tools 🤩",
+        "UA": "Ласкаво просимо до Admin Tools 🤩"
+    },
+    "_at_welcomeHeading": {
+        "EN": "ATools — control without compromise",
+        "RU": "ATools - контроль без компромиссов",
+        "UA": "ATools — контроль без компромісів"
+    },
+    "_at_welcomeText1": {
+        "EN": "Admin Tools is a modern multifunctional CMS module designed to automate administration work and conveniently manage a game server. The module combines all key processes in one interface: issuing punishments, managing administrators, controlling privileges, checking players, keeping logs, and a flexible access system.",
+        "RU": "Admin Tools — это современный многофункциональный модуль для CMS, созданный для автоматизации работы администрации и удобного управления игровым сервером. Модуль объединяет в одном интерфейсе все ключевые процессы: выдачу наказаний, управление администраторами, контроль привилегий, проверку игроков, ведение логов и гибкую систему доступа.",
+        "UA": "Admin Tools — це сучасний багатофункціональний модуль для CMS, створений для автоматизації роботи адміністрації та зручного керування ігровим сервером. Модуль об'єднує в одному інтерфейсі всі ключові процеси: видачу покарань, керування адміністраторами, контроль привілеїв, перевірку гравців, ведення логів і гнучку систему доступу."
+    },
+    "_at_welcomeText2": {
+        "EN": "The main idea of Admin Tools is to remove a chaotic set of separate solutions and replace them with a single project management ecosystem where every function works quickly, logically, and securely.",
+        "RU": "Основная идея Admin Tools — убрать хаотичный набор отдельных решений и заменить их единой экосистемой управления проектом, где каждая функция работает быстро, логично и безопасно.",
+        "UA": "Основна ідея Admin Tools — прибрати хаотичний набір окремих рішень і замінити їх єдиною екосистемою керування проєктом, де кожна функція працює швидко, логічно та безпечно."
+    },
+    "_at_welcomeText3": {
+        "EN": "Admin Tools is not just an admin panel, but a full-fledged server management center that makes administration work faster, safer, and more convenient.",
+        "RU": "Admin Tools — это не просто админ-панель, а полноценный центр управления сервером, который делает работу администрации быстрее, безопаснее и удобнее.",
+        "UA": "Admin Tools — це не просто адмін-панель, а повноцінний центр керування сервером, який робить роботу адміністрації швидшою, безпечнішою та зручнішою."
+    },
+    "_at_understood": {
+        "EN": "Got it",
+        "RU": "Понятно",
+        "UA": "Зрозуміло"
+    },
+    "_at_noPunishments": {
+        "EN": "No punishments",
+        "RU": "Наказаний нет",
+        "UA": "Покарань немає"
+    },
+    "_at_confirmAction": {
+        "EN": "Confirm action",
+        "RU": "Подтверждение действия",
+        "UA": "Підтвердження дії"
+    },
+    "_at_no": {
+        "EN": "No",
+        "RU": "Нет",
+        "UA": "Ні"
+    },
+    "_at_cancel": {
+        "EN": "Cancel",
+        "RU": "Отмена",
+        "UA": "Скасувати"
+    },
+    "_at_import": {
+        "EN": "Import",
+        "RU": "Импортировать",
+        "UA": "Імпортувати"
+    },
+    "_at_confirmImportMs": {
+        "EN": "Import settings from ManagerSystem? Current reasons, terms, VIP groups, and general settings will be overwritten.",
+        "RU": "Импортировать настройки из ManagerSystem? Текущие причины, сроки, VIP-группы и общие настройки будут перезаписаны.",
+        "UA": "Імпортувати налаштування з ManagerSystem? Поточні причини, терміни, VIP-групи та загальні налаштування будуть перезаписані."
+    },
+    "_at_confirmDeleteAccessGroup": {
+        "EN": "Are you sure you want to delete this access group? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить эту группу доступов? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цю групу доступів? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteReason": {
+        "EN": "Are you sure you want to delete this reason? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить эту причину? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цю причину? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteTerm": {
+        "EN": "Are you sure you want to delete this term? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить этот срок? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цей термін? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteVipGroup": {
+        "EN": "Are you sure you want to delete this VIP group? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить эту VIP-группу? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цю VIP-групу? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteAdminGroup": {
+        "EN": "Are you sure you want to delete this admin group? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить эту группу админов? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цю групу адмінів? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteLog": {
+        "EN": "Are you sure you want to delete this log? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить этот лог? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цей лог? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteVips": {
+        "EN": "Are you sure you want to delete the selected VIP players? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить выбранных VIP игроков? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити обраних VIP гравців? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteChecks": {
+        "EN": "Are you sure you want to delete the selected check(s)? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить выбранную(-ые) проверку(-и)? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити обрану(-і) перевірку(-и)? Цю дію не можна скасувати."
+    },
+    "_at_confirmRemovePunish": {
+        "EN": "Are you sure you want to remove this punishment? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите снять это наказание? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете зняти це покарання? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeletePunish": {
+        "EN": "Are you sure you want to delete this punishment? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить это наказание? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити це покарання? Цю дію не можна скасувати."
+    },
+    "_at_confirmRemovePunishmentsBulk": {
+        "EN": "Are you sure you want to remove the selected punishment(s)? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите снять выбранное(-ые) наказание(-ия)? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете зняти обране(-і) покарання? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeletePunishmentsBulk": {
+        "EN": "Are you sure you want to delete the selected punishment(s)? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить выбранное(-ые) наказание(-ия)? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити обране(-і) покарання? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteAdmin": {
+        "EN": "Are you sure you want to delete this administrator? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить этого администратора? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити цього адміністратора? Цю дію не можна скасувати."
+    },
+    "_at_confirmRemoveWarn": {
+        "EN": "Are you sure you want to remove this warn(s)? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите снять это предупреждение(я)? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете зняти це попередження(я)? Цю дію не можна скасувати."
+    },
+    "_at_confirmDeleteWarn": {
+        "EN": "Are you sure you want to delete this warn(s)? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите удалить это предупреждение(я)? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете видалити це попередження(я)? Цю дію не можна скасувати."
+    },
+    "_at_unmute": {
+        "EN": "Unmute",
+        "RU": "Снять",
+        "UA": "Зняти"
+    },
+    "_at_logCreatePunishment": {
+        "EN": "Punishment issued",
+        "RU": "Выдача наказания",
+        "UA": "Видача покарання"
+    },
+    "_at_logUpdatePunishment": {
+        "EN": "Punishment updated",
+        "RU": "Изменение наказания",
+        "UA": "Зміна покарання"
+    },
+    "_at_logRemovePunishments": {
+        "EN": "Punishment removed",
+        "RU": "Снятие наказания",
+        "UA": "Зняття покарання"
+    },
+    "_at_logDeletePunishments": {
+        "EN": "Punishment deleted",
+        "RU": "Удаление наказания",
+        "UA": "Видалення покарання"
+    },
+    "_at_logCreateAdmin": {
+        "EN": "Admin added",
+        "RU": "Добавление админа",
+        "UA": "Додавання адміна"
+    },
+    "_at_logUpdateAdmin": {
+        "EN": "Admin updated",
+        "RU": "Изменение админа",
+        "UA": "Зміна адміна"
+    },
+    "_at_logDeleteAdmin": {
+        "EN": "Admin rights removed",
+        "RU": "Снятие админ-прав",
+        "UA": "Зняття адмін-прав"
+    },
+    "_at_logAutoDeleteAdmin": {
+        "EN": "Admin auto-removed",
+        "RU": "Автоудаление админа",
+        "UA": "Автовидалення адміна"
+    },
+    "_at_logGiveWarn": {
+        "EN": "Warn issued",
+        "RU": "Выдача предупреждения",
+        "UA": "Видача попередження"
+    },
+    "_at_logRemoveWarn": {
+        "EN": "Warn removed",
+        "RU": "Снятие предупреждения",
+        "UA": "Зняття попередження"
+    },
+    "_at_logDeleteWarn": {
+        "EN": "Warn deleted",
+        "RU": "Удаление предупреждения",
+        "UA": "Видалення попередження"
+    },
+    "_at_logUpdateWarn": {
+        "EN": "Warn updated",
+        "RU": "Изменение предупреждения",
+        "UA": "Зміна попередження"
+    },
+    "_at_logDeleteChecks": {
+        "EN": "Check deleted",
+        "RU": "Удаление проверки",
+        "UA": "Видалення перевірки"
+    },
+    "_at_logCreatePrivilege": {
+        "EN": "Privilege granted",
+        "RU": "Выдача привилегии",
+        "UA": "Видача привілею"
+    },
+    "_at_logUpdatePrivilege": {
+        "EN": "Privilege updated",
+        "RU": "Изменение привилегии",
+        "UA": "Зміна привілею"
+    },
+    "_at_logDeletePrivilege": {
+        "EN": "Privilege deleted",
+        "RU": "Удаление привилегии",
+        "UA": "Видалення привілею"
+    },
+    "_at_logTimeTooltip": {
+        "EN": "Log time:",
+        "RU": "Время лога:",
+        "UA": "Час логу:"
+    },
+    "_at_logPunishType": {
+        "EN": "Punishment type:",
+        "RU": "Тип наказания:",
+        "UA": "Тип покарання:"
+    },
+    "_at_logReason": {
+        "EN": "Reason:",
+        "RU": "Причина:",
+        "UA": "Причина:"
+    },
+    "_at_logPunishExpire": {
+        "EN": "Punishment term:",
+        "RU": "Срок наказания:",
+        "UA": "Термін покарання:"
+    },
+    "_at_logGame": {
+        "EN": "Game:",
+        "RU": "Игра:",
+        "UA": "Гра:"
+    },
+    "_at_logGroup": {
+        "EN": "Group:",
+        "RU": "Группа:",
+        "UA": "Група:"
+    },
+    "_at_logAccessGroup": {
+        "EN": "Access group:",
+        "RU": "Группа доступа:",
+        "UA": "Група доступу:"
+    },
+    "_at_logPermissions": {
+        "EN": "Permissions:",
+        "RU": "Права доступа:",
+        "UA": "Права доступу:"
+    },
+    "_at_logExpire": {
+        "EN": "Term:",
+        "RU": "Срок:",
+        "UA": "Термін:"
+    },
+    "_at_logWarnReason": {
+        "EN": "Warn reason:",
+        "RU": "Причина предупреждения:",
+        "UA": "Причина попередження:"
+    },
+    "_at_logDuration": {
+        "EN": "Duration:",
+        "RU": "Длительность:",
+        "UA": "Тривалість:"
+    },
+    "_at_logEndDate": {
+        "EN": "End date:",
+        "RU": "Дата окончания:",
+        "UA": "Дата закінчення:"
+    },
+    "_at_logWarnReasons": {
+        "EN": "Warn reasons:",
+        "RU": "Причины предупреждений:",
+        "UA": "Причини попереджень:"
+    },
+    "_at_logWarnReasonSingle": {
+        "EN": "Warn reason:",
+        "RU": "Причина предупреждения:",
+        "UA": "Причина попередження:"
+    },
+    "_at_logPlayer": {
+        "EN": "Player:",
+        "RU": "Игрок:",
+        "UA": "Гравець:"
+    },
+    "_at_logChecker": {
+        "EN": "Checked by:",
+        "RU": "Проверял:",
+        "UA": "Перевіряв:"
+    },
+    "_at_logServers": {
+        "EN": "Servers:",
+        "RU": "Сервера:",
+        "UA": "Сервери:"
+    },
+    "_at_logAllServers": {
+        "EN": "All servers",
+        "RU": "Все сервера",
+        "UA": "Усі сервери"
+    },
+    "_at_logMuteGag": {
+        "EN": "Mute/Gag",
+        "RU": "Мут/гаг",
+        "UA": "Мут/гаг"
+    },
+    "_at_logGameBan": {
+        "EN": "Game ban",
+        "RU": "Игровая блокировка",
+        "UA": "Ігрове блокування"
+    },
+    "_at_msgSpecifyGroupName": {
+        "EN": "Specify at least one group name",
+        "RU": "Укажите хотя бы одно название группы",
+        "UA": "Вкажіть хоча б одну назву групи"
+    },
+    "_at_msgSelectAccessFlag": {
+        "EN": "Select at least one access flag",
+        "RU": "Выберите хотя бы один флаг доступа",
+        "UA": "Виберіть хоча б один прапор доступу"
+    },
+    "_at_msgSpecifyReasonName": {
+        "EN": "Specify at least one reason name",
+        "RU": "Укажите хотя бы одно название причины",
+        "UA": "Вкажіть хоча б одну назву причини"
+    },
+    "_at_msgSelectPunishType": {
+        "EN": "Select punishment type",
+        "RU": "Выберите тип наказания",
+        "UA": "Виберіть тип покарання"
+    },
+    "_at_msgReasonNotFound": {
+        "EN": "Reason not found",
+        "RU": "Причина не найдена",
+        "UA": "Причину не знайдено"
+    },
+    "_at_msgReasonDeleted": {
+        "EN": "Reason deleted successfully",
+        "RU": "Причина успешно удалена",
+        "UA": "Причину успішно видалено"
+    },
+    "_at_msgSpecifyTermName": {
+        "EN": "Specify at least one term name",
+        "RU": "Укажите хотя бы одно название срока",
+        "UA": "Вкажіть хоча б одну назву терміну"
+    },
+    "_at_msgSelectTermType": {
+        "EN": "Select term type",
+        "RU": "Выберите тип срока",
+        "UA": "Виберіть тип терміну"
+    },
+    "_at_msgTermNegative": {
+        "EN": "Term value cannot be negative",
+        "RU": "Значение срока не может быть отрицательным",
+        "UA": "Значення терміну не може бути від'ємним"
+    },
+    "_at_msgTermNotFound": {
+        "EN": "Term not found",
+        "RU": "Срок не найден",
+        "UA": "Термін не знайдено"
+    },
+    "_at_msgTermDeleted": {
+        "EN": "Term deleted successfully",
+        "RU": "Срок успешно удалён",
+        "UA": "Термін успішно видалено"
+    },
+    "_at_msgSpecifyVipIni": {
+        "EN": "Specify the group name from groups.ini",
+        "RU": "Укажите название группы из groups.ini",
+        "UA": "Вкажіть назву групи з groups.ini"
+    },
+    "_at_msgSpecifyVipDisplay": {
+        "EN": "Specify at least one display name for the group",
+        "RU": "Укажите хотя бы одно отображаемое название группы",
+        "UA": "Вкажіть хоча б одну відображувану назву групи"
+    },
+    "_at_msgVipGroupNotFound": {
+        "EN": "VIP group not found",
+        "RU": "VIP-группа не найдена",
+        "UA": "VIP-групу не знайдено"
+    },
+    "_at_msgVipGroupDeleted": {
+        "EN": "VIP group deleted successfully",
+        "RU": "VIP-группа успешно удалена",
+        "UA": "VIP-групу успішно видалено"
+    },
+    "_at_msgMaxWarnsMin": {
+        "EN": "Maximum warn count must be greater than 0",
+        "RU": "Максимальное количество варнов должно быть больше 0",
+        "UA": "Максимальна кількість варнів має бути більше 0"
+    },
+    "_at_msgMsNotFound": {
+        "EN": "ManagerSystem module not detected",
+        "RU": "Модуль ManagerSystem не обнаружен",
+        "UA": "Модуль ManagerSystem не виявлено"
+    },
+    "_at_msgImportDone": {
+        "EN": "Import completed: settings, %d reasons, %d terms, %d VIP groups (language: %s)",
+        "RU": "Импорт завершён: настройки, %d причин, %d сроков, %d VIP-групп (язык: %s)",
+        "UA": "Імпорт завершено: налаштування, %d причин, %d термінів, %d VIP-груп (мова: %s)"
+    },
+    "_at_msgForbidden": {
+        "EN": "Forbidden",
+        "RU": "Forbidden",
+        "UA": "Forbidden"
+    },
+    "_at_msgLogNotFound": {
+        "EN": "Log not found",
+        "RU": "Лог не найден",
+        "UA": "Лог не знайдено"
+    },
+    "_at_msgLogDeleted": {
+        "EN": "Log deleted",
+        "RU": "Лог удалён",
+        "UA": "Лог видалено"
+    },
+    "_at_msgPrivilegesNotSelected": {
+        "EN": "No privileges selected",
+        "RU": "Не выбраны привилегии",
+        "UA": "Не обрано привілеїв"
+    },
+    "_at_msgPrivilegesNotFound": {
+        "EN": "Privileges not found",
+        "RU": "Привилегии не найдены",
+        "UA": "Привілеї не знайдено"
+    },
+    "_at_msgVipDeletedPartial": {
+        "EN": "VIP removed, but not updated on some servers",
+        "RU": "VIP удалён, но не обновлён на некоторых серверах",
+        "UA": "VIP видалено, але не оновлено на деяких серверах"
+    },
+    "_at_msgVipDeleted": {
+        "EN": "VIP removed successfully",
+        "RU": "VIP успешно удалён",
+        "UA": "VIP успішно видалено"
+    },
+    "_at_msgVipDbNotConnected": {
+        "EN": "VIP database is not connected",
+        "RU": "Не подключена VIP база данных",
+        "UA": "Не підключено VIP базу даних"
+    },
+    "_at_msgSpecifyVipGroup": {
+        "EN": "Specify VIP group",
+        "RU": "Укажите VIP группу",
+        "UA": "Вкажіть VIP групу"
+    },
+    "_at_msgSpecifyExpire": {
+        "EN": "Specify expiration",
+        "RU": "Укажите срок действия",
+        "UA": "Вкажіть термін дії"
+    },
+    "_at_msgSpecifyServers": {
+        "EN": "Specify servers",
+        "RU": "Укажите сервера",
+        "UA": "Вкажіть сервери"
+    },
+    "_at_msgPrivilegeNotFound": {
+        "EN": "Privilege not found",
+        "RU": "Привилегия не найдена",
+        "UA": "Привілею не знайдено"
+    },
+    "_at_msgServersNotLinkedVip": {
+        "EN": "Selected servers are not linked to the VIP database",
+        "RU": "Выбранные сервера не привязаны к VIP базе",
+        "UA": "Обрані сервери не прив'язані до VIP бази"
+    },
+    "_at_msgVipUpdatedPartial": {
+        "EN": "VIP updated, but not updated on some servers",
+        "RU": "VIP изменён, но не обновлён на некоторых серверах",
+        "UA": "VIP змінено, але не оновлено на деяких серверах"
+    },
+    "_at_msgVipUpdated": {
+        "EN": "VIP updated successfully",
+        "RU": "VIP успешно изменён",
+        "UA": "VIP успішно змінено"
+    },
+    "_at_msgSpecifySteamId": {
+        "EN": "Specify SteamID",
+        "RU": "Укажите SteamID",
+        "UA": "Вкажіть SteamID"
+    },
+    "_at_msgVipAlreadyExists": {
+        "EN": "Player already has VIP",
+        "RU": "У игрока уже есть VIP",
+        "UA": "У гравця вже є VIP"
+    },
+    "_at_msgVipGrantedPartial": {
+        "EN": "VIP granted, but not updated on some servers",
+        "RU": "VIP выдан, но не обновлён на некоторых серверах",
+        "UA": "VIP видано, але не оновлено на деяких серверах"
+    },
+    "_at_msgVipGranted": {
+        "EN": "VIP granted successfully",
+        "RU": "VIP успешно выдан",
+        "UA": "VIP успішно видано"
+    },
+    "_at_msgNotAdminCannotPunish": {
+        "EN": "You are not an administrator and cannot issue punishments",
+        "RU": "Вы не администратор и не можете выдавать наказания",
+        "UA": "Ви не адміністратор і не можете видавати покарання"
+    },
+    "_at_msgPunishNotSelected": {
+        "EN": "No punishment selected",
+        "RU": "Не выбрано наказание",
+        "UA": "Не обрано покарання"
+    },
+    "_at_msgCannotModifyExpiredPunish": {
+        "EN": "Cannot modify a removed or expired punishment",
+        "RU": "Нельзя изменить снятое или истекшее наказание",
+        "UA": "Не можна змінити зняте або прострочене покарання"
+    },
+    "_at_msgPunishUpdatedPartial": {
+        "EN": "Punishment updated, but not updated on some servers",
+        "RU": "Наказание изменено, но не обновлено на некоторых серверах",
+        "UA": "Покарання змінено, але не оновлено на деяких серверах"
+    },
+    "_at_msgPunishUpdated": {
+        "EN": "Punishment updated",
+        "RU": "Наказание изменено",
+        "UA": "Покарання змінено"
+    },
+    "_at_msgPunishmentsNotSelected": {
+        "EN": "No punishments selected",
+        "RU": "Не выбраны наказания",
+        "UA": "Не обрано покарань"
+    },
+    "_at_msgCannotModifyOwnPunish": {
+        "EN": "You cannot modify your own punishment",
+        "RU": "Нельзя изменить собственное наказание",
+        "UA": "Не можна змінити власне покарання"
+    },
+    "_at_msgCannotRemoveExpiredPunish": {
+        "EN": "Cannot remove a removed or expired punishment",
+        "RU": "Нельзя снять снятое или истекшее наказание",
+        "UA": "Не можна зняти зняте або прострочене покарання"
+    },
+    "_at_msgInvalidPunishType": {
+        "EN": "Invalid punishment type",
+        "RU": "Неверный тип наказания",
+        "UA": "Невірний тип покарання"
+    },
+    "_at_msgSpecifyReason": {
+        "EN": "Specify reason",
+        "RU": "Укажите причину",
+        "UA": "Вкажіть причину"
+    },
+    "_at_msgSpecifyTerm": {
+        "EN": "Specify term",
+        "RU": "Укажите срок",
+        "UA": "Вкажіть термін"
+    },
+    "_at_msgPunishGrantedPartialNoAdmin": {
+        "EN": "Punishment issued, but you have no admin rights in one of the games and it was not updated on some servers",
+        "RU": "Наказание выдано, но у вас нет прав администратора в одной из игр и не обновлено на некоторых серверах",
+        "UA": "Покарання видано, але у вас немає прав адміністратора в одній з ігор і не оновлено на деяких серверах"
+    },
+    "_at_msgPunishGrantedNoAdmin": {
+        "EN": "Punishment issued, but you have no admin rights in one of the games",
+        "RU": "Наказание выдано, но у вас нет прав администратора в одной из игр",
+        "UA": "Покарання видано, але у вас немає прав адміністратора в одній з ігор"
+    },
+    "_at_msgPunishGrantedPartial": {
+        "EN": "Punishment issued, but not updated on some servers",
+        "RU": "Наказание выдано, но не обновлено на некоторых серверах",
+        "UA": "Покарання видано, але не оновлено на деяких серверах"
+    },
+    "_at_msgPunishGranted": {
+        "EN": "Punishment issued",
+        "RU": "Наказание выдано",
+        "UA": "Покарання видано"
+    },
+    "_at_msgChecksNotSelected": {
+        "EN": "No checks selected",
+        "RU": "Не выбраны проверки",
+        "UA": "Не обрано перевірок"
+    },
+    "_at_msgChecksBackendMissing": {
+        "EN": "No Checks backend connected (AdminSystem / IksAdminNew)",
+        "RU": "Не подключена ни один Checks (AdminSystem / IksAdminNew)",
+        "UA": "Не підключено жодного Checks (AdminSystem / IksAdminNew)"
+    },
+    "_at_msgChecksDeleted": {
+        "EN": "Check(s) deleted",
+        "RU": "Проверка(-и) удалена(-ы)",
+        "UA": "Перевірку(-и) видалено"
+    },
+    "_at_msgCannotDeleteOwnCheck": {
+        "EN": "Cannot delete your own check",
+        "RU": "Нельзя удалить собственную проверку",
+        "UA": "Не можна видалити власну перевірку"
+    },
+    "_at_msgAdminExists": {
+        "EN": "An administrator with this SteamID already exists",
+        "RU": "Администратор с этим SteamID уже существует",
+        "UA": "Адміністратор з цим SteamID уже існує"
+    },
+    "_at_msgInvalidGameType": {
+        "EN": "Invalid game type",
+        "RU": "Неверный тип игры",
+        "UA": "Невірний тип гри"
+    },
+    "_at_msgAdminNotFound": {
+        "EN": "Administrator not found",
+        "RU": "Администратор не найден",
+        "UA": "Адміністратора не знайдено"
+    },
+    "_at_msgCannotUpdateOwnAccess": {
+        "EN": "Cannot update your own access",
+        "RU": "Невозможно обновить ваш доступ",
+        "UA": "Неможливо оновити ваш доступ"
+    },
+    "_at_msgCannotChangeSiteAdmin": {
+        "EN": "Cannot change site administrator access",
+        "RU": "Невозможно изменить доступ администратора сайта",
+        "UA": "Неможливо змінити доступ адміністратора сайту"
+    },
+    "_at_msgAdminDeleted": {
+        "EN": "Administrator deleted",
+        "RU": "Администратор удален",
+        "UA": "Адміністратора видалено"
+    },
+    "_at_msgCannotWarnSelf": {
+        "EN": "Cannot issue a warn to yourself",
+        "RU": "Невозможно выдать предупреждение себе",
+        "UA": "Неможливо видати попередження собі"
+    },
+    "_at_msgSpecifyWarnReason": {
+        "EN": "Specify warn reason",
+        "RU": "Укажите причину предупреждения",
+        "UA": "Вкажіть причину попередження"
+    },
+    "_at_msgMaxWarnsReached": {
+        "EN": "Maximum number of active warns reached",
+        "RU": "Максимальное количество активных предупреждений достигнуто",
+        "UA": "Досягнуто максимальну кількість активних попереджень"
+    },
+    "_at_msgSpecifyWarnExpire": {
+        "EN": "Specify warn expiration",
+        "RU": "Вы не указали срок действия предупреждения",
+        "UA": "Ви не вказали термін дії попередження"
+    },
+    "_at_msgWarnGivenAdminRemoved": {
+        "EN": "Warn issued, administrator removed (maximum warn count reached)",
+        "RU": "Предупреждение выдано, администратор удален (максимальное количество предупреждений)",
+        "UA": "Попередження видано, адміністратора видалено (максимальна кількість попереджень)"
+    },
+    "_at_msgWarnGiven": {
+        "EN": "Warn issued",
+        "RU": "Предупреждение выдано",
+        "UA": "Попередження видано"
+    },
+    "_at_msgCannotRemoveOwnWarns": {
+        "EN": "Cannot remove warns from yourself",
+        "RU": "Невозможно снять предупреждения с себя",
+        "UA": "Неможливо зняти попередження з себе"
+    },
+    "_at_msgWarnsRemoved": {
+        "EN": "Warns removed",
+        "RU": "Предупреждения сняты",
+        "UA": "Попередження знято"
+    },
+    "_at_msgCannotDeleteOwnWarns": {
+        "EN": "Cannot delete warns from yourself",
+        "RU": "Невозможно удалить предупреждения с себя",
+        "UA": "Неможливо видалити попередження з себе"
+    },
+    "_at_msgWarnsDeleted": {
+        "EN": "Warns deleted",
+        "RU": "Предупреждения удалены",
+        "UA": "Попередження видалено"
+    },
+    "_at_msgCannotUpdateOwnWarn": {
+        "EN": "Cannot update your own warn",
+        "RU": "Невозможно обновить свое предупреждение",
+        "UA": "Неможливо оновити власне попередження"
+    },
+    "_at_msgWarnNotFound": {
+        "EN": "Warn not found",
+        "RU": "Предупреждение не найдено",
+        "UA": "Попередження не знайдено"
+    },
+    "_at_msgWarnUpdated": {
+        "EN": "Warn updated",
+        "RU": "Предупреждение обновлено",
+        "UA": "Попередження оновлено"
+    },
+    "_at_msgSpecifyType": {
+        "EN": "Specify type",
+        "RU": "Укажите тип",
+        "UA": "Вкажіть тип"
+    },
+    "_at_msgSpecifyGroup": {
+        "EN": "Specify group",
+        "RU": "Укажите группу",
+        "UA": "Вкажіть групу"
+    },
+    "_at_msgAdminBackendMissing": {
+        "EN": "No admin panel connected (AdminSystem / IksAdminNew / SourceBans)",
+        "RU": "Не подключена ни одна админка (AdminSystem / IksAdminNew / SourceBans)",
+        "UA": "Не підключено жодної адмінки (AdminSystem / IksAdminNew / SourceBans)"
+    },
+    "_at_msgAdminUpdatedPartial": {
+        "EN": "Administrator updated, but not updated on some servers",
+        "RU": "Администратор обновлен, не обновлен на некоторых серверах",
+        "UA": "Адміністратора оновлено, не оновлено на деяких серверах"
+    },
+    "_at_msgAdminUpdated": {
+        "EN": "Administrator updated",
+        "RU": "Администратор обновлен",
+        "UA": "Адміністратора оновлено"
+    },
+    "_at_msgAdminCreatedPartial": {
+        "EN": "Administrator created, but not updated on some servers",
+        "RU": "Администратор создан, но не обновлен на некоторых серверах",
+        "UA": "Адміністратора створено, але не оновлено на деяких серверах"
+    },
+    "_at_msgAdminCreated": {
+        "EN": "Administrator created",
+        "RU": "Администратор создан",
+        "UA": "Адміністратора створено"
+    },
+    "_at_msgAdminCreatedWithVip": {
+        "EN": "Administrator and VIP created",
+        "RU": "Администратор и VIP выданы",
+        "UA": "Адміністратора та VIP видано"
+    },
+    "_at_msgVipPermissionRequired": {
+        "EN": "You do not have permission to grant VIP",
+        "RU": "Нет прав на выдачу VIP",
+        "UA": "Немає прав на видачу VIP"
+    },
+    "_at_msgWarnsNotSelected": {
+        "EN": "No warns selected",
+        "RU": "Не выбрано ни одного предупреждения",
+        "UA": "Не обрано жодного попередження"
+    },
+    "_at_msgImmunityNegative": {
+        "EN": "Immunity cannot be negative",
+        "RU": "Иммунитет не может быть отрицательным",
+        "UA": "Імунітет не може бути від'ємним"
+    },
+    "_at_msgAdminBackendNotConnected": {
+        "EN": "Admin system for the selected game is not connected",
+        "RU": "Админ-система для выбранной игры не подключена",
+        "UA": "Адмін-система для обраної гри не підключена"
+    },
+    "_at_msgGroupNotFound": {
+        "EN": "Group not found",
+        "RU": "Группа не найдена",
+        "UA": "Групу не знайдено"
+    },
+    "_at_msgGroupDeleted": {
+        "EN": "Group deleted successfully",
+        "RU": "Группа успешно удалена",
+        "UA": "Групу успішно видалено"
+    },
+    "_at_msgExpiresAt": {
+        "EN": "Expires:",
+        "RU": "Истекает:",
+        "UA": "Закінчується:"
+    },
+    "_at_msgCannotRemoveOwnPunish": {
+        "EN": "You cannot remove your own punishment",
+        "RU": "Нельзя снять собственное наказание",
+        "UA": "Не можна зняти власне покарання"
+    },
+    "_at_msgCannotDeleteOwnPunish": {
+        "EN": "You cannot delete your own punishment",
+        "RU": "Нельзя удалить собственное наказание",
+        "UA": "Не можна видалити власне покарання"
+    },
+    "_at_msgPunishmentsRemoved": {
+        "EN": "Punishment(s) removed",
+        "RU": "Наказание(-ия) снято(-ы)",
+        "UA": "Покарання знято"
+    },
+    "_at_msgPunishmentsDeleted": {
+        "EN": "Punishment(s) deleted",
+        "RU": "Наказание(-ия) удалено(-ы)",
+        "UA": "Покарання видалено"
+    },
+    "_at_msgNotAdminCannotModifyPunish": {
+        "EN": "You are not an administrator and cannot modify punishments",
+        "RU": "Вы не администратор и не можете изменять наказания",
+        "UA": "Ви не адміністратор і не можете змінювати покарання"
+    },
+    "_at_msgCannotDeleteOwnAccess": {
+        "EN": "Cannot delete your own access",
+        "RU": "Невозможно удалить ваш доступ",
+        "UA": "Неможливо видалити ваш доступ"
+    },
+    "_at_msgCannotDeleteSiteAdmin": {
+        "EN": "Cannot delete site administrator access",
+        "RU": "Невозможно удалить доступ администратора сайта",
+        "UA": "Неможливо видалити доступ адміністратора сайту"
+    },
+    "_at_msgSpecifyAdminGroupName": {
+        "EN": "Specify group name",
+        "RU": "Укажите название группы",
+        "UA": "Вкажіть назву групи"
+    },
+    "_at_createdTime": {
+        "EN": "Time:",
+        "RU": "Время:",
+        "UA": "Час:"
+    },
+    "_at_chartMute": {
+        "EN": "Mute",
+        "RU": "Мут",
+        "UA": "Мут"
+    },
+    "_at_chartGag": {
+        "EN": "Gag",
+        "RU": "Гаг",
+        "UA": "Гаг"
+    },
+    "_at_month1": {
+        "EN": "January",
+        "RU": "января",
+        "UA": "січня"
+    },
+    "_at_month2": {
+        "EN": "February",
+        "RU": "февраля",
+        "UA": "лютого"
+    },
+    "_at_month3": {
+        "EN": "March",
+        "RU": "марта",
+        "UA": "березня"
+    },
+    "_at_month4": {
+        "EN": "April",
+        "RU": "апреля",
+        "UA": "квітня"
+    },
+    "_at_month5": {
+        "EN": "May",
+        "RU": "мая",
+        "UA": "травня"
+    },
+    "_at_month6": {
+        "EN": "June",
+        "RU": "июня",
+        "UA": "червня"
+    },
+    "_at_month7": {
+        "EN": "July",
+        "RU": "июля",
+        "UA": "липня"
+    },
+    "_at_month8": {
+        "EN": "August",
+        "RU": "августа",
+        "UA": "серпня"
+    },
+    "_at_month9": {
+        "EN": "September",
+        "RU": "сентября",
+        "UA": "вересня"
+    },
+    "_at_month10": {
+        "EN": "October",
+        "RU": "октября",
+        "UA": "жовтня"
+    },
+    "_at_month11": {
+        "EN": "November",
+        "RU": "ноября",
+        "UA": "листопада"
+    },
+    "_at_month12": {
+        "EN": "December",
+        "RU": "декабря",
+        "UA": "грудня"
+    },
+    "_at_yearSuffix": {
+        "EN": "",
+        "RU": "г.",
+        "UA": "р."
+    },
+    "_at_addingFinancesImpossible": {
+        "EN": "Balance management is unavailable, missing:",
+        "RU": "Управление балансом невозможно, отсутствует:",
+        "UA": "Керування балансом неможливе, відсутнє:"
+    },
+    "_at_addingFinancesNeedConnects": {
+        "EN": "LK database must be connected in site settings",
+        "RU": "Необходимо подключить базу данных LK в настройках сайта",
+        "UA": "Потрібно підключити базу даних LK в налаштуваннях сайту"
+    },
+    "_at_addingFinancesConnectAny": {
+        "EN": "Connect LK database",
+        "RU": "Подключите базу LK",
+        "UA": "Підключіть базу LK"
+    },
+    "_at_msgLkNotConnected": {
+        "EN": "LK database is not connected",
+        "RU": "База LK не подключена",
+        "UA": "База LK не підключена"
+    },
+    "_at_msgSpecifyBalanceAmount": {
+        "EN": "Specify a valid amount to add",
+        "RU": "Укажите корректную сумму для начисления",
+        "UA": "Вкажіть коректну суму для нарахування"
+    },
+    "_at_msgInvalidBalanceAmount": {
+        "EN": "Invalid balance amount",
+        "RU": "Некорректная сумма баланса",
+        "UA": "Некоректна сума балансу"
+    },
+    "_at_msgBalanceAdded": {
+        "EN": "Balance added successfully",
+        "RU": "Баланс успешно начислен",
+        "UA": "Баланс успішно нараховано"
+    },
+    "_at_msgBalanceUpdated": {
+        "EN": "Balance updated successfully",
+        "RU": "Баланс успешно изменён",
+        "UA": "Баланс успішно змінено"
+    },
+    "_at_msgBalanceReset": {
+        "EN": "Balance cleared successfully",
+        "RU": "Баланс успешно очищен",
+        "UA": "Баланс успішно очищено"
+    },
+    "_at_msgBalancesReset": {
+        "EN": "Selected balances cleared successfully",
+        "RU": "Выбранные балансы успешно очищены",
+        "UA": "Вибрані баланси успішно очищено"
+    },
+    "_at_msgFinanceNotFound": {
+        "EN": "Player balance not found",
+        "RU": "Баланс игрока не найден",
+        "UA": "Баланс гравця не знайдено"
+    },
+    "_at_msgFinancesNotSelected": {
+        "EN": "No players selected",
+        "RU": "Игроки не выбраны",
+        "UA": "Гравці не вибрані"
+    },
+    "_at_msgFinancePlayersWithoutDonationDeleted": {
+        "EN": "All players with zero donation removed",
+        "RU": "Удалены все игроки с нулевым донатом",
+        "UA": "Вилучені всі гравці з нульовим донатом"
+    },
+    "_at_confirmDeleteFinancePlayersWithoutDonation": {
+        "EN": "Delete all accounts that never donated and have zero balance?",
+        "RU": "Удалить всех игроков без доната с нулевым балансом?",
+        "UA": "Видалити всіх гравців без донату з нульовим балансом?"
+    },
+    "_at_confirmDeleteBalance": {
+        "EN": "Are you sure you want to clear this player's balance? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите очистить баланс этого игрока? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете очистити баланс цього гравця? Це дія не можна скасувати."
+    },
+    "_at_confirmDeleteBalancesBulk": {
+        "EN": "Are you sure you want to clear the selected players' balances? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите очистить балансы выбранных игроков? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете очистити баланси вибраних гравців? Це дія не можна скасувати."
+    },
+    "_at_logAddBalance": {
+        "EN": "Balance added",
+        "RU": "Начисление баланса",
+        "UA": "Нарахування балансу"
+    },
+    "_at_logUpdateBalance": {
+        "EN": "Balance updated",
+        "RU": "Изменение баланса",
+        "UA": "Зміна балансу"
+    },
+    "_at_logResetBalance": {
+        "EN": "Balance cleared",
+        "RU": "Очистка баланса",
+        "UA": "Очищення балансу"
+    },
+    "_at_logDeleteFinancePlayersWithoutDonation": {
+        "EN": "Players without donations deleted",
+        "RU": "Удаление игроков без доната",
+        "UA": "Видалення гравців без донату"
+    },
+    "_at_logBalanceAmount": {
+        "EN": "Amount:",
+        "RU": "Сумма:",
+        "UA": "Сума:"
+    },
+    "_at_logBalanceOld": {
+        "EN": "Was:",
+        "RU": "Было:",
+        "UA": "Було:"
+    },
+    "_at_logBalanceNew": {
+        "EN": "Now:",
+        "RU": "Стало:",
+        "UA": "Стало:"
+    },
+    "_at_logBalanceCleared": {
+        "EN": "Cleared:",
+        "RU": "Очищено:",
+        "UA": "Очищено:"
+    },
+    "_at_addingExperience": {
+        "EN": "Adding experience",
+        "RU": "Выдача опыта",
+        "UA": "Видача досвіду"
+    },
+    "_at_experienceSteamId": {
+        "EN": "Player STEAMID",
+        "RU": "STEAMID игрока",
+        "UA": "STEAMID гравця"
+    },
+    "_at_summExperienceAdding": {
+        "EN": "Experience amount",
+        "RU": "Количество опыта",
+        "UA": "Кількість досвіду"
+    },
+    "_at_addExperience": {
+        "EN": "Add experience",
+        "RU": "Выдать опыт",
+        "UA": "Видати досвід"
+    },
+    "_at_experienceList": {
+        "EN": "Player statistics",
+        "RU": "Статистика игроков",
+        "UA": "Статистика гравців"
+    },
+    "_at_noExperience": {
+        "EN": "No players found",
+        "RU": "Игроки не найдены",
+        "UA": "Гравців не знайдено"
+    },
+    "_at_changeExperienceBtn": {
+        "EN": "Change experience",
+        "RU": "Изменить опыт",
+        "UA": "Змінити досвід"
+    },
+    "_at_resetExperienceBtn": {
+        "EN": "Reset experience",
+        "RU": "Обнулить опыт",
+        "UA": "Обнулити досвід"
+    },
+    "_at_currentExperience": {
+        "EN": "Experience amount",
+        "RU": "Количество опыта",
+        "UA": "Кількість досвіду"
+    },
+    "_at_changingExperiencePlayer": {
+        "EN": "Change player experience",
+        "RU": "Изменение опыта игрока",
+        "UA": "Зміна досвіду гравця"
+    },
+    "_at_experienceActions": {
+        "EN": "Statistics actions",
+        "RU": "Действия со статистикой",
+        "UA": "Дії зі статистикою"
+    },
+    "_at_clearAllStats": {
+        "EN": "Clear all player statistics",
+        "RU": "Очистить всю статистику игроков",
+        "UA": "Очистити всю статистику гравців"
+    },
+    "_at_clearAllStatsDesc": {
+        "EN": "Monthly wipe of statistics on all servers so new players can reach the top. Use only when servers are offline or empty — otherwise problems may occur.",
+        "RU": "Вайп статистики всех серверов — обычно делается в конце месяца, чтобы новые игроки могли попасть в топ. Нажимайте только при выключенных серверах или если на них нет игроков, иначе будут проблемы.",
+        "UA": "Вайп статистики всіх серверів — зазвичай робиться наприкінці місяця, щоб нові гравці могли потрапити в топ. Натискайте лише при вимкнених серверах або якщо на них немає гравців, інакше будуть проблеми."
+    },
+    "_at_clearEmptyPlayers": {
+        "EN": "Delete empty players",
+        "RU": "Удалить пустых игроков",
+        "UA": "Видалити порожніх гравців"
+    },
+    "_at_clearEmptyPlayersDesc": {
+        "EN": "Removes ghost accounts that registered in the database but never played — often banned multi-accounts, BlockDB failures, VAC bans, or players who stopped downloading and left.",
+        "RU": "Очистка игроков-призраков: удаляются аккаунты, которые записались в базу при попытке зайти, но ни разу не зашли и не поиграли — забаненные мультиаккаунты, непрошедшие BlockDB, VAC или вышедшие во время загрузки.",
+        "UA": "Очищення гравців-привидів: видаляються акаунти, які записалися в базу при спробі зайти, але жодного разу не зайшли і не пограли — забанені мультиакаунти, непройшлі BlockDB, VAC або ті, хто вийшов під час завантаження."
+    },
+    "_at_colExperience": {
+        "EN": "Experience",
+        "RU": "Опыт",
+        "UA": "Досвід"
+    },
+    "_at_colKills": {
+        "EN": "Kills",
+        "RU": "Килы",
+        "UA": "Кили"
+    },
+    "_at_colDeaths": {
+        "EN": "Deaths",
+        "RU": "Смерти",
+        "UA": "Смерті"
+    },
+    "_at_colShots": {
+        "EN": "Shots",
+        "RU": "Выстрелы",
+        "UA": "Постріли"
+    },
+    "_at_colHits": {
+        "EN": "Hits",
+        "RU": "Попадания",
+        "UA": "Влучання"
+    },
+    "_at_colHeadshots": {
+        "EN": "Headshots",
+        "RU": "Убийства в голову",
+        "UA": "Вбивства в голову"
+    },
+    "_at_colPlaytime": {
+        "EN": "Playtime",
+        "RU": "Время игры",
+        "UA": "Час гри"
+    },
+    "_at_addingExperienceImpossible": {
+        "EN": "Experience management is unavailable",
+        "RU": "Управление опытом недоступно",
+        "UA": "Керування досвідом недоступне"
+    },
+    "_at_addingExperienceNeedConnects": {
+        "EN": "Connect LevelsRanks statistics in the admin panel",
+        "RU": "Подключите статистику LevelsRanks в админ-панели",
+        "UA": "Підключіть статистику LevelsRanks в адмін-панелі"
+    },
+    "_at_addingExperienceConnectAny": {
+        "EN": "LevelsRanks database",
+        "RU": "База данных LevelsRanks",
+        "UA": "База даних LevelsRanks"
+    },
+    "_at_selectExperienceServers": {
+        "EN": "Select servers",
+        "RU": "Выберите сервера",
+        "UA": "Виберіть сервери"
+    },
+    "_at_timeHours": {
+        "EN": "h",
+        "RU": "ч",
+        "UA": "год"
+    },
+    "_at_timeMinutes": {
+        "EN": "min",
+        "RU": "мин",
+        "UA": "хв"
+    },
+    "_at_timeSeconds": {
+        "EN": "sec",
+        "RU": "сек",
+        "UA": "сек"
+    },
+    "_at_msgExperienceNotConnected": {
+        "EN": "LevelsRanks is not connected",
+        "RU": "LevelsRanks не подключён",
+        "UA": "LevelsRanks не підключено"
+    },
+    "_at_msgSpecifyExperienceAmount": {
+        "EN": "Specify experience amount",
+        "RU": "Укажите количество опыта",
+        "UA": "Вкажіть кількість досвіду"
+    },
+    "_at_msgInvalidExperienceAmount": {
+        "EN": "Invalid experience amount",
+        "RU": "Некорректное количество опыта",
+        "UA": "Некоректна кількість досвіду"
+    },
+    "_at_msgExperienceTableNotFound": {
+        "EN": "Statistics table not found",
+        "RU": "Таблица статистики не найдена",
+        "UA": "Таблицю статистики не знайдено"
+    },
+    "_at_msgExperiencePlayerNotFound": {
+        "EN": "Player not found in statistics",
+        "RU": "Игрок не найден в статистике",
+        "UA": "Гравця не знайдено в статистиці"
+    },
+    "_at_msgExperienceAdded": {
+        "EN": "Experience added",
+        "RU": "Опыт выдан",
+        "UA": "Досвід видано"
+    },
+    "_at_msgExperienceAddedPartial": {
+        "EN": "Experience added, but RCON failed on some servers",
+        "RU": "Опыт выдан, но RCON не сработал на части серверов",
+        "UA": "Досвід видано, але RCON не спрацював на частині серверів"
+    },
+    "_at_msgExperienceUpdated": {
+        "EN": "Experience updated",
+        "RU": "Опыт изменён",
+        "UA": "Досвід змінено"
+    },
+    "_at_msgExperienceReset": {
+        "EN": "Experience reset",
+        "RU": "Опыт обнулён",
+        "UA": "Досвід обнулено"
+    },
+    "_at_msgExperiencesReset": {
+        "EN": "Experience reset for selected players",
+        "RU": "Опыт обнулён у выбранных игроков",
+        "UA": "Досвід обнулено у вибраних гравців"
+    },
+    "_at_msgExperienceNotSelected": {
+        "EN": "No players selected",
+        "RU": "Игроки не выбраны",
+        "UA": "Гравці не вибрані"
+    },
+    "_at_msgExperienceStatsWiped": {
+        "EN": "All player statistics cleared",
+        "RU": "Вся статистика игроков очищена",
+        "UA": "Вся статистика гравців очищена"
+    },
+    "_at_msgEmptyExperiencePlayersDeleted": {
+        "EN": "Empty players deleted",
+        "RU": "Пустые игроки удалены",
+        "UA": "Порожніх гравців видалено"
+    },
+    "_at_confirmResetExperience": {
+        "EN": "Are you sure you want to reset this player's experience? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите обнулить опыт этого игрока? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете обнулити досвід цього гравця? Це дію не можна скасувати."
+    },
+    "_at_confirmResetExperienceBulk": {
+        "EN": "Are you sure you want to reset experience for selected players? This action cannot be undone.",
+        "RU": "Вы уверены, что хотите обнулить опыт выбранных игроков? Это действие нельзя отменить.",
+        "UA": "Ви впевнені, що хочете обнулити досвід вибраних гравців? Це дію не можна скасувати."
+    },
+    "_at_confirmWipeExperienceStats": {
+        "EN": "Are you sure you want to wipe statistics on ALL servers? Use only when servers are offline or empty.",
+        "RU": "Вы уверены, что хотите очистить статистику на ВСЕХ серверах? Делайте это только при выключенных серверах или если на них нет игроков.",
+        "UA": "Ви впевнені, що хочете очистити статистику на ВСІХ серверах? Робіть це лише при вимкнених серверах або якщо на них немає гравців."
+    },
+    "_at_confirmDeleteEmptyExperiencePlayers": {
+        "EN": "Delete all ghost accounts that never played on the servers?",
+        "RU": "Удалить всех игроков-призраков, которые ни разу не играли на серверах?",
+        "UA": "Видалити всіх гравців-привидів, які жодного разу не грали на серверах?"
+    },
+    "_at_logAddExperience": {
+        "EN": "Experience added",
+        "RU": "Выдача опыта",
+        "UA": "Видача досвіду"
+    },
+    "_at_logUpdateExperience": {
+        "EN": "Experience updated",
+        "RU": "Изменение опыта",
+        "UA": "Зміна досвіду"
+    },
+    "_at_logResetExperience": {
+        "EN": "Experience reset",
+        "RU": "Обнуление опыта",
+        "UA": "Обнулення досвіду"
+    },
+    "_at_logWipeExperienceStats": {
+        "EN": "Statistics wiped",
+        "RU": "Вайп статистики",
+        "UA": "Вайп статистики"
+    },
+    "_at_logDeleteEmptyExperiencePlayers": {
+        "EN": "Empty players deleted",
+        "RU": "Удаление пустых игроков",
+        "UA": "Видалення порожніх гравців"
+    },
+    "_at_logExperienceAmount": {
+        "EN": "Amount:",
+        "RU": "Количество:",
+        "UA": "Кількість:"
+    },
+    "_at_logExperienceOld": {
+        "EN": "Was:",
+        "RU": "Было:",
+        "UA": "Було:"
+    },
+    "_at_logExperienceNew": {
+        "EN": "Now:",
+        "RU": "Стало:",
+        "UA": "Стало:"
+    },
+    "_at_logExperienceCleared": {
+        "EN": "Cleared:",
+        "RU": "Очищено:",
+        "UA": "Очищено:"
+    },
+    "_at_calendarReset": {
+        "EN": "Reset",
+        "RU": "Сбросить",
+        "UA": "Скинути"
+    },
+    "_at_navGlobalSearch": {
+        "EN": "Global search",
+        "RU": "Глобальный поиск",
+        "UA": "Глобальний пошук"
+    },
+    "_at_globalSearchPlaceholder": {
+        "EN": "Global search in all sections of the ATools module",
+        "RU": "Глобальный поиск по всем разделам модуля ATools",
+        "UA": "Глобальний пошук по всіх розділах модуля ATools"
+    },
+    "_at_globalSearchResultsNotFound": {
+        "EN": "No results found",
+        "RU": "Результаты не найдены",
+        "UA": "Результати не знайдені"
+    },
+    "_at_globalSearchShowAll": {
+        "EN": "Show all",
+        "RU": "Показать все",
+        "UA": "Показати всі"
+    },
+    "_at_sendedReports": {
+        "EN": "Reports sent to the player",
+        "RU": "Отправленные репорты на игрока",
+        "UA": "Відправлені репорти на гравця"
+    },
+    "_at_statusReport": {
+        "EN": "Status",
+        "RU": "Статус",
+        "UA": "Статус"
+    },
+    "_at_verdictReport": {
+        "EN": "Verdict",
+        "RU": "Вердикт",
+        "UA": "Вердикт"
+    },
+    "_at_globalSearchDescription": {
+        "EN": "To exit the search, press ESC",
+        "RU": "Для выхода из поиска нажмите ESC",
+        "UA": "Для виходу з пошуку натисніть ESC"
+    },
+    "_at_searchEnterQuery": {
+        "EN": "Enter a Steam ID or nickname",
+        "RU": "Введите Steam ID или никнейм",
+        "UA": "Введіть Steam ID або нікнейм"
+    },
+    "_at_searchNotFound": {
+        "EN": "Player not found",
+        "RU": "Игрок не найден",
+        "UA": "Гравця не знайдено"
+    },
+    "_at_searchReportOpen": {
+        "EN": "Open",
+        "RU": "Открыт",
+        "UA": "Відкритий"
+    },
+    "_at_searchReportClosed": {
+        "EN": "Closed",
+        "RU": "Закрыт",
+        "UA": "Закритий"
+    },
+    "_at_sbFlag_a": {
+        "EN": "A - Reserved slot",
+        "RU": "A - Резервный слот",
+        "UA": "A - Резервний слот"
+    },
+    "_at_sbFlag_b": {
+        "EN": "B - Main flag for admin access",
+        "RU": "B - Основной флаг, для доступа к правам админа",
+        "UA": "B - Основний прапорець для доступу до прав адміна"
+    },
+    "_at_sbFlag_c": {
+        "EN": "C - Kick other players",
+        "RU": "C - Кик других игроков",
+        "UA": "C - Кік інших гравців"
+    },
+    "_at_sbFlag_d": {
+        "EN": "D - Ban other players",
+        "RU": "D - Бан других игроков",
+        "UA": "D - Бан інших гравців"
+    },
+    "_at_sbFlag_e": {
+        "EN": "E - Unban",
+        "RU": "E - Снятие запретов",
+        "UA": "E - Зняття заборон"
+    },
+    "_at_sbFlag_f": {
+        "EN": "F - Slay or hurt other players",
+        "RU": "F - Убийство или нанесение вреда другим игрокам",
+        "UA": "F - Вбивство або завдання шкоди іншим гравцям"
+    },
+    "_at_sbFlag_g": {
+        "EN": "G - Change map",
+        "RU": "G - Смена карты",
+        "UA": "G - Зміна карти"
+    },
+    "_at_sbFlag_h": {
+        "EN": "H - Change cvars",
+        "RU": "H - Изменение переменных (кваров)",
+        "UA": "H - Зміна змінних (cvar)"
+    },
+    "_at_sbFlag_i": {
+        "EN": "I - Change configs",
+        "RU": "I - Изменение конфигов (настроек)",
+        "UA": "I - Зміна конфігів (налаштувань)"
+    },
+    "_at_sbFlag_j": {
+        "EN": "J - Mute other players",
+        "RU": "J - Мут других игроков",
+        "UA": "J - Мут інших гравців"
+    },
+    "_at_sbFlag_k": {
+        "EN": "K - Vote",
+        "RU": "K - Голосование",
+        "UA": "K - Голосування"
+    },
+    "_at_sbFlag_l": {
+        "EN": "L - Set server password",
+        "RU": "L - Установка пароля для захода на сервер",
+        "UA": "L - Встановлення пароля для входу на сервер"
+    },
+    "_at_sbFlag_m": {
+        "EN": "M - RCON access",
+        "RU": "M - Удалённое управление консолью (rcon)",
+        "UA": "M - Віддалене керування консоллю (rcon)"
+    },
+    "_at_sbFlag_n": {
+        "EN": "N - sv_cheats and related commands",
+        "RU": "N - Изменение sv_cheats и связанные с этим команды",
+        "UA": "N - Зміна sv_cheats та повʼязаних команд"
+    },
+    "_at_sbFlag_o": {
+        "EN": "O - Custom flag 1",
+        "RU": "O - Доп. флаг 1",
+        "UA": "O - Дод. прапорець 1"
+    },
+    "_at_sbFlag_p": {
+        "EN": "P - Custom flag 2",
+        "RU": "P - Доп. флаг 2",
+        "UA": "P - Дод. прапорець 2"
+    },
+    "_at_sbFlag_q": {
+        "EN": "Q - Custom flag 3",
+        "RU": "Q - Доп. флаг 3",
+        "UA": "Q - Дод. прапорець 3"
+    },
+    "_at_sbFlag_r": {
+        "EN": "R - Custom flag 4",
+        "RU": "R - Доп. флаг 4",
+        "UA": "R - Дод. прапорець 4"
+    },
+    "_at_sbFlag_s": {
+        "EN": "S - Custom flag 5",
+        "RU": "S - Доп. флаг 5",
+        "UA": "S - Дод. прапорець 5"
+    },
+    "_at_sbFlag_t": {
+        "EN": "T - Custom flag 6",
+        "RU": "T - Доп. флаг 6",
+        "UA": "T - Дод. прапорець 6"
+    },
+    "_at_sbFlag_z": {
+        "EN": "Z - Root (full access)",
+        "RU": "Z - Root (полный доступ)",
+        "UA": "Z - Root (повний доступ)"
+    },
+    "_at_iksFlag_b": {
+        "EN": "B - Ban other players",
+        "RU": "B - Бан других игроков",
+        "UA": "B - Бан інших гравців"
+    },
+    "_at_iksFlag_c": {
+        "EN": "C - Change map",
+        "RU": "C - Смена карты",
+        "UA": "C - Зміна карти"
+    },
+    "_at_iksFlag_g": {
+        "EN": "G - Gag other players",
+        "RU": "G - Гаг других игроков",
+        "UA": "G - Гаг інших гравців"
+    },
+    "_at_iksFlag_k": {
+        "EN": "K - Kick other players",
+        "RU": "K - Кик других игроков",
+        "UA": "K - Кік інших гравців"
+    },
+    "_at_iksFlag_m": {
+        "EN": "M - Mute other players",
+        "RU": "M - Мут других игроков",
+        "UA": "M - Мут інших гравців"
+    },
+    "_at_iksFlag_o": {
+        "EN": "O - Custom flag 1",
+        "RU": "O - Доп. флаг 1",
+        "UA": "O - Дод. прапорець 1"
+    },
+    "_at_iksFlag_p": {
+        "EN": "P - Custom flag 2",
+        "RU": "P - Доп. флаг 2",
+        "UA": "P - Дод. прапорець 2"
+    },
+    "_at_iksFlag_q": {
+        "EN": "Q - Custom flag 3",
+        "RU": "Q - Доп. флаг 3",
+        "UA": "Q - Дод. прапорець 3"
+    },
+    "_at_iksFlag_r": {
+        "EN": "R - Custom flag 4",
+        "RU": "R - Доп. флаг 4",
+        "UA": "R - Дод. прапорець 4"
+    },
+    "_at_iksFlag_s": {
+        "EN": "S - Slay or hurt other players",
+        "RU": "S - Убийство или нанесение вреда другим игрокам",
+        "UA": "S - Вбивство або завдання шкоди іншим гравцям"
+    },
+    "_at_iksFlag_t": {
+        "EN": "T - Swap teams",
+        "RU": "T - Смена команд",
+        "UA": "T - Зміна команд"
+    },
+    "_at_iksFlag_u": {
+        "EN": "U - Unban",
+        "RU": "U - Разбан",
+        "UA": "U - Розбан"
+    },
+    "_at_iksFlag_v": {
+        "EN": "V - Custom flag 5",
+        "RU": "V - Доп. флаг 5",
+        "UA": "V - Дод. прапорець 5"
+    },
+    "_at_iksFlag_w": {
+        "EN": "W - Custom flag 6",
+        "RU": "W - Доп. флаг 6",
+        "UA": "W - Дод. прапорець 6"
+    },
+    "_at_iksFlag_x": {
+        "EN": "X - Custom flag 7",
+        "RU": "X - Доп. флаг 7",
+        "UA": "X - Дод. прапорець 7"
+    },
+    "_at_iksFlag_z": {
+        "EN": "Z - Root (full access)",
+        "RU": "Z - Root (полный доступ)",
+        "UA": "Z - Root (повний доступ)"
+    },
+    "_at_playersNotFound": {
+        "EN": "Players not found",
+        "RU": "Игроки не найдены",
+        "UA": "Гравці не знайдені"
+    },
+    "_at_selectPlayerFromServer": {
+        "EN": "Select player from server",
+        "RU": "Выбрать игрока с сервера",
+        "UA": "Вибрати гравця з сервера"
+    }
+}

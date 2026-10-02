@@ -1,0 +1,163 @@
+{
+    "_CountOnlineNow": {
+        "EN": "Now playing",
+		"UA": "Зараз грає",
+        "RU": "Сейчас играет"
+    },
+    "_Loading": {
+        "EN": "Loading",
+		"UA": "Завантажується",
+        "RU": "Загружается"
+    },
+    "_CurrentOnline": {
+        "EN": "Online",
+		"UA": "Онлайн",
+        "RU": "Онлайн"
+    },
+    "_ChooseMod": {
+        "EN": "Choose mod",
+		"UA": "Виберіть мод",
+        "RU": "Выберите мод"
+    },
+    "_AllMod": {
+        "EN": "All",
+		"UA": "Усе",
+        "RU": "Все"
+    },
+    "_CurrentMapPlay": {
+        "EN": "A map is being played now",
+		"UA": "Зараз грає картка",
+        "RU": "Сейчас играется карта"
+    },
+    "_CurrentMapPlayShort": {
+        "EN": "Map",
+		"UA": "Карта",
+        "RU": "Карта"
+    },
+    "_CurrentPlayers": {
+        "EN": "Players",
+		"UA": "Гравці",
+        "RU": "Игроки"
+    },
+    "_topPlace": {
+        "EN": "Place",
+		"UA": "Місце",
+        "RU": "Место"
+    },
+    "_topTen": {
+        "EN": "Top 10",
+		"UA": "Топ 10",
+        "RU": "Топ 10"
+    },
+    "_Rating_Monitoring": {
+        "EN": "Our server",
+		"UA": "Наші сервери",
+        "RU": "Наши сервера"
+    },
+    "_Monitoring_Players": {
+        "EN": "Players",
+		"UA": "Гравці",
+        "RU": "Игроки"
+    },
+    "_Monitoring_Players_Two": {
+        "EN": "Players",
+		"UA": "Гравців",
+        "RU": "Игроков"
+    },
+    "_Rating_Place": {
+        "EN": "place",
+		"UA": "місце",
+        "RU": "место"
+    },
+    "_Player": {
+        "EN": "Player",
+		"UA": "Гравець",
+        "RU": "Игрок"
+    },
+    "_Kills": {
+        "EN": "Kills",
+		"UA": "Вбивства",
+        "RU": "Убийства"
+    },
+    "_Death": {
+        "EN": "Deaths",
+		"UA": "Смерті",
+        "RU": "Смерти"
+    },
+    "_Assists": {
+        "EN": "Assists",
+		"UA": "Допомоги",
+        "RU": "Помощи"
+    },
+    "_KD": {
+        "EN": "KD",
+		"UA": "К/Д",
+        "RU": "К/Д"
+    },
+    "_Headshots": {
+        "EN": "Headshots",
+		"UA": "Хедшотів",
+        "RU": "Хедшотов"
+    },
+    "_Level": {
+        "EN": "Level",
+		"UA": "Рівень",
+        "RU": "Уровень"
+    },
+    "_Play_time": {
+        "EN": "Playtime",
+		"UA": "Час гри",
+        "RU": "Время игры"
+    },
+    "_Connect": {
+        "EN": "Connect",
+		"UA": "Приєднатися",
+        "RU": "Присоединиться"
+    },
+    "_TakeIp": {
+        "EN": "Copy IP",
+		"UA": "Скопіювати IP",
+        "RU": "Скопировать IP"
+    },
+    "_Detailed": {
+        "EN": "Detailed statistics",
+		"UA": "Детальна статистика",
+        "RU": "Подробная статистика"
+    },
+    "_Hide": {
+        "EN": "Hide statistics",
+		"UA": "Приховати статистику",
+        "RU": "Скрыть статистику"
+    },
+    "_RefreshData": {
+        "EN": "Refresh",
+		"UA": "Оновити",
+        "RU": "Обновить"
+    },
+    "_serverOff": {
+        "EN": "The server is down",
+		"UA": "Сервер вимкнено",
+        "RU": "Сервер отключен"
+    },
+    "_serverUnavailable": {
+        "EN": "☠️ Not available",
+		"UA": "☠️ Недоступний",
+        "RU": "☠️ Недоступен"
+    },
+    "_refreshInfo": {
+        "EN": "Update information",
+		"UA": "Обновить информацию",
+        "RU": "Обновить информацию"
+    },
+    "_dataUpdate": {
+        "EN": "The data will be updated via ",
+		"UA": "Данные обновляются через ",
+        "RU": "Данные обновятся через "
+    },
+    "_dataUpdateSec": {
+        "EN": " seconds!",
+		"UA": " секунду!",
+        "RU": " секунд!"
+    }
+    
+}

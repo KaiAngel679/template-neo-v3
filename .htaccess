@@ -1,0 +1,8 @@
+AddDefaultCharset utf-8
+DirectoryIndex index.php index.html index.htm
+Options -Indexes
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !/$
+RewriteCond %{REQUEST_URI} !\.
+RewriteRule ^(.*) %{REQUEST_URI}/ [L,R=301]
+RewriteRule !.(gif|jpg|jpeg|png|ico|css|js|svg|js_controller.php|woff2|woff|mp3|wav|mp4|webm|webp|ttf|json)$ index.php

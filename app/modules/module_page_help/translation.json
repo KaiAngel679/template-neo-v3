@@ -1,0 +1,77 @@
+{
+    "_Rules": {
+        "EN": "Help",
+        "RU": "Помощь",
+        "UA": "Допомога"
+    },
+    "_addition": {
+        "EN": "Addition",
+        "RU": "Добавление",
+        "UA": "Додавання"
+    },
+    "_svgCode": {
+        "EN": "SVG icon code",
+        "RU": "Код SVG иконки",
+        "UA": "Код SVG іконки"
+    },
+    "_category": {
+        "EN": "Category",
+        "RU": "Категория",
+        "UA": "Категорія"
+    },
+    "_sortNumber": {
+        "EN": "Order number",
+        "RU": "Порядковый номер",
+        "UA": "Порядковий номер"
+    },
+    "_save": {
+        "EN": "Save",
+        "RU": "Сохранить",
+        "UA": "Зберегти"
+    },
+    "_no": {
+        "EN": "No",
+        "RU": "Нет",
+        "UA": "Ні"
+    },
+    "_helpTitle": {
+        "EN": "Project rules and help",
+        "RU": "Правила и помощь проекта",
+        "UA": "Правила та допомога проекту"
+    },
+    "_base": {
+        "EN": "Knowledge base",
+        "RU": "База знаний",
+        "UA": "База знань"
+    },
+    "_addCategory": {
+        "EN": "Add category",
+        "RU": "Добавить категорию",
+        "UA": "Додати категорію"
+    },
+    "_addItem": {
+        "EN": "Add item",
+        "RU": "Добавить пункт",
+        "UA": "Додати пункт"
+    },
+    "_changingCat": {
+        "EN": "Category editing",
+        "RU": "Изменение категории",
+        "UA": "Зміна категорії"
+    },
+    "_addingItem": {
+        "EN": "Adding an item",
+        "RU": "Добавление пункта",
+        "UA": "Додавання пункту"
+    },
+    "_addingCat": {
+        "EN": "Adding a category",
+        "RU": "Добавление категории",
+        "UA": "Додавання категорії"
+    },
+    "_Uncategorized": {
+        "EN": "Uncategorized",
+        "RU": "Без категории",
+        "UA": "Без категорії"
+    }
+}

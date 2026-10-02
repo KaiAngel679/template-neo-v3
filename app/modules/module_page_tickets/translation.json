@@ -1,0 +1,1062 @@
+{
+  "_tickets": {
+    "EN": "Tickets",
+    "RU": "Тикеты",
+    "UA": "Тикети"
+  },
+  "_ticket": {
+    "EN": "Ticket",
+    "RU": "Тикет",
+    "UA": "Тикет"
+  },
+  "_description": {
+    "EN": "Describe the problem in a ticket, and we'll get to the bottom of it and help you out!",
+    "RU": "Опишите проблему в тикете — мы быстро разберёмся и поможем!",
+    "UA": "Опишіть проблему в тікеті-ми швидко розберемося і допоможемо!"
+  },
+  "_ticketsHome": {
+    "EN": "Homepage",
+    "RU": "Главная",
+    "UA": "Головна"
+  },
+  "_openTickets": {
+    "EN": "Open tickets",
+    "RU": "Открытые тикеты",
+    "UA": "Відкриті тікети"
+  },
+  "_archive": {
+    "EN": "Archive",
+    "RU": "Архив",
+    "UA": "Архів"
+  },
+  "_userBlock": {
+    "EN": "Blocks",
+    "RU": "Блокировки",
+    "UA": "Блокування"
+  },
+  "_access": {
+    "EN": "Accesses",
+    "RU": "Доступы",
+    "UA": "Доступи"
+  },
+  "_creatingTicket": {
+    "EN": "Create a ticket",
+    "RU": "Создание тикета",
+    "UA": "Створення тікету"
+  },
+  "_sendMessage": {
+    "EN": "Message",
+    "RU": "Сообщение",
+    "UA": "Повідомлення"
+  },
+  "_textareaPlaceholder": {
+    "EN": "Write your question. Attached materials will speed up the review process.",
+    "RU": "Напишите ваш вопрос. Прикрепленные материалы ускорят процесс рассмотрения",
+    "UA": "Напишіть ваше запитання. Прикріплені матеріали прискорять процес розгляду."
+  },
+  "_textareaPlaceholderChat": {
+    "EN": "Write your message",
+    "RU": "Напишите ваше сообщение",
+    "UA": "Напишіть ваше повідомлення"
+  },
+  "_creatTicket": {
+    "EN": "Create ticket",
+    "RU": "Создать тикет",
+    "UA": "Створити тикет"
+  },
+  "_creatTicketDialog": {
+    "EN": "Create",
+    "RU": "Создать",
+    "UA": "Створити"
+  },
+  "_selectCategory": {
+    "EN": "Select category",
+    "RU": "Выберите категорию",
+    "UA": "Виберіть категорію"
+  },
+  "_selectCategories": {
+    "EN": "Select categories",
+    "RU": "Выберите категории",
+    "UA": "Виберіть категорії"
+  },
+  "_subjectAppeal": {
+    "EN": "Subject of the appeal",
+    "RU": "Тема обращения",
+    "UA": "Тема звернення"
+  },
+  "_listYourTickets": {
+    "EN": "List of your tickets",
+    "RU": "Список ваших тикетов",
+    "UA": "Список ваших тикетів"
+  },
+  "_searchTickets": {
+    "EN": "Search by ticket name or player STEAMID",
+    "RU": "Поиск по имени заявки или по STEAMID игрока",
+    "UA": "Пошук на ім'я заявки або на STEAMID гравця"
+  },
+  "_move": {
+    "EN": "Move",
+    "RU": "Переместить",
+    "UA": "Перемістити"
+  },
+  "_listOpenTickets": {
+    "EN": "List of open tickets",
+    "RU": "Список открытых тикетов",
+    "UA": "Список відкритих тикетів"
+  },
+  "_listClosedTickets": {
+    "EN": "List of closed tickets",
+    "RU": "Список закрытых тикетов",
+    "UA": "Список закритих тикетів"
+  },
+  "_open": {
+    "EN": "Open",
+    "RU": "Открыть",
+    "UA": "Відкрити"
+  },
+  "_archiveYourTickets": {
+    "EN": "Ticket history",
+    "RU": "История тикетов",
+    "UA": "Історія квитків"
+  },
+  "_noTickets": {
+    "EN": "No tickets",
+    "RU": "Тикеты отсутствуют",
+    "UA": "Тикети відсутні"
+  },
+  "_wantSee": {
+    "EN": "I want to see:",
+    "RU": "Хочу видеть:",
+    "UA": "Хочу бачити:"
+  },
+  "_back": {
+    "EN": "Go back",
+    "RU": "Вернуться назад",
+    "UA": "Повернутись назад"
+  },
+  "_waiting": {
+    "EN": "Waiting for a response",
+    "RU": "Ожидание ответа",
+    "UA": "Очікування відповіді"
+  },
+  "_reviewedTicket": {
+    "EN": "Ticket reviewed",
+    "RU": "Тикет рассмотрен",
+    "UA": "Тикет розглянутоі"
+  },
+  "_autoClosed": {
+    "EN": "Closed automatically",
+    "RU": "Закрыто автоматически",
+    "UA": "Закрито автоматично"
+  },
+  "_opened": {
+    "EN": "Opened",
+    "RU": "Открыт",
+    "UA": "Відкритий"
+  },
+  "_closed": {
+    "EN": "Closed",
+    "RU": "Закрыт",
+    "UA": "Закритий"
+  },
+  "_block": {
+    "EN": "You are blocked",
+    "RU": "У вас блокировка",
+    "UA": "У вас блокування"
+  },
+  "_newMessage": {
+    "EN": "New message",
+    "RU": "Новое сообщение",
+    "UA": "Нове повідомлення"
+  },
+  "_sendMessageButton": {
+    "EN": "Send message",
+    "RU": "Отправить сообщение",
+    "UA": "Надіслати повідомлення"
+  },
+  "_readyAnswers": {
+    "EN": "Ready-made answers",
+    "RU": "Готовые ответы",
+    "UA": "Готові відповіді"
+  },
+  "_supportResponse": {
+    "EN": "Support response",
+    "RU": "Ответ техподдержки",
+    "UA": "Ответ техподдержки"
+  },
+  "_banned": {
+    "EN": "Ban",
+    "RU": "Забанить",
+    "UA": "Забанити"
+  },
+  "_closeTicket": {
+    "EN": "Close ticket",
+    "RU": "Закрыть тикет",
+    "UA": "Закрити квиток"
+  },
+  "_settingsAccess": {
+    "EN": "Settings access",
+    "RU": "Настройка доступов",
+    "UA": "Налаштування доступів"
+  },
+  "_addingAccess": {
+    "EN": "Adding access",
+    "RU": "Добавление доступа",
+    "UA": "Додавання доступу"
+  },
+  "_howTime": {
+    "EN": "How long to grant access for",
+    "RU": "На сколько времени выдать доступ",
+    "UA": "На скільки часу видати доступ"
+  },
+  "_forever": {
+    "EN": "forever",
+    "RU": "навсегда",
+    "UA": "назавжди"
+  },
+  "_accessReview": {
+    "EN": "Access to ticket review",
+    "RU": "Доступ к рассмотрению тикетов",
+    "UA": "Доступ до розгляду тикетів"
+  },
+  "_accessDelete": {
+    "EN": "Access to delete tickets",
+    "RU": "Доступ к удалению тикетов",
+    "UA": "Доступ до видалення тикетів"
+  },
+  "_accessBlock": {
+    "EN": "Access to block users",
+    "RU": "Доступ к блокировке пользователей",
+    "UA": "Доступ до блокування користувачів"
+  },
+  "_accessAdmins": {
+    "EN": "Access to adding admins",
+    "RU": "Доступ к добавлению админов",
+    "UA": "Доступ до додавання адмінів"
+  },
+  "_accessSettings": {
+    "EN": "Access to ticket settings",
+    "RU": "Доступ к настройке тикетов",
+    "UA": "Доступ до налаштування тикетів"
+  },
+  "_accessAdd": {
+    "EN": "Add access",
+    "RU": "Добавить доступ",
+    "UA": "Додати доступ"
+  },
+  "_adminsList": {
+    "EN": "Admins with access",
+    "RU": "Админы с доступом",
+    "UA": "Адміни з доступом"
+  },
+  "_empty": {
+    "EN": "The list is empty",
+    "RU": "Список пуст",
+    "UA": "Список порожній"
+  },
+  "_catSettings": {
+    "EN": "Category settings",
+    "RU": "Настройки категорий",
+    "UA": "Налаштування категорій"
+  },
+  "_addingSettings": {
+    "EN": "Adding a category",
+    "RU": "Добавление категории",
+    "UA": "Налаштування категорій"
+  },
+  "_catList": {
+    "EN": "List of categories",
+    "RU": "Список категорий",
+    "UA": "Список категорій"
+  },
+  "_catName": {
+    "EN": "Category name",
+    "RU": "Название категории",
+    "UA": "Назва категорії"
+  },
+  "_addonDescription": {
+    "EN": "Additional description",
+    "RU": "Дополнительное описание",
+    "UA": "Додатковий опис"
+  },
+  "_addonDescriptionEnable": {
+    "EN": "Include additional description",
+    "RU": "Включить дополнительное описание",
+    "UA": "Включити додатковий опис"
+  },
+  "_enableServer": {
+    "EN": "Enable server selection",
+    "RU": "Включить выбор серверов",
+    "UA": "Увімкнути вибір серверів"
+  },
+  "_save": {
+    "EN": "Save",
+    "RU": "Сохранить",
+    "UA": "Зберегти"
+  },
+  "_banForBanned": {
+    "EN": "Ban for banned on servers",
+    "RU": "Запретить для забаненных на серверах",
+    "UA": "Заборонити для забанених на серверах"
+  },
+  "_displayServers": {
+    "EN": "Select the servers you want to display",
+    "RU": "Выберите нужные сервера для отображения",
+    "UA": "Виберіть потрібні сервери для відображення"
+  },
+  "_addCategoryAction": {
+    "EN": "Add category",
+    "RU": "Добавить категорию",
+    "UA": "Додати категорію"
+  },
+  "_addingReadyResponses": {
+    "EN": "Adding Canned Responses",
+    "RU": "Добавление готовых ответов",
+    "UA": "Додавання готових відповідей"
+  },
+  "_buttonText": {
+    "EN": "Text for the button",
+    "RU": "Текст для кнопки",
+    "UA": "Текст для кнопки"
+  },
+  "_replyText": {
+    "EN": "Text for reply",
+    "RU": "Текст для ответа",
+    "UA": "Текст для відповіді"
+  },
+  "_replyAddButton": {
+    "EN": "Add a reply",
+    "RU": "Добавить ответ",
+    "UA": "Додати відповідь"
+  },
+  "_TimeForTicket": {
+    "EN": "Take into account the time played to create a ticket",
+    "RU": "Учитывать наигранное время для создания тикета",
+    "UA": "Враховувати награний час для створення тікету"
+  },
+  "_setTime": {
+    "EN": "Set time in hours",
+    "RU": "Укажите время в часах",
+    "UA": "Вкажіть час у часах"
+  },
+  "_changingReady": {
+    "EN": "Changing ready-made answer",
+    "RU": "Изменение готового ответа",
+    "UA": "Вкажіть час у секундах"
+  },
+  "_changingCategory": {
+    "EN": "Please select another category for the ticket",
+    "RU": "Выберите другую категорию для тикета",
+    "UA": "Виберіть іншу категорію для тикету"
+  },
+  "_moveTicket": {
+    "EN": "Moving a ticket",
+    "RU": "Перемещение тикета",
+    "UA": "Переміщення тикету"
+  },
+  "_anon": {
+    "EN": "Reply anonymously",
+    "RU": "Ответить анонимно",
+    "UA": "Відповісти анонімно"
+  },
+  "_ticketNotiAdmin": {
+    "EN": "New ticket opened #%number% from %name%",
+    "RU": "Открыт новый тикет №%number% от %name%",
+    "UA": "Відкрито новий тикет №%number% від %name%"
+  },
+  "_ticketNotiAdminSend": {
+    "EN": "A new message has arrived in ticket #%number%",
+    "RU": "В тикете №%number% пришло новое сообщение",
+    "UA": "У тикеті №%number% надійшло нове повідомлення"
+  },
+  "_ticketNotiUser": {
+    "EN": "Technical support responded to you in ticket #%number%",
+    "RU": "Вам ответила техподдержка в тикете №%number%",
+    "UA": "Вам відповіла техпідтримка у тикеті №%number%"
+  },
+  "_ticketWarn": {
+    "EN": "If you do not select servers, all will be displayed",
+    "RU": "Если не выбрать сервера, отображаться будут все",
+    "UA": "Якщо не вибрати сервер, відображатимуться всі"
+  },
+  "_notifySettings": {
+    "EN": "Notification settings",
+    "RU": "Настройка уведомлений",
+    "UA": "Налаштування повідомлень"
+  },
+  "_notifyEnable": {
+    "EN": "Enable site notifications",
+    "RU": "Включить уведомления на сайте",
+    "UA": "Включити повідомлення на сайті"
+  },
+  "_webhookLink": {
+    "EN": "Discord Webhook Link",
+    "RU": "Ссылка на Discord Webhook",
+    "UA": "Посилання на вебхук Discord"
+  },
+  "_webhookColor": {
+    "EN": "Embed Color (#HEX)",
+    "RU": "Цвет Embded (#HEX)",
+    "UA": "Колір Embded (#HEX)"
+  },
+  "_webhookImage": {
+    "EN": "Link to the image",
+    "RU": "Ссылка на картинку",
+    "UA": "Посилання на картинку"
+  },
+  "_forgotSteam": {
+    "EN": "You forgot to specify STEAMID",
+    "RU": "Вы забыли указать STEAMID",
+    "UA": "Ви забули вказати STEAMID"
+  },
+  "_didntSteam": {
+    "EN": "You did not specify STEAMID64",
+    "RU": "Вы указали не STEAMID64",
+    "UA": "Ви вказали не STEAMID64"
+  },
+  "_accessRemoved": {
+    "EN": "Access removed",
+    "RU": "Доступ удален",
+    "UA": "Доступ видалено"
+  },
+  "_notReveivedSteam": {
+    "EN": "Not received by STEAM64",
+    "RU": "Получен не STEAM64",
+    "UA": "Отриманий не STEAM64"
+  },
+  "_ticketIsOpen": {
+    "EN": "Ticket is open",
+    "RU": "Тикет открыт",
+    "UA": "Тикет відкритий"
+  },
+  "_ticketIsСlosed": {
+    "EN": "Ticket closed",
+    "RU": "Тикет закрыт",
+    "UA": "Тикет закритий"
+  },
+  "_ticketNotNumber": {
+    "EN": "Ticket ID is not a number",
+    "RU": "ID тикета не число",
+    "UA": "ID тикета не число"
+  },
+  "_ticketRemoved": {
+    "EN": "Ticket removed",
+    "RU": "Тикет удален",
+    "UA": "Тикет видалено"
+  },
+  "_writeMsgAttachFile": {
+    "EN": "Enter a message or attach a file",
+    "RU": "Введите сообщение или прикрепите файл",
+    "UA": "Введіть повідомлення або прикріпіть файл"
+  },
+  "_ticketMoved": {
+    "EN": "Ticket moved",
+    "RU": "Тикет перемещен",
+    "UA": "Тикет переміщено"
+  },
+  "_ticketOrCatNotNumber": {
+    "EN": "Ticket or category ID is not a number",
+    "RU": "ID тикета или категории не число",
+    "UA": "ID тикета чи категорії не число"
+  },
+  "_ticketLogin": {
+    "EN": "Login to submit a ticket",
+    "RU": "Авторизуйтесь для отправки тикета",
+    "UA": "Авторизуйтесь для відправлення тикету"
+  },
+  "_catNotSelected": {
+    "EN": "You have not selected a category",
+    "RU": "Вы не выбрали категорию",
+    "UA": "Ви не обрали категорію"
+  },
+  "_catNotSpecified": {
+    "EN": "You have not specified a topic.",
+    "RU": "Вы не указали тему",
+    "UA": "Ви не вказали тему"
+  },
+  "_haventMsg": {
+    "EN": "You haven't written a message.",
+    "RU": "Вы не написали сообщение",
+    "UA": "Ви не написали повідомлення"
+  },
+  "_haventQuestions": {
+    "EN": "You haven't filled in the answers",
+    "RU": "Вы не заполнили ответы",
+    "UA": "Ви не заповнили відповіді"
+  },
+  "_haventSrv": {
+    "EN": "You have not selected a server.",
+    "RU": "Вы не выбрали сервер",
+    "UA": "Ви не обрали сервер"
+  },
+  "_sortingID": {
+    "EN": "Sorting ID",
+    "RU": "Сортировочный ID",
+    "UA": "Сортувальний ID"
+  },
+  "_changingCat": {
+    "EN": "Change category",
+    "RU": "Изменение категории",
+    "UA": "Зміна категорії"
+  },
+  "_notLogin": {
+    "EN": "You forgot to log in",
+    "RU": "Вы забыли авторизоваться",
+    "UA": "Ви забули авторизуватись"
+  },
+  "_notYourTicket": {
+    "EN": "This is not your ticket.",
+    "RU": "Это не ваш тикет",
+    "UA": "Це не ваш тикет"
+  },
+  "_ticketHasNoID": {
+    "EN": "The ticket has no ID",
+    "RU": "У тикета нет ID",
+    "UA": "У тикета немає ID"
+  },
+  "_haventAccess": {
+    "EN": "You do not have access rights",
+    "RU": "У вас недостаточно прав",
+    "UA": "У вас недостатньо прав"
+  },
+  "_notConfigurated": {
+    "EN": "The module is not configured!",
+    "RU": "Модуль не настроен!",
+    "UA": "Модуль не налаштований!"
+  },
+  "_fivePhotos": {
+    "EN": "Add no more than 5 photos",
+    "RU": "Добавьте не более 5 фотографий",
+    "UA": "Додати не більше 5 фотографій"
+  },
+  "_ticketHasBeenClosed": {
+    "EN": "The ticket has been closed",
+    "RU": "Тикет был закрыт",
+    "UA": "Тикет було закрито"
+  },
+  "_all": {
+    "EN": "All",
+    "RU": "Все",
+    "UA": "Весь"
+  },
+  "_ticketHasBeenDeleted": {
+    "EN": "The ticket has been deleted",
+    "RU": "Тикет был удален",
+    "UA": "Тикет було видаляти"
+  },
+  "_immunDelete": {
+    "EN": "Immunity from removal",
+    "RU": "Иммунитет от удаления",
+    "UA": "Імунітет від видалення"
+  },
+  "_ticketMess1000": {
+    "EN": "Your message contains more than 1000 characters",
+    "RU": "Ваше сообщение содержит больше 1000 символов",
+    "UA": "Ваше повідомлення містить понад 1000 символів"
+  },
+  "_ticketMess500": {
+    "EN": "Your answer contains more than 500 characters",
+    "RU": "Ваш ответ содержит больше 500 символов",
+    "UA": "Ваш відповідь містить понад 500 символів"
+  },
+  "_ticketTopic100": {
+    "EN": "Your theme contains more than 100 characters",
+    "RU": "Ваша тема содержит больше 100 символов",
+    "UA": "Ваша тема містить більше 100 символів"
+  },
+  "_ticketTimeout": {
+    "EN": "Please wait before sending the next message",
+    "RU": "Подождите перед отправкой следующего сообщения",
+    "UA": "Зачекайте, перш ніж надсилати наступне повідомлення"
+  },
+  "_newAnswerInTicket": {
+    "EN": "New answer in ticket №",
+    "RU": "Новый ответ в тикете №",
+    "UA": "Нова відповідь у тикеті №"
+  },
+  "_fromUser": {
+    "EN": "from user [**",
+    "RU": "от пользователя [**",
+    "UA": "від користувача [**"
+  },
+  "_goToTicket": {
+    "EN": "Go to ticket",
+    "RU": "Перейти к тикету",
+    "UA": "Перейти до тикету"
+  },
+  "_subject": {
+    "EN": "Subject:",
+    "RU": "Тема:",
+    "UA": "Тема:"
+  },
+  "_attached": {
+    "EN": "Attached images: ",
+    "RU": "Прикреплено изображений: ",
+    "UA": "Прикріплено зображень: "
+  },
+  "_byUser": {
+    "EN": "by user [**",
+    "RU": "пользователем [**",
+    "UA": "користувачем [**"
+  },
+  "_enterCatName": {
+    "EN": "Please enter the category name",
+    "RU": "Укажите название категории",
+    "UA": "Вкажіть назву категорії"
+  },
+  "_specifySort": {
+    "EN": "Specify sort ID",
+    "RU": "Укажите ID сортировки",
+    "UA": "Вкажіть ID сортування"
+  },
+  "_specifyType": {
+    "EN": "Specify type ID",
+    "RU": "Укажите ID типа",
+    "UA": "Вкажіть ID типу"
+  },
+  "_specifyQuestions": {
+    "EN": "Specify questions",
+    "RU": "Укажите вопросы",
+    "UA": "Вкажіть питання"
+  },
+  "_specifyButtonName": {
+    "EN": "You have not specified the button name.",
+    "RU": "Вы не указали название кнопки",
+    "UA": "Ви не вказали назву кнопки"
+  },
+  "_specifyTexe": {
+    "EN": "You have not specified the text",
+    "RU": "Вы не указали текст",
+    "UA": "Ви не вказали текст"
+  },
+  "_settingsSave": {
+    "EN": "Settings saved",
+    "RU": "Настройки сохранены",
+    "UA": "Установки збережені"
+  },
+  "_catRemoved": {
+    "EN": "Category removed",
+    "RU": "Категория удалена",
+    "UA": "Категорія видалена"
+  },
+  "_catNotNumber": {
+    "EN": "Category ID is not a number",
+    "RU": "ID категории не число",
+    "UA": "ID категорії не число"
+  },
+  "_answerRemoved": {
+    "EN": "Answer removed",
+    "RU": "Ответ удален",
+    "UA": "Відповідь видалено"
+  },
+  "_answerNotNumber": {
+    "EN": "Answer ID is not a number",
+    "RU": "ID ответа не число",
+    "UA": "ID відповіді не число"
+  },
+  "_notReason": {
+    "EN": "You didn't specify the reason.",
+    "RU": "Вы не указали причину",
+    "UA": "Ви не вказали причину"
+  },
+  "_blockDelete": {
+    "EN": "The lock has been removed",
+    "RU": "Блокировка удалена",
+    "UA": "Блокування видалено"
+  },
+  "_notTime": {
+    "EN": "You didn't specify the time",
+    "RU": "Вы не указали время",
+    "UA": "Ви не вказали час"
+  },
+  "_categoryNotNumber": {
+    "EN": "The category ID is not a number",
+    "RU": "ID категории не число",
+    "UA": "ID категорії не число"
+  },
+  "_changeSaved": {
+    "EN": "Changes saved",
+    "RU": "Изменения сохранены",
+    "UA": "Зміни збережено"
+  },
+  "_resumed": {
+    "EN": "resumed",
+    "RU": "возобновлен",
+    "UA": "відновлено"
+  },
+  "_removed": {
+    "EN": "removed",
+    "RU": "удален",
+    "UA": "видалено"
+  },
+  "_newTicket": {
+    "EN": "New ticket №",
+    "RU": "Новый тикет №",
+    "UA": "Новий тикет №"
+  },
+  "_dragDrop": {
+    "EN": "Drag or drop ",
+    "RU": "Перетащите или ",
+    "UA": "Перетягніть або "
+  },
+  "_selectFile": {
+    "EN": "select file",
+    "RU": "выберите файл",
+    "UA": "виберіть файл"
+  },
+  "_noMore": {
+    "EN": "No more than 3 MB per 1 file",
+    "RU": "Не более 3 мб. за 1 файл",
+    "UA": "Не більше ніж 3 мб. за 1 файл"
+  },
+  "_Unknown": {
+    "EN": "Unknown",
+    "RU": "Неизвестно",
+    "UA": "Невідомо"
+  },
+  "_confirm": {
+    "EN": "Confirmation of action",
+    "RU": "Подтверждение действия",
+    "UA": "Підтвердження дії"
+  },
+  "_wantCloseTicket": {
+    "EN": "Are you sure you want to close this ticket?",
+    "RU": "Вы уверены, что хотите закрыть этот тикет?",
+    "UA": "Ви впевнені, що хочете закрити цей тикет?"
+  },
+  "_dialogClose": {
+    "EN": "Close",
+    "RU": "Закрыть",
+    "UA": "Закрити"
+  },
+  "_dialogChangeMind": {
+    "EN": "I changed my mind",
+    "RU": "Я передумал",
+    "UA": "я передумав"
+  },
+  "_dialogCannotUndone": {
+    "EN": "Are you sure you want to delete this ticket? This action cannot be undone.",
+    "RU": "Вы уверены, что хотите удалить этот тикет? Это действие нельзя отменить.",
+    "UA": "Ви впевнені, що хочете видалити цей тикет? Цю дію не можна скасувати."
+  },
+  "_dialogDelete": {
+    "EN": "Delete",
+    "RU": "Удалить",
+    "UA": "Видалити"
+  },
+  "_dialogLeave": {
+    "EN": "Leave",
+    "RU": "Оставить",
+    "UA": "Залишити"
+  },
+  "_dialogwantOpen": {
+    "EN": "Are you sure you want to open this ticket?",
+    "RU": "Вы уверены, что хотите открыть этот тикет?",
+    "UA": "Ви впевнені, що хочете відкрити цей тикет?"
+  },
+  "_dialogwantDelCat": {
+    "EN": "Are you sure you want to delete this category? This action can't be undone.",
+    "RU": "Вы уверены, что хотите удалить эту категорию? Это действие нельзя отменить.",
+    "UA": "Ви впевнені, що хочете видалити цю категорію? Цю дію не можна скасувати."
+  },
+  "_dialogwantDelReply": {
+    "EN": "Are you sure you want to delete this reply? This action cannot be undone.",
+    "RU": "Вы уверены, что хотите удалить этот ответ? Это действие нельзя отменить.",
+    "UA": "Ви впевнені, що хочете видалити цю відповідь? Цю дію не можна скасувати."
+  },
+  "_dialogwantDelAccess": {
+    "EN": "Are you sure you want to remove this access? This action cannot be undone.",
+    "RU": "Вы уверены, что хотите удалить этот доступ? Это действие нельзя отменить.",
+    "UA": "Ви впевнені, що хочете видалити цей доступ? Цю дію не можна скасувати."
+  },
+  "_dialogwantDelBlock": {
+    "EN": "Are you sure you want to remove this lock? This action cannot be undone.",
+    "RU": "Вы уверены, что хотите удалить эту блокировку? Это действие нельзя отменить.",
+    "UA": "Ви впевнені, що хочете видалити це блокування? Цю дію не можна скасувати."
+  },
+  "_allCat": {
+    "EN": "All categories",
+    "RU": "Все категории",
+    "UA": "Усі категорії"
+  },
+  "_dialogWantCreate": {
+    "EN": "Are you sure you want to create a ticket?",
+    "RU": "Вы уверены, что хотите создать тикет?",
+    "UA": "Ви впевнені, що хочете створити тикет?"
+  },
+  "_no": {
+    "EN": "No",
+    "RU": "Нет",
+    "UA": "Ні"
+  },
+  "_duration": {
+    "EN": "Duration",
+    "RU": "Длительность",
+    "UA": "Тривалість"
+  },
+  "_blocked": {
+    "EN": "Blocked",
+    "RU": "Заблокированный",
+    "UA": "Заблокований"
+  },
+  "_blockList": {
+    "EN": "Block list",
+    "RU": "Список блокировок",
+    "UA": "Список блокувань"
+  },
+  "_addBlock": {
+    "EN": "Add a block",
+    "RU": "Добавить блокировку",
+    "UA": "Додати блокування"
+  },
+  "_durationBlock": {
+    "EN": "Duration of blocking",
+    "RU": "Длительность блокировки",
+    "UA": "Тривалість блокування"
+  },
+  "_addingBlock": {
+    "EN": "Adding a lock",
+    "RU": "Добавление блокировки",
+    "UA": "Додавання блокування"
+  },
+  "_cats": {
+    "EN": "Categories",
+    "RU": "Категории",
+    "UA": "Категорії"
+  },
+  "_giveAccessCat": {
+    "EN": "Access only to certain categories",
+    "RU": "Доступ только к определенным категориям",
+    "UA": "Доступ лише до певних категорій"
+  },
+  "_useResponseTime": {
+    "EN": "Use your response time",
+    "RU": "Использовать свое время ответа",
+    "UA": "Використати свій час відповіді"
+  },
+  "_specifyTimeSec": {
+    "EN": "Specify time in seconds",
+    "RU": "Укажите время в секундах",
+    "UA": "Вкажіть час у секундах"
+  },
+  "_addonSettings": {
+    "EN": "Additional settings",
+    "RU": "Дополнительные настройки",
+    "UA": "Додаткові налаштування"
+  },
+  "_enableSlowMode": {
+    "EN": "Allow admins to enable slow mode in chat",
+    "RU": "Позволить админам включать в чате медленный режим",
+    "UA": "Дозволити адмінам включати в чаті повільний режим"
+  },
+  "_intervalSlowMode": {
+    "EN": "Interval between sending messages in slow mode",
+    "RU": "Итервал между отправкой сообщений в межденном режиме",
+    "UA": "Інтервал між надсиланням повідомлень у повільному режимі"
+  },
+  "_restrictOpenTicket": {
+    "EN": "Enable ticket opening restriction",
+    "RU": "Включить ограничение на открытие тикета",
+    "UA": "Включити обмеження на відкриття тикету"
+  },
+  "_changingAccess": {
+    "EN": "Changing access",
+    "RU": "Изменение доступов",
+    "UA": "Зміна доступів"
+  },
+  "_problemSolved": {
+    "EN": "Problem solved",
+    "RU": "Проблема решена",
+    "UA": "Проблема вирішена"
+  },
+  "_timeSpentCreate": {
+    "EN": "Time spent to create a ticket (in hours)",
+    "RU": "Наигранное время для создания тикета (в часах)",
+    "UA": "Награний час для створення тикету (у годинах)"
+  },
+  "_yourTimeResponce": {
+    "EN": "Your response time (in seconds)",
+    "RU": "Свое время ответа (в секундах)",
+    "UA": "Свій час відповіді (у секундах)"
+  },
+  "_timeUntilNextTicket": {
+    "EN": "Time until next ticket (in seconds)",
+    "RU": "Время до следующего тикета (в секундах)",
+    "UA": "Час до наступного тикету (у секундах)"
+  },
+  "_needTime": {
+    "EN": "To open a ticket you need to play more:",
+    "RU": "Чтобы открыть тикет нужно наиграть еще: ",
+    "UA": "Щоб відкрити тикет потрібно награти ще:"
+  },
+  "_hour": {
+    "EN": " h. ",
+    "RU": " ч. ",
+    "UA": " год. "
+  },
+  "_nextTicket": {
+    "EN": "The next ticket can be opened: ",
+    "RU": "Следующий тикет можно будет открыть: ",
+    "UA": "Наступний тикет можна буде відкрити: "
+  },
+  "_lessMinute": {
+    "EN": "less than a minute",
+    "RU": "меньше минуты",
+    "UA": "менше хвилини"
+  },
+  "_days": {
+    "EN": " d. ",
+    "RU": " дн. ",
+    "UA": " дн. "
+  },
+  "_minute": {
+    "EN": " min. ",
+    "RU": " мин. ",
+    "UA": " хв. "
+  },
+  "_aboutUser": {
+    "EN": "User Information",
+    "RU": "Информация о пользователе",
+    "UA": "Інформація про користувача"
+  },
+  "_currentPunish": {
+    "EN": "Current Punishments",
+    "RU": "Текущие наказания",
+    "UA": "Поточні покарання"
+  },
+  "_bans": {
+    "EN": "Game Bans",
+    "RU": "Игровые блокировки",
+    "UA": "Ігрові блокування"
+  },
+  "_mic": {
+    "EN": "Microphone",
+    "RU": "Микрофон",
+    "UA": "Мікрофон"
+  },
+  "_chat": {
+    "EN": "Chat",
+    "RU": "Чат",
+    "UA": "Чат"
+  },
+  "_chatMic": {
+    "EN": "Microphone + Chat",
+    "RU": "Микрофон + чат",
+    "UA": "Мікрофон + чат"
+  },
+  "_comms": {
+    "EN": "Communication Blocks",
+    "RU": "Блокировки общения",
+    "UA": "Блокування спілкування"
+  },
+  "_historyPunish": {
+    "EN": "Punishment History",
+    "RU": "История наказаний",
+    "UA": "Історія покарань"
+  },
+  "_noPunish": {
+    "EN": "No Punishments",
+    "RU": "Наказаний нет",
+    "UA": "Покарань немає"
+  },
+  "_historyPay": {
+    "EN": "Deposit History",
+    "RU": "История пополнений",
+    "UA": "Історія поповнень"
+  },
+  "_noPay": {
+    "EN": "No Deposits",
+    "RU": "Пополнений нет",
+    "UA": "Поповнень немає"
+  },
+  "_historyBuy": {
+    "EN": "Purchase History",
+    "RU": "История покупок",
+    "UA": "Історія покупок"
+  },
+  "_noBuy": {
+    "EN": "No Purchases",
+    "RU": "Покупок нет",
+    "UA": "Покупок немає"
+  },
+  "_default": {
+    "EN": "Default ticket",
+    "RU": "Стандартный тикет",
+    "UA": "Тикет за замовчуванням"
+  },
+  "_strong": {
+    "EN": "Strongly typed",
+    "RU": "Со строгой типизацией",
+    "UA": "Зі строгою типізацією"
+  },
+  "_new": {
+    "EN": "New question",
+    "RU": "Новый вопрос",
+    "UA": "Нове питання"
+  },
+  "_fillFields": {
+    "EN": "Fill in the fields",
+    "RU": "Заполните поля",
+    "UA": "Заповніть поля"
+  },
+  "_closedBy": {
+    "EN": "Ticket closed by user",
+    "RU": "Тикет закрыт пользователем",
+    "UA": "Тикет закритий користувачем"
+  },
+  "_describeQuestion": {
+    "EN": "Describe your question",
+    "RU": "Опишите ваш вопрос",
+    "UA": "Опишіть ваше питання"
+  },
+  "_enableAutoClose": {
+    "EN": "Enable automatic ticket closure",
+    "RU": "Включить автоматическое закрытие тикета",
+    "UA": "Увімкнути автоматичне закриття тикету"
+  },
+  "_timeAutoClose": {
+    "EN": "Time until automatic closure (in seconds)",
+    "RU": "Время до автоматического закрытия (в секундах)",
+    "UA": "Час до автоматичного закриття (у секундах)"
+  },
+  "_ticketReview": {
+    "EN": "Issued for ticket review",
+    "RU": "Выдано за рассмотрение тикета",
+    "UA": "Видано за розгляд тікету"
+  },
+  "_ticketMy": {
+    "EN": "My tickets",
+    "RU": "Мои тикеты",
+    "UA": "Мої квитки"
+  },
+  "_giveMoney": {
+    "EN": "Give out money for ticket review",
+    "RU": "Выдавать деньги за рассмотрение тикета",
+    "UA": "Видавати гроші за розгляд тікету"
+  },
+  "_summMoney": {
+    "EN": "The amount of money",
+    "RU": "Сумма денег",
+    "UA": "Сума грошей"
+  },
+  "_enterQuestion": {
+    "EN": "Enter a question",
+    "RU": "Введите вопрос",
+    "UA": "Введіть питання"
+  },
+  "_summMoneyReview": {
+    "EN": "The amount of money for ticket review",
+    "RU": "Сумма денег за рассмотрение тикета",
+    "UA": "Сума грошей за розгляд тікету"
+  },
+  "_deleteMsgDialog": {
+    "EN": "Are you sure you want to delete this message?",
+    "RU": "Вы уверены, что хотите удалить это сообщение?",
+    "UA": "Ви впевнені, що хочете видалити це повідомлення?"
+  },
+  "_answerSpecify": {
+    "EN": "Please specify a response",
+    "RU": "Обязательно укажите ответ",
+    "UA": "Обов'язково вкажіть відповідь"
+  }
+}

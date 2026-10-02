@@ -1,0 +1,852 @@
+{
+    "_LK": {
+        "EN": "Purse balance",
+        "RU": "Пополнение баланса",
+        "UA": "Пополнение баланса"
+    },
+    "_ToUpAmount": {
+        "EN": "Top-up Amount:",
+        "RU": "Сумма пополнения:",
+        "UA": "Сума поповнення:"
+    },
+    "_Promo": {
+        "EN": "Promotional Code",
+        "RU": "Промокод",
+        "UA": "Промокод"
+    },
+    "_CurrentPromo": {
+        "EN": "Available",
+        "RU": "Доступные",
+        "UA": "Доступні"
+    },
+    "_Balance": {
+        "EN": "Balance",
+        "RU": "Баланс",
+        "UA": "Баланс"
+    },
+    "_BalanceAllTime": {
+        "EN": "For all the time",
+        "RU": "За все время",
+        "UA": "За все время"
+    },
+    "_ButtonPay": {
+        "EN": "Top up",
+        "RU": "Пополнить",
+        "UA": "Поповнити"
+    },
+    "_AmountCourse": {
+        "EN": "&#36;",
+        "RU": "&#8381;",
+        "UA": "&#8372;"
+    },
+    "_SettingsGateways": {
+        "EN": "Payment Gateways",
+        "RU": "Платежные шлюзы",
+        "UA": "Платіжні шлюзи"
+    },
+    "_Gateways": {
+        "EN": "Payment Gateway",
+        "RU": "Платежный шлюз",
+        "UA": "Платіжній шлюз"
+    },
+    "_Status": {
+        "EN": "Status",
+        "RU": "Статус",
+        "UA": "Статус"
+    },
+    "_UsersList": {
+        "EN": "Players List",
+        "RU": "Список игроков",
+        "UA": "Список гравців"
+    },
+    "_DiscordMessage": {
+        "EN": "Discord Notifications",
+        "RU": "Уведомления Discord",
+        "UA": "Повідомлення Discord"
+    },
+    "_LKInstall": {
+        "EN": "Installing the LR WEB module - Personal Area",
+        "RU": "Установка модуля LR WEB - Личный кабинет",
+        "UA": "Установка модуля LR WEB - Особистий Кабінет"
+    },
+    "_SettingsBD": {
+        "EN": "Database Setup",
+        "RU": "Настройка базы данных",
+        "UA": "Налаштування бази даних"
+    },
+    "_LKForInstall": {
+        "EN": "For the module to work, you must have the plug-in installed and configured on the server",
+        "RU": "Для работы модуля у Вас должен быть установлен и настроен на сервере плагин",
+        "UA": "Для роботи модуля у Вас повинен бути встановлений і налаштований на сервері плагін"
+    },
+    "_DBCheckBTN": {
+        "EN": "Check",
+        "RU": "Проверить",
+        "UA": "Перевірити"
+    },
+    "_DBCheckConnect": {
+        "EN": "There is no connection to the database!",
+        "RU": "Подключение к базе данных отсутствует!",
+        "UA": "Підключення до бази даних відсутня!"
+    },
+    "_DBCheckConnectSucc": {
+        "EN": "Database with table connected successfully!",
+        "RU": "База данных с таблицей успешно подключена!",
+        "UA": "База даних з таблицею успішно підключена!"
+    },
+    "_NextBTN": {
+        "EN": "Next",
+        "RU": "Далее",
+        "UA": "Далі"
+    },
+    "_InstallBTN": {
+        "EN": "Install",
+        "RU": "Установить",
+        "UA": "Встановити"
+    },
+    "_Example": {
+        "EN": "Example",
+        "RU": "Пример",
+        "UA": "Приклад"
+    },
+    "_Information": {
+        "EN": "Information",
+        "RU": "Информация",
+        "UA": "Iнформація"
+    },
+    "_Php": {
+        "EN": "Your version of PHP:",
+        "RU": "Ваша версия PHP:",
+        "UA": "Ваша версія PHP:"
+    },
+    "_PhpRecomendation": {
+        "EN": "Recommended: 7.0 - Possible galactic-scale problems :O",
+        "RU": "Рекомендуется: 7.0 - Возможны проблемы галактического масштаба :O",
+        "UA": "Рекомендується: 7.0 - Можливі проблеми галактичного масштабу :O"
+    },
+    "_InstallTable": {
+        "EN": "Installation of tables in the database",
+        "RU": "Установка таблиц в базу данных",
+        "UA": "Установка таблиць в базу даних"
+    },
+    "_ForWork": {
+        "EN": "For the module to work, the missing tables will be installed:",
+        "RU": "Для работы модуля будут установлены недостающие таблицы:",
+        "UA": "Для роботи модуля будуть встановлені відсутні таблиці:"
+    },
+    "_Options": {
+        "EN": "Options",
+        "RU": "Опции",
+        "UA": "Опції"
+    },
+    "_AddGateways": {
+        "EN": "Add Payment Gateway",
+        "RU": "Добавить платежный шлюз",
+        "UA": "Додати платіжний шлюз"
+    },
+    "_AddGateway": {
+        "EN": "Payment gateway %name% added",
+        "RU": "Платежный шлюз %name% добавлен",
+        "UA": "ДПлатіжний шлюз %name% доданий"
+    },
+    "_SetGateways": {
+        "EN": "Gateway settings",
+        "RU": "Настройки шлюза",
+        "UA": "Налаштування шлюзу"
+    },
+    "_SecretWord": {
+        "EN": "Secret word",
+        "RU": "Секретное слово",
+        "UA": "Cекретне слово"
+    },
+    "_SecretKey": {
+        "EN": "Secret key",
+        "RU": "Секретный ключ",
+        "UA": "Cекретний ключ"
+    },
+    "_PublicKey": {
+        "EN": "Public key",
+        "RU": "Публичный ключ",
+        "UA": "Публічний ключ"
+    },
+    "_ActGateways": {
+        "EN": "Gateway Activity",
+        "RU": "Активность шлюза",
+        "UA": "Активність шлюзу"
+    },
+    "_Indetificator": {
+        "EN": "Store ID in the system",
+        "RU": "Индетификатор магазина в системе",
+        "UA": "Індетіфікатор магазину в системі"
+    },
+    "_Save": {
+        "EN": "Save",
+        "RU": "Сохранить",
+        "UA": "Зберегти"
+    },
+    "_Purse": {
+        "EN": "Purse",
+        "RU": "Кошелек",
+        "UA": "Гаманець"
+    },
+    "_ResultUrl": {
+        "EN": "Address to payment processor:",
+        "RU": "Адрес до обработчика платежа:",
+        "UA": "Адреса до обробника:"
+    },
+    "_ISID": {
+        "EN": "Enter store ID",
+        "RU": "Введите ID магазина",
+        "UA": "Введіть ID магазину"
+    },
+    "_ISEC": {
+        "EN": "Enter a secret word",
+        "RU": "Введите секретное слово",
+        "UA": "Введіть секретне слово"
+    },
+    "_NINT": {
+        "EN": "This payment gateway is not integrated",
+        "RU": "Данный платежный шлюз не интегрирован",
+        "UA": "Даний платіжний шлюз не інтегрований"
+    },
+    "_Password": {
+        "EN": "Password",
+        "RU": "Пароль",
+        "UA": "Пароль"
+    },
+    "_IPASS": {
+        "EN": "Enter password",
+        "RU": "Введите пароль",
+        "UA": "Введіть пароль"
+    },
+    "_IPURSE": {
+        "EN": "Enter wallet number",
+        "RU": "Введите номер кошелька",
+        "UA": "Введіть номер гаманця"
+    },
+    "_GetwExist": {
+        "EN": " - Payment Gateway Already Installed",
+        "RU": " - Платежный шлюз уже установлен",
+        "UA": " - Платіжний шлюз вже встановлено"
+    },
+    "_GetwNoExist": {
+        "EN": "Payment gateway not found",
+        "RU": "Платежный шлюз не найден",
+        "UA": "Платіжний шлюз не найден"
+    },
+    "_LogNotFound": {
+        "EN": "Log not found",
+        "RU": "Лог не найден",
+        "UA": "Лог не найден"
+    },
+    "_GetDonat": {
+        "EN": "New donation %course% %amount%",
+        "RU": "Новый донат на %amount% %course%",
+        "UA": "Нове пожертвування %amount% %course%"
+    },
+    "_NewModule": {
+        "EN": "New donation %course% %amount%",
+        "RU": "Установлен новый модуль",
+        "UA": "Нове пожертвування %course% %amount%"
+    },
+    "_Foff": {
+        "EN": "%gateway% - Payment Gateway Disabled",
+        "RU": "%gateway% - Платежный шлюз отключен",
+        "UA": "%gateway% - Платіжний шлюз відключений"
+    },
+    "_SetPromo": {
+        "EN": "%gateway% - The %promocode% code was introduced, the bonus was %course% %amount%",
+        "RU": "%gateway% - Был введен прмокод  %promocode%, бонус составил %course% %amount%",
+        "UA": "%gateway% - Був введений прмокод %promocode%, Бонус склав %course% %amount%"
+    },
+    "_DeniedIP": {
+        "EN": "%gateway% - Request from Denied IP - %ip%",
+        "RU": "%gateway% - Запрос с запрещенного IP - %ip%",
+        "UA": "%gateway% - Запит з забороненого IP - %ip%"
+    },
+    "_GatewayOnNotEzist": {
+        "EN": "Sorry, but it seems the administrator forgot to set up a payment gateway to accept payment",
+        "RU": "Прости, но кажется Админ забыл настроить платежный шлюз для приема оплаты",
+        "UA": "Прости, але здається Адмін забув налаштувати платіжний шлюз для прийому оплати"
+    },
+    "_ChangeGateway": {
+        "EN": "Select a Payment Method",
+        "RU": "Выберите способ оплаты",
+        "UA": "Виберіть спосіб оплати"
+    },
+    "_ChoosenGateway": {
+        "EN": "Payment Method",
+        "RU": "Способ оплаты",
+        "UA": "Спосіб оплати"
+    },
+    "_EnterAmount": {
+        "EN": "Enter amount",
+        "RU": "Введите сумму",
+        "UA": "Введіть суму"
+    },
+    "_AmountError": {
+        "EN": "Minimum amount 26 rubles",
+        "RU": "Минимальная сумма 26 рублей!",
+        "UA": "Мінімальна сума 26 рублів"
+    },
+    "_EnterSteam": {
+        "EN": "Need authorithation",
+        "RU": "Необходимо авторизоваться",
+        "UA": "Необходимо авторизоваться"
+    },
+    "_SteamError": {
+        "EN": "Invalid input STEAM_ID",
+        "RU": "Не верный формат STEAM_ID",
+        "UA": "Не вірний формат STEAM_ID"
+    },
+    "_YouPay": {
+        "EN": "Deposit %course% %amount%",
+        "RU": "Пополнение баланса на %amount% %course%",
+        "UA": "Поповнення балансу на %course% %amount%"
+    },
+    "_ErrorNamePromo": {
+        "EN": "The promotional code must consist of Latin characters and numbers",
+        "RU": "Промокод должен состоять и латинских символов и цифр",
+        "UA": "Промокод повинен складатися і латинських символів та цифр"
+    },
+    "_LimitPromo": {
+        "EN": "Enter your promotional code limit",
+        "RU": "Введите лимит использования промокода",
+        "UA": "Введіть ліміт використання промокодом"
+    },
+    "_LimitField": {
+        "EN": "You can enter only numbers in the limit field",
+        "RU": "В поле лимит возможенн ввод только цифр",
+        "UA": "В поле ліміт возможенн введення тільки цифр"
+    },
+    "_MinAmount": {
+        "EN": "Minimum deposit amount %course% 0.1",
+        "RU": "Минимальная сумма пополнения %course% 0.1",
+        "UA": "Мінімальна сума поповнення %course% 0.1"
+    },
+    "_SettingsPromo": {
+        "EN": "Set up promotional codes",
+        "RU": "Настройка промокодов",
+        "UA": "Налаштування промокодом"
+    },
+    "_AddPromocode": {
+        "EN": "Add promotional code",
+        "RU": "Добавить промокод",
+        "UA": "Додати промокод"
+    },
+    "_Snap": {
+        "EN": "Snap",
+        "RU": "Привязка",
+        "UA": "Привязка"
+    },
+    "_BonusPromo": {
+        "EN": "Bonus%",
+        "RU": "Бонусный %",
+        "UA": "Бонусный %"
+    },
+    "_LimitUsePromo": {
+        "EN": "Limit",
+        "RU": "Лимит",
+        "UA": "Лимит"
+    },
+    "_Edit": {
+        "EN": "Edit",
+        "RU": "Редактировать",
+        "UA": "Редагувати"
+    },
+    "_Add": {
+        "EN": "Add",
+        "RU": "Добавить",
+        "UA": "Додати"
+    },
+    "_EditPromoName": {
+        "EN": "Enter the name of the promotional code",
+        "RU": "Введите наименование промокода",
+        "UA": "Введіть найменування промокодом"
+    },
+    "_EditPromo": {
+        "EN": "Promotional code editing",
+        "RU": "Редактирование промокода",
+        "UA": "Редагування промокодом"
+    },
+    "_SnapSID": {
+        "EN": "Bind 1 promotional code to 1 SteamID",
+        "RU": "Привязать 1 промокод на 1 SteamID",
+        "UA": "Привязать 1 промокод на 1 SteamID"
+    },
+    "_Name": {
+        "EN": "Name",
+        "RU": "Наименованеие",
+        "UA": "Найменування"
+    },
+    "_AddPromoName": {
+        "EN": "Name of the promotional code(empty field random name)",
+        "RU": "Наименование Промокода(пустое поле рандомное наименование )",
+        "UA": "Найменування промокодом(Пусте поле рандомноє найменування)"
+    },
+    "_Logs": {
+        "EN": "Logs",
+        "RU": "Логи",
+        "UA": "Логи"
+    },
+    "_LogList": {
+        "EN": "Log list",
+        "RU": "Список логов",
+        "UA": "Список логів"
+    },
+    "_LogContent": {
+        "EN": "Log Content",
+        "RU": "Содержание лога",
+        "UA": "Зміст лога"
+    },
+    "_LogDownload": {
+        "EN": "Download log",
+        "RU": "Скачать лог",
+        "UA": "Завантажити лог"
+    },
+    "_PayNotExist": {
+        "EN": "%gateway% - Payment #%numberpay% already paid or does not exist! Payment Details: Steam '%steam%', Amount '%course% %amount%'.",
+        "RU": "%gateway% - Платеж #%numberpay% уже оплачен или не существует! Данные платежа: Steam '%steam%', Сумма '%course% %amount%'.",
+        "UA": "%gateway% - Платіж #%numberpay% вже оплачений або не існує! Дані платежу: SteamID '%steam%', Сума '%course% %amount%'."
+    },
+    "_Error": {
+        "EN": "Error",
+        "RU": "Ошибка",
+        "UA": "Error"
+    },
+    "_Amount": {
+        "EN": "Amount",
+        "RU": "Сумма",
+        "UA": "Сума"
+    },
+    "_Replenishment": {
+        "EN": "Deposit",
+        "RU": "Пополнение",
+        "UA": "Поповнення"
+    },
+    "_PaymentsList": {
+        "EN": "List of payments",
+        "RU": "Список платежей",
+        "UA": "Cписок платежів"
+    },
+    "_AdminPay": {
+        "EN": "Admin credited to you %couмrse% %amount%",
+        "RU": "Админ пополнил вам баланс на %amount% %course%",
+        "UA": "Вам нарахував адмін %amount% %course%"
+    },
+    "_ClearZero": {
+        "EN": "Clear players without donation",
+        "RU": "Очистить игроков без доната",
+        "UA": "Очистити гравців без донату"
+    },
+    "_Date": {
+        "EN": "Date",
+        "RU": "Дата",
+        "UA": "Дата"
+    },
+    "_NotPays": {
+        "EN": "No payments",
+        "RU": "Нет платежей",
+        "UA": "Немає платежів"
+    },
+    "_Search": {
+        "EN": "Search",
+        "RU": "Поиск",
+        "UA": "Пошук"
+    },
+    "_LogDeleted": {
+        "EN": "Log deleted",
+        "RU": "Лог удален",
+        "UA": "Лог удален"
+    },
+    "_PromoNotUse": {
+        "EN": "No promotional code used",
+        "RU": "Промокод не использовался",
+        "UA": "Промокод не використовувалася"
+    },
+    "_NOTSIGN": {
+        "EN": "%gateway% - Invalid digital signature.",
+        "RU": "%gateway% - Не верная цифровая подпись.",
+        "UA": "%gateway% - Чи не вірна цифровий підпис."
+    },
+    "_NoValidSumm": {
+        "EN": "%gateway% - The amount does not match: %amount%.",
+        "RU": "%gateway% - Не совпадает сумма: %amount%.",
+        "UA": "%gateway% - Чи не збігається сума: %amount%."
+    },
+    "_NewDonat": {
+        "EN": "%gateway% - Received a new donut: #%order%, amount %course% %amount%, Steam %steam%.",
+        "RU": "%gateway% - Поступил новый донат: #%order%, сумма %course% %amount%, Steam %steam%.",
+        "UA": "%gateway% - Надійшов новий Донат: #%order%, сума %course% %amount%, Steam %steam%."
+    },
+    "_InPub": {
+        "EN": "Enter public key",
+        "RU": "Введите публичный ключ.",
+        "UA": "Введіть публічний ключ"
+    },
+    "_InSec": {
+        "EN": "Enter secret key",
+        "RU": "Введите секретный ключ.",
+        "UA": "Введіть секретний ключ"
+    },
+    "_SearchStatus": {
+        "EN": "Search results",
+        "RU": "Результат поиска",
+        "UA": "Результат пошуку"
+    },
+    "_Noresult": {
+        "EN": "The search has not given any results. Refine your request and try again",
+        "RU": "Поиск не дал результатов. Уточните Ваш запрос и повторите снова",
+        "UA": "Пошук не дав результатів. Уточніть Ваш запит і повторіть знову"
+    },
+    "_maxResult": {
+        "EN": "If you didn’t go what you were looking for, then specify your request and try again",
+        "RU": "Если не нешли что искали, то уточните Ваш запрос и повторите снова",
+        "UA": "Якщо не нешлі що шукали, то уточніть Ваш запит і повторіть знову"
+    },
+    "_NotFoundPromo": {
+        "EN": "No promotion code found",
+        "RU": "Промокод не найден",
+        "UA": "Промокод не найден"
+    },
+    "_NoLimitPromo": {
+        "EN": "Your promotional code has been reached",
+        "RU": "Лимит использования промокода исчерпан",
+        "UA": "Ліміт використання промокодом вичерпаний"
+    },
+    "_YouUsePromo": {
+        "EN": "You have already used this promotional code",
+        "RU": "Вы уже использовали этот промокод",
+        "UA": "Ви вже використовували цей промокод"
+    },
+    "_BonusPromoUse": {
+        "EN": "<div class='promoresult_st'>With the promotional code you will receive <span class='amount_st'>%newamount% </span> to the balance!<br>The promotional code gives <span class='amount_st'>+%percent% %</span> to the recharge amount!</div>",
+        "RU": "<div class='promoresult_st'>С промокодом Вы получите <span class='amount_st'>%newamount%</span> на баланс!<br>Промокод дает <span class='amount_st'>+%percent% %</span> к сумме пополнения!</div>",
+        "UA": "<div class='promoresult_st'>З промокодом Ви отримаєте <span class='amount_st'>%newamount%</span> на баланс! <br> Промокод дає <span class='amount_st'>+%percent% %</span> до суми поповнення!</div>"
+    },
+    "_BonusPromoUseSkin": {
+        "EN": "<div class='promoresult_st'>The promotional code gives <span class='amount_st'>+%percent% %</span> to the recharge amount!</div>",
+        "RU": "<div class='promoresult_st'>Промокод дает <span class='amount_st'>+%percent% %</span> к сумме пополнения!</div>",
+        "UA": "<div class='promoresult_st'>Промокод дає <span class='amount_st'>+%percent% %</span> до суми поповнення!</div>"
+    },
+    "_ExistPromo": {
+        "EN": "This promotional code already exists",
+        "RU": "Такой промокод уже существует",
+        "UA": "Такий промокод уже існує"
+    },
+    "_NotCorBonus": {
+        "EN": "In the bonus percentage field, you can enter only an integer value either with a period",
+        "RU": "В поле бонусный процент возможенн ввод только целое значение либо с точкой",
+        "UA": "В поле бонусний відсоток возможенн введення тільки ціле значення або з точкою"
+    },
+    "_EnterBonus": {
+        "EN": "Enter your bonus code percentage",
+        "RU": "Введите бонусный процент промокода",
+        "UA": "Введіть бонусний відсоток промокодом"
+    },
+    "_AddedPromo": {
+        "EN": "Promo code %namepromo% added",
+        "RU": "Промокод %namepromo% добавлен",
+        "UA": "Промокод %namepromo% доданий"
+    },
+    "_EditedPromo": {
+        "EN": "%namepromo% changes saved",
+        "RU": "Изменеия %namepromo% сохранены",
+        "UA": "Изменеия %namepromo% збережені"
+    },
+    "_DeletedPromo": {
+        "EN": "Promotion code deleted",
+        "RU": "Промокод удален",
+        "UA": "Промокод видалений"
+    },
+    "_GetInputPromo": {
+        "EN": "Paste promo",
+        "RU": "Вставьте промокод",
+        "UA": "Вставте промокод"
+    },
+    "_GetAmoumtYour": {
+        "EN": "Choose the amount you want",
+        "RU": "Выберите желаемую сумму",
+        "UA": "виберіть потрібну суму"
+    },
+    "_Saved": {
+        "EN": "Saved",
+        "RU": "Сохранено",
+        "UA": "збережено"
+    },
+    "_GatwayOff": {
+        "EN": "Payment method via %name% is disabled by the Administrator",
+        "RU": "Способ оплаты через %name% выключен Администратором",
+        "UA": "Спосіб оплати через %name% вимкнений Адміністратором"
+    },
+    "_BusinessAccount": {
+        "EN": "Business Account",
+        "RU": "Бизнес аккаунт",
+        "UA": "Бізнес аккаунт"
+    },
+    "_ISOCourse": {
+        "EN": "Currency",
+        "RU": "Валюта",
+        "UA": "Валюта"
+    },
+    "_DescPageLK": {
+        "EN": "Replenish your balance simply",
+        "RU": "Пополняйте свой баланс просто",
+        "UA": "Поповнюйте свій баланс просто"
+    },
+    "_EnterWebhoockUrl": {
+        "EN": "Enter URL Webhook!",
+        "RU": "Введите URL Вебхука!",
+        "UA": "Введіть URL Вебхука!"
+    },
+    "_DataChangesGateway": {
+        "EN": "Data changes in the %gateway% system saved!",
+        "RU": "Изменения данных в системе %gateway% сохранены!",
+        "UA": "Зміни даних в системі %gateway% збережені!"
+    },
+    "_DeletedGateway": {
+        "EN": "Cash desk successfully deleted!",
+        "RU": "Касса успешно удалена!",
+        "UA": "Каса успішно видалена!"
+    },
+    "_EnterPaypalAccount": {
+        "EN": "Enter your e-mail business account in PayPal",
+        "RU": "Введите E-mail бизнес аккаунта в системе PayPal",
+        "UA": "Введіть E-mail бізнес аккаунта в системі PayPal"
+    },
+    "_UsersDelete": {
+        "EN": "All players with zero donation removed",
+        "RU": "Удалены все игроки с нулевым донатом",
+        "UA": "Вилучені всі гравці з нульовим Донатом"
+    },
+    "_NewBalanceUser": {
+        "EN": "New balance for %user% saved!",
+        "RU": "Новый баланс для %user% сохранен!",
+        "UA": "Новий баланс для %user% збережений!"
+    },
+    "_OnPayUserDesc": {
+        "EN": "Balance replenishment for ",
+        "RU": "Пополнение баланса для ",
+        "UA": "Поповнення балансу для "
+    },
+    "_AgreeOferta": {
+        "EN": "I agree to",
+        "RU": "Соглашаюсь с",
+        "UA": "Я згоден з"
+    },
+    "_Oferta": {
+        "EN": "offer contract",
+        "RU": "договором оферты",
+        "UA": "договором оферти"
+    },
+    "_NotFound": {
+        "EN": "Not found",
+        "RU": "Не найдено",
+        "UA": "Не знайдено"
+    },
+    "_LastDonate": {
+        "EN": "Latest Donations",
+        "RU": "Последние пожертвования",
+        "UA": "Останні пожертвування"
+    },
+    "_LDonate": {
+        "EN": "Donated",
+        "RU": "Пожертвовал",
+        "UA": "Пожертвував"
+    },
+    "_Clear": {
+        "EN": "Clear",
+        "RU": "Очистить",
+        "UA": "Очистити"
+    },
+    "_ClearCurrent": {
+        "EN": "Clear everything except the current month",
+        "RU": "Очистить всё, кроме текущего месяца",
+        "UA": "Очистити все, крім поточного місяця"
+    },
+    "_YooMoney": {
+        "EN": "Card",
+        "RU": "Карта",
+        "UA": "Карта"
+    },
+    "_Freekassa": {
+        "EN": "Crypto",
+        "RU": "Криптовалюта",
+        "UA": "Криптовалюта"
+    },
+    "_Paypalych": {
+        "EN": "SBP",
+        "RU": "СБП",
+        "UA": "СБП"
+    },
+    "_CentApp": {
+        "EN": "SBP",
+        "RU": "СБП",
+        "UA": "СБП"
+    },
+    "_YooKassa": {
+        "EN": "Sberpay",
+        "RU": "Сберпей",
+        "UA": "Сберпей"
+    },
+    "_Enot": {
+        "EN": "Card",
+        "RU": "Карта",
+        "UA": "Карта"
+    },
+    "_LK_avatar": {
+        "EN": "Ava",
+        "RU": "Ава",
+        "UA": "Ава"
+    },
+    "_Go": {
+        "EN": "Go over",
+        "RU": "Перейти",
+        "UA": "Перейти"
+    },
+    "_notChoosen": {
+        "EN": "not selected",
+        "RU": "Не выбран",
+        "UA": "Не обраний"
+    },
+    "_promoEnable": {
+        "EN": "Promo code applied",
+        "RU": "Промокод применен",
+        "UA": "Промокод застосовано"
+    },
+    "_deletePLayer": {
+        "EN": "Delete player?",
+        "RU": "Удалить игрока",
+        "UA": "Видалити гравця"
+    },
+    "_deleteUnpaid": {
+        "EN": "Delete unpaid",
+        "RU": "Удалить неоплаченные",
+        "UA": "Видалити неоплаченные"
+    },
+    "_haventTopup": {
+        "EN": "You haven't topped up your balance yet.",
+        "RU": "Вы еще не пополняли свой баланс",
+        "UA": "Ви ще не поповнювали свій баланс"
+    },
+    "_findPLayer": {
+        "EN": "Find a player",
+        "RU": "Найти игрока",
+        "UA": "Знайти гравця"
+    },
+    "_newBalance": {
+        "EN": "New Balance",
+        "RU": "Новый баланс",
+        "UA": "Новий баланс"
+    },
+    "_setNewBalance": {
+        "EN": "Set a new balance",
+        "RU": "Установите новый баланс",
+        "UA": "Встановіть новий баланс"
+    },
+    "_oldBalanceCurrent": {
+        "EN": "Old balance (current)",
+        "RU": "Старый баланс (текущий)",
+        "UA": "Старий баланс (поточний)"
+    },
+    "_changeBalance": {
+        "EN": "Change balance",
+        "RU": "Изменить баланс",
+        "UA": "Змінити баланс"
+    },
+    "_removeFromDatabase": {
+        "EN": "Remove from database",
+        "RU": "Удалить из базы",
+        "UA": "Видалити з бази"
+    },
+    "_sendLogsDS": {
+        "EN": "Send logs to Discord",
+        "RU": "Отправлять логи в Discord",
+        "UA": "Надсилати логи в Discord"
+    },
+    "_newPay": {
+        "EN": "New pay to the site",
+        "RU": "Новое пополнение на сайте",
+        "UA": "Нове поповнення на сайті"
+    },
+    "_openPayLogs": {
+        "EN": "Open pay logs",
+        "RU": "Открыть логи пополнений",
+        "UA": "Відкрити логі поповнень"
+    },
+    "_openProfile": {
+        "EN": "Open profile ",
+        "RU": "Открыть профиль ",
+        "UA": "Відкрити профіль "
+    },
+    "_payAmount": {
+        "EN": "💸 Pay amount",
+        "RU": "💸 Сумма пополнения",
+        "UA": "💸 Сума поповнення"
+    },
+    "_payId": {
+        "EN": "💸 Pay id",
+        "RU": "🛠️ ID платежа",
+        "UA": "🛠️ ID платежу"
+    },
+    "_totalDonate": {
+        "EN": "💚 Total donations",
+        "RU": "💚 Всего пожертвовал",
+        "UA": "💚 Усього пожертвував"
+    },
+    "_purchaiseTime": {
+        "EN": "Time of purchase",
+        "RU": "Время покупки",
+        "UA": "Час покупки"
+    },
+    "_emptyString": {
+        "EN": "The search string is empty",
+        "RU": "Строка поиска пустая",
+        "UA": "Рядок пошуку порожній"
+    },
+    "_playerNotFound": {
+        "EN": "Player not found",
+        "RU": "Игрок не найден",
+        "UA": "Гравець не знайдено"
+    },
+    "_userDeleted": {
+        "EN": "User deleted!",
+        "RU": "Пользователь удален!",
+        "UA": "Користувач видалено!"
+    },
+    "_promoOnlyForNewPlayers": {
+        "EN": "This promo code is for new players only!",
+        "RU": "Этот промокод только для новых игроков!",
+        "UA": "Цей промокод лише для нових гравців!"
+    },
+    "_hidePromo": {
+        "EN": "Hide",
+        "RU": "Скрыт",
+        "UA": "Прихований"
+    },
+    "_forNew": {
+        "EN": "For new ones",
+        "RU": "Для новых",
+        "UA": "Для нових"
+    },
+    "_isHidden": {
+        "EN": "Is the promo code hidden?",
+        "RU": "Скрыт ли промокод",
+        "UA": "Чи прихований промокод"
+    },
+    "_fornewPlayers": {
+        "EN": "For new players",
+        "RU": "Для новых игроков",
+        "UA": "Для нових гравців"
+    },
+    "_payment": {
+        "EN": "Payment",
+        "RU": "Платежка",
+        "UA": "Платіжка"
+    },
+    "_tune": {
+        "EN": "Tune",
+        "RU": "Настроить",
+        "UA": "Налаштувати"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "NEO 3 - Custom Slider - Banners",
+  "info": "Slider",
+  "author": "onevalve.ru",
+  "page": "home",
+  "version": "3.0",
+  "required": { "core": "0.2", "php": "5.4" },
+  "setting": {
+    "status": 1,
+    "type": 1,
+    "available_types": "1",
+    "translation": 1,
+    "interface": 1,
+    "data": 1,
+    "interface_adjacent": "afternavbar",
+    "css": 1,
+    "js": 1
+  }
+}

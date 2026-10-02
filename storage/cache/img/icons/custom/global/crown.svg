@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-2.223009e-04" y1="569.722" x2="511.9998" y2="569.722" gradientTransform="matrix(1 0 0 1 0 -313.722)">
+	<stop  offset="0" style="stop-color:#EDA531"/>
+	<stop  offset="0.6616" style="stop-color:#F08B33"/>
+	<stop  offset="1" style="stop-color:#F8C333"/>
+</linearGradient>
+<path class="st0" d="M416,436H96c-8.8,0-16.6-5.8-19.1-14.2l-76-250c-2.3-7.6,0.1-15.9,6.2-21c6.1-5.2,14.6-6.2,21.7-2.8l109.4,53.3
+	L240.9,82.9c3.8-4.4,9.3-6.9,15.1-6.9s11.3,2.5,15.1,6.9l102.7,118.4L483.2,148c7.2-3.5,15.7-2.4,21.7,2.8c6.1,5.2,8.5,13.4,6.2,21
+	l-76,250C432.6,430.2,424.8,436,416,436z M110.8,396h290.4l58.4-191.9l-82,39.9c-8.1,4-17.9,2-23.9-4.9L256,126.5l-97.6,112.6
+	c-5.9,6.8-15.7,8.8-23.9,4.9l-82-39.9L110.8,396z"/>
+</svg>

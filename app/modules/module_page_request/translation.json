@@ -1,0 +1,802 @@
+{
+    "_requestsList": {
+        "EN": "Requests list",
+        "RU": "Список заявок",
+        "UA": "Список заявок"
+    },
+    "_MyApplications": {
+        "EN": "My Applications",
+        "RU": "Мои заявки",
+        "UA": "Мої заявки"
+    },
+    "_Applications": {
+        "EN": "Applications",
+        "RU": "Лист заявок",
+        "UA": "Лист заявок"
+    },
+    "_Applications1": {
+        "EN": "Application",
+        "RU": "Заявка",
+        "UA": "Заявка"
+    },
+    "_NOApplications": {
+        "EN": "There is no application",
+        "RU": "Заявка отсутствует",
+        "UA": "Заявка відсутня"
+    },
+    "_YourDs": {
+        "EN": "Your nickname in Discord",
+        "RU": "Ваш никнейм в Discord",
+        "UA": "Ваш нікнейм у Discord"
+    },
+    "_NicknameDS": {
+        "EN": "Nickname#0000",
+        "RU": "Никнейм#0000",
+        "UA": "Нікнейм#0000"
+    },
+    "_YourTg": {
+        "EN": "Your nickname in Telegram",
+        "RU": "Ваш никнейм в Telegram",
+        "UA": "Ваш нікнейм у Telegram"
+    },
+    "_NicknameTg": {
+        "EN": "Username",
+        "RU": "Имя пользователя",
+        "UA": "Ім'я користувача"
+    },
+    "_VKID": {
+        "EN": "Your VK ID",
+        "RU": "Ваш ID в VK",
+        "UA": "Ваш ID у VK"
+    },
+    "_Age": {
+        "EN": "age",
+        "RU": "Возраст",
+        "UA": "Вік"
+    },
+    "_YourAge": {
+        "EN": "How old are you full",
+        "RU": "Сколько Вам полных лет",
+        "UA": "Скільки Вам повних років"
+    },
+    "_realAge": {
+        "EN": "Specify the real age!",
+        "RU": "Укажите реальный возраст!",
+        "UA": "Вкажіть реальний вік!"
+    },
+    "_GameServer": {
+        "EN": "Game server",
+        "RU": "Игровой сервер",
+        "UA": "Ігровий сервер"
+    },
+    "_FamiliarServerRules": {
+        "EN": "Are you familiar with the server rules",
+        "RU": "Ознакомлены ли Вы с правилами сервера",
+        "UA": "Чи ознайомлені Ви з правилами сервера"
+    },
+    "_NotFamiliar": {
+        "EN": "Not familiar with",
+        "RU": "Не ознакомлен",
+        "UA": "Не ознайомлений"
+    },
+    "_Familiar": {
+        "EN": "Familiar with",
+        "RU": "Ознакомлен",
+        "UA": "Ознайомлений"
+    },
+    "_FamiliarCriteria": {
+        "EN": "Are you familiar with the criteria",
+        "RU": "Ознакомлены ли Вы с критериями",
+        "UA": "Чи ознайомлені Ви з критеріями"
+    },
+    "_ChangedMyMind": {
+        "EN": "I've changed my mind",
+        "RU": "Я передумал",
+        "UA": "Я передумав"
+    },
+    "_Auth": {
+        "EN": "Log in",
+        "RU": "Авторизоваться",
+        "UA": "Авторизуватися"
+    },
+    "_SendRequest": {
+        "EN": "Send a request",
+        "RU": "Отправить заявку",
+        "UA": "Відправити заявку"
+    },
+    "_Info": {
+        "EN": "Information",
+        "RU": "Информация",
+        "UA": "Інформація"
+    },
+    "_Php": {
+        "EN": "Your version of PHP:",
+        "RU": "Ваша версия PHP:",
+        "UA": "Ваша версія PHP:"
+    },
+    "_PhpRecomendation": {
+        "EN": "Recommended: 7.4 - Possible galactic-scale problems :O",
+        "RU": "Рекомендуется: 7.4 - Возможны проблемы галактического масштаба :O",
+        "UA": "Рекомендується: 7.4 - Можливі проблеми галактичного масштабу :O"
+    },
+    "_DBCheckConnect": {
+        "EN": "There is no connection to the database!",
+        "RU": "Подключение к базе данных отсутствует!",
+        "UA": "Підключення до бази даних відсутнє!"
+    },
+    "_DBCheckConnectSucc": {
+        "EN": "Database with table connected successfully!",
+        "RU": "База данных с таблицей успешно подключена!",
+        "UA": "База даних з таблицею успішно підключена!"
+    },
+    "_NOInfo": {
+        "EN": "No information available",
+        "RU": "Информация отсутствует",
+        "UA": "Інформація відсутня"
+    },
+    "_DBCheckBTN": {
+        "EN": "Check",
+        "RU": "Проверить",
+        "UA": "Перевірити"
+    },
+    "_NextBTN": {
+        "EN": "Next",
+        "RU": "Далее",
+        "UA": "Далі"
+    },
+    "_Recommendations": {
+        "EN": "Recomendations",
+        "RU": "Рекомендации",
+        "UA": "Рекомендації"
+    },
+    "_Discord_notifications": {
+        "EN": "Discord notifications",
+        "RU": "Discord уведомления",
+        "UA": "Discord сповіщення"
+    },
+    "_OffOn": {
+        "EN": "on / off",
+        "RU": "вкл. / выкл.",
+        "UA": "вкл. / викл."
+    },
+    "_Save": {
+        "EN": "Save",
+        "RU": "Сохранить",
+        "UA": "Зберегти"
+    },
+    "_Savea": {
+        "EN": "Saved!",
+        "RU": "Сохранено!",
+        "UA": "Збережено!"
+    },
+    "_ListOfApplications": {
+        "EN": "List of applications",
+        "RU": "Список заявок",
+        "UA": "Список заявок"
+    },
+    "_NewApplication": {
+        "EN": "New application",
+        "RU": "Новая заявка",
+        "UA": "Нова заявка"
+    },
+    "_Applications_sort": {
+        "EN": "Applications",
+        "RU": "Заявки",
+        "UA": "Заявки"
+    },
+    "_Applications_send": {
+        "EN": "Applications",
+        "RU": "Выдача доступа к заявкам",
+        "UA": "Видача доступу до заявок"
+    },
+    "_SettingsBD": {
+        "EN": "Database setup",
+        "RU": "Настройка базы данных",
+        "UA": "Налаштування бази даних"
+    },
+    "_Sorting": {
+        "EN": "Sorting",
+        "RU": "Сортировка",
+        "UA": "Сортування"
+    },
+    "_Status": {
+        "EN": "Status",
+        "RU": "Статус",
+        "UA": "Статус"
+    },
+    "_ToChange": {
+        "EN": "To change",
+        "RU": "Изменить",
+        "UA": "Змінити"
+    },
+    "_AddQuestions": {
+        "EN": "Add questions",
+        "RU": "Добавить вопросы",
+        "UA": "Додати питання"
+    },
+    "_WelcomeInstallTitle": {
+        "EN": "Welcome to the Request Installation Wizard!",
+        "RU": "Добро пожаловать в мастер установки Request!",
+        "UA": "Ласкаво просимо до Майстра встановлення Request!"
+    },
+    "_InstallTitle": {
+        "EN": "Installing the Request module",
+        "RU": "Установка модуля Request",
+        "UA": "Встановлення модуля Request"
+    },
+    "_Host": {
+        "EN": "Host:",
+        "RU": "Хост:",
+        "UA": "Хост:"
+    },
+    "_User": {
+        "EN": "User:",
+        "RU": "Пользователь:",
+        "UA": "Користувач:"
+    },
+    "_Pass": {
+        "EN": "Pass:",
+        "RU": "Пароль:",
+        "UA": "Пароль:"
+    },
+    "_DB": {
+        "EN": "DB:",
+        "RU": "База Данных:",
+        "UA": "База Даних:"
+    },
+    "_ListApplications": {
+        "EN": "List of recent applications",
+        "RU": "Список последних заявок",
+        "UA": "Список останніх заявок"
+    },
+    "_Data": {
+        "EN": "Data",
+        "RU": "Дата",
+        "UA": "Дата"
+    },
+    "_TotalTime": {
+        "EN": "Total time",
+        "RU": "Общее время",
+        "UA": "Загальний час"
+    },
+    "_Time": {
+        "EN": "Time",
+        "RU": "Время",
+        "UA": "Час"
+    },
+    "_ApplicationName": {
+        "EN": "Application name",
+        "RU": "Имя заявки",
+        "UA": "Ім'я заявки"
+    },
+    "_Hours": {
+        "EN": "hours",
+        "RU": "часов",
+        "UA": "годин"
+    },
+    "_ListMyApplications": {
+        "EN": "List of my applications",
+        "RU": "Список моих заявок",
+        "UA": "Список моїх заявок"
+    },
+    "_ApplicationNumber": {
+        "EN": "Application number",
+        "RU": "Номер заявки",
+        "UA": "Номер заявки"
+    },
+    "_ApplicationText": {
+        "EN": "Application text",
+        "RU": "Текст заявки",
+        "UA": "Текст заявки"
+    },
+    "_RequestUser": {
+        "EN": "Request from the user",
+        "RU": "Заявка от пользователя",
+        "UA": "Заявка від користувача"
+    },
+    "_RequestUser1": {
+        "EN": "From the user ",
+        "RU": "От пользователя ",
+        "UA": "Від користувача "
+    },
+    "_ResponseToRequest": {
+        "EN": "Response to the request",
+        "RU": "Ответ на заявку",
+        "UA": "Відповідь на заявку"
+    },
+    "_ToAnswer": {
+        "EN": "To answer",
+        "RU": "Ответить",
+        "UA": "Відповісти"
+    },
+    "_ResponsesToApplication": {
+        "EN": "Responses to the application",
+        "RU": "Ответы на заявку",
+        "UA": "Відповіді на заявку"
+    },
+    "_ListAdmins": {
+        "EN": "List of admins",
+        "RU": "Список админов",
+        "UA": "Список адміністраторів"
+    },
+    "_NewAdmin": {
+        "EN": "New admin",
+        "RU": "Новый админ",
+        "UA": "Новий адміністратор"
+    },
+    "_Add": {
+        "EN": "Add",
+        "RU": "Добавить",
+        "UA": "Додати"
+    },
+    "_AccessApplications": {
+        "EN": "Access to applications",
+        "RU": "Рассмотрение заявок",
+        "UA": "Розгляд заявок"
+    },
+    "_AddingAdmin": {
+        "EN": "Adding an admin",
+        "RU": "Добавление админа",
+        "UA": "Додавання адміна"
+    },
+    "_ChangingAdmin": {
+        "EN": "Changing the admin",
+        "RU": "Редактирование администратора",
+        "UA": "Редагування адміністратора"
+    },
+    "_Del": {
+        "EN": "Remove",
+        "RU": "Удалить",
+        "UA": "Видалити"
+    },
+    "_Settings": {
+        "EN": "Settings",
+        "RU": "Настройки",
+        "UA": "Налаштування"
+    },
+    "_SettingAccess": {
+        "EN": "Access Settings",
+        "RU": "Настройки доступа",
+        "UA": "Налаштування доступу"
+    },
+    "_NoApplications": {
+        "EN": "There are no applications",
+        "RU": "Заявки отсутствуют",
+        "UA": "Заявки відсутні"
+    },
+    "_Question": {
+        "EN": "Question",
+        "RU": "Вопрос",
+        "UA": "Запитання"
+    },
+    "_Description": {
+        "EN": "Description",
+        "RU": "Описание",
+        "UA": "Опис"
+    },
+    "_Hint": {
+        "EN": "Hint",
+        "RU": "Подсказка",
+        "UA": "Підказка"
+    },
+    "_ApplicationQuestions": {
+        "EN": "Application questions",
+        "RU": "Вопросы заявки",
+        "UA": "Запитання заявки"
+    },
+    "_AddingQuestion": {
+        "EN": "Adding a question",
+        "RU": "Добавление вопроса",
+        "UA": "Додавання питання"
+    },
+    "_ChangingQuestion": {
+        "EN": "Changing the question",
+        "RU": "Изменение вопроса",
+        "UA": "Зміна питання"
+    },
+    "_ToConsider": {
+        "EN": "To consider",
+        "RU": "Рассмотреть",
+        "UA": "Розглянути"
+    },
+    "_UnderСonsideration": {
+        "EN": "Under consideration",
+        "RU": "На рассмотрении",
+        "UA": "На розгляді"
+    },
+    "_Reviewed": {
+        "EN": "Reviewed",
+        "RU": "Рассмотрено",
+        "UA": "Розглянуто"
+    },
+    "_Revieweda": {
+        "EN": "Reviewed",
+        "RU": "Рассмотренa",
+        "UA": "Розглянутоa"
+    },
+    "_Rejected": {
+        "EN": "Rejected",
+        "RU": "Отклонено",
+        "UA": "Відхилено"
+    },
+    "_Rejecteda": {
+        "EN": "Rejected",
+        "RU": "Отклонена",
+        "UA": "Відхилена"
+    },
+    "_CloseApplication": {
+        "EN": "Close the application",
+        "RU": "Закрыть заявку",
+        "UA": "Закрити заявку"
+    },
+    "_AwaitingReview": {
+        "EN": "Awaiting review",
+        "RU": "Ожидает рассмотрения",
+        "UA": "Очікує розгляду"
+    },
+    "_Closed": {
+        "EN": "Closed",
+        "RU": "Закрыта",
+        "UA": "Закрита"
+    },
+    "_EnterWebhook": {
+        "EN": "Enter the webhook!",
+        "RU": "Введите веб-хук!",
+        "UA": "Введіть веб-хук!"
+    },
+    "_notspecified": {
+        "EN": "not specified",
+        "RU": "не указан",
+        "UA": "не вказано"
+    },
+    "_Notspecified": {
+        "EN": "Not specified",
+        "RU": "Не указан",
+        "UA": "Не вказано"
+    },
+    "_AdminAdded": {
+        "EN": "AdminAdded!",
+        "RU": "Админ добавлен!",
+        "UA": "Адмін доданий!"
+    },
+    "_AdminNotFound": {
+        "EN": "Admin not found",
+        "RU": "Админ не найден",
+        "UA": "Адмін не знайдений"
+    },
+    "_AdminChanged": {
+        "EN": "Admin changed!",
+        "RU": "Админ изменен!",
+        "UA": "Адмін змінений!"
+    },
+    "_AdminRemoved": {
+        "EN": "Admin removed!",
+        "RU": "Админ удален!",
+        "UA": "Адмін видалений!"
+    },
+    "_ApplicationClosed": {
+        "EN": "The application is closed!",
+        "RU": "Заявка закрыта!",
+        "UA": "Заявка закрита!"
+    },
+    "_AnswerEmpty": {
+        "EN": "The answer cannot be empty!",
+        "RU": "Ответ не может быть пустым!",
+        "UA": "Відповідь не може бути пустою!"
+    },
+    "_ResponseAdded": {
+        "EN": "Response added!",
+        "RU": "Ответ добавлен!",
+        "UA": "Відповідь додана!"
+    },
+    "_ChangedTheStatus": {
+        "EN": "Changed the status of the application to ",
+        "RU": "Изменил статус заявки на ",
+        "UA": "Змінив статус заявки на "
+    },
+    "_StatusChangedTo": {
+        "EN": "The status of the application has been changed to ",
+        "RU": "Статус заявки изменен на ",
+        "UA": "Статус заявки змінено на "
+    },
+    "_EnterTheApplication": {
+        "EN": "Enter the name of the application!",
+        "RU": "Введите имя заявки!",
+        "UA": "Введіть ім'я заявки!"
+    },
+    "_EnterSortValue": {
+        "EN": "Enter the sort value!",
+        "RU": "Введите значение сортировки!",
+        "UA": "Введіть значення сортування!"
+    },
+    "_TheServerIgnoredList": {
+        "EN": "The default server is in the ignored list",
+        "RU": "Сервер по умолчанию в списке игнорируемых",
+        "UA": "Сервер за замовчуванням у списку ігнорованих"
+    },
+    "_ServerPY": {
+        "EN": "The server selected by default",
+        "RU": "Сервер выбранный по умолчанию",
+        "UA": "Сервер, обраний за замовчуванням"
+    },
+    "_TheServerNotSelected": {
+        "EN": "The default server is not selected",
+        "RU": "Не выбран сервер по умолчанию",
+        "UA": "Не обрано сервер за замовчуванням"
+    },
+    "_ApplicationAdded": {
+        "EN": "Application added",
+        "RU": "Заявка добавлена",
+        "UA": "Заявка додана"
+    },
+    "_ApplicationNotFound": {
+        "EN": "Application not found!",
+        "RU": "Заявка не найдена!",
+        "UA": "Заявка не знайдена!"
+    },
+    "_ApplicationChanged": {
+        "EN": "Application changed",
+        "RU": "Заявка изменена",
+        "UA": "Заявка змінена"
+    },
+    "_ApplicationDeleted": {
+        "EN": "The application has been deleted",
+        "RU": "Заявка удалена",
+        "UA": "Заявка видалена"
+    },
+    "_QuestionAdded": {
+        "EN": "Question added!",
+        "RU": "Вопрос добавлен!",
+        "UA": "Запитання додано!"
+    },
+    "_QuestionChanged": {
+        "EN": "Question changed!",
+        "RU": "Вопрос изменен!",
+        "UA": "Запитання змінено!"
+    },
+    "_QuestionNotFound": {
+        "EN": "The question was not found",
+        "RU": "Вопрос не найден",
+        "UA": "Запитання не знайдено"
+    },
+    "_QuestionDeleted": {
+        "EN": "The question has been deleted!",
+        "RU": "Вопрос удален!",
+        "UA": "Запитання видалено!"
+    },
+    "_AgeSpecifiedIncorrectly": {
+        "EN": "Age is not specified or specified incorrectly",
+        "RU": "Возраст не указан или указан некоректно",
+        "UA": "Вік не вказано або вказано некоректно"
+    },
+    "_YourAgeYoung": {
+        "EN": "Your age is too young",
+        "RU": "Ваш возраст слишком мал",
+        "UA": "Ваш вік занадто молодий"
+    },
+    "_TooFewHours": {
+        "EN": "Too few hours",
+        "RU": "Слишком мало часов",
+        "UA": "Занадто мало годин"
+    },
+    "_NextApplication": {
+        "EN": "Next application ",
+        "RU": "Следующая заявка ",
+        "UA": "Наступна заявка "
+    },
+    "_ApplicationsNotAccepted": {
+        "EN": "Applications are temporarily not accepted",
+        "RU": "Заявки временно не принимаются",
+        "UA": "Заявки тимчасово не приймаються"
+    },
+    "_ApplicationSent": {
+        "EN": "The application has been sent",
+        "RU": "Заявка отправлена",
+        "UA": "Заявка відправлена"
+    },
+    "_Rules": {
+        "EN": "Rules",
+        "RU": "Правила",
+        "UA": "Правила"
+    },
+    "_Criteria": {
+        "EN": "Criteria",
+        "RU": "Критерии",
+        "UA": "Критерії"
+    },
+    "_AddingApplications": {
+        "EN": "Adding applications",
+        "RU": "Добавление заявок",
+        "UA": "Додавання заявок"
+    },
+    "_TimeNextApplication": {
+        "EN": "Time until the next application",
+        "RU": "Время до следующей заявки",
+        "UA": "Час до наступної заявки"
+    },
+    "_MinimumAge": {
+        "EN": "Minimum age",
+        "RU": "Минимальный возраст",
+        "UA": "Мінімальний вік"
+    },
+    "_LimitHours": {
+        "EN": "Limit on the played hours",
+        "RU": "Ограничение по наигранным часам",
+        "UA": "Обмеження по наигранним годинам"
+    },
+    "_MinimumHours": {
+        "EN": "Minimum hours",
+        "RU": "Минимум часов",
+        "UA": "Мінімум годин"
+    },
+    "_IgnoreSelectedServers": {
+        "EN": "Ignore selected servers",
+        "RU": "Игнорировать выбранные сервера",
+        "UA": "Ігнорувати вибрані сервери"
+    },
+    "_PlayToApply": {
+        "EN": "Changing the application",
+        "RU": "Сколько игрок должен наиграть для подачи заявки?",
+        "UA": "Скільки гравець повинен наиграти для подачі заявки?"
+    },
+    "_SpecifySeconds": {
+        "EN": "(Specify the time in seconds)",
+        "RU": "(Укажите время в секундах)",
+        "UA": "(Вкажіть час у секундах)"
+    },
+    "_SpecifyTheMinimumAge": {
+        "EN": "(Specify the minimum age, if necessary)",
+        "RU": "(Укажите минимальный возраст, если необходимо)",
+        "UA": "(Вкажіть мінімальний вік, якщо необхідно)"
+    },
+    "_ToCreate": {
+        "EN": "To create",
+        "RU": "Создать",
+        "UA": "Створити"
+    },
+    "_InstallTable": {
+        "EN": "Installation of tables in the database",
+        "RU": "Установка таблиц в базу данных",
+        "UA": "Встановлення таблиць у базу даних"
+    },
+    "_ForWork": {
+        "EN": "For the module to work, the missing tables will be installed:",
+        "RU": "Для работы модуля будут установлены недостающие таблицы:",
+        "UA": "Для роботи модуля будуть встановлені відсутні таблиці:"
+    },
+    "_InstallBTN": {
+        "EN": "Install",
+        "RU": "Установить",
+        "UA": "Встановити"
+    },
+    "_ChangingApplication": {
+        "EN": "Changing the application",
+        "RU": "Изменение заявки",
+        "UA": "Зміна заявки"
+    },
+    "_Open": {
+        "EN": "Open",
+        "RU": "Открыть",
+        "UA": "Відкрити"
+    },
+    "_NewApplicationWebsite": {
+        "EN": "A new application has been submitted on the website!",
+        "RU": "На сайте была подана новая заявка!",
+        "UA": "На сайті була подана нова заявка!"
+    },
+    "_GoToReview": {
+        "EN": "Go to review",
+        "RU": "Перейти к рассмотрению",
+        "UA": "Перейти до розгляду"
+    },
+    "_DelApplication": {
+        "EN": "Remove the application",
+        "RU": "Удалить заявку",
+        "UA": "Видалити заявку"
+    },
+    "_OnRequest": {
+        "EN": "Enabled",
+        "RU": "Включена",
+        "UA": "Включена"
+    },
+    "_OffRequest": {
+        "EN": "Disabled",
+        "RU": "Выключена",
+        "UA": "Вимкнена"
+    },
+    "_NewAnswer": {
+        "EN": "Новый ответ в вашей заявке. <br>%name% пишет: \"%text%\"",
+        "RU": "Новый ответ в вашей заявке. <br>%name% пишет: \"%text%\"",
+        "UA": "Нова відповідь у вашій заявці. <br>%name% пише: \"%text%\""
+    },
+    "_NewAnswer1": {
+        "EN": "Открыта новая заявка #%number% от %name%",
+        "RU": "Открыта новая заявка #%number% от %name%",
+        "UA": "Відкрито нову заявку #%number% від %name%"
+    },
+    "_NewStatus": {
+        "EN": "Статус вашей заявки изменен на \"%status%\"",
+        "RU": "Статус вашей заявки изменен на \"%status%\"",
+        "UA": "Статус вашої заявки змінено на \"%status%\""
+    },
+    "_DelMsg": {
+        "EN": "Delete",
+        "RU": "Удалить",
+        "UA": "Видалити"
+    },
+    "_MsgNotFound": {
+        "EN": "This message does not exist",
+        "RU": "Это сообщение не существует",
+        "UA": "Це повідомлення не існує"
+    },
+    "_DelMessage": {
+        "EN": "Message deleted",
+        "RU": "Сообщение удалено",
+        "UA": "Повідомлення видалено"
+    },
+    "_own_message": {
+        "EN": "You can only delete your own message",
+        "RU": "Вы можете удалить только свое сообщение",
+        "UA": "Ви можете видалити тільки своє повідомлення"
+    },
+    "_invalid_steam": {
+        "EN": "Invalid SteamID format",
+        "RU": "Неверный формат SteamID",
+        "UA": "Невірний формат SteamID"
+    },
+    "_allRequests": {
+        "EN": "All requests",
+        "RU": "Все заявки",
+        "UA": "Всі заявки"
+    },
+    "_requestStatus": {
+        "EN": "Requests status",
+        "RU": "Статус заявки",
+        "UA": "Статус заявки"
+    },
+    "_confirmation": {
+        "EN": "Confirmation",
+        "RU": "Подтверждение",
+        "UA": "Підтвердження"
+    },
+    "_deleteText": {
+        "EN": "Are you sure you want to delete the application? If it is deleted, it will be impossible to return the application.",
+        "RU": "Вы уверены, что хотите удалить заявку? При удалении вернуть заявку будет невозможно.",
+        "UA": "Ви впевнені, що хочете видалити заявку? При видаленні повернути заявку буде неможливо."
+    },
+    "_yesDelete": {
+        "EN": "Yes, delete",
+        "RU": "Да, удалить",
+        "UA": "Так, видалити"
+    },
+    "_missclicked": {
+        "EN": "No, I accidentally clicked",
+        "RU": "Нет, я случайно нажал",
+        "UA": "Нет, я випадково нажал"
+    },
+    "_PlayersRequests": {
+        "EN": "Players requests",
+        "RU": "Заявки от игроков",
+        "UA": "Заявки від гравців"
+    },
+    "_acceptingRequests": {
+        "EN": "Accepting requests on the website",
+        "RU": "Прием заявок на сайте",
+        "UA": "Прийом заявок на сайті"
+    },
+    "_changeCategory": {
+        "EN": "Change category",
+        "RU": "Изменить категорию",
+        "UA": "Змінити категорію"
+    },
+    "_manageRequests": {
+        "EN": "Managing requests status",
+        "RU": "Управление статусом заявки",
+        "UA": "Управління статусом заявки"
+    },
+    "_sortingError": {
+        "EN": "Sorting error",
+        "RU": "Ошибка сортировки",
+        "UA": "Помилка сортування"
+    }
+}

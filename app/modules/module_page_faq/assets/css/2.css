@@ -1,0 +1,218 @@
+.acordeon-container {
+    padding: 0 1rem 1rem;
+}
+
+.accordion {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    margin: .5rem 16rem;
+    gap: 4px;
+}
+
+@media (max-width:768px) {
+    .accordion {
+        margin: unset;
+    }
+}
+
+.accordion__content {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: 0.3s ease;
+}
+
+.accordion__content-body {
+    overflow: hidden;
+    background-color: var(--bg-tr-hover);
+    border: 1px solid var(--transparent-5-w);
+    border-radius: var(--br-12);
+    padding: 0;
+    opacity: 0;
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: relative;
+    transition: 0.2s ease;
+}
+
+.accordion__content-body:before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(90deg, var(--button), var(--card));
+    pointer-events: none;
+}
+
+.accordion__content-body p {
+    line-height: 1.5;
+    font-size: var(--font-size-m);
+    color: var(--text-custom);
+    -webkit-user-select: none;
+    user-select: none;
+    z-index: 1;
+    margin-block: unset;
+}
+
+.accordion__content-body p:where(:not([class]):not(:last-child)) {
+    margin-bottom: 1rem;
+}
+
+.accordion__details {
+    background-color: var(--input-form);
+    padding: 0 1rem 0 1.5rem;
+    border-radius: var(--br-12);
+    border: 1px solid var(--transparent-2-w);
+    font-size: var(--font-size-m);
+    color: var(--text-default);
+    transition: 0.3s ease;
+}
+
+.accordion__details:hover {
+    background-color: var(--toast-bg);
+    color: var(--span);
+}
+
+.accordion__details[open]+.accordion__content {
+    grid-template-rows: 1fr;
+}
+
+.accordion__summary {
+    height: 60px;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-auto-flow: column;
+    align-items: center;
+    width: 100%;
+    gap: .3rem;
+}
+
+.accordion__summary span {
+    font-weight: var(--font-weight-6);
+    -webkit-user-select: none;
+    user-select: none;
+    color: var(--text-secondary);
+    transition: var(--transition-duration);
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.accordion__summary-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: var(--transparent-3-w);
+    border: 1px solid var(--transparent-5-w);
+    transition: background-color 0.2s linear;
+}
+
+.accordion__summary svg {
+    width: 0.8rem;
+    height: 0.8rem;
+    transition: rotate 0.2s linear;
+    fill: currentColor;
+}
+
+.accordion__details[open]>.accordion__summary>.accordion__summary-icon {
+    background-color: var(--span);
+    border: 1px solid transparent;
+}
+
+.accordion__details[open]>.accordion__summary svg:not(.accordion__buttons-action svg) {
+    rotate: 90deg;
+    fill: var(--text-default);
+}
+
+.accordion__details[open] {
+    background-color: var(--transparent-5-w);
+    color: var(--span);
+    border: 1px solid var(--transparent-5-w);
+}
+
+.accordion__details[open]+.accordion__content .accordion__content-body {
+    padding: 1.5rem;
+    opacity: 1;
+    visibility: visible;
+}
+
+.accordion__heading {
+    margin-block: 0.5rem;
+    display: flex;
+    white-space: nowrap;
+    align-items: center;
+    gap: .5rem;
+}
+
+.accordion__heading h1 {
+    font-size: var(--font-size-xxl);
+    font-weight: var(--font-weight-7);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 0;
+}
+
+@media (max-width:768px) {
+    .accordion__heading {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .accordion__heading svg {
+        display: none;
+    }
+
+    .accordion__heading button {
+        margin-left: unset;
+        width: 100%;
+    }
+
+    .accordion__heading h1 {
+        font-size: var(--font-size-m);
+    }
+}
+
+.accordion__heading svg {
+    width: 1.2rem;
+    height: 1.2rem;
+    flex: none;
+}
+
+.accordion__heading button {
+    margin-left: auto;
+}
+
+summary {
+    list-style: none;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+summary:focus {
+    outline: none;
+}
+
+.accordion__details[open]>.accordion__summary span {
+    color: var(--span)
+}
+
+.accordion__buttons {
+    display: flex;
+    align-items: center;
+    gap: .3rem;
+}
+
+.accordion__buttons-action {
+    height: 30px;
+    aspect-ratio: 1;
+    width: 30px !important;
+    padding: 0;
+    border-radius: var(--br-50);
+}

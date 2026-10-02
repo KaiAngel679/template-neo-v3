@@ -1,0 +1,42 @@
+{
+  "_Count_players": {
+    "EN": "Total players",
+    "RU": "Всего игроков",
+    "UA": "Усього гравців"
+  },
+  "_Count_players7d": {
+    "EN": "Рlayers in 7 d.",
+    "RU": "Игроков за 7 дн.",
+    "UA": "Гравців за 7 дн."
+  },
+  "_Count_bans": {
+    "EN": "Bans",
+    "RU": "Всего забанено",
+    "UA": "Всього заблоковано"
+  },
+  "_Count_mutes": {
+    "EN": "Мutes",
+    "RU": "Всего мутов и гагов",
+    "UA": "Всього мутів та гагів"
+  },
+  "_Count_vips": {
+    "EN": "VIP players",
+    "RU": "VIP игроков",
+    "UA": "VIP гравців"
+  },
+  "_Count_players24h": {
+    "EN": "Players today",
+    "RU": "Игроков сегодня",
+    "UA": "Гравців сьогодні"
+  },
+  "_vipDesc": {
+    "EN": "Choose the privilege that suits you! A wide range for every taste for any player",
+    "RU": "Подберите привилегию, которая подойдёт именно вам! Большой ассортимент на любой вкус для любого игрока",
+    "UA": "Оберіть привілеї, які пасують вам! Великий асортимент на будь-який смак для кожного гравця"
+  },
+  "_totalMutes": {
+    "EN": "Totally muted",
+    "RU": "Всего заглушено",
+    "UA": "Всього заглушено"
+  }
+}

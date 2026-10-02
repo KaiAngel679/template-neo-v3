@@ -1,0 +1,607 @@
+{
+  "_MesGeneralTime": {
+    "EN": "m.",
+    "UA": "міс.",
+    "RU": "мес."
+  },
+  "_NedGeneralTime": {
+    "EN": "w.",
+    "UA": "нед.",
+    "RU": "нед."
+  },
+  "_DnGeneralTime": {
+    "EN": "d.",
+    "UA": "дн.",
+    "RU": "дн."
+  },
+  "_CGeneralTime": {
+    "EN": "h.",
+    "UA": "ч.",
+    "RU": "ч."
+  },
+  "_MGeneralTime": {
+    "EN": "m.",
+    "UA": "мiн..",
+    "RU": "мин."
+  },
+  "_SGeneralTime": {
+    "EN": "s.",
+    "UA": "сек.",
+    "RU": "сек."
+  },
+  "_visual": {
+    "EN": "Visual",
+    "UA": "Візуал",
+    "RU": "Визуал"
+  },
+  "_table": {
+    "EN": "Table",
+    "UA": "Таблиця",
+    "RU": "Таблица"
+  },
+  "_grid": {
+    "EN": "Grid",
+    "UA": "Сітка",
+    "RU": "Сетка"
+  },
+  "_modeGrid": {
+    "EN": "Module mode #1 (Grid). Show in row:",
+    "UA": "Режим модуля #1 (Сітка). Показувати в ряд:",
+    "RU": "Режим модуля #1 (Сетка). Показывать в ряд:"
+  },
+  "_modeTable": {
+    "EN": "Module mode #2 (Table). Show in row:",
+    "UA": "Режим модуля #2 (таблиця). Показувати в ряд:",
+    "RU": "Режим модуля #2 (Таблица). Показывать в ряд:"
+  },
+  "_countServers": {
+    "EN": "servers",
+    "UA": "сервера",
+    "RU": "сервера"
+  },
+  "_main": {
+    "EN": "Main",
+    "UA": "Основні",
+    "RU": "Основные"
+  },
+  "_showPrime": {
+    "EN": "Show PRIME status icon",
+    "UA": "Відображати іконку статусу PRIME",
+    "RU": "Отображать иконку PRIME статуса"
+  },
+  "_showVip": {
+    "EN": "Show VIP privilege icon",
+    "UA": "Відображати іконку VIP привілею",
+    "RU": "Отображать иконку VIP привилегии"
+  },
+  "_showAdmin": {
+    "EN": "Show admin privilege icon",
+    "UA": "Відображати іконку адмін привілею",
+    "RU": "Отображать иконку админ привилегии"
+  },
+  "_panelAccessAdmin": {
+    "EN": "Player Control Panel for all admins",
+    "UA": "Панель управління гравцями всім адмінам",
+    "RU": "Панель управления игроками всем админам"
+  },
+  "_filterMode": {
+    "EN": "Filter servers by mode",
+    "UA": "Фільтр серверів за режимом",
+    "RU": "Фильтр серверов по режиму"
+  },
+  "_punishmentsAllServers": {
+    "EN": "Punishments on all servers",
+    "UA": "Покарання на всі сервери",
+    "RU": "Наказания на все сервера"
+  },
+  "_showEmpty": {
+    "EN": "Whether to show placeholders",
+    "UA": "Чи показувати заглушки",
+    "RU": "Показывать ли заглушки"
+  },
+  "_updateCache": {
+    "EN": "Specify the cache update time for data in monitoring",
+    "UA": "Вкажіть час оновлення кешу для моніторингу даних",
+    "RU": "Укажите время обновления кеша для данных в мониторинге"
+  },
+  "_timeCache": {
+    "EN": "Time to cache data from servers",
+    "UA": "Час кешування даних із серверів",
+    "RU": "Время кеширования данных с серверов"
+  },
+  "_save": {
+    "EN": "Save",
+    "UA": "Зберегти",
+    "RU": "Сохранить"
+  },
+  "_accessManage": {
+    "EN": "Access to player management",
+    "UA": "Доступ до керування гравцями",
+    "RU": "Доступ к управлению игроками"
+  },
+  "_addAccess": {
+    "EN": "Add access",
+    "UA": "Додати доступ",
+    "RU": "Добавить доступ"
+  },
+  "_adminsEmpty": {
+    "EN": "Admins not added",
+    "UA": "Адміни не додані",
+    "RU": "Админы не добавлены"
+  },
+  "_eventLog": {
+    "EN": "Event log",
+    "UA": "Журнал подій",
+    "RU": "Журнал логов"
+  },
+  "_eventEmpty": {
+    "EN": "No events",
+    "UA": "Журнал порожній",
+    "RU": "Журнал пуст"
+  },
+  "_addingAccess": {
+    "EN": "Adding access for admin",
+    "UA": "Додавання доступу до адміну",
+    "RU": "Добавление доступа для админа"
+  },
+  "_installModule": {
+    "EN": "Install module",
+    "UA": "Встановити модуль",
+    "RU": "Установить модуль"
+  },
+  "_muted": {
+    "EN": "muted",
+    "UA": "залушив",
+    "RU": "залушил"
+  },
+  "_banned": {
+    "EN": "banned",
+    "UA": "забанив",
+    "RU": "забанил"
+  },
+  "_kicked": {
+    "EN": "kicked",
+    "UA": "виключив",
+    "RU": "исключил"
+  },
+  "_punished": {
+    "EN": "punished",
+    "UA": "покарав",
+    "RU": "наказал"
+  },
+  "_muteTypeBoth": {
+    "EN": "Mute + Gag",
+    "UA": "Мут + Гаг",
+    "RU": "Мут + Гаг"
+  },
+  "_muteTypeGag": {
+    "EN": "Gag",
+    "UA": "Гаг",
+    "RU": "Гаг"
+  },
+  "_muteTypeMute": {
+    "EN": "Mute",
+    "UA": "Мут",
+    "RU": "Мут"
+  },
+  "_term": {
+    "EN": "Term of punishment",
+    "UA": "Термін покарання",
+    "RU": "Срок наказания"
+  },
+  "_reason": {
+    "EN": "Reason for punishment",
+    "UA": "Причина покарання",
+    "RU": "Причина наказания"
+  },
+  "_playerOf": {
+    "EN": "player",
+    "UA": "гравця",
+    "RU": "игрока"
+  },
+  "_incorrectSteam": {
+    "EN": "Please specify the correct STEAMID format!",
+    "UA": "Вкажіть правильний формат STEAMID!",
+    "RU": "Укажите верный формат STEAMID!"
+  },
+  "_emptySteam": {
+    "EN": "STEAMID can't be empty!",
+    "UA": "STEAMID не може бути порожнім!",
+    "RU": "STEAMID не может быть пустым!"
+  },
+  "_selectServer": {
+    "EN": "Please select at least one server!",
+    "UA": "Виберіть хоча б один сервер!",
+    "RU": "Выберите хотя бы один сервер!"
+  },
+  "_existSteam": {
+    "EN": "This STEAMID already exists!",
+    "UA": "Цей STEAMID вже існує!",
+    "RU": "Данный STEAMID уже существует!"
+  },
+  "_installed": {
+    "EN": "Installed",
+    "UA": "Встановлено",
+    "RU": "Установлено"
+  },
+  "_errorInstall": {
+    "EN": "Installation error!",
+    "UA": "Помилка встановлення!",
+    "RU": "Ошибка установки!"
+  },
+  "_details": {
+    "EN": "Details",
+    "UA": "Деталі",
+    "RU": "Детали"
+  },
+  "_modsSettings": {
+    "EN": "Modes settings",
+    "UA": "Налаштування режимів",
+    "RU": "Настройки режимов"
+  },
+  "_existMode": {
+    "EN": "This mode already exists!",
+    "UA": "Цей режим вже існує!",
+    "RU": "Данный режим уже существует!"
+  },
+  "_emptyImages": {
+    "EN": "Images cannot be empty!",
+    "UA": "Зображення не можуть бути порожніми!",
+    "RU": "Изображения не могут быть пустыми!"
+  },
+  "_errorUpload": {
+    "EN": "Error uploading images!",
+    "UA": "Помилка завантаження зображень!",
+    "RU": "Ошибка загрузки изображений!"
+  },
+  "_emptyDescription": {
+    "RU": "Описание отсутствует",
+    "EN": "Description is missing",
+    "UA": "Опис відсутній"
+  },
+  "_sortingError": {
+    "EN": "Sorting error!",
+    "UA": "Помилка сортування!",
+    "RU": "Ошибка сортировки!"
+  },
+  "_bulkSelectServers": {
+    "EN": "Select at least one server",
+    "UA": "Оберіть хоча б один сервер",
+    "RU": "Выберите хотя бы один сервер"
+  },
+  "_bulkSelectStatus": {
+    "EN": "Select a status",
+    "UA": "Оберіть статус",
+    "RU": "Выберите статус"
+  },
+  "_notExistMode": {
+    "EN": "This mode does not exist!",
+    "UA": "Цього режиму не існує!",
+    "RU": "Данного режима не существует!"
+  },
+  "_errorDeleteMode": {
+    "EN": "Error deleting mode!",
+    "UA": "Помилка видалення режиму!",
+    "RU": "Ошибка удаления режима!"
+  },
+  "_settingsMods": {
+    "EN": "Setting up modes",
+    "UA": "Налаштування режимів",
+    "RU": "Настройка режимов"
+  },
+  "_useMods": {
+    "EN": "Use mode cards",
+    "UA": "Використовувати картки режимів",
+    "RU": "Использовать карточки режимов"
+  },
+  "_selectMod": {
+    "EN": "Select mode",
+    "UA": "Виберіть режим",
+    "RU": "Выберите режим"
+  },
+  "_backImage": {
+    "EN": "The image that will be in the background",
+    "UA": "Зображення, яке буде на задньому фоні",
+    "RU": "Изображение, которое будет на заднем фоне"
+  },
+  "_frontImage": {
+    "EN": "The image that will be on the front",
+    "UA": "Зображення, яке буде попереду",
+    "RU": "Изображение, которое будет спереди"
+  },
+  "_createMod": {
+    "EN": "Create a mode card",
+    "UA": "Створити картку режиму",
+    "RU": "Создать карточку режима"
+  },
+  "_descMod": {
+    "EN": "Description",
+    "UA": "Опис",
+    "RU": "Описание"
+  },
+  "_titleMod": {
+    "EN": "Name",
+    "UA": "Назва",
+    "RU": "Название"
+  },
+  "_noMods": {
+    "EN": "There are no modes",
+    "UA": "Режими відсутні",
+    "RU": "Режимы отсутствуют"
+  },
+  "_useEmptys": {
+    "EN": "Whether to show placeholders",
+    "UA": "Показувати чи заглушки",
+    "RU": "Показывать ли заглушки"
+  },
+  "_modsInRow": {
+    "EN": "Modes in a row",
+    "UA": "Ррежимів в ряд",
+    "RU": "Режимов в ряд"
+  },
+  "_Password": {
+    "EN": "Password from config",
+    "UA": "Пароль з конфига",
+    "RU": "Пароль из конфига"
+  },
+  "_DebugLogs": {
+    "EN": "Enable debug logs",
+    "UA": "Увімкнути відлагоджувальні логи",
+    "RU": "Включить отладочные логи"
+  },
+  "_accessLogs": {
+    "EN": "Logs and access",
+    "UA": "Увімкнути відлагоджувальні логи",
+    "RU": "Логи и доступ"
+  },
+  "_selectExcludedAdmins": {
+    "EN": "Select groups for excluded access",
+    "UA": "Выберите группы для исключения доступа",
+    "RU": "Выберите группы для исключения доступа"
+  },
+  "_serverList": {
+    "EN": "Server list",
+    "UA": "Список серверів",
+    "RU": "Список серверов"
+  },
+  "_settingsServers": {
+    "EN": "Setting up servers",
+    "UA": "Налаштування серверів",
+    "RU": "Настройка серверов"
+  },
+  "_createModeCard": {
+    "EN": "Create a mode card",
+    "UA": "Створити картку режиму",
+    "RU": "Создать карточку режима"
+  },
+  "_createSubMode": {
+    "EN": "Create a submode",
+    "UA": "Створити підрежим",
+    "RU": "Создать подрежим"
+  },
+  "_descModCreate": {
+    "EN": "Creating a mode card allows you to add a new mode to the monitoring with unique images, videos, and description. This is a great way to highlight specific modes and attract users' attention. Submodes allow you to create variations of the main mode, giving you flexibility in organizing and displaying information on your site.",
+    "UA": "Створення картки режиму дозволяє вам додати новий режим до моніторингу з унікальними зображеннями, відео та описом. Це чудовий спосіб виділити определенные режимы и привлечь внимание пользователей. Подрежимы позволяют создавать вариации основного режима, что дает вам гибкость в организации и отображении информации на вашем сайте.",
+    "RU": "Создание карточки режима позволяет вам добавить новый режим в мониторинг с уникальными изображениями, видео и описанием. Это отличный способ выделить определенные режимы и привлечь внимание пользователей. Подрежимы позволяют создавать вариации основного режима, что дает вам гибкость в организации и отображении информации на вашем сайте."
+  },
+  "attachVideo": {
+    "EN": "Attach a video that will be displayed on the mode page",
+    "UA": "Додайте відео, яке буде відображатися на сторінці режиму",
+    "RU": "Прикрепите видео, которое будет отображаться на странице режима"
+  },
+  "_videoInput": {
+    "EN": "MP4, WEBM and more than 50 MB. <span class='filepond--label-action'>Select video</span>",
+    "UA": "MP4, WEBM та більше 50 МБ. <span class='filepond--label-action'>Виберіть відео</span>",
+    "RU": "MP4, WEBM и более 50 МБ. <span class='filepond--label-action'>Выберите видео</span>"
+  },
+  "enterDescriptionBanner": {
+    "EN": "Enter a description for the banner in this mode",
+    "UA": "Введите описание для баннера в данном режиме",
+    "RU": "Введите описание для баннера в данном режиме"
+  },
+  "_exampleDescription": {
+    "EN": "entertaining mode where you can compete in shooting skills in a 5 on 5 format",
+    "UA": "розважальний режим, де можна посоревноваться навыками стрельбы в формате 5 на 5",
+    "RU": "развлекательный режим, где можно посоревноваться навыками стрельбы в формате 5 на 5"
+  },
+  "_Image": {
+    "EN": "Move or <span class='filepond--label-action'>select an image</span>",
+    "UA": "Перемістіть або <span class='filepond--label-action'>виберіть зображення</span>",
+    "RU": "Переместите или <span class='filepond--label-action'>выберите изображение</span>"
+  },
+  "_uploadError": {
+    "EN": "Error uploading file!",
+    "UA": "Помилка завантаження файлу!",
+    "RU": "Ошибка загрузки файла!"
+  },
+  "_noFileSelected": {
+    "EN": "No file selected",
+    "UA": "Файл не вибрано",
+    "RU": "Файл не выбран"
+  },
+  "_deleteError": {
+    "EN": "Error deleting file!",
+    "UA": "Помилка видалення файлу!",
+    "RU": "Ошибка удаления файла!"
+  },
+  "_creatingMod": {
+    "EN": "Creating a mode card",
+    "UA": "Створення картки режиму",
+    "RU": "Создание карточки режима"
+  },
+  "_allMods": {
+    "EN": "All modes are stored in template files. Full path: storage/cache/sessions/mods.php",
+    "UA": "Всі режими зберігаються у файлах шаблона. Повний шлях: storage/cache/sessions/mods.php",
+    "RU": "Все режимы хранятся в файлах шаблона. Полный путь: storage/cache/sessions/mods.php"
+  },
+  "_editServer": {
+    "EN": "Edit server information",
+    "UA": "Редагування інформації про сервер",
+    "RU": "Изменение информации о сервере"
+  },
+  "_technicalWork": {
+    "EN": "Technical work",
+    "UA": "Тех.роботи",
+    "RU": "Тех.работы"
+  },
+  "_serverStatus": {
+    "EN": "Server status",
+    "UA": "Статус сервера",
+    "RU": "Статус сервера"
+  },
+  "_address": {
+    "EN": "Address",
+    "UA": "Адреса",
+    "RU": "Адрес"
+  },
+  "_sorting": {
+    "EN": "Order",
+    "UA": "Порядок",
+    "RU": "Порядок"
+  },
+  "_connectedVip": {
+    "EN": "VIP database is connected",
+    "UA": "Підключено базу VIP",
+    "RU": "Подключена база VIP"
+  },
+  "_connectedAdminSystem": {
+    "EN": "The admin system is now connected:",
+    "UA": "Підключено адміністративну систему:",
+    "RU": "Подключена админ-система: "
+  },
+  "_rconPassword": {
+    "EN": "RCON password from server",
+    "UA": "RCON-пароль від сервера",
+    "RU": "RCON-пароль от сервера"
+  },
+  "_hidden": {
+    "EN": "Hidden",
+    "UA": "Приховано",
+    "RU": "Скрыт"
+  },
+  "_active": {
+    "EN": "Active",
+    "UA": "Активний",
+    "RU": "Активен"
+  },
+  "_serverName": {
+    "EN": "Server name",
+    "UA": "Назва сервера",
+    "RU": "Название сервера"
+  },
+  "_serverBage": {
+    "EN": "Server badge",
+    "UA": "Бейдж сервера",
+    "RU": "Бейдж сервера"
+  },
+  "_editingMod": {
+    "EN": "Editing a mode card",
+    "UA": "Редагування картки режиму",
+    "RU": "Редактирование карточки режима"
+  },
+  "_creatingSubMod": {
+    "EN": "Creating a submode",
+    "UA": "Створення підрежиму",
+    "RU": "Создание подрежима"
+  },
+  "_chooseMod": {
+    "EN": "Choose a mode for the submode",
+    "UA": "Виберіть режим для підрежима",
+    "RU": "Выберите режим для подрежима"
+  },
+  "_subModTitle": {
+    "EN": "Submode name",
+    "UA": "Назва підрежиму",
+    "RU": "Название подрежима"
+  },
+  "_createSubMod": {
+    "EN": "Create a submode",
+    "UA": "Створити підрежим",
+    "RU": "Создать подрежим"
+  },
+  "_editSubMod": {
+    "EN": "Editing a submode",
+    "UA": "Редагування підрежиму",
+    "RU": "Редактирование подрежима"
+  },
+  "_centeredMods": {
+    "EN": "Center mode cards",
+    "UA": "Центрувати картки режимів",
+    "RU": "Центрировать карточки режимов"
+  },
+  "_emptySubModTitle": {
+    "EN": "Submode name cannot be empty!",
+    "UA": "Назва підрежиму не може бути порожньою!",
+    "RU": "Название подрежима не может быть пустым!"
+  },
+  "_editMode": {
+    "EN": "Edit mode",
+    "UA": "Редагування режиму",
+    "RU": "Редактирование режима"
+  },
+  "_unassignedServers": {
+    "EN": "Unassigned servers",
+    "UA": "Вільні сервери",
+    "RU": "Свободные сервера"
+  },
+  "_selectGame": {
+    "EN": "Select a game",
+    "UA": "Виберіть гру",
+    "RU": "Выберите игру"
+  },
+  "_selectStatus": {
+    "EN": "Select a status",
+    "UA": "Виберіть статус",
+    "RU": "Выберите статус"
+  },
+  "_selectStats": {
+    "EN": "Select a Levels Ranks connection",
+    "UA": "Виберіть підключення Levels Ranks",
+    "RU": "Выберите подключение Levels Ranks"
+  },
+  "_selectVip": {
+    "EN": "Select a VIP connection",
+    "UA": "Виберіть підключення VIP",
+    "RU": "Выберите подключение VIP"
+  },
+  "_selectAdmin": {
+    "EN": "Select an admin system connection",
+    "UA": "Виберіть підключення адмін-системи",
+    "RU": "Выберите подключение админ-системы"
+  },
+  "_changeStatus": {
+    "EN": "Change status",
+    "UA": "Змінити статус",
+    "RU": "Изменить статус"
+  },
+  "_howUse": {
+    "EN": "You can move: <br> 1. Servers between each other, to other submodes and within the current mode <br> 2. Submodes between each other and servers<br> 3. Modes between each other <br><br> To move, drag the up or down arrow icon of the desired block",
+    "UA": "Ви можете переміщати: <br> 1. Сервери між собою, в інші підрежими та всередині поточного режиму <br> 2. Підрежими між собою та серверами<br> 3. Режими між собою <br><br> Для переміщення потягніть за іконку стрілки вгору або вниз у потрібного блоку",
+    "RU": "Вы можете перемещать: <br> 1. Сервера между собой, в другие подрежимы и внутри текущего режима <br> 2. Подрежимы между собой и серверами<br> 3. Режимы между собой <br><br> Для перемещения потяните за иконку стрелки вверх или вниз у нужного блока"
+  },
+  "_serverCounter": {
+    "EN": "Show server counter",
+    "UA": "Показувати лічильник серверів",
+    "RU": "Показывать счетчик серверов"
+  },
+  "_modDescription": {
+    "EN": "Mode description",
+    "UA": "Опис режиму",
+    "RU": "Описание режима"
+  },
+  "_modButtonHide": {
+    "EN": "Hide button in card",
+    "UA": "Сховати кнопку в картці",
+    "RU": "Скрыть кнопку в карточке"
+  },
+  "_showPing": {
+    "EN": "Show ping",
+    "UA": "Показувати пінг",
+    "RU": "Показывать пинг"
+  },
+  "_showOnlineLine": {
+    "EN": "Show online line",
+    "UA": "Показувати онлайн линию",
+    "RU": "Показывать онлайн линию"
+  }
+}

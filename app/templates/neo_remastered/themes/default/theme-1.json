@@ -1,0 +1,23 @@
+{
+    "name": "_theme_1",
+    "colors": {
+        "--span": "rgb(190, 126, 255)",
+        "--span-10": "rgba(190, 126, 255, .1)",
+        "--span-low": "rgba(190, 126, 255, .05)",
+        "--span-middle": "rgba(190, 126, 255, .25)",
+        "--span-half": "rgba(190, 126, 255, .5)",
+        "--text-custom": "#e9d9ff",
+        "--text-secondary": "#ca9cff",
+        "--text-default": "#ffffff",
+        "--bg": "#1f0035",
+        "--card": "#2b0047",
+        "--bg-modal": "#1f0035d4",
+        "--button": "#620098",
+        "--btn-disabled": "#4b0077",
+        "--button-hover": "#7800b9",
+        "--input-form": "#400067",
+        "--money": "#fffb9c",
+        "--money-bg": "#fffb9c1a",
+        "--tooltip": "#570087"
+    }
+}

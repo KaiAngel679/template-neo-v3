@@ -1,0 +1,24 @@
+{
+    "title":"NEO3 - Договор оферты",
+    "info":"Вывод договора оферты",
+    "author":"onevalve.ru",
+    "page":"oferta",
+    "version":"0.1",
+    "required":{
+        "core":"0.2",
+        "php":"5.4"
+    },
+    "setting":{
+        "status":1,
+        "type":1,
+        "available_types":"1",
+        "interface":1,
+        "interface_adjacent":"afternavbar",
+        "translation":1,
+        "data":1,
+        "data_always":0,
+        "css":1,
+        "cache_enable":1,
+        "cache_time":86400
+    }
+}

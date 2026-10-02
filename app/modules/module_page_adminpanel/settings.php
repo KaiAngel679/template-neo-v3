@@ -1,0 +1,1 @@
+<?php return array('discord'=>array('botToken'=>'','guildId'=>''),'vk'=>array('vkToken'=>'','groupId'=>''),'telegram'=>array('telegramToken'=>'','chatId'=>''));

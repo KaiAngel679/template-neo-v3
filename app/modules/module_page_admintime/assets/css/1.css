@@ -1,0 +1,362 @@
+@import '/app/modules/module_page_admintime/assets/css/vanilla-calendar.min.css';
+
+.online_settings,
+.access_settings {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: .5rem;
+}
+
+.onlineadm_access_list {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: .3rem;
+}
+
+.onlineadm_access_admin {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--input-form);
+  padding: 5px;
+  border-radius: var(--br-8);
+}
+
+.admin_details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.admin_details img {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--br-4);
+}
+
+.admin_details>div {
+  display: flex;
+  flex-direction: column;
+}
+
+.admin_details>div a {
+  font-size: var(--font-size-m);
+}
+
+.admin_details>div span {
+  color: var(--text-default);
+  font-size: var(--font-size-s);
+}
+
+.accesses {
+  display: flex;
+  flex-direction: column;
+}
+
+.havent_accesses,
+.havent_servers,
+.havent_info {
+  display: flex;
+  font-family: var(--font-family-1);
+  font-size: var(--font-size-xxxl);
+  font-weight: var(--font-weight-7);
+  color: var(--text-default);
+  opacity: 0.3;
+  justify-content: center;
+}
+
+.srv_left {
+  display: grid;
+}
+
+.srv_left span {
+  font-size: var(--font-size-m);
+  color: var(--span);
+  font-weight: var(--font-weight-6);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.srv_left span:not(:first-child) {
+  color: var(--text-default);
+  opacity: 0.5;
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-4);
+}
+
+.radio {
+  display: flex;
+  width: 100%;
+  padding: 5px;
+  gap: 10px;
+  align-items: center;
+  transition: var(--transition-duration);
+  white-space: nowrap;
+}
+
+.filter_adm_online {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.adm_online_server {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+.srv_right {
+  margin-left: auto;
+  display: flex;
+  gap: .3rem;
+}
+
+.adm_online_servers {
+  display: flex;
+  gap: 3px;
+  flex-direction: column;
+  margin-top: .3rem;
+}
+
+.admin-time__cards-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.65rem;
+}
+
+@media (max-width: 1300px) {
+  .admin-time__cards-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 896px) {
+  .admin-time__cards-wrapper {
+    grid-template-columns: 1fr;
+  }
+}
+
+.admin-time__card {
+  display: flex;
+  flex-direction: column;
+  padding: 0.7rem;
+  border-radius: 1rem;
+  background-color: var(--input-form);
+  width: 100%;
+  gap: 0.4rem;
+  transition: all 0.25s;
+  border: 1px solid var(--transparent-3-w);
+  position: relative;
+  overflow: hidden;
+}
+
+.admin-time__card video,
+.admin-time__card img {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  opacity: .3;
+  width: 100%;
+}
+
+.admin-time__card:before,
+.admin-time__card:before {
+  content: '';
+  position: absolute;
+  background-image: linear-gradient(0deg, var(--card), transparent);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 3;
+  pointer-events: none;
+}
+
+.admin-time__head {
+  gap: 0.65rem;
+  display: flex;
+  z-index: 4;
+}
+
+.admin-time__avatar {
+  height: 64px;
+  width: 64px !important;
+  border-radius: 0.65rem;
+  position: unset !important;
+  inset: unset !important;
+  opacity: 1 !important;
+}
+
+.admin-time__name {
+  font-size: var(--font-size-default);
+  font-weight: var(--font-weight-6);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--text-default);
+}
+
+.admin-time__bottom {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 4;
+}
+
+.admin-time__title {
+  margin-block: 0;
+  color: var(--text-custom);
+  font-weight: var(--font-weight-5);
+  font-size: var(--font-size-s);
+}
+
+.admin-time__time {
+  font-family: var(--font-family-1);
+  font-weight: var(--font-weight-7);
+  font-size: var(--font-size-s);
+  color: var(--text-default);
+  white-space: nowrap;
+  transition: all 0.25s;
+}
+
+.admin-time__user-data {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.3rem;
+  width: 100%;
+}
+
+.admin-time__steam {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  background-color: var(--transparent-3-w);
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--transparent-5-w);
+  color: var(--text-custom);
+  border-radius: 0.4rem;
+  font-size: var(--font-size-s);
+  cursor: pointer;
+  transition: all 0.25s;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.admin-time__steam svg {
+  height: 14px;
+  width: 14px;
+  fill: currentColor;
+  margin-left: auto;
+}
+
+.admin-time__steam:hover {
+  border-color: var(--transparent-20-w);
+  color: var(--text-default);
+}
+
+.sessions__title li {
+  display: grid;
+  grid-template-columns: 1.5fr .7fr .7fr .5fr;
+  gap: 1rem;
+  align-items: center;
+  padding: 0 1rem;
+  background-color: transparent;
+  margin-block: 0.5rem;
+}
+
+.sessions__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  max-height: 28rem;
+  overflow: hidden;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.sessions__list li {
+  display: grid;
+  grid-template-columns: 1.5fr .7fr .7fr .5fr;
+  gap: 1rem;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: var(--input-form);
+  border-radius: 0.4rem;
+}
+
+.sessions__list li span,
+.sessions__title li span {
+  color: var(--text-custom);
+  font-weight: var(--font-weight-4);
+  font-variant-numeric: tabular-nums;
+  font-size: var(--font-size-m);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pagination {
+  margin-bottom: 0;
+}
+
+.radio {
+  display: flex;
+  width: 100%;
+  padding: 5px;
+  gap: 10px;
+  align-items: center;
+  transition: var(--transition-duration);
+  white-space: nowrap;
+}
+
+.filter_adm_online {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.vanilla-calendar {
+  width: 100%;
+}
+
+.vanilla-calendar-arrow {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.apexcharts-svg {
+  width: unset;
+  height: unset
+}
+
+.server-card .chart-area {
+  position: relative;
+}
+
+body .apexcharts-tooltip.apexcharts-theme-light {
+  color: var(--span);
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  box-shadow: none;
+  padding: 8px 6px 4px;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  border: 0;
+}
+
+.apexcharts-tooltip-title,
+.apexcharts-xaxistooltip-bottom.apexcharts-theme-light {
+  display: none;
+}
+
+line {
+  stroke: var(--transparent-5-w);
+}

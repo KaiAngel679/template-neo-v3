@@ -1,0 +1,115 @@
+.statistics_container {
+  display: flex;
+  background: var(--card);
+  border-radius: var(--br-16);
+  padding: 1rem 1.5rem;
+  flex-direction: column;
+  color: var(--text-custom);
+  gap: 0;
+  position: relative;
+  overflow: hidden;
+  justify-content: center;
+}
+
+.statistics_number {
+  font-family: var(--font-family-1);
+  font-size: var(--font-size-l);
+  font-weight: var(--font-weight-7);
+  color: var(--span);
+}
+
+.statistics_icon {
+  position: absolute;
+  right: 1rem;
+  transition: var(--transition-ease-2)
+}
+
+.statistics_icon svg {
+  width: 30px;
+  height: auto;
+  fill: var(--span);
+  opacity: 1;
+  transition: var(--transition-ease-2)
+}
+
+.statistics_name {
+  color: var(--span-half);
+  font-size: var(--font-size-m);
+}
+
+.statistic__premium .statistics_name {
+  color: var(--money);
+}
+
+.statistic__premium .statistics_number {
+  color: var(--money);
+}
+
+.statistic__premium .statistics_icon svg {
+  fill: var(--money);
+}
+
+.statistic__premium {
+  outline: 2px solid var(--money);
+  transition: var(--transition-ease-2)
+}
+
+.statistic__premium:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to top left, var(--money-bg), transparent);
+  opacity: 0.1;
+  pointer-events: none;
+  transition: all .25s ease;
+}
+
+.statistic__premium:hover:before {
+    opacity: 1;
+}
+
+.pulse_prem {
+  animation: pulse-prem 2s infinite;
+}
+
+@keyframes pulse-prem {
+  0% {
+    box-shadow: 0 0 0 0px var(--money);
+  }
+  100% {
+    box-shadow: 0 0 0 10px rgba(255, 87, 105, 0);
+  }
+}
+
+.prem_icon {
+    position: absolute;
+    right: 3rem;
+    transition: var(--transition-ease-2)
+}
+
+.prem_icon svg {
+    width: 20px;
+    height: auto;
+    fill: var(--money);
+    opacity: 0;
+    transition: var(--transition-ease-2)
+}
+
+.statistic__premium:hover .prem_icon {
+    right: 1rem;
+}
+
+.statistic__premium:hover .prem_icon svg{
+    opacity: 1;
+}
+
+.statistic__premium:hover .statistics_icon {
+    right: 0;
+}
+
+.statistic__premium:hover .statistics_icon svg{
+    opacity: 0;
+}

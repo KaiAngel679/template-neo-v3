@@ -1,0 +1,2247 @@
+{
+    "_Count_admins": {
+        "EN": "Total Admins",
+        "RU": "Всего админ-ов.",
+        "UA": "Всього адмін-ов."
+    },
+    "_Module_loading": {
+        "EN": "Modules loading order",
+        "RU": "Порядок загрузки модулей",
+        "UA": "Порядок завантаження модулів"
+    },
+    "_Page": {
+        "EN": "Page",
+        "RU": "Страница",
+        "UA": "Сторінка"
+    },
+    "_Options": {
+        "EN": "Options",
+        "RU": "Опции",
+        "UA": "Опції"
+    },
+    "_Refresh_cache_modules": {
+        "EN": "To refresh the cache modules",
+        "RU": "Обновить кэш модулей",
+        "UA": "Оновити кеш модулів"
+    },
+    "_Refresh_cache_translations": {
+        "EN": "To refresh the cache of translations",
+        "RU": "Обновить кэш переводов",
+        "UA": "Оновити кеш перекладів"
+    },
+    "_Update_list_modules": {
+        "EN": "To update the list of modules",
+        "RU": "Обновить список модулей",
+        "UA": "Оновити список модулів"
+    },
+    "_Chief_admin": {
+        "EN": "Chief Administrator",
+        "RU": "Гл. Администратор",
+        "UA": "Головний Адміністратор"
+    },
+    "_General_settings": {
+        "EN": "General",
+        "UA": "Основні",
+        "RU": "Основные"
+    },
+    "_Template_settings": {
+        "EN": "Template",
+        "UA": "Шаблон",
+        "RU": "Шаблон"
+    },
+    "_Template_rangs": {
+        "EN": "What type of ranks to use?",
+        "UA": "Який тип рангів використати?",
+        "RU": "Какой тип рангов использовать?"
+    },
+    "_Configuring_modules": {
+        "EN": "Modules",
+        "UA": "Модулі",
+        "RU": "Модули"
+    },
+    "_Server_setting": {
+        "EN": "Servers",
+        "UA": "Сервери",
+        "RU": "Серверы"
+    },
+    "_Server_setting_list": {
+        "EN": "Servers list",
+        "UA": "Список серверів",
+        "RU": "Список серверов"
+    },
+    "_Hide_filter_Servers": {
+        "EN": "Hide server filter",
+        "UA": "Приховувати фільтр серверів",
+        "RU": "Скрывать фильтр серверов"
+    },
+    "_Stretch_filter_buttons": {
+        "EN": "Stretch to full width",
+        "UA": "Розтягувати кнопки в ширину",
+        "RU": "Растягивать кнопки в ширину"
+    },
+    "_Settings": {
+        "EN": "Settings",
+        "UA": "Налаштування",
+        "RU": "Настройки"
+    },
+    "_Database_settings": {
+        "EN": "Database",
+        "UA": "Бази даних",
+        "RU": "Базы данных"
+    },
+    "_Site_logs": {
+        "EN": "Logs",
+        "UA": "Логи",
+        "RU": "Логи"
+    },
+    "_Site_stats": {
+        "EN": "Stats",
+        "UA": "Статистика",
+        "RU": "Статистика"
+    },
+    "_Users_page": {
+        "EN": "Users",
+        "UA": "Користувачі",
+        "RU": "Пользователи"
+    },
+    "_Translation_settings": {
+        "EN": "Translation Settings",
+        "RU": "Настройка переводов",
+        "UA": "Налаштування перекладів"
+    },
+    "_Extra_settingss": {
+        "EN": "Extra Settings",
+        "RU": "Дополнительные настройки",
+        "UA": "Додаткові налаштування"
+    },
+    "_Full_name": {
+        "EN": "Full Name",
+        "RU": "Полное название",
+        "UA": "Полное название"
+    },
+    "_Short_name": {
+        "EN": "Short Name",
+        "RU": "Короткое название",
+        "UA": "Коротка назва"
+    },
+    "_Basic_information": {
+        "EN": "Basic Information (displayed in footer)",
+        "RU": "Общая информация (отображается в футере)",
+        "UA": "Загальна інформація (відображається у футері)"
+    },
+    "_Language": {
+        "EN": "Language",
+        "RU": "Язык",
+        "UA": "Мова"
+    },
+    "_Currency": {
+        "EN": "Currency",
+        "RU": "Валюта",
+        "UA": "Валюта"
+    },
+    "_select_currency": {
+        "EN": "Select Currency",
+        "RU": "Выберите валюту",
+        "UA": "Виберіть валюту"
+    },
+    "_Chief_administrator_Steam": {
+        "EN": "Chief Administrator (Steam Authorization)",
+        "RU": "Глав. администратор (Steam авторизация)",
+        "UA": "Головний адміністратор (Steam авторизація)"
+    },
+    "_Use_Steam_ID": {
+        "EN": "Use Steam ID 64",
+        "RU": "Использовать Steam ID 64",
+        "UA": "Використовувати Steam ID 64"
+    },
+    "_Import_admin_list": {
+        "EN": "Import Admin List from SB/MA (Steam)",
+        "RU": "Импорт админ листа из SB/MA (Steam)",
+        "UA": "Імпорт Адмін листа з SB/MA (Steam)"
+    },
+    "_Save": {
+        "EN": "Save",
+        "RU": "Сохранить",
+        "UA": "Зберегти"
+    },
+    "_Save_change": {
+        "EN": "Save changes",
+        "UA": "Зберегти зміни",
+        "RU": "Сохранить изменения"
+    },
+    "_Dark_mode_default": {
+        "EN": "Dark Mode - Default",
+        "RU": "Тёмный режим - По умолчанию",
+        "UA": "Темний режим - За замовчуванням"
+    },
+    "_Animation_default": {
+        "EN": "Animation",
+        "RU": "Анимации",
+        "UA": "Анімації"
+    },
+    "_Show_avatars": {
+        "EN": "Show Avatars",
+        "RU": "Показывать ли аватарки",
+        "UA": "Чи показувати аватарки"
+    },
+    "_Timecache_avatars": {
+        "EN": "Avatar Retention Time(Sec.)",
+        "UA": "Час збереження аватарів(Сек.)",
+        "RU": "Время сохранения аватаров(Сек.)"
+    },
+    "_Steam_web_api": {
+        "EN": "Steam WEB KEY",
+        "UA": "Steam WEB KEY",
+        "RU": "Steam WEB KEY"
+    },
+    "_Sidebar_default": {
+        "EN": "Open Sidebar - Default",
+        "RU": "Открытый сайтбар - По умолчанию",
+        "UA": "Відкритий сайдбар - За замовчуванням"
+    },
+    "_Round_shapes": {
+        "EN": "Do round shapes",
+        "RU": "Закруглять ли углы у форм",
+        "UA": "Чи закругляти кути у форми"
+    },
+    "_All_access_rights": {
+        "EN": "All access rights",
+        "RU": "Полные права доступа",
+        "UA": "Повні права доступу"
+    },
+    "_Steam_access_authorization": {
+        "EN": "Steam Access Authorization",
+        "RU": "Доступ к Steam авторизации",
+        "UA": "Доступ до Steam авторизації"
+    },
+    "_Steam_only_authorization": {
+        "EN": "Steam Authorization Only",
+        "RU": "Авторизация только по Steam",
+        "UA": "Авторизація тільки по Steam"
+    },
+    "_Design": {
+        "EN": "Design",
+        "RU": "Дизайн",
+        "UA": "Дизайн"
+    },
+    "_Enable_css_cache": {
+        "EN": "Enable Cache - CSS",
+        "RU": "Включить кэш - CSS",
+        "UA": "Включити кеш - CSS"
+    },
+    "_Enable_js_cache": {
+        "EN": "Enable Cache - JS",
+        "RU": "Включить кэш - JS",
+        "UA": "Включити кеш - JS"
+    },
+    "_Optimization": {
+        "EN": "Optimization",
+        "RU": "Оптимизация",
+        "UA": "Оптимізація"
+    },
+    "_White_color_palettes": {
+        "EN": "White Сolor Palettes",
+        "RU": "Белая палитра сайта",
+        "UA": "Біла палітра сайту"
+    },
+    "_Dark_color_palettes": {
+        "EN": "Dark Сolor Palettes",
+        "RU": "Тёмная палитра сайта",
+        "UA": "Темна палітра сайту"
+    },
+    "_Background_image": {
+        "EN": "Background Image",
+        "RU": "Фоновое изображение",
+        "UA": "Фонове зображення"
+    },
+    "_No_image": {
+        "EN": "No image",
+        "RU": "Без изображения",
+        "UA": "Без зображення"
+    },
+    "_Session_check": {
+        "EN": "Check PHP Sessions",
+        "RU": "Проверка PHP сессий",
+        "UA": "Перевірка PHP сесій"
+    },
+    "_Primary_graphics_container": {
+        "EN": "Primary Graphics Container",
+        "RU": "Основной графический контейнер",
+        "UA": "Основний графічний контейнер"
+    },
+    "_Stretch": {
+        "EN": "Stretch/Fluid",
+        "RU": "Растягивать по ширине экрана",
+        "UA": "Розтягувати по ширині екрану"
+    },
+    "_Static": {
+        "EN": "Static - Max 1400px",
+        "RU": "Статика - Макс 1400px",
+        "UA": "Статика - Макс 1400px"
+    },
+    "_Disable_sidebar_change": {
+        "EN": "Disable Sidebar Change",
+        "RU": "Запретить изменение вида боковой панели",
+        "UA": "Заборонити зміну виду бічній панелі"
+    },
+    "_Disable_palettes_change": {
+        "EN": "Disable Palettes Change",
+        "RU": "Запретить изменение палитры сайта",
+        "UA": "Заборонити зміну палітри сайту"
+    },
+    "_Sidebar_blur": {
+        "EN": "Enable Sidebar Blur",
+        "RU": "Включить размытие у боковой панели",
+        "UA": "Включити розмиття в бічній панелі"
+    },
+    "_Blocks_blur": {
+        "EN": "Enable Blocks Blur",
+        "RU": "Включить размытие у блоков",
+        "UA": "Включити розмиття у блоків"
+    },
+    "_Add_Server": {
+        "EN": "Add Server",
+        "UA": "Додати сервер",
+        "RU": "Добавить сервер"
+    },
+    "_Server_name": {
+        "EN": "Server Name",
+        "UA": "Назва сервера",
+        "RU": "Название сервера"
+    },
+    "_TechnoName": {
+        "EN": "Technical Name",
+        "UA": "Технічна назва",
+        "RU": "Техническое название"
+    },
+    "_BageName": {
+        "EN": "Server Badge",
+        "UA": "Бейдж сервера",
+        "RU": "Бейдж сервера"
+    },
+    "_Ip_Port_Server": {
+        "EN": "IP:PORT Server",
+        "UA": "",
+        "RU": "IP:PORT Сервера"
+    },
+    "_Ip_Port_View": {
+        "EN": "IP:PORT Output",
+        "UA": "IP:PORT Сервера",
+        "RU": "IP:PORT Выводимый"
+    },
+    "_Rcon": {
+        "EN": "RCON",
+        "UA": "RCON",
+        "RU": "RCON"
+    },
+    "_Stat_Table": {
+        "EN": "Statistics Table",
+        "UA": "Статистика Таблиця",
+        "RU": "Статистика Таблица"
+    },
+    "_Vip_Table": {
+        "EN": "VIP CORE Table",
+        "UA": "VIP CORE Таблиця",
+        "RU": "VIP CORE Таблица"
+    },
+    "_Vip_Sid": {
+        "EN": "Server ID (vipc_core.cfg)",
+        "UA": "ID Сервера (vip_core.cfg)",
+        "RU": "ID Сервера (vip_core.cfg)"
+    },
+    "_Sb_Table": {
+        "EN": "Admin System Table",
+        "UA": "Адмін система таблиця",
+        "RU": "Админ система таблица"
+    },
+    "_Shop_Table": {
+        "EN": "Shop Table",
+        "UA": "Таблиця Магазину",
+        "RU": "Shop Таблица"
+    },
+    "_WarnSystem_Table": {
+        "EN": "WarnSystem Table",
+        "UA": "Таблиця WarnSystem",
+        "RU": "WarnSystem Таблица"
+    },
+    "_Lk_Table": {
+        "EN": "LK Table",
+        "UA": "Таблиця LK",
+        "RU": "LK Таблица"
+    },
+    "_Server_Name": {
+        "EN": "Title",
+        "UA": "Назва",
+        "RU": "Название"
+    },
+    "_View": {
+        "EN": "Visual",
+        "UA": "Візуальний",
+        "RU": "Визуальный"
+    },
+    "_Server": {
+        "EN": "Server",
+        "UA": "Сервер",
+        "RU": "Сервер"
+    },
+    "_Add_con": {
+        "EN": "Add Connection",
+        "UA": "Додати з'єднання",
+        "RU": "Добавить подключение"
+    },
+    "_Edit_con": {
+        "EN": "Edit Connection",
+        "UA": "Редагувати з'єднання",
+        "RU": "Редактировать подключение"
+    },
+    "_type_con": {
+        "EN": "Type of new connection:",
+        "UA": "Тип нового з'єднання:",
+        "RU": "Тип нового подключения:"
+    },
+    "_table_con": {
+        "EN": "Table",
+        "UA": "Таблиця",
+        "RU": "Таблица"
+    },
+    "_db_con": {
+        "EN": "Database",
+        "UA": "База даних",
+        "RU": "База данных"
+    },
+    "_take_db_con": {
+        "EN": "Choose Database",
+        "UA": "Виберіть базу даних",
+        "RU": "Выбери базу данных"
+    },
+    "_non_take_con": {
+        "EN": "Not chosen",
+        "UA": "Не вибрано",
+        "RU": "Не выбрано"
+    },
+    "_host": {
+        "EN": "Host",
+        "UA": "Хост",
+        "RU": "Хост"
+    },
+    "_name_db": {
+        "EN": "Database Name:",
+        "UA": "Назва бази даних:",
+        "RU": "Имя базы данных:"
+    },
+    "_username": {
+        "EN": "DB Username:",
+        "UA": "Ім'я користувача БД:",
+        "RU": "Имя пользователя БД:"
+    },
+    "_password": {
+        "EN": "User Password DB:",
+        "UA": "Пароль користувача БД:",
+        "RU": "Пароль пользователя БД:"
+    },
+    "_port": {
+        "EN": "Port:",
+        "UA": "Порт:",
+        "RU": "Порт:"
+    },
+    "_table_name": {
+        "EN": "Table Name:",
+        "UA": "Назва таблиці:",
+        "RU": "Название таблицы:"
+    },
+    "_rank_pack": {
+        "EN": "Grade Pack:",
+        "UA": "Пакет рангів:",
+        "RU": "Пакет рангов:"
+    },
+    "_add": {
+        "EN": "Add",
+        "UA": "Додати",
+        "RU": "Добавить"
+    },
+    "_mod_list": {
+        "EN": "Mods List",
+        "UA": "Список модів",
+        "RU": "Список модов"
+    },
+    "_mod": {
+        "EN": "Mod",
+        "UA": "Мод",
+        "RU": "Мод"
+    },
+    "_configure": {
+        "EN": "Configurator",
+        "UA": "Конфігуратор",
+        "RU": "Конфигуратор"
+    },
+    "_take_mod": {
+        "EN": "Choose Mod",
+        "UA": "Виберіть мод",
+        "RU": "Выберите мод"
+    },
+    "_custom_mode": {
+        "EN": "Own Mod",
+        "UA": "Власний мод",
+        "RU": "Свой мод"
+    },
+    "_enter_mode_name": {
+        "EN": "Enter the name of the mod:",
+        "UA": "Введіть назву мода:",
+        "RU": "Введите название мода:"
+    },
+    "_list_con": {
+        "EN": "General",
+        "UA": "Загальний",
+        "RU": "Общий"
+    },
+    "_user": {
+        "EN": "User",
+        "UA": "Користувач",
+        "RU": "Пользователь"
+    },
+    "_table_prefix": {
+        "EN": "Table | Prefix",
+        "UA": "Таблиця | Префікс",
+        "RU": "Таблица | Префикс"
+    },
+    "_error": {
+        "EN": "Error!",
+        "UA": "Помилка!",
+        "RU": "Ошибка!"
+    },
+    "_error_host": {
+        "EN": "Enter host!",
+        "UA": "Введіть хост!",
+        "RU": "Введите хост!"
+    },
+    "_error_db": {
+        "EN": "Enter a database name!",
+        "UA": "Введіть назву бази даних!",
+        "RU": "Введите название базы данных!"
+    },
+    "_error_password": {
+        "EN": "Enter user password DB!",
+        "UA": "Введіть пароль користувача БД!",
+        "RU": "Введите пароль пользователя БД!"
+    },
+    "_error_username": {
+        "EN": "Enter DB username!",
+        "UA": "Введіть ім'я користувача БД!",
+        "RU": "Введите имя пользователя БД!"
+    },
+    "_error_port": {
+        "EN": "Enter port!",
+        "UA": "Введіть порт!",
+        "RU": "Введите порт!"
+    },
+    "_error_name_table": {
+        "EN": "Enter a table name!",
+        "UA": "Введіть назву таблиці!",
+        "RU": "Введите название таблицы!"
+    },
+    "_error_rank_pack": {
+        "EN": "Enter Rank Pack!",
+        "UA": "Введіть пакет рангів!",
+        "RU": "Введите пакет рангов!"
+    },
+    "_success_db_created": {
+        "EN": "New database added!",
+        "UA": "Нова база даних додана!",
+        "RU": "Новая база данных добавлена!"
+    },
+    "_error_create_db": {
+        "EN": "First create a database!",
+        "UA": "Спочатку створіть базу даних!",
+        "RU": "Сначала создайте базу данных!"
+    },
+    "_error_enter_db": {
+        "EN": "Choose a database!",
+        "UA": "Виберіть базу даних!",
+        "RU": "Выберите базу данных!"
+    },
+    "_success_table_created": {
+        "EN": "New table added!",
+        "UA": "Нова таблиця додана!",
+        "RU": "Новая таблица добавлена!"
+    },
+    "_error_db_not_found": {
+        "EN": "The specified database was not found!",
+        "UA": "Вказана база даних не знайдена!",
+        "RU": "Указанная база данных не найдена!"
+    },
+    "_error_not_found": {
+        "EN": "Unknown error!",
+        "UA": "Невідома помилка!",
+        "RU": "Неизвестная ошибка!"
+    },
+    "_success_mod_created": {
+        "EN": "New mod created!",
+        "UA": "Новий мод створено!",
+        "RU": "Новый мод создан!"
+    },
+    "_error_con_db": {
+        "EN": "Error connecting to database!",
+        "UA": "Помилка підключення до бази даних!",
+        "RU": "Ошибка подключения к базе данных!"
+    },
+    "_Admin_stats": {
+        "EN": "Statistics",
+        "RU": "Статистика",
+        "UA": "Статистика"
+    },
+    "_Visits": {
+        "EN": "Visits",
+        "UA": "Відвідування",
+        "RU": "Посещения"
+    },
+    "_Online": {
+        "EN": "Online:",
+        "UA": "Онлайн:",
+        "RU": "На сайте:"
+    },
+    "_Total": {
+        "EN": "Total:",
+        "UA": "Всього переходів:",
+        "RU": "Всего переходов:"
+    },
+    "_For": {
+        "EN": "For",
+        "UA": "За",
+        "RU": "За"
+    },
+    "_Jan": {
+        "EN": "January",
+        "UA": "січень",
+        "RU": "январь"
+    },
+    "_Feb": {
+        "EN": "February",
+        "UA": "лютий",
+        "RU": "февраль"
+    },
+    "_Mar": {
+        "EN": "March",
+        "UA": "березень",
+        "RU": "март"
+    },
+    "_Apr": {
+        "EN": "April",
+        "UA": "квітень",
+        "RU": "апрель"
+    },
+    "_May": {
+        "EN": "May",
+        "UA": "травень",
+        "RU": "май"
+    },
+    "_Jun": {
+        "EN": "June",
+        "UA": "червень",
+        "RU": "июнь"
+    },
+    "_Jul": {
+        "EN": "July",
+        "UA": "липень",
+        "RU": "июль"
+    },
+    "_Aug": {
+        "EN": "August",
+        "UA": "серпень",
+        "RU": "август"
+    },
+    "_Sep": {
+        "EN": "September",
+        "UA": "вересень",
+        "RU": "сентябрь"
+    },
+    "_Oct": {
+        "EN": "October",
+        "UA": "жовтень",
+        "RU": "октябрь"
+    },
+    "_Nov": {
+        "EN": "November",
+        "UA": "листопад",
+        "RU": "ноябрь"
+    },
+    "_Dec": {
+        "EN": "December",
+        "UA": "грудень",
+        "RU": "декабрь"
+    },
+    "_Mset": {
+        "EN": "Module Settings:",
+        "UA": "Налаштування модуля:",
+        "RU": "Настройки модуля:"
+    },
+    "_MAuth": {
+        "EN": "Author:",
+        "UA": "Автор:",
+        "RU": "Автор:"
+    },
+    "_MKer": {
+        "EN": "Min Kernel Version:",
+        "UA": "Мін. версія ядра:",
+        "RU": "Мин. версия ядра:"
+    },
+    "_MVer": {
+        "EN": "Module Version:",
+        "UA": "Версія модуля:",
+        "RU": "Версия модуля:"
+    },
+    "_MPHP": {
+        "EN": "Min PHP Version:",
+        "UA": "Мін. версія PHP:",
+        "RU": "Мин. версия PHP:"
+    },
+    "_MDesc": {
+        "EN": "Description:",
+        "UA": "Опис:",
+        "RU": "Описание:"
+    },
+    "_MActive": {
+        "EN": "Active Page:",
+        "UA": "Активна сторінка:",
+        "RU": "Активная страница:"
+    },
+    "_MOnoff": {
+        "EN": "Module On/Off",
+        "UA": "Модуль вкл/викл",
+        "RU": "Модуль вкл/выкл"
+    },
+    "_MMode": {
+        "EN": "Module Mode:",
+        "UA": "Режим модуля:",
+        "RU": "Режим модуля:"
+    },
+    "_MInterface": {
+        "EN": "The Graphical Part:",
+        "UA": "Графічна частина:",
+        "RU": "Графическая часть:"
+    },
+    "_MI": {
+        "EN": "Pre-Initialization:",
+        "UA": "Пре-ініціалізація:",
+        "RU": "Пре-инициализация:"
+    },
+    "_MAP": {
+        "EN": "Additional pre-initialization associated with the main thread:",
+        "UA": "Додаткова пре-ініціалізація, пов'язана з основним потоком:",
+        "RU": "Дополнительная пре-инициализацию, связанная с основным потоком:"
+    },
+    "_MCache": {
+        "EN": "Cache Usage:",
+        "UA": "Використання кешу:",
+        "RU": "Использование кэша:"
+    },
+    "_MCT": {
+        "EN": "Cache Time (Sec):",
+        "UA": "Час кешування (сек.):",
+        "RU": "Время кэширования (сек.):"
+    },
+    "_MTR": {
+        "EN": "Own translation file:",
+        "UA": "Власний файл перекладу:",
+        "RU": "Собственный файл перевода:"
+    },
+    "_MCSS": {
+        "EN": "Native CSS Style:",
+        "UA": "Власний CSS стиль:",
+        "RU": "Собственный CSS стиль:"
+    },
+    "_MJS": {
+        "EN": "Own JS Library:",
+        "UA": "Власна JS бібліотека:",
+        "RU": "Собственная JS библиотека:"
+    },
+    "_Cockie": {
+        "EN": "Storing data in cookies",
+        "UA": "Збереження даних у кукі",
+        "RU": "Сохранение данных в куки"
+    },
+    "_Template": {
+        "EN": "Choose Template",
+        "UA": "Обрати шаблон",
+        "RU": "Выберете шаблон"
+    },
+    "_Css_off_cache": {
+        "EN": "Disable CSS/JS Browser Cache",
+        "UA": "Вимкнути кеш браузера CSS/JS",
+        "RU": "Отключение браузерного кеша CSS/JS"
+    },
+    "_Info_social": {
+        "EN": "Social and other links",
+        "UA": "Соціальні мережі та інші посилання",
+        "RU": "Социальные сети и ссылки"
+    },
+    "_Nav_footer_text": {
+        "EN": "Navbar and footer text",
+        "UA": "Текст у навбарі та футері",
+        "RU": "Текст в навбаре и футере"
+    },
+    "_Link_vk": {
+        "EN": "Vk",
+        "UA": "Вк",
+        "RU": "Вк"
+    },
+    "_Link_tg": {
+        "EN": "Telegram",
+        "UA": "Telegram",
+        "RU": "Telegram"
+    },
+    "_Link_ds": {
+        "EN": "Discord",
+        "UA": "Discord",
+        "RU": "Discord"
+    },
+    "_Link_steam": {
+        "EN": "Steam",
+        "UA": "Steam",
+        "RU": "Steam"
+    },
+    "_Link_yt": {
+        "EN": "Youtube",
+        "UA": "Youtube",
+        "RU": "Youtube"
+    },
+    "_Link_tt": {
+        "EN": "Tiktok",
+        "UA": "Tiktok",
+        "RU": "Tiktok"
+    },
+    "_Link_tech": {
+        "EN": "Support",
+        "UA": "Підтримка",
+        "RU": "Поддержка"
+    },
+    "_Link_placeholder": {
+        "EN": "If you don't need to, leave the field blank",
+        "UA": "Якщо не потрібно, залиште поле порожнім",
+        "RU": "Если не нужно, оставьте поле пустым"
+    },
+    "_Nav_editor": {
+        "EN": "Menu Editor",
+        "UA": "Редактор меню",
+        "RU": "Редактор меню"
+    },
+    "_Nav_point": {
+        "EN": "Item name",
+        "UA": "Назва пункту",
+        "RU": "Название пункта"
+    },
+    "_Nav_link": {
+        "EN": "Link",
+        "UA": "Посилання",
+        "RU": "Ссылка"
+    },
+    "_Nav_icon": {
+        "EN": "SVG icon",
+        "UA": "SVG іконка",
+        "RU": "SVG иконка"
+    },
+    "_Nav_sort": {
+        "EN": "Sort number",
+        "UA": "Порядковий номер",
+        "RU": "Порядковый номер"
+    },
+    "_Nav_list": {
+        "EN": "List of menu items",
+        "UA": "Список пунктів меню",
+        "RU": "Список пунктов меню"
+    },
+    "_Nav_delete": {
+        "EN": "Delete",
+        "UA": "Видалити",
+        "RU": "Удалить"
+    },
+    "_Nav_delete_tooltip": {
+        "EN": "Delete item",
+        "UA": "Видалити пункт",
+        "RU": "Удалить пункт"
+    },
+    "_Nav_link_place": {
+        "EN": "/shop,/admins,/skinchanger,/vips,/request and etc",
+        "UA": "/shop,/admins,/skinchanger,/vips,/request і т.д.",
+        "RU": "/shop,/admins,/skinchanger,/vips,/request и т.п."
+    },
+    "_Nav_name_place": {
+        "EN": "For example, skinchanger",
+        "UA": "Наприклад, скинчейнджер",
+        "RU": "Например, скинчейнджер"
+    },
+    "_Nav_sort_place": {
+        "EN": "1,2,3 and etc",
+        "UA": "1,2,3 і т.д.",
+        "RU": "1,2,3 и т.д."
+    },
+    "_Nav_change_menu": {
+        "EN": "Edit",
+        "UA": "Змінити",
+        "RU": "Изменить"
+    },
+    "_Nav_change_menu_tooltip": {
+        "EN": "Edit item",
+        "UA": "Редагувати пункт",
+        "RU": "Редактировать пункт"
+    },
+    "_Game_mod": {
+        "EN": "Game mod",
+        "UA": "Ігровий мод",
+        "RU": "Игровой мод"
+    },
+    "_Recreate_db_Servers": {
+        "EN": "Rebuild server base",
+        "UA": "Пересоздати базу серверів",
+        "RU": "Пересоздать базу серверов"
+    },
+    "_On_Off_checkbox": {
+        "EN": "On/off",
+        "UA": "Вкл/викл",
+        "RU": "Вкл/Выкл"
+    },
+    "_Country_server": {
+        "EN": "Country",
+        "UA": "Країна",
+        "RU": "Страна"
+    },
+    "_City_server": {
+        "EN": "City",
+        "UA": "Місто",
+        "RU": "Город"
+    },
+    "_Id_server": {
+        "EN": "ID",
+        "UA": "ID",
+        "RU": "ID"
+    },
+    "_IpPort_server": {
+        "EN": "IP:PORT",
+        "UA": "IP:PORT",
+        "RU": "IP:PORT"
+    },
+    "_Icons_here": {
+        "EN": "(You can get icons here)",
+        "UA": "(Іконки можна взяти тут)",
+        "RU": "(Брать иконки можно здесь)"
+    },
+    "_Stats_total_players": {
+        "EN": "Total players",
+        "UA": "Всього гравців",
+        "RU": "Всего игроков"
+    },
+    "_Stats_24h_players": {
+        "EN": "Players in 24 hours",
+        "UA": "Гравців за 24 години",
+        "RU": "Игроков за 24 часа"
+    },
+    "_Stats_total_earned": {
+        "EN": "Total earned",
+        "UA": "Всього зароблено",
+        "RU": "Всего заработано"
+    },
+    "_Stats_total_earned_month": {
+        "EN": "Earned for",
+        "UA": "Зароблено за",
+        "RU": "Заработано за"
+    },
+    "_Stats_admins": {
+        "EN": "Admins",
+        "UA": "Адмінів",
+        "RU": "Админов"
+    },
+    "_Stats_vips": {
+        "EN": "Vips",
+        "UA": "Віпів",
+        "RU": "Випов"
+    },
+    "_Stats_bans": {
+        "EN": "Bans",
+        "UA": "Бани",
+        "RU": "Баны"
+    },
+    "_Stats_comms": {
+        "EN": "Comms",
+        "UA": "М'юти",
+        "RU": "Муты"
+    },
+    "_Stats_visit_30d": {
+        "EN": "The site was visited for the month",
+        "UA": "Сайт відвідали за місяць",
+        "RU": "Сайт посетили за месяц"
+    },
+    "_Stats_visit_humans": {
+        "EN": "humans",
+        "UA": "людина",
+        "RU": "человек"
+    },
+    "_Stats_visit_online": {
+        "EN": "Online now:",
+        "UA": "Зараз на сайті:",
+        "RU": "Сейчас на сайте:"
+    },
+    "_Stats_visit_last_activity": {
+        "EN": "Last activity: in",
+        "UA": "Остання активність: в",
+        "RU": "Последняя активность: в"
+    },
+    "_Stats_purchases": {
+        "EN": "Last purchases",
+        "UA": "Останні покупки",
+        "RU": "Последние покупки"
+    },
+    "_Stats_transactions": {
+        "EN": "Last transactions",
+        "UA": "Останні транзакції",
+        "RU": "Последние транзакции"
+    },
+    "_Logs_copylog": {
+        "EN": "Copy log",
+        "UA": "Скопіювати лог",
+        "RU": "Скопировать лог"
+    },
+    "_Logs_shop": {
+        "EN": "Shop logs",
+        "UA": "Логи магазину",
+        "RU": "Логи магазина"
+    },
+    "_Logs_pay": {
+        "EN": "Pay logs",
+        "UA": "Логи поповнень",
+        "RU": "Логи пополнений"
+    },
+    "_Logs_engine": {
+        "EN": "Engine logs",
+        "UA": "Логи движка",
+        "RU": "Логи движка"
+    },
+    "_Edit_Server": {
+        "EN": "Edit server",
+        "UA": "Змінити сервер",
+        "RU": "Изменить сервер"
+    },
+    "_Logo": {
+        "EN": "SVG logo",
+        "UA": "SVG логотип",
+        "RU": "SVG логотип"
+    },
+    "_Email": {
+        "EN": "Email address",
+        "UA": "Електронна пошта",
+        "RU": "Электронная почта"
+    },
+    "_ClearallCache": {
+        "EN": "Clear all cache",
+        "UA": "Очистити весь кеш",
+        "RU": "Очистить весь кэш"
+    },
+    "_TemplateVersion": {
+        "EN": "Template version",
+        "UA": "Версія шаблону",
+        "RU": "Версия шаблона"
+    },
+    "_EnabletechWork": {
+        "EN": "Enable engineering works",
+        "UA": "Увімкнути тех. роботи",
+        "RU": "Включить тех. работы"
+    },
+    "_Hide_the_city_in_monitoring": {
+        "EN": "Hide the city",
+        "UA": "Приховувати місто",
+        "RU": "Скрывать город"
+    },
+    "_Hide_country_in_monitoring": {
+        "EN": "Hide country",
+        "UA": "Приховувати країну",
+        "RU": "Скрывать страну"
+    },
+    "_HideWatermark": {
+        "EN": "Hide watermark in footer",
+        "UA": "Приховати водяний знак у футері",
+        "RU": "Скрыть водяной знак в футере"
+    },
+    "_dsGuild": {
+        "EN": "Discord guild",
+        "UA": "Гільдія Discord",
+        "RU": "Discord гильдия"
+    },
+    "_vkGroupID": {
+        "EN": "VK group ID",
+        "UA": "Айді групи VK",
+        "RU": "Айди группы VK"
+    },
+    "_tgChatId": {
+        "EN": "Chat ID",
+        "UA": "Айді чата",
+        "RU": "Айди чата"
+    },
+    "_saveTimeFaceit": {
+        "EN": "Faceit Save Time",
+        "UA": "Час збереження Faceit",
+        "RU": "Время сохранения Faceit"
+    },
+    "_faceitApiKey": {
+        "EN": "Faceit Api Key",
+        "UA": "Ключ Faceit Api Key",
+        "RU": "Ключ Faceit Api Key"
+    },
+    "_rangsFormat": {
+        "EN": "Select format",
+        "UA": "Виберіть формат",
+        "RU": "Выберите формат"
+    },
+    "_metaTags": {
+        "EN": "Keywords (for search engines)",
+        "UA": "Ключові слова (для пошукових систем)",
+        "RU": "Ключевые слова (для поисковых систем)"
+    },
+    "_disabledLanguage": {
+        "EN": "Disable language selection button in navbar",
+        "UA": "Вимкнути кнопку вибору мови в навбарі",
+        "RU": "Отключить кнопку выбора языка в навбаре"
+    },
+    "_onlyAuthSearch": {
+        "EN": "Search only for authorized users",
+        "UA": "Пошук лише для авторизованих",
+        "RU": "Поиск только для авторизованных"
+    },
+    "_navigation": {
+        "EN": "Navigation",
+        "UA": "Навігація",
+        "RU": "Навигация"
+    },
+    "_createCat": {
+        "EN": "Create category",
+        "UA": "Створити категорію",
+        "RU": "Создать категорию"
+    },
+    "_createItem": {
+        "EN": "Create item",
+        "UA": "Створити пункт",
+        "RU": "Создать пункт"
+    },
+    "_accessOnlyAdmin": {
+        "EN": "Available only for admins with MS access",
+        "UA": "Доступний тільки для адмінів з доступом від MS",
+        "RU": "Доступен только для админа с доступом от MS"
+    },
+    "_accessOnlyAdminServer": {
+        "EN": "Available only for server admin",
+        "UA": "Доступний тільки для адміна сервера",
+        "RU": "Доступен только для админа сервера"
+    },
+    "_accessOnlyAdminSite": {
+        "EN": "Available only for site owner",
+        "UA": "Доступний тільки для власника сайту",
+        "RU": "Доступен только для владельца"
+    },
+    "_accessOnlyAuth": {
+        "EN": "Available only for authorized users",
+        "UA": "Доступний тільки для авторизованих користувачів",
+        "RU": "Доступен только для авторизованных пользователей"
+    },
+    "_titleCreateTitle": {
+        "EN": "Create a category",
+        "UA": "Створення категорії",
+        "RU": "Создание категории"
+    },
+    "_catName": {
+        "EN": "Category name",
+        "UA": "Назва категорії",
+        "RU": "Название категории"
+    },
+    "_displayOnlyForAdmins": {
+        "EN": "Displayed only to admins with MS access",
+        "UA": "Відображається лише адмінам з доступами від MS",
+        "RU": "Отображается только админам с доступами от MS"
+    },
+    "_displayOnlyForAdminsSite": {
+        "EN": "Displayed only to site owners",
+        "UA": "Відображається тільки власникам сайту",
+        "RU": "Отображается только владельцам сайта"
+    },
+    "_displayOnlyForAuth": {
+        "EN": "Displayed only to authorized users",
+        "UA": "Відображається лише авторизованим користувачам",
+        "RU": "Отображается только авторизованным пользователям"
+    },
+    "_creatingItem": {
+        "EN": "Create item",
+        "UA": "Створення пункту",
+        "RU": "Создание пункта"
+    },
+    "_NewTab": {
+        "EN": "Open in a new window",
+        "UA": "Відкривати у новому вікні",
+        "RU": "Открывать в новом окне"
+    },
+    "_itemDescription": {
+        "EN": "Description of the item",
+        "UA": "Опис пункту",
+        "RU": "Описание пункта"
+    },
+    "_editingCat": {
+        "EN": "Editing a category",
+        "UA": "Редагування категорії",
+        "RU": "Редактирование категории"
+    },
+    "_editingItem": {
+        "EN": "Editing an item",
+        "UA": "Редагування пункту",
+        "RU": "Редактирование пункта"
+    },
+    "_catText": {
+        "EN": "If something doesn't work, press the button - maybe it will fix it, but here it's just a cat",
+        "UA": "Якщо щось не працює, натисніть на кнопку – може бути пофіксує, а тут просто котик",
+        "RU": "Если что-то не работает, нажми на кнопку - может быть пофиксит, а тут просто котик"
+    },
+    "_vipe": {
+        "EN": "This button is designed to make a <b>VIPE (wipe - reset)</b> of all servers' statistics. Usually done at the end of each month, so that new players can get to the top each month and have motivation to play on the servers. This button should be pressed <b>ONLY WHEN THE SERVERS ARE OFF OR IF THERE ARE NO PLAYERS ON THE SERVERS, otherwise there will be problems</b>",
+        "UA": "Дана кнопка призначена для того, щоб зробити <b>VIPE (вайп-скидання)</b> статистики всіх серверів. Зазвичай робиться наприкінці кожного місяця, щоб новий місяць нові гравці могли потрапити в топ і мали мотивацію грати на серверах. Натискати на цю кнопку слід <b>ТІЛЬКИ ПРИ ВИКЛЮЧЕНИХ СЕРВЕРАХ АБО ЯКЩО НА СЕРВЕРАХ НЕМАЄ ГРАВЦІВ, інакше будуть проблеми</b>",
+        "RU": "Данная кнопка предназдачена для того, чтобы сделать <b>VIPE (вайп - сброс)</b> статистики всех серверов. Обычно делается в конце каждого месяца, чтобы новый месяц новые игроки могли попасть в топ и у них была мотивация играть на серверах. Нажимать на данную кнопку следует <b>ТОЛЬКО ПРИ ВЫКЛЮЧЕННЫХ СЕРВЕРАХ ИЛИ ЕСЛИ НА СЕРВЕРАХ НЕТ ИГРОКОВ, иначе будут проблемы</b>"
+    },
+    "_clearAllStat": {
+        "EN": "Clear all player statistics",
+        "UA": "Очистити всю статистику гравців",
+        "RU": "Очистить всю статистику игроков"
+    },
+    "_clearGhost": {
+        "EN": "Clearing ghost players. In this case, all accounts are removed from the statistics that were recorded in the player database when trying to log in and never logged in or played on the servers. Often these are banned multi-accounts that failed the BlockDB check, players with VAC, or simply people who stopped downloading files from the server and left the game.",
+        "UA": "Очищення гравців-примар. У цьому випадку видаляються всі облікові записи зі статистики, які записалися в базу гравців при спробі зайти і жодного разу не зайшли і не пограли на серверах. Найчастіше це забанені мультиаккаунти, які не пройшли перевірку BlockDB, гравці з VAC або просто люди, які припинили закачування файлів з сервера і вийшли з гри.",
+        "RU": "Очистка игроков-призраков. В данном случае удаляются все аккаунты из статистики, которые записылись в базу игроков при попытке зайти и ни разу не зашли и не поигравшие на серверах. Зачастую это забаненные мультиаккаунты, непрошедшие проверку BlockDB, игроки с VAC-ом или просто люди, которые прекратили закачку файлов с сервера и вышли с игры."
+    },
+    "_remoteEmpty": {
+        "EN": "Remove empty players",
+        "UA": "Видалити порожніх гравців",
+        "RU": "Удалить пустых игроков"
+    },
+    "_clear90Days": {
+        "EN": "Allocate statistics of players from the database who have not been on the servers for more than 90 days (not relevant if the Pisex LR plugin is installed)",
+        "UA": "Приділення статистики гравців з бази даних, яких не було на серверах більше 90 днів (неактуально, якщо стоїть плагін від Pisex-а LR)",
+        "RU": "Уделение статистики игроков из базы данных, которых не было на серверах больше, чем 90 дней (неактуально, если стоит плагин от Pisex-а LR)"
+    },
+    "_deleteInactive": {
+        "EN": "Delete inactive accounts for 3 months",
+        "UA": "Видалити неактивні облікові записи за 3 місяці",
+        "RU": "Удалить неактивные аккаунты за 3 месяца"
+    },
+    "_oneVipBase": {
+        "EN": "One VIP player base",
+        "UA": "Одна база VIP гравців",
+        "RU": "Одна база VIP игроков"
+    },
+    "_punishAllServers": {
+        "EN": "Punishments on all servers",
+        "UA": "Покарання на всіх серверах",
+        "RU": "Наказания на всех серверах"
+    },
+    "_IksDatabase": {
+        "EN": "What is the structure of the IksAdmin database?",
+        "UA": "Яка структура бази IksAdmin?",
+        "RU": "Какая структура базы IksAdmin?"
+    },
+    "_newDB": {
+        "EN": "New",
+        "UA": "Нова",
+        "RU": "Новая"
+    },
+    "_oldBD": {
+        "EN": "Old (not recommended)",
+        "UA": "Стара (не рекомендується)",
+        "RU": "Старая (не рекомендуется)"
+    },
+    "_saleUnban": {
+        "EN": "Enable unban sales",
+        "UA": "Включити продаж розбанів",
+        "RU": "Включить продажу разбанов"
+    },
+    "_unbanSale": {
+        "EN": "Unban sale price",
+        "UA": "Ціна продажу розбанів",
+        "RU": "Цена продажи разбанов"
+    },
+    "_saleUnmute": {
+        "EN": "Enable selling of unmutes",
+        "UA": "Включити продаж розмутів",
+        "RU": "Включить продажу размутов"
+    },
+    "_unmutePrice": {
+        "EN": "Sale price of the razmuts",
+        "UA": "Ціна продажу розмутів",
+        "RU": "Цена продажи размутов"
+    },
+    "_BannerText": {
+        "EN": "Button text",
+        "UA": "Текст кнопки",
+        "RU": "Текст кнопки"
+    },
+    "_bannersList": {
+        "EN": "List of banners",
+        "UA": "Список банерів",
+        "RU": "Список банеров"
+    },
+    "_newSlideCreated": {
+        "EN": "New slide created",
+        "UA": "Новий слайд створено",
+        "RU": "Новый слайд создан"
+    },
+    "_errorMooveInFile": {
+        "EN": "An error occurred while moving the file to the folder",
+        "UA": "Виникла помилка при переміщенні файлу в папку",
+        "RU": "Произошла ошибка при перемещении файла в папку"
+    },
+    "_fileNotImage": {
+        "EN": "The selected file is not an image",
+        "UA": "Вибраний файл не є зображенням",
+        "RU": "Выбранный файл не является изображением"
+    },
+    "_errorLoadFile": {
+        "EN": "There was an error loading the file",
+        "UA": "Виникла помилка під час завантаження файлу",
+        "RU": "Произошла ошибка при загрузке файла"
+    },
+    "_slideEdited": {
+        "EN": "Slide edited",
+        "UA": "Слайд відредаговано",
+        "RU": "Слайд отредактирован"
+    },
+    "_statsClear": {
+        "EN": "Statistics cleared",
+        "UA": "Статистика очищена",
+        "RU": "Статистика очищена"
+    },
+    "_emptyPLayersClreared": {
+        "EN": "Empty players cleared",
+        "UA": "Порожні гравці очищені",
+        "RU": "Пустые игроки очищены"
+    },
+    "_inactivePlayersCleared": {
+        "EN": "Inactive players cleared",
+        "UA": "Неактивні гравці очищені",
+        "RU": "Неактивные игроки очищены"
+    },
+    "_bannerRemoved": {
+        "EN": "Banner removed",
+        "UA": "Банер видалено",
+        "RU": "Баннер удален"
+    },
+    "_bannedIDNotFound": {
+        "EN": "Banner with the specified ID not found",
+        "UA": "Банер із зазначеним ID не знайдено",
+        "RU": "Баннер с указанным ID не найден"
+    },
+    "_failedToReadFile": {
+        "EN": "Failed to read menu file",
+        "UA": "Не вдалося прочитати файл меню",
+        "RU": "Не удалось прочитать файл меню"
+    },
+    "_errorDecoding": {
+        "EN": "Error decoding JSON menu:",
+        "UA": "Помилка при декодуванні JSON меню:",
+        "RU": "Ошибка при декодировании JSON меню: "
+    },
+    "_errorWriteingFile": {
+        "EN": "Error writing menu file",
+        "UA": "Помилка запису файлу меню",
+        "RU": "Ошибка записи файла меню"
+    },
+    "_menuSaved": {
+        "EN": "Menu saved successfully",
+        "UA": "Меню успішно збережено",
+        "RU": "Меню успешно сохранено"
+    },
+    "_forgotSpecify": {
+        "EN": "You forgot to specify the name of the item",
+        "UA": "Ви забули вказати назву пункту",
+        "RU": "Вы забыли указать название пункта"
+    },
+    "_forgotLink": {
+        "EN": "You forgot to provide the link",
+        "UA": "Ви забули вказати посилання",
+        "RU": "Вы забыли указать ссылку"
+    },
+    "_forgotSVG": {
+        "EN": "You forgot to specify SVG",
+        "UA": "Ви забули вказати SVG",
+        "RU": "Вы забыли указать SVG"
+    },
+    "_tagSVG": {
+        "EN": "SVG must start with the <svg> tag",
+        "UA": "SVG повинен починатися з тега <svg>",
+        "RU": "SVG должен начинаться с тега <svg>"
+    },
+    "_failedUpdateMenu": {
+        "EN": "Failed to save updated menu",
+        "UA": "Не вдалося зберегти оновлене меню",
+        "RU": "Не удалось сохранить обновлённое меню"
+    },
+    "_notFoundCat": {
+        "EN": "Category not found",
+        "UA": "Категорія не знайдена",
+        "RU": "Категория не найдена"
+    },
+    "_menuAddToCat": {
+        "EN": "Menu item added to category",
+        "UA": "Пункт меню додано до категорії",
+        "RU": "Пункт меню добавлен в категорию"
+    },
+    "_itemAdd": {
+        "EN": "Menu item added",
+        "UA": "Пункт меню додано",
+        "RU": "Пункт меню добавлен"
+    },
+    "_forgotCat": {
+        "EN": "You forgot to specify the category name",
+        "UA": "Ви забули вказати назву категорії",
+        "RU": "Вы забыли указать название категории"
+    },
+    "_validSVG": {
+        "EN": "SVG must be a valid <svg> element",
+        "UA": "SVG має бути валідним елементом <svg>",
+        "RU": "SVG должен быть валидным элементом <svg>"
+    },
+    "_added": {
+        "EN": "Added",
+        "UA": "Додано",
+        "RU": "Добавлено"
+    },
+    "_menuFileNotfound": {
+        "EN": "Menu file not found",
+        "UA": "Файл меню не знайдено",
+        "RU": "Файл меню не найден"
+    },
+    "_errorReading": {
+        "EN": "Error reading menu file",
+        "UA": "Помилка читання файлу меню",
+        "RU": "Ошибка чтения файла меню"
+    },
+    "_invalidJson": {
+        "EN": "Invalid JSON:",
+        "UA": "Некоректний JSON:",
+        "RU": "Некорректный JSON: "
+    },
+    "_subitemNotFound": {
+        "EN": "Subitem not found",
+        "UA": "Підпункт не знайдено",
+        "RU": "Подпункт не найден"
+    },
+    "_catNotFoundInSubitem": {
+        "EN": "Category not found for subitem",
+        "UA": "Категорія не знайдено для підпункту",
+        "RU": "Категория не найдена для подпункта"
+    },
+    "_itemNotFound": {
+        "EN": "Item not found",
+        "UA": "Пункт не знайдено",
+        "RU": "Пункт не найден"
+    },
+    "_invalidType": {
+        "EN": "Invalid type",
+        "UA": "Некоректний тип",
+        "RU": "Некорректный тип"
+    },
+    "_parsingErrorJson": {
+        "EN": "JSON parsing error",
+        "UA": "Помилка парсингу JSON",
+        "RU": "Ошибка парсинга JSON"
+    },
+    "_elementNotfound": {
+        "EN": "Element not found",
+        "UA": "Елемент не знайдено",
+        "RU": "Элемент не найден"
+    },
+    "_errorSavingFile": {
+        "EN": "Error saving file",
+        "UA": "Помилка збереження файлу",
+        "RU": "Ошибка сохранения файла"
+    },
+    "_elementUpdated": {
+        "EN": "The item has been updated.",
+        "UA": "Елемент оновлено",
+        "RU": "Элемент обновлен"
+    },
+    "_forgotSiteName": {
+        "EN": "You forgot to specify the site name",
+        "UA": "Ви забули вказати назву сайту",
+        "RU": "Вы забыли указать название сайта"
+    },
+    "_tableUpdated": {
+        "EN": "The table has already been updated.",
+        "UA": "Таблиця вже оновлена",
+        "RU": "Таблица уже обновлена"
+    },
+    "_changeApplied": {
+        "EN": "Changes applied",
+        "UA": "Зміни застосовані",
+        "RU": "Изменения применены"
+    },
+    "_allLogsDeleted": {
+        "EN": "All logs have been successfully deleted.",
+        "UA": "Усі логи успішно видалені",
+        "RU": "Все логи успешно удалены"
+    },
+    "_failedToGetLogs": {
+        "EN": "Failed to get list of files in folder",
+        "UA": "Не вдалося отримати список файлів у папці",
+        "RU": "Не удалось получить список файлов в папке"
+    },
+    "_folderNotExist": {
+        "EN": "The log folder does not exist",
+        "UA": "Папки з логами не існує",
+        "RU": "Папка с логами не существует"
+    },
+    "_errorDeletingLog": {
+        "EN": "Error deleting log ",
+        "UA": "Помилка видалення лога ",
+        "RU": "Ошибка при удалении лога "
+    },
+    "_successfullyDeletedLog": {
+        "EN": " successfully deleted",
+        "UA": " успішно видалено",
+        "RU": " успешно удален"
+    },
+    "_log": {
+        "EN": "Log ",
+        "UA": "Лог ",
+        "RU": "Лог "
+    },
+    "_logNotFound": {
+        "EN": "Log not found",
+        "UA": "Лог не знайдено",
+        "RU": "Лог не найден"
+    },
+    "_shortNotFound": {
+        "EN": " not found",
+        "UA": " не знайдено",
+        "RU": " не найден"
+    },
+    "_fileNameNotReceived": {
+        "EN": "File name not received",
+        "UA": "Назва файлу не отримана",
+        "RU": "Название файла не получено"
+    },
+    "_usernameEmpty": {
+        "EN": "The name is empty",
+        "UA": "Ім'я порожнє",
+        "RU": "Имя пустое"
+    },
+    "_emptySteamId": {
+        "EN": "Steam ID is empty",
+        "UA": "Steam ID порожній",
+        "RU": "Steam ID пустой"
+    },
+    "_accessEmpty": {
+        "EN": "Access is empty",
+        "UA": "Порожній доступ",
+        "RU": "Доступ пустой"
+    },
+    "_flagsEmpty": {
+        "EN": "The flags are empty",
+        "UA": "Прапори порожні",
+        "RU": "Флаги пустые"
+    },
+    "_adminAlreadyExist": {
+        "EN": "Admin already exists",
+        "UA": "Адмін вже існує",
+        "RU": "Админ уже существует"
+    },
+    "_adminAdded": {
+        "EN": "Admin added successfully",
+        "UA": "Адмін успішно доданий",
+        "RU": "Админ успешно добавлен"
+    },
+    "_adminDeleted": {
+        "EN": "Admin successfully removed",
+        "UA": "Адмін успішно видалено",
+        "RU": "Админ успешно удален"
+    },
+    "_TitleEmpty": {
+        "EN": "The title is empty",
+        "UA": "Назва порожня",
+        "RU": "Название пустое"
+    },
+    "_emptyColor": {
+        "EN": "Color is empty",
+        "UA": "Колір порожній",
+        "RU": "Цвет пустой"
+    },
+    "_roleAdded": {
+        "EN": "Role added successfully",
+        "UA": "Роль успішно додана",
+        "RU": "Роль успешно добавлена"
+    },
+    "_emptyRole": {
+        "EN": "The role is empty",
+        "UA": "Роль порожня",
+        "RU": "Роль пустая"
+    },
+    "_alreadyHasRole": {
+        "EN": "User already has a role",
+        "UA": "Користувач вже має роль",
+        "RU": "Пользователь уже имеет роль"
+    },
+    "_roleWasIssued": {
+        "EN": "The role was successfully issued",
+        "UA": "Роль успішно видана",
+        "RU": "Роль успешно выдана"
+    },
+    "_roleNotFound": {
+        "EN": "Role not found",
+        "UA": "Роль не знайдена",
+        "RU": "Роль не найдена"
+    },
+    "_roleDeleted": {
+        "EN": "Role successfully removed",
+        "UA": "Роль успішно видалена",
+        "RU": "Роль успешно удалена"
+    },
+    "_roleForUser": {
+        "EN": "Role for user with STEAM ID ",
+        "UA": "Роль для користувача з STEAM ID ",
+        "RU": "Роль для пользователя с STEAM ID "
+    },
+    "_roleSuccessfullRemoved": {
+        "EN": " successfully removed",
+        "UA": " успішно видалено",
+        "RU": " успешно удалена"
+    },
+    "_userSteamId": {
+        "EN": "STEAM ID User ",
+        "UA": "Користувач STEAM ID ",
+        "RU": "Пользователь STEAM ID "
+    },
+    "_notHaveSuchRole": {
+        "EN": " does not have such a role",
+        "UA": " не має такої ролі",
+        "RU": " не имеет такой роли"
+    },
+    "_emptyReason": {
+        "EN": "The reason is empty",
+        "UA": "Причина порожня",
+        "RU": "Причина пустая"
+    },
+    "_userAlreadyBanned": {
+        "EN": "The user is already blocked",
+        "UA": "Користувач вже заблоковано",
+        "RU": "Пользователь уже заблокирован"
+    },
+    "_userUnbanned": {
+        "EN": "User successfully unblocked",
+        "UA": "Користувач успішно розблоковано",
+        "RU": "Пользователь успешно разблокирован"
+    },
+    "_unserNotBanned": {
+        "EN": "The user is not blocked",
+        "UA": "Користувач не заблоковано",
+        "RU": "Пользователь не заблокирован"
+    },
+    "_statsServers": {
+        "EN": "Server statistics",
+        "UA": "Статистика серверів",
+        "RU": "Статистика по серверам"
+    },
+    "_forAllTime": {
+        "EN": "For all time",
+        "UA": "За весь час",
+        "RU": "За всё время"
+    },
+    "_inMonth": {
+        "EN": "In a month",
+        "UA": "За місяць",
+        "RU": "За месяц"
+    },
+    "_inWeek": {
+        "EN": "In a week",
+        "UA": "За тиждень",
+        "RU": "За неделю"
+    },
+    "_forToday": {
+        "EN": "For today",
+        "UA": "За сьогодні",
+        "RU": "За сегодня"
+    },
+    "_iksOrAs": {
+        "EN": "Server ID Iks Admin || AdminSystem",
+        "UA": "ID Сервера Iks Admin || Admin System",
+        "RU": "ID Сервера Iks Admin || AdminSystem"
+    },
+    "_serverIDIksAs": {
+        "EN": "Server ID admin system",
+        "UA": "ID Сервера адмін системи",
+        "RU": "ID Сервера админ ситемы"
+    },
+    "_monitoringSettings": {
+        "EN": "Monitoring settings",
+        "UA": "Налаштування моніторингу",
+        "RU": "Настройки мониторинга"
+    },
+    "_realPlayers": {
+        "EN": "Real players",
+        "UA": "Реальних гравців",
+        "RU": "Реальных игроков"
+    },
+    "_players7Days": {
+        "EN": "Players in 7 days",
+        "UA": "Гравців за 7 днів",
+        "RU": "Игроков за 7 дней"
+    },
+    "_newPlayers7Dys": {
+        "EN": "New in 7 days",
+        "UA": "Нових за 7дн",
+        "RU": "Новых за 7дн"
+    },
+    "_last24Hours": {
+        "EN": "In the last 24 hours",
+        "UA": "За останні 24 години",
+        "RU": "За последние 24 часа"
+    },
+    "_overLast7Days": {
+        "EN": "Over the last 7 days",
+        "UA": "За останні 7 днів",
+        "RU": "За последние 7 дней"
+    },
+    "_totalReports": {
+        "EN": "Total reports",
+        "UA": "Усього репортів",
+        "RU": "Всего репортов"
+    },
+    "_totalRequests": {
+        "EN": "Total requests",
+        "UA": "Усього заявок",
+        "RU": "Всего заявок"
+    },
+    "_totalTickets": {
+        "EN": "Total tickets",
+        "UA": "Усього тикетів",
+        "RU": "Всего тикетов"
+    },
+    "_checksCheats": {
+        "EN": "Checks cheats",
+        "UA": "Перевірок на чити",
+        "RU": "Проверок на читы"
+    },
+    "_verifyedPlayers": {
+        "EN": "Verified",
+        "UA": "Верифікованих",
+        "RU": "Верифицированных"
+    },
+    "_dsPlayers": {
+        "EN": "Discord players",
+        "UA": "Гравців у Discord",
+        "RU": "Игроков в Discord"
+    },
+    "_vkPlayers": {
+        "EN": "Players in VK",
+        "UA": "Гравців у ВК",
+        "RU": "Игроков в ВК"
+    },
+    "_tgPlayers": {
+        "EN": "Players in Telegram",
+        "UA": "Гравців у Telegram",
+        "RU": "Игроков в Telegram"
+    },
+    "_currentMounth": {
+        "EN": "For the current month",
+        "UA": "За поточний місяць",
+        "RU": "За текущий месяц"
+    },
+    "_overPastMonth": {
+        "EN": "Over the past month",
+        "UA": "За минулий місяць",
+        "RU": "За прошлый месяц"
+    },
+    "_in3Month": {
+        "EN": "In 3 months",
+        "UA": "За 3 місяці",
+        "RU": "За 3 месяца"
+    },
+    "_in6Mouth": {
+        "EN": "In 6 months",
+        "UA": "За 6 місяців",
+        "RU": "За 6 месяцев"
+    },
+    "_showSum": {
+        "EN": "Show sum",
+        "UA": "Показати суму",
+        "RU": "Показать сумму"
+    },
+    "_userAddBan": {
+        "EN": "Add ban",
+        "UA": "Додати бан",
+        "RU": "Добавить бан"
+    },
+    "_userIpAddress": {
+        "EN": "User IP",
+        "UA": "IP адреса користувача",
+        "RU": "IP адрес пользователя"
+    },
+    "_reasonExample": {
+        "EN": "For example, leaking the admin panel",
+        "UA": "Наприклад, злив адмінки",
+        "RU": "Например, слив админки"
+    },
+    "_issueBan": {
+        "EN": "Issue a ban",
+        "UA": "Видати бан",
+        "RU": "Выдать бан"
+    },
+    "_addRole": {
+        "EN": "Add role",
+        "UA": "Додати роль",
+        "RU": "Добавить роль"
+    },
+    "_roleName": {
+        "EN": "Role Title",
+        "UA": "Назва ролі",
+        "RU": "Название роли"
+    },
+    "_specifyName": {
+        "EN": "Specify any name",
+        "UA": "Вкажіть будь-яку назву",
+        "RU": "Укажите любое название"
+    },
+    "_roleColor": {
+        "EN": "Role color",
+        "UA": "Колір ролі",
+        "RU": "Цвет роли"
+    },
+    "_giveRole": {
+        "EN": "Give role",
+        "UA": "Видати роль",
+        "RU": "Выдать роль"
+    },
+    "_userSteamID": {
+        "EN": "User ID",
+        "UA": "Ідентифікатор користувача",
+        "RU": "Идентификатор пользователя"
+    },
+    "_addSiteAdmin": {
+        "EN": "Add site admin",
+        "UA": "Додати адміну сайту",
+        "RU": "Добавить админа сайта"
+    },
+    "_adminAccess": {
+        "EN": "Administrator access",
+        "UA": "Доступ адміністратора",
+        "RU": "Доступ администратора"
+    },
+    "_accessFlag": {
+        "EN": "Access flag",
+        "UA": "Прапор доступу",
+        "RU": "Флаг доступа"
+    },
+    "_giveAccess": {
+        "EN": "Give access to the site",
+        "UA": "Видати права на сайті",
+        "RU": "Выдать права на сайте"
+    },
+    "_block": {
+        "EN": "Block",
+        "UA": "Заблокувати",
+        "RU": "Заблокировать"
+    },
+    "_createRole": {
+        "EN": "Create role",
+        "UA": "Створити роль",
+        "RU": "Создать роль"
+    },
+    "_customRoles": {
+        "EN": "Custom roles",
+        "UA": "Кастомні ролі",
+        "RU": "Кастомные роли"
+    },
+    "_siteAdmins": {
+        "EN": "Site admins",
+        "UA": "Адміни сайту",
+        "RU": "Админы сайта"
+    },
+    "_BlockedUsers": {
+        "EN": "Blocked users",
+        "UA": "Заблоковані користувачі",
+        "RU": "Заблокированные пользователи"
+    },
+    "_fileNotFound": {
+        "EN": "File not found",
+        "UA": "Файл не знайдено",
+        "RU": "Файл не найден"
+    },
+    "_hoursToLike": {
+        "EN": "Enable time played counting",
+        "UA": "Включити підрахунок награного часу",
+        "RU": "Включить подсчет наигранного времени"
+    },
+    "_hoursToLikeCount": {
+        "EN": "Minimum playing time for voice in hours",
+        "UA": "Мінімальний награний час для голосу в годиннику",
+        "RU": "Минимальное наигранное время для голоса в часах"
+    },
+    "_dev": {
+        "EN": "To developer",
+        "UA": "Розробнику",
+        "RU": "Разработчику"
+    },
+    "_ranksType": {
+        "EN": "Ranks type",
+        "UA": "Тип рангів",
+        "RU": "Тип рангов"
+    },
+    "_defaultRanks": {
+        "EN": "Default",
+        "UA": "Стандартні",
+        "RU": "Стандартные"
+    },
+    "_modDeleted": {
+        "EN": "Mod deleted",
+        "UA": "Мод видалено",
+        "RU": "Мод удален"
+    },
+    "_serverDeleted": {
+        "EN": "Server deleted",
+        "UA": "Сервер видалено",
+        "RU": "Сервер удален"
+    },
+    "_tableDeleted": {
+        "EN": "Table deleted",
+        "UA": "Таблиця видалена",
+        "RU": "Таблица удалена"
+    },
+    "_deleteRole": {
+        "EN": "Delete role?",
+        "UA": "Видалити роль?",
+        "RU": "Удалить роль?"
+    },
+    "_deleteAdmin": {
+        "EN": "Delete administrator?",
+        "UA": "Видалити адміністратора?",
+        "RU": "Удалить администратора?"
+    },
+    "_clearStats": {
+        "EN": "Clear statistics?",
+        "UA": "Очистити статистику?",
+        "RU": "Очистить статистику?"
+    },
+    "_clearEmpty": {
+        "EN": "Clear empty players?",
+        "UA": "Очистити порожніх гравців?",
+        "RU": "Очистить пустых игроков?"
+    },
+    "_clearInactive": {
+        "EN": "Clear inactive players?",
+        "UA": "Очистити неактивних гравців?",
+        "RU": "Очистить неактивных игроков?"
+    },
+    "_deleteUserRole": {
+        "EN": "Delete role from user?",
+        "UA": "Видалити роль користувача?",
+        "RU": "Удалить роль пользователю?"
+    },
+    "_deleteBlocking": {
+        "EN": "Delete blocking?",
+        "UA": "Видалити блокування?",
+        "RU": "Удалить блокировку?"
+    },
+    "_sortingError": {
+        "EN": "Sorting error",
+        "UA": "Помилка сортування",
+        "RU": "Ошибка сортировки"
+    },
+    "_takeIcon": {
+        "EN": "Take",
+        "UA": "Взяти",
+        "RU": "Взять"
+    },
+    "_templateComponents": {
+        "EN": "Template Components",
+        "UA": "Компоненти шаблону",
+        "RU": "Компоненты шаблона"
+    },
+    "_inputs": {
+        "EN": "Inputs",
+        "UA": "Інпути",
+        "RU": "Инпуты"
+    },
+    "_textInput": {
+        "EN": "Text input",
+        "UA": "Текстовий інпут",
+        "RU": "Текстовый инпут"
+    },
+    "_passInput": {
+        "EN": "Password input",
+        "UA": "Інпут із паролем",
+        "RU": "Инпут с паролем"
+    },
+    "_NumInput": {
+        "EN": "Number input",
+        "UA": "Числовий інпут",
+        "RU": "Числовой инпут"
+    },
+    "_FileInput": {
+        "EN": "File input",
+        "UA": "Інпут із файлом",
+        "RU": "Инпут с файлом"
+    },
+    "_dateInput": {
+        "EN": "Date input",
+        "UA": "Інпут з датою",
+        "RU": "Инпут с датой"
+    },
+    "_checkbox": {
+        "EN": "Checkbox",
+        "UA": "Чекбокс",
+        "RU": "Чекбокс"
+    },
+    "_searchIcon": {
+        "EN": "Find icon by name",
+        "UA": "Знайти іконку за назвою",
+        "RU": "Найти иконку по названию"
+    },
+    "_fieldGroups": {
+        "EN": "Field groups",
+        "UA": "Групи полів",
+        "RU": "Группы полей"
+    },
+    "_textarea": {
+        "EN": "Textarea",
+        "UA": "Текстове поле",
+        "RU": "Текстовое поле"
+    },
+    "_selects": {
+        "EN": "Selects",
+        "UA": "Селекти",
+        "RU": "Селекты"
+    },
+    "_multiSelects": {
+        "EN": "Multi select with icon",
+        "UA": "Мульти-селект з іконкою",
+        "RU": "Мульти селект с иконкой"
+    },
+    "_singleSelects": {
+        "EN": "Single select with icon",
+        "UA": "Сингл селект з іконкою",
+        "RU": "Сингл селект с иконкой"
+    },
+    "_standartSelects": {
+        "EN": "Standard select",
+        "UA": "Стандартний селект",
+        "RU": "Стандартный селект"
+    },
+    "_buttons": {
+        "EN": "Buttons",
+        "UA": "Кнопки",
+        "RU": "Кнопки"
+    },
+    "_modal": {
+        "EN": "Modal window",
+        "UA": "Модальне вікно",
+        "RU": "Модальное окно"
+    },
+    "_standartButtons": {
+        "EN": "Standard buttons",
+        "UA": "Стандартні кнопки",
+        "RU": "Стандартные кнопки"
+    },
+    "_specialButtons": {
+        "EN": "Special buttons",
+        "UA": "Спеціальні кнопки",
+        "RU": "Особые кнопки"
+    },
+    "_filterButtons": {
+        "EN": "Filter buttons",
+        "UA": "Кнопки-фільтри",
+        "RU": "Кнопки-фильтры"
+    },
+    "_iconsButtons": {
+        "EN": "Buttons with icon only",
+        "UA": "Кнопки тільки з іконкою",
+        "RU": "Кнопки только с иконкой"
+    },
+    "_disabledSearch": {
+        "EN": "Disable search for all",
+        "UA": "Вимкнути пошук для всіх",
+        "RU": "Отключить поиск для всех"
+    },
+    "_EnableSnowfall": {
+        "EN": "Enable snowfall on the site",
+        "UA": "Включити снігопад на сайті",
+        "RU": "Включить снегопад на сайте"
+    },
+    "_SnowfallToggleLabel": {
+        "EN": "Snowfall effect",
+        "UA": "Ефект снігопаду",
+        "RU": "Эффект снегопада"
+    },
+    "_snowDecoration": {
+        "EN": "Snowfall",
+        "UA": "Снігопад",
+        "RU": "Снегопад"
+    },
+    "_offDecoration": {
+        "EN": "Off",
+        "UA": "Вимкнено",
+        "RU": "Выключено"
+    },
+    "_Decoration": {
+        "RU": "Праздничные декорации",
+        "UA": "Святкові декорації",
+        "EN": "Holiday decorations"
+    },
+    "_compactNav": {
+        "RU": "Компактный вид пунктов меню в навбаре",
+        "UA": "Компактний вигляд пунктів меню в навбарі",
+        "EN": "Compact view of menu items in the navigation bar"
+    },
+    "_Logotype": {
+        "RU": "Логотип",
+        "UA": "Логотип",
+        "EN": "Logotype"
+    },
+    "_uploadLogo": {
+        "EN": "Upload fas logo",
+        "RU": "Загрузите ваш логотип",
+        "UA": "Завантажте ваш логотип"
+    },
+    "_selectFormatLogo": {
+        "EN": "Select logo format in navbar",
+        "RU": "Выберите формат логотипа в навбаре",
+        "UA": "Виберіть формат логотипу в навбарі"
+    },
+    "_logoText": {
+        "EN": "Only text from the field above",
+        "RU": "Только текст из поля выше",
+        "UA": "Тільки текст з поля вище"
+    },
+    "_logoImage": {
+        "EN": "Image logo from the uploaded file",
+        "RU": "Изображение с подсказкой",
+        "UA": "Зображення з підказкою"
+    },
+    "_currentFiles": {
+        "EN": "You currently have image uploaded:",
+        "RU": "В данный момент у вас загружено изображение:",
+        "UA": "Наразі у вас завантажено зображення:"
+    },
+    "_deleteLogo": {
+        "EN": "Delete logo",
+        "RU": "Удалить логотип",
+        "UA": "Видалити логотип"
+    },
+    "_displayOblyADmSrv": {
+        "EN": "Displayed only to server admins",
+        "UA": "Відображається лише адміністраторам сервера",
+        "RU": "Отображается только администраторам сервера"
+    },
+    "_otherLink": {
+        "EN": "Link to external site",
+        "UA": "Посилання на зовнішній сайт",
+        "RU": "Ссылка на внешинй сайт"
+    },
+    "_dividerText": {
+        "EN": "Or specify the link manually",
+        "UA": "Або вкажіть посилання вручну",
+        "RU": "Или укажите ссылку вручную"
+    },
+    "_chooseModule": {
+        "EN": "Select module",
+        "UA": "Виберіть модуль",
+        "RU": "Выберите модуль"
+    },
+    "_addUserbarPoint": {
+        "EN": "Creating an item in the userbar",
+        "UA": "Створення пункту в юзербарі",
+        "RU": "Создание пункта в юзербаре"
+    },
+    "_editUserbarPoint": {
+        "EN": "Editing an item in the userbar",
+        "UA": "Редагування пункту в юзербарі",
+        "RU": "Изменение пункта в юзербаре"
+    },
+    "_addFooterLink": {
+        "EN": "Creating a link in the footer",
+        "UA": "Створення посилання у футері",
+        "RU": "Создание ссылки в футере"
+    },
+    "_editFooterLink": {
+        "EN": "Editing a link in the footer",
+        "UA": "Редагування посилання у футері",
+        "RU": "Изменение ссылки в футере"
+    },
+    "_linkName": {
+        "EN": "Link name",
+        "UA": "Назва посилання",
+        "RU": "Название ссылки"
+    },
+    "_footerLink": {
+        "EN": "Footer link",
+        "UA": "Посилання у футері",
+        "RU": "Ссылка в футере"
+    },
+    "_userbar": {
+        "EN": "Userbar links",
+        "UA": "Посилання в юзербаї",
+        "RU": "Ссылки в юзербаре"
+    },
+    "_footer": {
+        "EN": "Footer links",
+        "UA": "Посилання в футері",
+        "RU": "Ссылки в футере"
+    },
+    "_open_blank": {
+        "EN": "Open link in a new tab",
+        "UA": "Відкрити посилання в новій вкладці",
+        "RU": "Открыть ссылку в новой вкладке"
+    },
+    "_no_selected": {
+        "EN": "No selected",
+        "UA": "Не вибрано",
+        "RU": "Не выбрано"
+    },
+    "_onlyAdminServer": {
+        "EN": "Only server admins",
+        "UA": "Лише адміністратори сервера",
+        "RU": "Только администраторы сервера"
+    },
+    "_typeNavigaruon": {
+        "EN": "Type of site navigation",
+        "UA": "Тип навігації на сайті",
+        "RU": "Тип навигации на сайте"
+    },
+    "_navbar": {
+        "EN": "Navbar",
+        "UA": "Навбар",
+        "RU": "Навбар"
+    },
+    "_sidebar": {
+        "EN": "Sidebar",
+        "UA": "Сайдбар",
+        "RU": "Сайдбар"
+    },
+    "_ifChooseNav": {
+        "EN": "If Navbar type is selected",
+        "UA": "Якщо обрано тип Навбар",
+        "RU": "Если выбран тип Навбар"
+    },
+    "_noMenuItems": {
+        "EN": "No available items",
+        "UA": "Немає доступних пунктів",
+        "RU": "Нет доступных пунктов"
+    },
+    "_Status": {
+        "EN": "Status",
+        "UA": "Статус",
+        "RU": "Статус"
+    },
+    "_Game": {
+        "EN": "Game",
+        "UA": "Гра",
+        "RU": "Игра"
+    },
+    "_openSidebarLabel": {
+        "EN": "Default sidebar state",
+        "UA": "Стан бічної панелі за замовчуванням",
+        "RU": "Состояние сайдбара по умолчанию"
+    },
+    "_sidebarAlwaysOpen": {
+        "EN": "Sidebar always open",
+        "UA": "Бічна панель завжди відкрита",
+        "RU": "Сайдбар всегда открыт"
+    }
+}

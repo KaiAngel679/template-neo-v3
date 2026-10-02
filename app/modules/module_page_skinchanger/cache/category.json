@@ -1,0 +1,583 @@
+{
+  "knives": {
+    "name": "Knives",
+    "list": [
+      {
+        "id": 507,
+        "id_name": "weapon_knife_karambit",
+        "name": "★ Karambit",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2labZsLfKaGinEx-0u5LhqGHrjlElz52jRmN2sd3yfb1NzWZVwRbNeu0S5k9WxMuvh-UWA3ObnwJvj",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 508,
+        "id_name": "weapon_knife_m9_bayonet",
+        "name": "★ M9 Bayonet",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2jMZtvIemcAGKEj7ojtOIwSnrrkEt25WiEw438cXuUaQB0WcBxFrUItxa6lNezMOKzsVPAy9USYWigJ8Q",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 515,
+        "id_name": "weapon_knife_butterfly",
+        "name": "★ Butterfly Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2sfbB5JeKVAn7elO8l6LRoF3_hzBsmtWSDzt-rcy3BP1AnXsR4FOJZskG6xtDkM7627xue1dy94mNpNQ",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 500,
+        "id_name": "weapon_bayonet",
+        "name": "★ Bayonet",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni_DtU4fe6Jv07IfTDDT_JkL4htLI7HCvmwE9z42_Vzov4ci2Wa1IgWMN3R7IMuxCm0oqwYUAZNBA",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 509,
+        "id_name": "weapon_knife_tactical",
+        "name": "★ Huntsman Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s26aad5KfOSAimVlugu47U5HSrmzEp14zncz4ygICiealIiAsF2EOdYtkTpwNXuYbjk-UWA3JpY_ZDP",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 522,
+        "id_name": "weapon_knife_stiletto",
+        "name": "★ Stiletto Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fK1hJeSHASnCmO8v4bc_HCjilkkismTWyNutciqealMhDsR5F7MM4UWwlYC1Zr7n-UWA3E6ZCYCt",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 523,
+        "id_name": "weapon_knife_widowmaker",
+        "name": "★ Talon Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s25YaBiN_2SBWKCj7ghsrRrTHDnzB8h4mTRw9iudC_DPFVyCsF3R-Zc4xK_ldXgNb7qsgDAy9USS1NPX9M",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 525,
+        "id_name": "weapon_knife_skeleton",
+        "name": "★ Skeleton Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29Y6FhJeScACnDkL8j6LU8GS3mwUh24G-Bno2tIymeblMgC5R3F-ECsBK6k4XuN-Lh-UWA3P3GyEv9",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 519,
+        "id_name": "weapon_knife_ursus",
+        "name": "★ Ursus Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s27erd4M77AXWWWx7h3tOA5SyvilEkj5WuGw42qc3zEOg4iDJEjQu9b4xa6w4DgKaq8sDVgNcPY",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 503,
+        "id_name": "weapon_knife_css",
+        "name": "★ Classic Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2te7cjd6HHXmHBxep157VtTi_rzUR-5WiHnt39c3_EZg4pW5UjQOZbsBCxw8qnab32FBG7RA",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 516,
+        "id_name": "weapon_knife_push",
+        "name": "★ Shadow Daggers",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2-fbdlbvXKWWXIlbh15bdrTnvmwkt34z_Qz46hdnjFbAIkCJdzR-Zctxi5kNb5d7S1mgn3amY",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 514,
+        "id_name": "weapon_knife_survival_bowie",
+        "name": "★ Bowie Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s29fbZ7KeaSAliSzvl_ta88TX61xExyt2nTz9eveHjEPQRzXMcjFuYIuhHtkIKyNLnmtACLg4sX02yg2XbF4Kcv",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 512,
+        "id_name": "weapon_knife_falchion",
+        "name": "★ Falchion Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oaahuKPmcACmSlL4u5uVqG37klhh24DnUytaqJXKQbgcmX5RyF-4Puha8xofmZejg-UWA3FLkEz9H",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 520,
+        "id_name": "weapon_knife_gypsy_jackknife",
+        "name": "★ Navaja Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pcbR-Oc-ZD2SbyuB_tuQnGXu1kBxw62_dwtird3qXZwQgXJV0E-4PtESxl4ezYr6x4FaMjI4UyzK-0H1iy36efQ",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 505,
+        "id_name": "weapon_knife_flip",
+        "name": "★ Flip Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2oZK19bqjKVjbDkbtwtbU4S3jhwElw4DvVzomhd3_CblV1CZd2TO5f4RG4lID5d7S15Y9TpQQ",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 517,
+        "id_name": "weapon_knife_cord",
+        "name": "★ Paracord Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2tZ7ZpbqWRXmWTmbsm5bU5TXu3lkR_5j_Swor8JC_BPFVxWJd1FuID4RW7w9b5d7S1z-U4Rao",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 506,
+        "id_name": "weapon_knife_gut",
+        "name": "★ Gut Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2pfbAjd6TAXDSSkeh3trdtTCy1zUV2t2vTyoyrIHzDalAgCsN1ROcO40O6wMqnab0rKy1qHw",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 521,
+        "id_name": "weapon_knife_outdoor",
+        "name": "★ Nomad Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2hfbBpL_-BQDPEw-hz57cxTnCxkEh_5jnVzor8dymXbgAiAsFyEOEMsBW8l9O1Ne38p1uJmh0Kkm0",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 518,
+        "id_name": "weapon_knife_canis",
+        "name": "★ Survival Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2taapkM77CDzbIlrsms-NsHHGxzUwj5G6En4yuIy_BbQAjC5VxQLRc5hm8x4HvKaq8sEukLuHu",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 526,
+        "id_name": "weapon_knife_kukri",
+        "name": "★ Kukri Knife",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnr8ytd6s2lfa9_Kb6VXmPGwuogsbNvSyi3zR4jsTnQztyqdS6QP1IoXpoiEeAC5Be5l9CxKaq8sIvgdE5J",
+        "team": 2,
+        "type": "Knife"
+      }
+    ]
+  },
+  "gloves": {
+    "name": "Gloves",
+    "list": [
+      {
+        "id": 5030,
+        "id_name": "sporty_gloves",
+        "name": "★ Sport Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H_KfG2Kv0ed4u95lRi67gVNx4T-Bw434IHyVb1QlAsd1FOUDthG4xNznMu3m4QXXg90Wzn_33C1I8G81tLaDi_rK",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 5032,
+        "id_name": "leather_handwraps",
+        "name": "★ Hand Wraps",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4vx603vRA_Olpfu-TVJ7uK9V6xsLvSEHGaA_uJzsfVhSjuqqh4mpimMlYHGLSLANkI-CcBxQeIMtEHsl4CyNOjm4QDa3dgTniWvjnhJ7Hk54bsEV_Ak-KWE3BaBb-Pt8HWajg",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 5031,
+        "id_name": "slick_gloves",
+        "name": "★ Driver Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1I4_utY5t-NPmHDW-VxdF0vOBqRBa8hxwptDi6lob-KT-JOwYkXppzQO4OsRbqltfiMOvm41TYi44XySqqj35OvS4_57oKA6cl_LqX0V9d-bhOMA",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 5033,
+        "id_name": "motorcycle_gloves",
+        "name": "★ Moto Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu4r7_lb1QgTykpPf-i5U-fe9V6liNP-BDX6TzetJs-lsTCK2hyIhvzyCpY31NC74OUR1X8wfGb5d6lSmkNW1Y-m0sgTciIxCz376i3lN63lu67wHV6Fx-qaCi1nAZbJr4MQBIeHnE0rhxc4-zg",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 5034,
+        "id_name": "specialist_gloves",
+        "name": "★ Specialist Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V7d9JfOaD2uZ0vpJtexsXSi_kSIwtj-6lob-KT-Jbw4kA8d4QOBb5hnqmoHuMLmx4AWK341Bnyr93CxN6itjsb1XUfAgqLqX0V92--w69A",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 5027,
+        "id_name": "studded_bloodhound_gloves",
+        "name": "★ Bloodhound Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnJrv8iZT4OegbJtqLP-FC3Svw-J5v-VhQDy9kSIlvzyGkbDqKCfRO0RPVssnHaMUsES-k9HjNrixsgbd3YIRni7-inlO5i5t6-pRAqIs_aOFjg_JZbU5sI5Deqh-Veq-pA",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 4725,
+        "id_name": "studded_brokenfang_gloves",
+        "name": "★ Broken Fang Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOnITv9idV6fOgb5tqLP-FC3Svzv5zouB9Ria9xE0YvjiRm4PwIhTALFN1VP0sHLBS9g65w9exM-Pl5gaKidkRziX22yNIv306571QA6pwrKGDiluTZLxs5ZdXOr_5GlzOqAIa",
+        "team": 2,
+        "type": "Gloves"
+      },
+      {
+        "id": 5035,
+        "id_name": "studded_hydra_gloves",
+        "name": "★ Hydra Gloves",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tg_13jRBnOlo_k7yNk6P6hfqF-H_KfAWiUyeFjvuVWRzC3hxwYsTGEmYTGJjnCO1hPVssnHaMU4EG6ktGyPryz5A3fiIwUyin3h3lJ5nlq5-xQVPIk-6HWjVmQOeFptI5DeqjsQUewWg",
+        "team": 2,
+        "type": "Gloves"
+      }
+    ]
+  },
+  "rifles": {
+    "name": "Rifles",
+    "list": [
+      {
+        "id": 7,
+        "id_name": "weapon_ak47",
+        "name": "AK-47",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh9nYMoaCvMfxudKGVC2bIwLku5bFsHn2xzU1w4W_Tm9-ucn2eaQZxWcYmR-IU8k7vea-fOvM",
+        "team": 0,
+        "type": "Rifle"
+      },
+      {
+        "id": 60,
+        "id_name": "weapon_m4a1_silencer",
+        "name": "M4A1-S",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntqSMK0OGnZKFjI_WBQD_Cleh0teA_F37qkERy52rWm9yhdynGblMgD5AkQrZeuhXtkt3iMOv8p1uJZpwq8Vo",
+        "team": 1,
+        "type": "Rifle"
+      },
+      {
+        "id": 16,
+        "id_name": "weapon_m4a1",
+        "name": "M4A4",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntqSMKofH_O_Y-JfSVV2XBkLolsbZvTCqxx0sk4DjUnNipdSiQagcgXJQlRLEU8k7vIDSSpqI",
+        "team": 1,
+        "type": "Rifle"
+      },
+      {
+        "id": 8,
+        "id_name": "weapon_aug",
+        "name": "AUG",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh6CUV7ff8PP08eanED2LHlLh06ec-TnjmkUUmsGXRn4n8cimTPVB0XsR1RPlK7Ee4GsImgw",
+        "team": 1,
+        "type": "Rifle"
+      },
+      {
+        "id": 39,
+        "id_name": "weapon_sg556",
+        "name": "SG 556",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sg556_png.png",
+        "team": 0,
+        "type": "Rifle"
+      },
+      {
+        "id": 13,
+        "id_name": "weapon_galilar",
+        "name": "Galil AR",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnn_C5S4_O8JvZrIaPKV2ORx7d3trg7Gnjmlxl04WTTyoyqeXKUPFVzCsN1FuMJuxam0oqwr0aqT-w",
+        "team": 0,
+        "type": "Rifle"
+      },
+      {
+        "id": 10,
+        "id_name": "weapon_famas",
+        "name": "FAMAS",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_famas_png.png",
+        "team": 1,
+        "type": "Rifle"
+      }
+    ]
+  },
+  "sniper_rifles": {
+    "name": "Sniper rifles",
+    "list": [
+      {
+        "id": 9,
+        "id_name": "weapon_awp",
+        "name": "AWP",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnh6jIVtqr4PqBoI_ORVjXFkeguseMwGXGwwUV_4GmHyd2qdH-WbFAmApsiQPlK7EcMn7y-CQ",
+        "team": 2,
+        "type": "Rifle"
+      },
+      {
+        "id": 40,
+        "id_name": "weapon_ssg08",
+        "name": "SSG 08",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnz7iULt7z2MPY1eaWVCDHGlrgksuQ_HS3lxhkh4m-Gm9b6ICjCPQ4hDMF3EOJerFDmxXJ24aAg",
+        "team": 2,
+        "type": "Rifle"
+      },
+      {
+        "id": 38,
+        "id_name": "weapon_scar20",
+        "name": "SCAR-20",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_scar20_png.png",
+        "team": 1,
+        "type": "Rifle"
+      },
+      {
+        "id": 11,
+        "id_name": "weapon_g3sg1",
+        "name": "G3SG1",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_g3sg1_png.png",
+        "team": 0,
+        "type": "Rifle"
+      }
+    ]
+  },
+  "pistols": {
+    "name": "Pistols",
+    "list": [
+      {
+        "id": 1,
+        "id_name": "weapon_deagle",
+        "name": "Desert Eagle",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnk-CNc4_fgOfA8cfGRDTfGku13seI4Fyq2wUQm5DjWzo38IH3BO1N2W5MmTe5etw74zINmLLSKdA",
+        "team": 2,
+        "type": "Pistol"
+      },
+      {
+        "id": 61,
+        "id_name": "weapon_usp_silencer",
+        "name": "USP-S",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn17jJk_PuibapuJeLdWGLFwL8i4eVsFiqxxUt34jmHnoysJ3qVOAYgCJZwQrRb5EPul4XlYvSiuVIHgy4Xvg",
+        "team": 1,
+        "type": "Pistol"
+      },
+      {
+        "id": 4,
+        "id_name": "weapon_glock",
+        "name": "Glock-18",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnn8S1Y5Lz9O_M5d_LHDz6WmOp04-U8THmwzU0l6ziDyd__IC3DO1IgXJJwE7NfrFDmxU9v5GXb",
+        "team": 0,
+        "type": "Pistol"
+      },
+      {
+        "id": 36,
+        "id_name": "weapon_p250",
+        "name": "P250",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnwr3cLoaf4avNvJqKXXmKUlrp0s-U9HCvgw0V05WSDw96pIC6VOw92X8QkROAU8k7vNwsvFQ4",
+        "team": 2,
+        "type": "Pistol"
+      },
+      {
+        "id": 3,
+        "id_name": "weapon_fiveseven",
+        "name": "Five-SeveN",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnm9DRe_Pe4baojePHHWz7GwL4jsbVvTHnilE1w5WrVzo39JH6QOFUnC8RxROMN4ESwlMqnab24YkBbtQ",
+        "team": 1,
+        "type": "Pistol"
+      },
+      {
+        "id": 30,
+        "id_name": "weapon_tec9",
+        "name": "Tec-9",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn0-CECofb2MKY9IvPGWjPAkrwi5Lk4Tn3nzUwlsGnVzI6pdymQbVAjW8d0F-IU8k7vdMx23Ho",
+        "team": 0,
+        "type": "Pistol"
+      },
+      {
+        "id": 63,
+        "id_name": "weapon_cz75a",
+        "name": "CZ-75",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnj53UO7ryvaac0dKiVW2XBlrwmsuA6GH3hkE9062qEz9aoeCmVawchW8dwEe4MrFDmxWPDR_Ga",
+        "team": 2,
+        "type": "Pistol"
+      },
+      {
+        "id": 32,
+        "id_name": "weapon_hkp2000",
+        "name": "P2000",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKno9jIJv6L-Jqc_cKjEWDDDlLx3trVrH3qykEtz4TjQno6td3uVbVRyWZR2EbEKtRCm0oqwKXhPxN4",
+        "team": 1,
+        "type": "Pistol"
+      },
+      {
+        "id": 2,
+        "id_name": "weapon_elite",
+        "name": "Dual Elites",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnl8StP6ryvOqJpJqjACjbBkb93srg-Fn7ilBhysWXSyNarJSqUZlIpCMclTbMCrFDmxYRwJ9Kk",
+        "team": 2,
+        "type": "Pistol"
+      },
+      {
+        "id": 64,
+        "id_name": "weapon_revolver",
+        "name": "Revolver",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKny-DRU4-Sreuo8cvTLCzKRmbkk4ONtGijilk8k4znWy9v8JCiUaQIiWZpyQ-AJtEa7jJS5YM17OTN5",
+        "team": 2,
+        "type": "Pistol"
+      }
+    ]
+  },
+  "heavy": {
+    "name": "Heavy",
+    "list": [
+      {
+        "id": 27,
+        "id_name": "weapon_mag7",
+        "name": "MAG-7",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mag7_png.png",
+        "team": 1,
+        "type": "Heavy"
+      },
+      {
+        "id": 35,
+        "id_name": "weapon_nova",
+        "name": "Nova",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_nova_png.png",
+        "team": 2,
+        "type": "Heavy"
+      },
+      {
+        "id": 25,
+        "id_name": "weapon_xm1014",
+        "name": "XM1014",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_xm1014_png.png",
+        "team": 2,
+        "type": "Heavy"
+      },
+      {
+        "id": 29,
+        "id_name": "weapon_sawedoff",
+        "name": "Sawed off",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnz_DVe6_2obuo_JqHACzaSk-1wtrMwTi3nkUly6m-ByYr4Jy2fP1cgA8dxFLRfu0LqjJS5YC4vtNQk",
+        "team": 0,
+        "type": "Heavy"
+      },
+      {
+        "id": 14,
+        "id_name": "weapon_m249",
+        "name": "M249",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKntr3YCoaarbfc_IvHDWWLClb8g5OA7F3y1l0xw6juBzdeoJX6fZ1IoWcciQ-UU8k7vtOr9c-I",
+        "team": 2,
+        "type": "Heavy"
+      },
+      {
+        "id": 28,
+        "id_name": "weapon_negev",
+        "name": "Negev",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnu-CVe-bz3P6I1caTGDzTFk7gh5rg6Tn3rkBwm4zjSwo3_Ii-fZgIjA8dwELFZrFDmxWhBRARX",
+        "team": 2,
+        "type": "Heavy"
+      }
+    ]
+  },
+  "smg": {
+    "name": "Submachine guns",
+    "list": [
+      {
+        "id": 34,
+        "id_name": "weapon_mp9",
+        "name": "MP9",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt7XsVv6T9OvE9dKLKCD_Ex74h5bY6Tnrgl0hzt2rXm4qseXyWaAMgWJJ2EflK7Ec0i602wg",
+        "team": 1,
+        "type": "SMG"
+      },
+      {
+        "id": 33,
+        "id_name": "weapon_mp7",
+        "name": "MP7",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnt7XUVvfOoPqA1eKHEVjXFlr0ituM_SnqwwR9w4mXVyIn6dnKRblV1D5AhTPlK7EelyO1yEg",
+        "team": 2,
+        "type": "SMG"
+      },
+      {
+        "id": 19,
+        "id_name": "weapon_p90",
+        "name": "P90",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKnwpHIVvfOsPfI9dqDCWDDGkb4j5OU_Fy_kx0l1tj6DnoqseC2TP1cpAsF2QPlK7EcMYXqtDg",
+        "team": 2,
+        "type": "SMG"
+      },
+      {
+        "id": 17,
+        "id_name": "weapon_mac10",
+        "name": "MAC-10",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mac10_png.png",
+        "team": 0,
+        "type": "SMG"
+      },
+      {
+        "id": 24,
+        "id_name": "weapon_ump45",
+        "name": "UMP-45",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn18DIPurz6MPducqDGCDPIw7l05LA7SXyylkh25z-Dm9agJHKSZgciDZt3F7JerFDmxeILsNGi",
+        "team": 2,
+        "type": "SMG"
+      },
+      {
+        "id": 23,
+        "id_name": "weapon_mp5sd",
+        "name": "MP5-SD",
+        "img": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp5sd_png.png",
+        "team": 2,
+        "type": "SMG"
+      },
+      {
+        "id": 26,
+        "id_name": "weapon_bizon",
+        "name": "PP-Bizon",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKni9DhU4bz-PKZocPTBW2GWlbZw4bM7SS2xwER1smSEnIv6dS_GbFBxDJd0RLFbrFDmxaLGO5J-",
+        "team": 2,
+        "type": "SMG"
+      }
+    ]
+  },
+  "utility": {
+    "name": "Utility Items",
+    "list": [
+      {
+        "id": 31,
+        "id_name": "weapon_taser",
+        "name": "Zeus x27",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XuWbwcuyMESA4Fdl-4nnpU7iQA3-kKn0_DFe_bz6PKI4caTCDzHCwrkj57U6FnHik0l04mXVw4yhJCiRaVImW8dzTeRcrFDmxd8qNG47",
+        "team": 2,
+        "type": "Knife"
+      },
+      {
+        "id": 0,
+        "id_name": "coin",
+        "name": "Coin",
+        "img": "https://cdn.steamstatic.com/apps/730/icons/econ/status_icons/service_medal_2026_lvl6.b20caa7d37265c861c451af1cd12e0d4f76c0470.png",
+        "team": 2,
+        "type": "Coin"
+      },
+      {
+        "id": 0,
+        "id_name": "record",
+        "name": "Music Kit",
+        "img": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/valve_cs2_01.6958879a95853a86e8fbaebc9efe4518712cb3f9.png",
+        "team": 2,
+        "type": "MusicKit"
+      }
+    ]
+  },
+  "agents": {
+    "name": "Agents",
+    "list": [
+      {
+        "id": 0,
+        "id_name": "agent_ct",
+        "name": "CT Agent",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nm_ytk-fO8YaVjNPbdCjfAkbcl5LM6S3jkxUsj42TQzdf7JH_Caw5zDMMlEOAIt0Hqk9bmY_SiuVKnm4HYYQ",
+        "team": 1,
+        "type": "Agent"
+      },
+      {
+        "id": 0,
+        "id_name": "agent_t",
+        "name": "T Agent",
+        "img": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWj-gn47Q-GH7qxkhwsWjWyN6pJynGZld0CJR3QOdbtRa4lIGxY7_g7wfAy9USZdxTISw",
+        "team": 0,
+        "type": "Agent"
+      }
+    ]
+  }
+}

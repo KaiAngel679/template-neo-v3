@@ -1,0 +1,41 @@
+.button_welcome {
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome-content {
+    display: flex;
+    gap: 2rem;
+}
+
+.welcome-icon img {
+    width: 10rem;
+    height: 10rem;
+}
+
+@media (max-width: 480px) {
+    .button_welcome {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .welcome-content {
+        display: block;
+        gap: 2rem;
+    }
+
+    .welcome-icon img {
+        width: 10rem;
+        height: 10rem;
+    }
+
+    .button_welcome {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+    }
+    .welcome-icon {
+        display: flex;
+        justify-content: center;
+    }
+}

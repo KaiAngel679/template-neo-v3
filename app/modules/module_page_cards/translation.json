@@ -1,0 +1,392 @@
+{
+    "_noRewards": {
+        "EN": "There are no available rewards",
+        "UA": "Немає доступних нагород",
+        "RU": "Нет доступных наград"
+    },
+    "_cardAlready": {
+        "EN": "The card is already open today",
+        "UA": "Картка вже відкрита сьогодні",
+        "RU": "Карточка уже открыта сегодня"
+    },
+    "_noMoney": {
+        "EN": "Insufficient funds in the balance",
+        "UA": "Недостатньо коштів на балансі",
+        "RU": "Недостаточно средств на балансе"
+    },
+    "_nextOpen": {
+        "EN": "You can open the card without waiting:",
+        "UA": "Можна відкрити картку без очікування:",
+        "RU": "Можно открыть карточку без ожидания:"
+    },
+    "_openBtn": {
+        "EN": "Open for",
+        "UA": "Відкрити за",
+        "RU": "Открыть за"
+    },
+    "_cardProgress": {
+        "EN": "Card progress",
+        "UA": "Прогрес карток",
+        "RU": "Прогресс карточек"
+    },
+    "_nextOpenTimer": {
+        "EN": "Until the next opening:",
+        "UA": "До наступного відкриття:",
+        "RU": "До следующего открытия:"
+    },
+    "_hour": {
+        "EN": "h.",
+        "UA": "год.",
+        "RU": "час."
+    },
+    "_minutes": {
+        "EN": "m.",
+        "UA": "хв.",
+        "RU": "мин."
+    },
+    "_seconds": {
+        "EN": "s.",
+        "UA": "сек.",
+        "RU": "сек."
+    },
+    "_toBalance": {
+        "EN": "To the balance",
+        "UA": "На баланс",
+        "RU": "На баланс"
+    },
+    "_debitOpen": {
+        "EN": "Debit for opening the card of the day",
+        "UA": "Списання за відкриття картки дня",
+        "RU": "Списание за открытие карточки дня"
+    },
+    "_accrualOpen": {
+        "EN": "Accrual for opening the card of the day #",
+        "UA": "Нарахування за відкриття картки дня #",
+        "RU": "Начисление за открытие карточки дня #"
+    },
+    "_todayOpen": {
+        "EN": "New cards are available",
+        "UA": "Доступні нові картки",
+        "RU": "Доступны новые карточки"
+    },
+    "_notifyText": {
+        "EN": "There are new cards and they can be opened, open every day to reach the rare cards.",
+        "UA": "З'явилися нові картки і їх можна відкрити, відкривайте кожен день, щоб дійти до рідкісних карток",
+        "RU": "Появились новые карточки и их можно открыть, открывайте каждый день, чтобы дойти до редких карточек"
+    },
+    "_openNow": {
+        "EN": "Open now",
+        "UA": "Відкрити зараз",
+        "RU": "Открыть сейчас"
+    },
+    "_generalSettings": {
+        "EN": "General settings",
+        "UA": "Загальні налаштування",
+        "RU": "Общие настройки"
+    },
+    "_costPerOpen": {
+        "EN": "Cost per card opening outside the timer",
+        "UA": "Вартість відкриття картки поза таймером",
+        "RU": "Стоимость открытия карточки вне таймера"
+    },
+    "_oneAmountShop": {
+        "EN": "One Currency from the SHOP by Pisex plugin",
+        "UA": "Одна Валюта з плагіна SHOP by Pisex",
+        "RU": "Одна Валюта из плагина SHOP by Pisex"
+    },
+    "_chooseServers": {
+        "EN": "Select the required servers from the list for prize distribution",
+        "UA": "Виберіть потрібні сервери зі списку для видачі призів",
+        "RU": "Выберите нужные сервера из списка для выдачи призов"
+    },
+    "_chooseCardsServers": {
+        "EN": "Choose servers",
+        "UA": "Виберіть сервери",
+        "RU": "Выберите сервера"
+    },
+    "_addingPrizes": {
+        "EN": "Adding prizes",
+        "UA": "Додавання призів",
+        "RU": "Добавление призов"
+    },
+    "_addMore": {
+        "EN": "Add more",
+        "UA": "Додати ще",
+        "RU": "Добавить еще"
+    },
+    "_typeCard": {
+        "EN": "Type of card. Common - days 1 to 4, rare - days 5 and 6, ultra rare - day 7",
+        "UA": "Тип картки. Звичайна - з 1 по 4 дні, рідкісна - 5 і 6 дні, неймовірно рідкісна - 7 день",
+        "RU": "Тип карточки. Обычная - с 1 по 4 дни, редкая - 5 и 6 дни, невероятно редкая - 7 день"
+    },
+    "_commonCard": {
+        "EN": "Common",
+        "UA": "Звичайна",
+        "RU": "Обычная"
+    },
+    "_rareCard": {
+        "EN": "Rare",
+        "UA": "Рідкісна",
+        "RU": "Редкая"
+    },
+    "_legendaryCard": {
+        "EN": "Ultra Rare",
+        "UA": "Неймовірно рідкісна",
+        "RU": "Невероятно редкая"
+    },
+    "_moneyOnBalance": {
+        "EN": "Money to balance",
+        "UA": "Гроші на баланс",
+        "RU": "Деньги на баланс"
+    },
+    "_creditsInShop": {
+        "EN": "Credits in SHOP by Pisex",
+        "UA": "Кредити в SHOP by Pisex",
+        "RU": "Кредиты в SHOP by Pisex"
+    },
+    "_choosePrise": {
+        "EN": "Choose prise",
+        "UA": "Виберіть приз",
+        "RU": "Выберите приз"
+    },
+    "_listOfPrizes": {
+        "EN": "List of prizes",
+        "UA": "Список призів",
+        "RU": "Список призов"
+    },
+    "_typeOfCard": {
+        "EN": "Type of card",
+        "UA": "Тип картки",
+        "RU": "Тип карточки"
+    },
+    "_prise": {
+        "EN": "Prise",
+        "UA": "Приз",
+        "RU": "Приз"
+    },
+    "_chance": {
+        "EN": "Chance",
+        "UA": "Шанс",
+        "RU": "Шанс"
+    },
+    "_action": {
+        "EN": "Action",
+        "UA": "Дія",
+        "RU": "Действие"
+    },
+    "_changingPrise": {
+        "EN": "Changing prizes",
+        "UA": "Зміна призів",
+        "RU": "Изменение призов"
+    },
+    "_saveChanges": {
+        "EN": "Save changes",
+        "UA": "Зберегти зміни",
+        "RU": "Сохранить изменения"
+    },
+    "_totalOpened": {
+        "EN": "Total opened",
+        "UA": "Відкрито всього",
+        "RU": "Открыто всего"
+    },
+    "_todayOpened": {
+        "EN": "Opened today",
+        "UA": "Відкрито сьогодні",
+        "RU": "Открыто сегодня"
+    },
+    "_yesterdayOpened": {
+        "EN": "Opened yesterday",
+        "UA": "Відкрито вчора",
+        "RU": "Открыто вчера"
+    },
+    "_last7DaysOpened": {
+        "EN": "Opened in the last 7 days",
+        "UA": "Відкрито за останні 7 дн.",
+        "RU": "Открыто за последние 7 дн."
+    },
+    "_last30DaysOpened": {
+        "EN": "Opened in the last 30 days",
+        "UA": "Відкрито за останні 30 дн.",
+        "RU": "Открыто за последние 30 дн."
+    },
+    "_last90DaysOpened": {
+        "EN": "Opened in the last 90 days",
+        "UA": "Відкрито за останні 90 дн.",
+        "RU": "Открыто за последние 90 дн."
+    },
+    "_moneyIssued": {
+        "EN": "Money issued",
+        "UA": "Видано грошей",
+        "RU": "Выдано денег"
+    },
+    "_paidOpening": {
+        "EN": "Paid openings",
+        "UA": "Платні відкриття",
+        "RU": "Платные открытия"
+    },
+    "_issuedCredits": {
+        "EN": "Issued credits",
+        "UA": "Видано кредитів",
+        "RU": "Выдано кредитов"
+    },
+    "_top100Players": {
+        "EN": "Top 100 by opened cards",
+        "UA": "Топ 100 за відкритими картками",
+        "RU": "Топ 100 по открытым карточкам"
+    },
+    "_place": {
+        "EN": "Place",
+        "UA": "Місце",
+        "RU": "Место"
+    },
+    "_player": {
+        "EN": "Player",
+        "UA": "Гравець",    
+        "RU": "Игрок"
+    },
+    "_openedCards": {
+        "EN": "Opened",
+        "UA": "Відкрив",
+        "RU": "Открыл"
+    },
+    "_currentStreaksUsers": {
+        "EN": "Current streaks of users",
+        "UA": "Поточні серії користувачів",
+        "RU": "Текущие серии пользователей"
+    },
+    "_streaktext": {
+        "EN": "in a row",
+        "UA": "поспіль",
+        "RU": "подряд"
+    },
+    "_cardsStats": {
+        "EN": "Cards statistics",
+        "UA": "Статистика карток",
+        "RU": "Статистика карточек"
+    },
+    "_cardsSettings": {
+        "EN": "Cards settings",
+        "UA": "Налаштування карток",
+        "RU": "Настройки карточек"
+    },
+    "_countMoney": {
+        "EN": "Amount of money",
+        "UA": "Кількість грошей",
+        "RU": "Количество денег"
+    },
+    "_chancePercentage": {
+        "EN": "Chance (1-100%)",
+        "UA": "Шанс (1-100%)",
+        "RU": "Шанс (1-100%)"
+    },
+    "_ofCredits": {
+        "EN": "credits ★",
+        "UA": "кредитів ★",
+        "RU": "кредитов ★"
+    },
+    "_onTheServer": {
+        "EN": "to the server",
+        "UA": "на сервер",
+        "RU": "на сервер"
+    },
+    "_unknownTypeofPrize": {
+        "EN": "Unknown type of prize",
+        "UA": "Невідомий тип призу",
+        "RU": "Неизвестный тип приза"
+    },
+    "_cacheFileNotFound": {
+        "EN": "Cache file not found",
+        "UA": "Файл кешу не знайдено",
+        "RU": "Файл кэша не найден"
+    },
+    "_noPermissionToWrite": {
+        "EN": "No permission to write to cache file",
+        "UA": "Недостатньо прав для запису у файл кешу",
+        "RU": "Недостаточно прав для записи в файл кэша"
+    },
+    "_errorWritingCache": {
+        "EN": "Error writing to cache file",
+        "UA": "Помилка запису у файл кешу",
+        "RU": "Ошибка записи в файл кэша"
+    },
+    "_unknownErrorSavingCache": {
+        "EN": "Unknown error saving cache file",
+        "UA": "Невідома помилка збереження файлу кешу",
+        "RU": "Неизвестная ошибка сохранения файла кэша"
+    },
+    "_unknownErrorSavingParameters": {
+        "EN": "Unknown error saving parameters",
+        "UA": "Невідома помилка збереження параметрів",
+        "RU": "Неизвестная ошибка сохранения параметров"
+    },
+    "_settingsSavedSuccessfully": {
+        "EN": "Settings saved successfully",
+        "UA": "Налаштування успішно збережено",
+        "RU": "Настройки успешно сохранены"
+    },
+    "_unknownTypePrise": {
+        "EN": "Unknown type of prize",
+        "UA": "Невідомий тип призу",
+        "RU": "Неизвестный тип приза"
+    },
+    "_countOfMoneyNeededNotMoreZero": {
+        "EN": "The amount of money must be greater than zero",
+        "UA": "Кількість грошей повинна бути більше нуля",
+        "RU": "Количество денег должно быть больше нуля"
+    },
+    "_chanceNeededFrom1To100": {
+        "EN": "Chance must be between 1 and 100",
+        "UA": "Шанс повинен бути від 1 до 100",
+        "RU": "Шанс должен быть от 1 до 100"
+    },
+    "_incorrectIDaward": {
+        "EN": "Incorrect ID for award",
+        "UA": "Некоректний ID для нагороди",
+        "RU": "Неверный ID для награды"
+    },
+    "_awardSuccesfullyDeleted": {
+        "EN": "Award successfully deleted",
+        "UA": "Нагорода успішно видалена",
+        "RU": "Награда успешно удалена"
+    },
+    "_incorrectTypeaward": {
+        "EN": "Incorrect type of award",
+        "UA": "Некоректний тип нагороди",
+        "RU": "Неверный тип награды"
+    },
+    "_countNeededMoreZero": {
+        "EN": "Count must be greater than zero",
+        "UA": "Кількість повинна бути більше нуля",
+        "RU": "Количество должно быть больше нуля"
+    },
+    "_awardNotFound": {
+        "EN": "Award not found",
+        "UA": "Нагорода не знайдена",
+        "RU": "Награда не найдена"
+    },
+    "_confirmingAction": {
+        "EN": "Confirming action",
+        "UA": "Підтвердження дії",
+        "RU": "Подтверждение действия"
+    },
+    "_areYouSureDeletePrize": {
+        "EN": "Are you sure you want to delete this prize?",
+        "UA": "Ви впевнені, що хочете видалити цей приз?",
+        "RU": "Вы уверены, что хотите удалить этот приз?"
+    },
+    "_delete": {
+        "EN": "Delete",
+        "UA": "Видалити",
+        "RU": "Удалить"
+    },
+    "_cancel": {
+        "EN": "Cancel",
+        "UA": "Скасувати",
+        "RU": "Оставить"
+    },
+    "_cardImage": {
+        "EN": "Image on the card (SVG code)",
+        "UA": "Зображення на картці (SVG код)",
+        "RU": "Изображение на карточке (SVG код)"
+    }
+}

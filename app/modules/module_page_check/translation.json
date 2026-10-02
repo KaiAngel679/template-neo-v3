@@ -1,0 +1,127 @@
+{
+    "_checkTitle": {
+        "EN": "Check cheats",
+        "RU": "Проверки на читы",
+        "UA": "Перевірки на чити"
+    },
+    "_placeholder": {
+        "EN": "Search by steamid, nickname and Discord",
+        "RU": "Поиск по steamid, никнейму и Discord",
+        "UA": "Пошук за steamid, нікнеймом та Discord"
+    },
+    "_choosenVerdict": {
+        "EN": "Select verdict",
+        "RU": "Выберите вердикт",
+        "UA": "Оберіть вердикт"
+    },
+    "_allVerdicts": {
+        "EN": "All",
+        "RU": "Все",
+        "UA": "Всі"
+    },
+    "_checkedPlayer": {
+        "EN": "Checked player",
+        "RU": "Проверяемый",
+        "UA": "Перевіряється"
+    },
+    "_startCheck": {
+        "EN": "Start",
+        "RU": "Начало",
+        "UA": "Початок"
+    },
+    "_endCheck": {
+        "EN": "End",
+        "RU": "Конец",
+        "UA": "Кінець"
+    },
+    "_resultCheck": {
+        "EN": "Result",
+        "RU": "Итог",
+        "UA": "Підсумок"
+    },
+    "_contact": {
+        "EN": "Contact",
+        "RU": "Контакт",
+        "UA": "Контакт"
+    },
+    "_verdictCheck": {
+        "EN": "Check verdicts (except IksAdmin v3.*)",
+        "RU": "Вердикты проверки (кроме IksAdmin v3.*)",
+        "UA": "Вердикти перевірки (окрім IksAdmin v3.*)"
+    },
+    "_setVerdict": {
+        "EN": "State your verdict",
+        "RU": "Укажите ваш вердикт",
+        "UA": "Вкажіть ваш вердикти"
+    },
+    "_addVerdict": {
+        "EN": "Add verdict",
+        "RU": "Добавить вердикт",
+        "UA": "Додати вердикт"
+    },
+    "_verdict": {
+        "EN": "Verdict",
+        "RU": "Вердикт",
+        "UA": "Вердикт"
+    },
+    "_checkAccess": {
+        "EN": "Access to the list of checks",
+        "RU": "Доступ к списку проверок",
+        "UA": "Доступ до списку перевірок"
+    },
+    "_giveAccess": {
+        "EN": "Give admins access to the list of checks",
+        "RU": "Выдавать админам доступ к списку проверок",
+        "UA": "Видавати адмінам доступ до списку промовок"
+    },
+    "_setSteam": {
+        "EN": "Set STEAMD64 admin",
+        "RU": "Укажите STEAMD64 админа",
+        "UA": "Вкажіть STEAMD64 адміну"
+    },
+    "_giveAccessButton": {
+        "EN": "Give access",
+        "RU": "Выдать доступ",
+        "UA": "Видати доступ"
+    },
+    "_config": {
+        "EN": "Specify all verdicts used in the cheat check plugin. They must be exactly the same as in the config",
+        "RU": "Укажите все вердикты, используемые в плагине проверки на читы. Они должны полностью совпадать, как в конфиге",
+        "UA": "Вкажіть усі вердикти, які використовуються у плагіні перевірки на чити. Вони мають повністю збігатися, як у конфізі"
+    },
+    "_mod": {
+        "EN": "Check mod not found",
+        "RU": "Мод Check не найден",
+        "UA": "Мод Check не знайдено"
+    },
+    "_reason0IksAdminNew": {
+        "RU": "Игрок чист",
+        "EN": "Player is clean",
+        "UA": "Гравець чистий"
+    },
+    "_reason1IksAdminNew": {
+        "RU": "Читер",
+        "EN": "Cheater",
+        "UA": "Читер"
+    },
+    "_reason2IksAdminNew": {
+        "RU": "Покинул проверку",
+        "EN": "Left the check",
+        "UA": "Покинув перевірку"
+    },
+    "_reason3IksAdminNew": {
+        "RU": "Отказался от проверки",
+        "EN": "Refused the check",
+        "UA": "Відмовився від перевірки"
+    },
+    "_reason4IksAdminNew": {
+        "RU": "Другая причина (с баном)",
+        "EN": "Other reason (with ban)",
+        "UA": "Інша причина (з баном)"
+    },
+    "_reason5IksAdminNew": {
+        "RU": "Другая причина (без бана)",
+        "EN": "Other reason (without ban)",
+        "UA": "Інша причина (без бану)"
+    }
+}

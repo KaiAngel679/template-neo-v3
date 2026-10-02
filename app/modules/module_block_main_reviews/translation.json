@@ -1,0 +1,77 @@
+{
+    "_mbr_title": {
+        "EN": "Latest reviews",
+        "RU": "Последние отзывы",
+        "UA": "Останні відгуки"
+    },
+    "_mbr_settings": {
+        "EN": "Module settings",
+        "RU": "Настройки модуля",
+        "UA": "Налаштування модуля"
+    },
+    "_mbr_ratingLabel": {
+        "EN": "Average rating",
+        "RU": "Средняя оценка",
+        "UA": "Середня оцінка"
+    },
+    "_mbr_count": {
+        "EN": "%total% reviews",
+        "RU": "%total% отзывов",
+        "UA": "%total% відгуків"
+    },
+    "_mbr_all": {
+        "EN": "All reviews",
+        "RU": "Все отзывы",
+        "UA": "Усі відгуки"
+    },
+    "_mbr_empty": {
+        "EN": "No reviews yet. Be the first!",
+        "RU": "Отзывов пока нет. Станьте первым!",
+        "UA": "Відгуків поки немає. Станьте першим!"
+    },
+    "_mbr_write": {
+        "EN": "Write a review",
+        "RU": "Написать отзыв",
+        "UA": "Написати відгук"
+    },
+    "_mbr_allServers": {
+        "EN": "All servers",
+        "RU": "Все серверы",
+        "UA": "Усі сервери"
+    },
+    "_mbr_server": {
+        "EN": "Server",
+        "RU": "Сервер",
+        "UA": "Сервер"
+    },
+    "_mbr_noText": {
+        "EN": "Rating only",
+        "RU": "Только оценка",
+        "UA": "Тільки оцінка"
+    },
+    "_mbr_pros": {
+        "EN": "Pros",
+        "RU": "Достоинства",
+        "UA": "Переваги"
+    },
+    "_mbr_cons": {
+        "EN": "Cons",
+        "RU": "Недостатки",
+        "UA": "Недоліки"
+    },
+    "_mbr_comment": {
+        "EN": "Comment",
+        "RU": "Комментарий",
+        "UA": "Коментар"
+    },
+    "_mbr_prev": {
+        "EN": "Previous",
+        "RU": "Назад",
+        "UA": "Назад"
+    },
+    "_mbr_next": {
+        "EN": "Next",
+        "RU": "Вперёд",
+        "UA": "Вперед"
+    }
+}

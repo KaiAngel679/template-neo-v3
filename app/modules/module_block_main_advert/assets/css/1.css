@@ -1,0 +1,132 @@
+.info-block__wrapper,
+.info-block__wrapper-global {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  width: 100%;
+}
+
+.info-block__card {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  border-radius: var(--br-16);
+  background-color: var(--transparent-2-w);
+  overflow: hidden;
+  flex: 1;
+  height: 100px;
+  padding-inline: 1.3rem;
+  gap: 0.3rem;
+  width: 100%;
+  border: 1px solid var(--transparent-3-w);
+  background-repeat: no-repeat;
+  background-color: var(--card);
+}
+
+.info-block__card.small {
+  width: 100px;
+  flex: none;
+  border: 2px dashed var(--transparent-20-w);
+  background-color: transparent;
+}
+
+@media (max-width: 768px) {
+  .info-block__card {
+    flex: unset;
+  }
+}
+
+.info-block__title {
+  font-size: var(--font-size-l);
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.info-block__description {
+  font-size: var(--font-size-xs);
+  max-width: 16rem;
+  white-space: nowrap;
+  z-index: 3;
+}
+
+.info-block__card img {
+  position: absolute;
+  right: 1rem;
+  pointer-events: none;
+  z-index: 2;
+  width: auto;
+  height: 5rem;
+}
+
+.info-block__card.small img {
+  width: 100px;
+  flex: none;
+  right: 0;
+  height: 3.5rem;
+  opacity: .15;
+}
+
+.info-block__card:before,
+.info-block__card:after {
+  content: "";
+  position: absolute;
+  right: -10rem;
+  border-radius: 50%;
+  transition: .2s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.info-block__card:before {
+  z-index: 1;
+  width: 160px;
+  height: 160px;
+}
+
+.info-block__card:after {
+  width: 240px;
+  height: 240px;
+}
+
+.info-block__card:hover:before {
+  opacity: 0.05;
+  visibility: visible;
+  right: -7rem;
+}
+
+.info-block__card:hover:after {
+  right: -8rem;
+  opacity: 0.1;
+  visibility: visible;
+}
+
+.info-block__action {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .3rem;
+  background-color: var(--transparent-20-b);
+  z-index: 5;
+  transition: .35s;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.info-block__action button {
+  width: var(--input-height);
+  padding-inline: 0;
+}
+
+.info-block__card:hover .info-block__action {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: all;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}

@@ -1,0 +1,26 @@
+{
+  "skins": {
+    "exclude": [],
+    "replace": {}
+  },
+  "stickers": {
+    "exclude": [],
+    "replace": {}
+  },
+  "keychains": {
+    "exclude": [],
+    "replace": {}
+  },
+  "agents": {
+    "exclude": [],
+    "replace": {}
+  },
+  "music": {
+    "exclude": [],
+    "replace": {}
+  },
+  "collectibles": {
+    "exclude": [],
+    "replace": {}
+  }
+}

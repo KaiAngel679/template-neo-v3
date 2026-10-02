@@ -1,0 +1,20 @@
+{
+    "title":"NEO3 - Bonuses",
+    "info":"Страница получения бонусов",
+    "author":"onevalve.ru",
+    "page":"bonuses",
+    "version":"1.1",
+    "setting":{
+        "status":1,
+        "type":1,
+        "interface":1,
+        "interface_always":1,
+        "data":1,
+        "data_always":1,
+        "js_always": 1,
+        "css_always": 1,
+        "translation":1,
+        "css":1,
+        "js":1
+    }
+}

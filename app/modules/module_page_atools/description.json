@@ -1,0 +1,16 @@
+{
+    "title":"NEO3 - ATools",
+    "info":"...",
+    "author":"onevalve.ru",
+    "page":"atools",
+    "version":"1.3.2",
+    "setting":{
+        "status":1,
+        "type":1,
+        "interface":1,
+        "data":1,
+        "css":1,
+        "js":1,
+        "translation":1
+    }
+}

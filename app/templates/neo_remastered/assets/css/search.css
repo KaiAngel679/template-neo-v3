@@ -1,0 +1,220 @@
+.modal-searchcontent input {
+  width: 9rem;
+}
+
+.modal-searchcontent {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.modal-searchcontent form {
+  margin-bottom: 0
+}
+
+.modal-searchcontent svg {
+  opacity: .1;
+  position: absolute;
+  right: .7rem;
+  top: .8rem;
+}
+
+.modal-searchcontent input:focus ~ svg{
+  opacity: 0;
+}
+
+.modal_users_container {
+  transform: translate(0, 10px);
+  top: 65px;
+  left: 0;
+  z-index: 3;
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  transition: 0.3s ease-in-out;
+}
+
+.modal_users_header {
+  display: flex;
+  gap: 0.5rem;
+  font-size: var(--font-size-m);
+  font-weight: var(--font-weight-4);
+  color: var(--text-custom);
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  height: var(--input-height);
+  width: -webkit-fill-available;
+  left: 0;
+  right: 0;
+  background-color: var(--transparent-5-w);
+  z-index: 2;
+  border-top-left-radius: var(--br-16);
+  border-top-right-radius: var(--br-16);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.modal_users_header svg {
+  width: 0.8rem;
+  height: 0.8rem;
+  fill: currentColor;
+}
+
+.modal_users_header b {
+  color: var(--span);
+  font-weight: var(--font-weight-5);
+}
+
+.users_notfound .modal-searchcontent {
+  transition: 0.3s;
+  width: 100%;
+}
+
+.users_notfound .modal_users_container {
+  transform: translate(0, 0);
+  transition: 0.3s ease-in-out;
+  opacity: 1;
+  visibility: visible;
+}
+
+.users_notfound .modal_users_header svg {
+  fill: var(--red);
+  opacity: 1;
+}
+
+.users_found .modal-searchcontent {
+  transition: 0.3s;
+}
+
+.users_found .modal_users_container {
+  transform: translate(0, 0px);
+  transition: 0.2s;
+  opacity: 1;
+  visibility: visible;
+}
+
+.modal_users_container .modal_blocks_content {
+  display: flex;
+  gap: 0.2rem;
+  max-height: 313px;
+  width: 306px;
+  overflow-y: scroll;
+  padding: 45px 0.3rem 0.3rem 0.3rem;
+  border-radius: var(--br-16);
+  background: var(--card);
+  box-shadow: 0px 8px 17px 0 rgb(0 0 0 / 32%);
+  border: 1px solid var(--transparent-5-w);
+  flex-direction: column;
+}
+
+.users_notfound .modal_blocks_content {
+  opacity: 1;
+  visibility: visible;
+  z-index: 0;
+}
+
+.modal_users_container .modal_blocks_content::-webkit-scrollbar {
+  background: rgb(255 255 255/5%);
+  width: 2px;
+}
+
+.modal_users_container .modal_blocks_content::-webkit-scrollbar-thumb {
+  border: none !important;
+  background: var(--span);
+}
+
+.modal_users_container .modal_blocks_content a {
+  display: flex;
+  align-items: center;
+  border-radius: var(--br-10);
+  position: relative;
+  gap: 0.5rem;
+  background-color: var(--transparent-2-w);
+  transition: 0.3s;
+  border: 1px solid var(--transparent-2-w);
+  padding: 0.1rem;
+}
+
+.modal_users_container .modal_blocks_content a:hover {
+  transition: 0.3s;
+}
+
+.modal_users_container .modal_blocks_content a > svg {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  right: 0.5rem;
+  fill: var(--text-custom);
+  opacity: 0.2;
+  transition: 0.3s;
+}
+
+.modal_users_container .modal_blocks_content a:hover > svg {
+  opacity: 1;
+  fill: var(--span);
+  transition: 0.3s;
+  transform: rotate(45deg);
+}
+
+.modal_users_container .modal_blocks_content a img {
+  height: 2.1rem;
+  width: 2.1rem;
+  border-radius: var(--br-8);
+}
+
+.modal_users_container .modal_blocks_content a h3 {
+  font-size: var(--font-size-s);
+  font-weight: var(--font-weight-5);
+  color: var(--text-custom);
+  max-width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.modal_users_container .modal_blocks_content a p {
+  color: var(--text-custom);
+  margin: 0;
+  font-size: var(--font-size-xs);
+  opacity: 0.2;
+}
+
+.load svg {
+  width: 12px;
+  height: 12px;
+  fill: var(--span) !important;
+  animation: 1s linear 0s normal none infinite running loading;
+  -webkit-animation: 1s linear 0s normal none infinite running loading;
+}
+
+@keyframes loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.load {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+  font-size: var(--font-size-s);
+  text-transform: uppercase;
+  color: var(--text-custom);
+}

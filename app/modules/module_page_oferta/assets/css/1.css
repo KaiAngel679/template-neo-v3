@@ -1,0 +1,40 @@
+.title_offer {
+  font-weight: var(--font-weight-6);
+  font-size: var(--font-size-l);
+  line-height: 25px;
+  font-family: var(--font-family-1);
+}
+
+.desc_ofer {
+  padding: 10px 15px;
+  font-size: var(--font-size-m);
+  color: var(--text-custom);
+  font-weight: var(--font-weight-4);
+  margin: 10px 0 20px 0;
+  text-align: center;
+}
+
+.badge span {
+  font-size: var(--font-size-s);
+  font-weight: var(--font-weight-4);
+  position: absolute;
+  right: 20px;
+  color: var(--text-custom);
+  opacity: 0.5;
+}
+
+.oferta_list li {
+  font-size: var(--font-size-m);
+  color: var(--text-custom);
+}
+
+.oferta_list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.oferta_list li b{
+  font-weight: var(--font-weight-7);
+  color: white;
+}

@@ -1,0 +1,17 @@
+{
+    "title": "NEO 3 - Live feed cards",
+    "info": "cards with live feed posts for the home page",
+    "author": "onevalve.ru",
+    "page": "home",
+    "version": "1.0",
+    "setting": {
+        "status": 1,
+        "type": 1,
+        "translation": 1,
+        "interface": 1,
+        "data": 1,
+        "interface_adjacent": "afternavbar",
+        "css": 1,
+        "js": 1
+    }
+}

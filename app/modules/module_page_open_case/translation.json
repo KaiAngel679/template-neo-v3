@@ -1,0 +1,747 @@
+{
+    "_LK": {
+        "EN": "Personal Area",
+        "RU": "Личный Кабинет",
+        "UA": "Особистий кабінет"
+    },
+    "_OpenCase": {
+        "EN": "Open Case",
+        "RU": "Кейсы",
+        "UA": "Open Case"
+    },
+    "_SettingsBD": {
+        "EN": "Database setup",
+        "RU": "Настройка базы данных",
+        "UA": "Налаштування бази даних"
+    },
+    "_CasesForInstall": {
+        "EN": "For the «Cases» module to work, you must have the module installed and the plug-in configured on the server",
+        "RU": "Для работы модуля «Кейсы» у Вас должен быть установлен модуль и настроен на сервере плагин",
+        "UA": "Для роботи модуля «Кейси» у Вас повинен бути встановлений модуль і налаштований на сервері плагін"
+    },
+    "_Balance": {
+        "EN": "Balance",
+        "RU": "Баланс",
+        "UA": "Баланс"
+    },
+    "_ButtonPay": {
+        "EN": "Top up balance",
+        "RU": "Пополнить баланс",
+        "UA": "Поповнити баланс"
+    },
+    "_AmountCourse": {
+        "EN": "&#36;",
+        "RU": "&#8381;",
+        "UA": "&#8372;"
+    },
+    "_AmountCourseSymbol": {
+        "EN": "$",
+        "RU": "₽",
+        "UA": "₴"
+    },
+    "_UsersList": {
+        "EN": "Players List",
+        "RU": "Список игроков",
+        "UA": "Список гравців"
+    },
+    "_DiscordMessage": {
+        "EN": "Discord notifications",
+        "RU": "Discord уведомления",
+        "UA": "Повідомлення Discord"
+    },
+    "_OpenCaseInstall": {
+        "EN": "Installing the LR WEB module - Open Case",
+        "RU": "Установка модуля LR WEB - Open Case",
+        "UA": "Установка модуля LR WEB - Open Case"
+    },
+    "_DBCheckBTN": {
+        "EN": "Check",
+        "RU": "Проверить",
+        "UA": "Перевірити"
+    },
+    "_DBCheckConnect": {
+        "EN": "There is no connection to the database!",
+        "RU": "Подключение к базе данных отсутствует!",
+        "UA": "Підключення до бази даних відсутня!"
+    },
+    "_DBCheckConnectSucc": {
+        "EN": "Database with table connected successfully!",
+        "RU": "База данных с таблицей успешно подключена!",
+        "UA": "База даних з таблицею успішно підключена!"
+    },
+    "_NextBTN": {
+        "EN": "Next",
+        "RU": "Далее",
+        "UA": "Далі"
+    },
+    "_InstallBTN": {
+        "EN": "Install",
+        "RU": "Установить",
+        "UA": "Встановити"
+    },
+    "_Example": {
+        "EN": "Example",
+        "RU": "Пример",
+        "UA": "Приклад"
+    },
+    "_Information": {
+        "EN": "Information",
+        "RU": "Информация",
+        "UA": "Iнформація"
+    },
+    "_Php": {
+        "EN": "Your version of PHP:",
+        "RU": "Ваша версия PHP:",
+        "UA": "Ваша версія PHP:"
+    },
+    "_PhpRecomendation": {
+        "EN": "Recommended: 7.0 - Possible galactic-scale problems :O",
+        "RU": "Рекомендуется: 7.0 - Возможны проблемы галактического масштаба :O",
+        "UA": "Рекомендується: 7.0 - Можливі проблеми галактичного масштабу :O"
+    },
+    "_InstallTable": {
+        "EN": "Installation of tables in the database",
+        "RU": "Установка таблиц в базу данных",
+        "UA": "Установка таблиць в базу даних"
+    },
+    "_ForWork": {
+        "EN": "For the module to work, the missing tables will be installed:",
+        "RU": "Для работы модуля будут установлены недостающие таблицы:",
+        "UA": "Для роботи модуля будуть встановлені відсутні таблиці:"
+    },
+    "_Options": {
+        "EN": "Options",
+        "RU": "Опции",
+        "UA": "Опції"
+    },
+    "_ServerName": {
+        "EN": "Serever name",
+        "RU": "Название Серевера",
+        "UA": "Назва Серевера"
+    },
+    "_PASS": {
+        "EN": "Password",
+        "RU": "Пароль",
+        "UA": "Пароль"
+    },
+    "_SIP": {
+        "EN": "IP Server",
+        "RU": "IP Cервера",
+        "UA": "IP Cервера"
+    },
+    "_Server": {
+        "EN": "Server",
+        "RU": "Cервер",
+        "UA": "Cервер"
+    },
+    "_SID": {
+        "EN": "Server ID as in VIP_CORE.cfg",
+        "RU": "ID сервера как в VIP_CORE.cfg",
+        "UA": "ID сервера як в VIP_CORE.cfg"
+    },
+    "_AddServer": {
+        "EN": "Add Server",
+        "RU": "Добавить сервер",
+        "UA": "Додати сервер"
+    },
+    "_EditServer": {
+        "EN": "Server editing",
+        "RU": "Редактирование сервера",
+        "UA": "Редагування сервера"
+    },
+    "_AddCase": {
+        "EN": "Add Case",
+        "RU": "Добавить кейс",
+        "UA": "Додати кейс"
+    },
+    "_AddCat": {
+        "EN": "Add Categoty",
+        "RU": "Добавить категорию"
+    },
+    "_EditCat": {
+        "EN": "Category editing",
+        "RU": "Редактирование категории"
+    },
+    "_EditCase": {
+        "EN": "Case editing",
+        "RU": "Редактирование кейса",
+        "UA": "Редагування кейса"
+    },
+    "_IMGASE": {
+        "EN": "Case Image",
+        "RU": "Изображение кейса",
+        "UA": "Зображення кейса"
+    },
+    "_IMGSUB": {
+        "EN": "Subject Image",
+        "RU": "Изображение предмета",
+        "UA": "Зображення предмета"
+    },
+    "_CaseName": {
+        "EN": "Case name",
+        "RU": "Название кейса",
+        "UA": "Назва кейса"
+    },
+    "_CaseType": {
+        "EN": "Case Type",
+        "RU": "Тип кейса",
+        "UA": "Тип кейса"
+    },
+    "_CaseCat": {
+        "EN": "Case Category",
+        "RU": "Категория кейса"
+    },
+    "_ForMoney": {
+        "EN": "For money",
+        "RU": "Платный",
+        "UA": "Pлатний"
+    },
+    "_Free": {
+        "EN": "Free",
+        "RU": "Free",
+        "UA": "Безкоштовно"
+    },
+    "_OpPrice": {
+        "EN": "Opening price",
+        "RU": "Цена открытия",
+        "UA": "Ціна відкриття"
+    },
+    "_Sort": {
+        "EN": "Sorting",
+        "RU": "Сортировка",
+        "UA": "Сортування"
+    },
+    "_ServerList": {
+        "EN": "Server List",
+        "RU": "Cписок серверов",
+        "UA": "Cписок серверів"
+    },
+    "_CaseList": {
+        "EN": "Case List",
+        "RU": "Cписок кейсов",
+        "UA": "Cписок кейсов"
+    },
+    "_Title": {
+        "EN": "Title",
+        "RU": "Название",
+        "UA": "Назва"
+    },
+    "_CaseContent": {
+        "EN": "Case Content",
+        "RU": "Содержание кейса",
+        "UA": "Зміст кейса"
+    },
+    "_Desc": {
+        "EN": "Description",
+        "RU": "Описание",
+        "UA": "Описание"
+    },
+    "_Background": {
+        "EN": "Background",
+        "RU": "Фон",
+        "UA": "Фон"
+    },
+    "_Type": {
+        "EN": "Type",
+        "RU": "Тип",
+        "UA": "Тип"
+    },
+    "_Chance": {
+        "EN": "Chance",
+        "RU": "Шанс",
+        "UA": "Шанс"
+    },
+    "_Content": {
+        "EN": "Content",
+        "RU": "Содержание",
+        "UA": "Зміст"
+    },
+    "_SellingPrice": {
+        "EN": "Selling price",
+        "RU": "Цена продажи",
+        "UA": "Ціна продажу"
+    },
+    "_SelectImages": {
+        "EN": "Select Image",
+        "RU": "Выбрать изображение",
+        "UA": "Вибрати зображення"
+    },
+    "_InfoImages": {
+        "EN": "Load the image using the dialog box or drag the images into the dotted area.",
+        "RU": "Загрузите изображение с помощью диалогового окна или перетащите изображения в пунктирную область.",
+        "UA": "Завантажте зображення за допомогою діалогового вікна та виділіть зображення в пунктирну область."
+    },
+    "_AddItem": {
+        "EN": "Add item",
+        "RU": "Добавить предмет",
+        "UA": "Додати предмет"
+    },
+    "_EditItem": {
+        "EN": "Edit item",
+        "RU": "Редактировать предмет",
+        "UA": "Редагувати предмет"
+    },
+    "_Save": {
+        "EN": "Save",
+        "RU": "Сохранить",
+        "UA": "Зберегти"
+    },
+    "_CaseSettings": {
+        "EN": "Case Settings",
+        "RU": "Настройка кейсов",
+        "UA": "Налаштування кейсів"
+    },
+    "_Open": {
+        "EN": "Open",
+        "RU": "Открыть",
+        "UA": "Відкрити"
+    },
+    "_OpenFast": {
+        "EN": "fast",
+        "RU": "Быстро",
+        "UA": "Ввідкрити швидко"
+    },
+    "_SelectServer": {
+        "EN": "Select Server",
+        "RU": "Выберите Сервер",
+        "UA": "Виберіть Сервер"
+    },
+    "_SelectType": {
+        "EN": "Select item type",
+        "RU": "Выберите тип предмета",
+        "UA": "Виберіть тип предмета"
+    },
+    "_THROUGH": {
+        "EN": "WILL BE AVAILABLE THROUGH",
+        "RU": "БУДЕТ ДОСТУПЕН ЧЕРЕЗ",
+        "UA": "БУДЕ ДОСТУПНИЙ ЧЕРЕЗ"
+    },
+    "_ContentCase": {
+        "EN": "CASE CONTENT",
+        "RU": "СОДЕРЖИМОЕ КЕЙСА",
+        "UA": "ЗМІСТ КЕЙСА"
+    },
+    "_MyWins": {
+        "EN": "MY WINS",
+        "RU": "МОИ ВЫИГРЫШИ",
+        "UA": "МОЇ ВИГРАШІ"
+    },
+    "_Wins": {
+        "EN": "WIN",
+        "RU": "ВЫИГРЫШ",
+        "UA": "ВИГРАШ"
+    },
+    "_YourWin": {
+        "EN": "YOUR WIN",
+        "RU": "ВАШ ВЫИГРЫШ",
+        "UA": "ВАШ ВИГРАШ"
+    },
+    "_Blue": {
+        "EN": "Blue",
+        "RU": "Синий",
+        "UA": "Синій"
+    },
+    "_Red": {
+        "EN": "Red",
+        "RU": "Красный",
+        "UA": "Червоний"
+    },
+    "_Gold": {
+        "EN": "Golden",
+        "RU": "Золотой",
+        "UA": "Золотий"
+    },
+    "_Purple": {
+        "EN": "Purple",
+        "RU": "Фиолетовый",
+        "UA": "Фіолетовий"
+    },
+    "_Pink": {
+        "EN": "Pink",
+        "RU": "Розовый",
+        "UA": "Рожевий"
+    },
+    "_Turquoise": {
+        "EN": "Turquoise",
+        "RU": "Бирюзовый",
+        "UA": "Бiрюза"
+    },
+    "_Grey": {
+        "EN": "Grey",
+        "RU": "Серый",
+        "UA": "Сірий"
+    },
+    "_Error": {
+        "EN": "Oops, Error",
+        "RU": "Упс, Ошибка",
+        "UA": "Упс, Помилка"
+    },
+    "_Take": {
+        "EN": "Take It",
+        "RU": "Забрать",
+        "UA": "Забрати"
+    },
+    "_Sell": {
+        "EN": "sell for",
+        "RU": "продать за",
+        "UA": "продати за"
+    },
+    "_Webhook": {
+        "EN": "Enter URL Webhook!",
+        "RU": "Введите URL Вебхука!",
+        "UA": "Введіть URL Вебхука!"
+    },
+    "_Saved": {
+        "EN": "Saved",
+        "RU": "Сохранено",
+        "UA": "Збережено"
+    },
+    "_Activate": {
+        "EN": "Activate",
+        "RU": "Активировать",
+        "UA": "Активувати"
+    },
+    "_Name": {
+        "EN": "Name",
+        "RU": "Наименованеие",
+        "UA": "Найменування"
+    },
+    "_Price": {
+        "EN": "Price",
+        "RU": "Прайс",
+        "UA": "Прайс"
+    },
+    "_AuthInfo": {
+        "EN": "LogIn to open cases",
+        "RU": "Авторизуйтесь чтобы открывать кейсы",
+        "UA": "Авторизуйтесь щоб відкривати кейси"
+    },
+    "_Auth": {
+        "EN": "LogIn",
+        "RU": "Авторизоваться",
+        "UA": "Авторизоваться"
+    },
+    "_OpenTime": {
+        "EN": "Time to open in format",
+        "RU": "Время до открытия в формате",
+        "UA": "Час до відкриття в форматі"
+    },
+    "_TypeMoney": {
+        "EN": "Balance money",
+        "RU": "Деньги на баланс",
+        "UA": "Гроші на баланс"
+    },
+    "_TypeRcon": {
+        "EN": "Rcon comman",
+        "RU": "RCON команда",
+        "UA": "Rcon comman"
+    },
+    "_TypeExp": {
+        "EN": "Exp Levels Ranks",
+        "RU": "Опыт Levels Ranks",
+        "UA": "Exp Levels Ranks"
+    },
+    "_TypeShop": {
+        "EN": "Shop credits",
+        "RU": "Кредиты SHOP",
+        "UA": "Shop credits"
+    },
+    "_TypeShopItems": {
+        "EN": "Shop items",
+        "RU": "SHOP выдача предметов",
+        "UA": "Shop items"
+    },
+    "_TypeCustom": {
+        "EN": "Custom",
+        "RU": "Кастом приз",
+        "UA": "Custom"
+    },
+    "_ToBalance": {
+        "EN": "Crediting to balance <br><small>Example: 20</small>",
+        "RU": "Зачисление на баланс<br><small>Пример: 20</small>",
+        "UA": "Зарахування на баланс<br><small>Приклад: 20</small>"
+    },
+    "_PriceToSale": {
+        "EN": "Selling price of an item",
+        "RU": "Цена продажи предмета",
+        "UA": "Ціна продажу предмета"
+    },
+    "_SubjectContent": {
+        "EN": "Content of the item<br><small>(Indicate what will be shown when opening the item after winning<br>key or message)</small>",
+        "RU": "Содержание предмета<br><small>(Указывать что будет показано при открытии предмета после выигрыша<br>ключ или кокое-то сообщение)</small>",
+        "UA": "Зміст предмета<br><small>(Вказувати що буде показано при відкритті предмета після виграшу<br>ключ або кокое-то повідомлення)</small>"
+    },
+    "_GroupVIP": {
+        "EN": "Enter the group and time privilege validity through «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>example: VIP:3600 (to be issued for 1 hour)</small>",
+        "RU": "Введите группу и время действие привилегии через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small> пример: VIP:3600 (будет выдано на 1 час)</small>",
+        "UA": "Введіть групу і час дія привілеї через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>приклад: VIP 3600 (буде видано на 1 годину)</small>"
+    },
+    "_GroupADM": {
+        "EN": "Enter the group and time privilege validity through «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>example: Admin:3600 (to be issued for 1 hour)</small>",
+        "RU": "Введите группу и время действие привилегии через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small> пример: Admin:3600 (будет выдано на 1 час)</small>",
+        "UA": "Введіть групу і час дія привілеї через «:» <a href='https://www.cy-pr.com/tools/time/' target='_blanck'>UNIX TIME<a/><br><small>приклад: Admin:3600 (буде видано на 1 годину)</small>"
+    },
+    "_CreditsCredited": {
+        "EN": "Number of credits to be credited",
+        "RU": "Количество кредитов к зачислению",
+        "UA": "Кількість кредитів до зарахування"
+    },
+    "_LevelsCredited": {
+        "EN": "Number of levels to be credited",
+        "RU": "Количество уровней к зачислению",
+        "UA": "Кількість рівнів до зарахування"
+    },
+    "_ExperienceCredited": {
+        "EN": "The amount of experience to enroll",
+        "RU": "Количество опыта к зачислению",
+        "UA": "Кількість досвіду до зарахування"
+    },
+    "_GroupWCS": {
+        "EN": "Enter race name and time of action in hours via «:»<br><small> example: WCS: 1 (will be issued for 1 hour)</small>",
+        "RU": "Введите название рассы и время действие в часах через «:»<br><small>пример: WCS:1 (будет выдано на 1 час)</small>",
+        "UA": "Введіть назву розсису і час дії в час через «:»<br><small> приклад: WCS: 1 (буде видано за 1 годину)</sm>"
+    },
+    "_EnterNameCase": {
+        "EN": "Enter the name!",
+        "RU": "Введите название!",
+        "UA": "Введіть назву!"
+    },
+    "_EnterSortCase": {
+        "EN": "Enter the sort value!",
+        "RU": "Введите значение сортировки!",
+        "UA": "Введіть значення сортування!"
+    },
+    "_EnterAmountCase": {
+        "EN": "Enter the case opening amount!",
+        "RU": "Введите сумму открытия кейса!",
+        "UA": "Введіть суму відкриття кейса!"
+    },
+    "_FormatAmountCase": {
+        "EN": "Invalid amount format: 10 or 10.00!",
+        "RU": "Не верный формат суммы: 10 или 10.00!",
+        "UA": "Не вірний формат суми: 10 або 10.00!"
+    },
+    "_Privilege": {
+        "EN": "Privilege",
+        "RU": "Привилегия",
+        "UA": "Привілей"
+    },
+    "_OnlyPNG": {
+        "EN": "You can download only PNG format!",
+        "RU": "Загрузить можно только PNG формат!",
+        "UA": "Завантажити можна тільки PNG формат!"
+    },
+    "_ChangeCasePNG": {
+        "EN": "Select images for the case PNG format!",
+        "RU": "Выберите изображения для кейса формат PNG!",
+        "UA": "Виберіть зображення для кейса формат PNG!"
+    },
+    "_SizePNG": {
+        "EN": "Image must not exceed 600px by 600px!",
+        "RU": "Изображение не должно превышать 600px на 600px!",
+        "UA": "Зображення не повинно перевищувати 600px на 600px!"
+    },
+    "_CaseNotFound": {
+        "EN": "Case not found!",
+        "RU": "Кейс не найден!",
+        "UA": "Кейс не знайден!"
+    },
+    "_CatNotFound": {
+        "EN": "Category not found!",
+        "RU": "Категория не найдена!"
+    },
+    "_CaseDeleted": {
+        "EN": "Case deleted!",
+        "RU": "Кейс удален!",
+        "UA": "Кейс знищений!"
+    },
+    "_EnterSubjectName": {
+        "EN": "Enter the name of the item!",
+        "RU": "Введите название предмета!",
+        "UA": "Введіть назву предмета!"
+    },
+    "_EnterSubjectShortDesc": {
+        "EN": "Enter a short description!",
+        "RU": "Введите короткое описание!",
+        "UA": "Введіть короткий опис!"
+    },
+    "_EnterSubjectPrize": {
+        "EN": "Enter the item prize!",
+        "RU": "Введите приз предмета!",
+        "UA": "Введіть приз предмета!"
+    },
+    "_ChangeSubjectPNG": {
+        "EN": "Select images for the subject PNG format!",
+        "RU": "Выберите изображения для предмета формат PNG!",
+        "UA": "Виберіть зображення для предмета формат PNG!"
+    },
+    "_SubjectNotFound": {
+        "EN": "Item not found!",
+        "RU": "Предмет не найден!",
+        "UA": "Предмет не знайден!"
+    },
+    "_ErrorAdminSend": {
+        "EN": "Sorry, an error has occurred! Please contact the Administrator!",
+        "RU": "К сожалению произошла ошибка!Пожалуйста обратитесь к Администратору!",
+        "UA": "На жаль сталася помилка! Будь ласка зверніться до Адміністратора!"
+    },
+    "_NoMoney": {
+        "EN": "You don’t have enough money to open a case! Top up your balance!",
+        "RU": "У Вас недосточно средств для открытия кейса! Пополните Ваш баланс!",
+        "UA": "У Вас недосточності коштів для відкриття кейса! Поповніть Ваш баланс!"
+    },
+    "_ReplenishBalance": {
+        "EN": "replenish balance",
+        "RU": "пополнить баланс",
+        "UA": "поповнити баланс"
+    },
+    "_WillAvailable": {
+        "EN": "You have already opened this case!<br> will be available through",
+        "RU": "Вы уже открывали данный кейс!<br>будет доступен через",
+        "UA": "Ви вже відкривали даний кейс!<br> буде доступний через"
+    },
+    "_HavePrivelege": {
+        "EN": "Unfortunately, giving you a privilege is not possible because you already have the privilege forever. You can sell this item for ",
+        "RU": "К сожалению выдать Вам привилегию не возможно т.к у Вас имеется уже привилегия навсегда. Вы можете продать данный предмет за ",
+        "UA": "На жаль видати Вам привілей неможливо т.к у Вас є вже привілей назавжди. Ви можете продати даний предмет за "
+    },
+    "_OpenCaseList": {
+        "EN": "List of open cases",
+        "RU": "Список открытых кейсов",
+        "UA": "Перелік відкритих кейсів"
+    },
+    "_WinsList": {
+        "EN": "Win List",
+        "RU": "Список выигрышей"
+    },
+    "_No": {
+        "EN": "No I do not want to",
+        "RU": "Нет, не хочу",
+        "UA": "Ні не хочу"
+    },
+    "_Yes": {
+        "EN": "Yes, change",
+        "RU": "Да, сменить",
+        "UA": "Да, змінити"
+    },
+    "_VoteHavePrivelege": {
+        "EN": "You already have the privilege, are you sure you want to change?",
+        "RU": "У вас уже имеется привилегия, Вы уверены что хотите сменить?",
+        "UA": "У вас вже є привілей, Ви впевнені що хочете змінити?"
+    },
+    "_No2": {
+        "EN": "I changed my mind",
+        "RU": "я передумал",
+        "UA": "я передумав"
+    },
+    "_Yes2": {
+        "EN": "yes to this server",
+        "RU": "да, на этот сервер",
+        "UA": "да, на цей сервер"
+    },
+    "_SetUserServer": {
+        "EN": "Indicate which server to issue the Privilege",
+        "RU": "Укажите на какой сервер выдать Привилегию",
+        "UA": "Вкажіть на який сервер видати Привілей"
+    },
+    "_Updates": {
+        "EN": "Updates",
+        "RU": "Обновления",
+        "UA": "Оновлення"
+    },
+    "_Available": {
+        "EN": "Available for installation under license <br> Module version",
+        "RU": "Доступно к установке по лицензии <br>Версия модуля",
+        "UA": "Доступно до установки по ліцензії <br> Версія модуля"
+    },
+    "_LicenseСheck": {
+        "EN": "License check",
+        "RU": "Проверка лицензии",
+        "UA": "Перевірка ліцензії"
+    },
+    "_LicenseKey": {
+        "EN": "License key:",
+        "RU": "Лицензионный ключ:",
+        "UA": "Ліцензійний ключ:"
+    },
+    "_FailedDownload": {
+        "EN": "Failed to download updates! Turn on debug and try again!",
+        "RU": "Не удалось загрузить обновления! Включите дебаг и попробуйте снова!",
+        "UA": "Не вдалося завантажити оновлення! Увімкніть дебаг і спробуйте знову!"
+    },
+    "_RconComm": {
+        "EN": "Enter the rcon command<a target='_blanck'><a/><br><small> Example: sm_unban '%s1%'</small>",
+        "RU": "Введите rcon команду<a target='_blanck'><a/><br><small> пример: sm_unban '%s1%'</small>",
+        "UA": "Enter the rcon command<a target='_blanck'><a/><br><small> Example: sm_unban '%s1%'</small>"
+    },
+    "_Case": {
+        "EN": "Case",
+        "RU": "Кейс",
+        "UA": "Case"
+    },
+    "_Case_ChangeIt": {
+        "EN": "Set up prizes",
+        "RU": "Настроить призы",
+        "UA": "Налаштувати призи"
+    },
+    "_Case_WH": {
+        "EN": "Link to webhook URL",
+        "RU": "URL ссылка на веб-хук",
+        "UA": "URL посилання на веб-хук"
+    },
+    "_Case_ClearGifts": {
+        "EN": "Clear collected and sold prizes",
+        "RU": "Очистить забранные и проданные призы",
+        "UA": "Очистити забрані та продані призи"
+    },
+    "_Case_ClearList": {
+        "EN": "Clear the list of open cases",
+        "RU": "Очистить список открытых кейсов",
+        "UA": "Очистити список відкритих кейсів"
+    },
+    "_Case_ClearCaseNow": {
+        "EN": "Delete case",
+        "RU": "Удалить кейс",
+        "UA": "Видалити кейс"
+    },
+    "_Case_DelPr": {
+        "EN": "Remove Prize",
+        "RU": "Удалить приз",
+        "UA": "Видалити приз"
+    },
+    "_delete_a_category": {
+        "EN": "Do you really want to delete a category?",
+        "RU": "Вы действительно хотите удалить категорию?"
+    },
+    "_delete_a_case": {
+        "EN": "Do you really want to delete the case?",
+        "RU": "Вы действительно хотите удалить кейс?"
+    },
+    "_CasesList": {
+        "EN": "Case list",
+        "RU": "Список кейсов"
+    },
+    "_CarList": {
+        "EN": "Category list",
+        "RU": "Список категорий"
+    },
+    "_CatDeleted": {
+        "EN": "Category deleted!",
+        "RU": "Категория удалена!"
+    },
+    "_Uncategorized": {
+        "EN": "Uncategorized",
+        "RU": "Без категории"
+    },
+    "_back": {
+        "EN": "To the cases",
+        "RU": "К кейсам",
+        "UA": "До кейсів"
+    },
+    "_inventory": {
+        "EN": "Inventory",
+        "RU": "Инвентарь",
+        "UA": "Інвентар"
+    }
+    
+}

@@ -1,0 +1,1172 @@
+{
+    "_rv_navHome": {
+        "EN": "Home",
+        "RU": "Главная",
+        "UA": "Головна"
+    },
+    "_rv_navSettings": {
+        "EN": "Settings",
+        "RU": "Настройки",
+        "UA": "Налаштування"
+    },
+    "_rv_tabGeneral": {
+        "EN": "Main",
+        "RU": "Основные",
+        "UA": "Основні"
+    },
+    "_rv_tabCriteria": {
+        "EN": "Criteria",
+        "RU": "Критерии",
+        "UA": "Критерії"
+    },
+    "_rv_tabBans": {
+        "EN": "Bans",
+        "RU": "Баны",
+        "UA": "Бани"
+    },
+    "_rv_bansTitle": {
+        "EN": "Writing bans",
+        "RU": "Баны на написание",
+        "UA": "Бани на написання"
+    },
+    "_rv_bansHint": {
+        "EN": "Ban by SteamID64 and/or IP. Choose reviews, comments, replies, or everything.",
+        "RU": "Бан по SteamID64 и/или IP. Можно запретить отзывы, комментарии, ответы или всё сразу.",
+        "UA": "Бан за SteamID64 та/або IP. Можна заборонити відгуки, коментарі, відповіді або все одразу."
+    },
+    "_rv_banAdd": {
+        "EN": "Add ban",
+        "RU": "Добавить бан",
+        "UA": "Додати бан"
+    },
+    "_rv_banSteam": {
+        "EN": "SteamID64",
+        "RU": "SteamID64",
+        "UA": "SteamID64"
+    },
+    "_rv_banIp": {
+        "EN": "IP",
+        "RU": "IP",
+        "UA": "IP"
+    },
+    "_rv_banScope": {
+        "EN": "Scope",
+        "RU": "На что",
+        "UA": "На що"
+    },
+    "_rv_banScopeAll": {
+        "EN": "Everything",
+        "RU": "Всё вместе",
+        "UA": "Все разом"
+    },
+    "_rv_banScopeReview": {
+        "EN": "Reviews",
+        "RU": "Отзывы",
+        "UA": "Відгуки"
+    },
+    "_rv_banScopeComment": {
+        "EN": "Comments",
+        "RU": "Комментарии",
+        "UA": "Коментарі"
+    },
+    "_rv_banScopeReply": {
+        "EN": "Replies",
+        "RU": "Ответы",
+        "UA": "Відповіді"
+    },
+    "_rv_banScopeVote": {
+        "EN": "Votes",
+        "RU": "Голоса",
+        "UA": "Голоси"
+    },
+    "_rv_banReason": {
+        "EN": "Reason",
+        "RU": "Причина",
+        "UA": "Причина"
+    },
+    "_rv_banReasonPlaceholder": {
+        "EN": "Optional",
+        "RU": "Необязательно",
+        "UA": "Необов'язково"
+    },
+    "_rv_banCreate": {
+        "EN": "Ban",
+        "RU": "Забанить",
+        "UA": "Забанити"
+    },
+    "_rv_banDelete": {
+        "EN": "Remove ban",
+        "RU": "Снять бан",
+        "UA": "Зняти бан"
+    },
+    "_rv_banDeleteConfirm": {
+        "EN": "Remove this ban?",
+        "RU": "Снять этот бан?",
+        "UA": "Зняти цей бан?"
+    },
+    "_rv_banDeleteContent": {
+        "EN": "Delete content on Steam ban",
+        "RU": "Удалять контент при бане по Steam",
+        "UA": "Видаляти контент при бані за Steam"
+    },
+    "_rv_banDeleteContentHint": {
+        "EN": "If enabled, banning a SteamID also removes their content for the selected scope (reviews / comments / replies / all).",
+        "RU": "Если включено, при бане по SteamID удаляется контент выбранного типа: отзывы, комментарии, ответы или всё.",
+        "UA": "Якщо увімкнено, при бані за SteamID видаляється контент обраного типу: відгуки, коментарі, відповіді або все."
+    },
+    "_rv_bansEmpty": {
+        "EN": "No bans yet",
+        "RU": "Банов пока нет",
+        "UA": "Банів поки немає"
+    },
+    "_rv_generalTitle": {
+        "EN": "General module settings",
+        "RU": "Общие настройки модуля",
+        "UA": "Загальні налаштування модуля"
+    },
+    "_rv_rewardTitle": {
+        "EN": "Review reward",
+        "RU": "Награда за отзыв",
+        "UA": "Нагорода за відгук"
+    },
+    "_rv_rewardHint": {
+        "EN": "You can give a bonus for the first review. It is credited only once per account.",
+        "RU": "Можно выдать бонус за первый отзыв. Начисляется только один раз на аккаунт.",
+        "UA": "Можна видати бонус за перший відгук. Нараховується лише один раз на акаунт."
+    },
+    "_rv_rewardEnable": {
+        "EN": "Give a reward for the first review",
+        "RU": "Выдавать награду за первый отзыв",
+        "UA": "Видавати нагороду за перший відгук"
+    },
+    "_rv_rewardAmount": {
+        "EN": "How much to give",
+        "RU": "Сколько начислять",
+        "UA": "Скільки нараховувати"
+    },
+    "_rv_accessTitle": {
+        "EN": "Who can leave a review",
+        "RU": "Кто может писать отзыв",
+        "UA": "Хто може писати відгук"
+    },
+    "_rv_fieldsTitle": {
+        "EN": "Review fields",
+        "RU": "Поля отзыва",
+        "UA": "Поля відгуку"
+    },
+    "_rv_uxTitle": {
+        "EN": "Convenience",
+        "RU": "Удобство",
+        "UA": "Зручність"
+    },
+    "_rv_designTitle": {
+        "EN": "Design",
+        "RU": "Дизайн",
+        "UA": "Дизайн"
+    },
+    "_rv_designHint": {
+        "EN": "How reviews are arranged on the reviews page.",
+        "RU": "Как отзывы располагаются на странице отзывов.",
+        "UA": "Як відгуки розташовуються на сторінці відгуків."
+    },
+    "_rv_fieldsHint": {
+        "EN": "Choose which text fields players fill when writing a review.",
+        "RU": "Выберите, какие текстовые поля игрок заполняет при написании отзыва.",
+        "UA": "Оберіть, які текстові поля гравець заповнює під час написання відгуку."
+    },
+    "_rv_fieldsMode": {
+        "EN": "Field set",
+        "RU": "Набор полей",
+        "UA": "Набір полів"
+    },
+    "_rv_fieldsModeComment": {
+        "EN": "Comment only",
+        "RU": "Только комментарий",
+        "UA": "Тільки коментар"
+    },
+    "_rv_fieldsModeProsCons": {
+        "EN": "Pros and cons",
+        "RU": "Достоинства и недостатки",
+        "UA": "Переваги та недоліки"
+    },
+    "_rv_fieldsModeAll": {
+        "EN": "Comment + pros and cons",
+        "RU": "Комментарий, достоинства и недостатки",
+        "UA": "Коментар, переваги та недоліки"
+    },
+    "_rv_serverSelectEnable": {
+        "EN": "Allow choosing a server in the review form",
+        "RU": "Разрешить выбор сервера в форме отзыва",
+        "UA": "Дозволити вибір сервера у формі відгуку"
+    },
+    "_rv_listColumns": {
+        "EN": "Reviews layout",
+        "RU": "Расположение отзывов",
+        "UA": "Розташування відгуків"
+    },
+    "_rv_listColumnsOne": {
+        "EN": "1 per row",
+        "RU": "1 в ряд",
+        "UA": "1 в ряд"
+    },
+    "_rv_listColumnsTwo": {
+        "EN": "2 per row",
+        "RU": "2 в ряд",
+        "UA": "2 в ряд"
+    },
+    "_rv_minHoursEnable": {
+        "EN": "Limit by playtime",
+        "RU": "Ограничить по часам игры",
+        "UA": "Обмежити за годинами гри"
+    },
+    "_rv_minHours": {
+        "EN": "Hours needed",
+        "RU": "Нужно часов",
+        "UA": "Потрібно годин"
+    },
+    "_rv_minHoursHint": {
+        "EN": "If enabled, a player needs to play the set number of hours before leaving a review.",
+        "RU": "Если включено - игрок сможет оставить отзыв только после указанного числа часов на проекте.",
+        "UA": "Якщо увімкнено - гравець зможе залишити відгук лише після вказаної кількості годин на проєкті."
+    },
+    "_rv_minHoursBlocked": {
+        "EN": "You need at least %min% h on the project to leave a review. You have %hours% h.",
+        "RU": "Чтобы оставить отзыв, нужно минимум %min% ч. на проекте. У вас %hours% ч.",
+        "UA": "Щоб залишити відгук, потрібно мінімум %min% год. на проєкті. У вас %hours% год."
+    },
+    "_rv_minHoursButton": {
+        "EN": "You can leave a review after %left% more h",
+        "RU": "Отзыв можно будет написать через %left% ч.",
+        "UA": "Відгук можна буде написати через %left% год."
+    },
+    "_rv_bannedReviewButton": {
+        "EN": "You are banned from leaving reviews",
+        "RU": "Вы в бане и не можете оставить отзыв",
+        "UA": "Ви в бані і не можете залишити відгук"
+    },
+    "_rv_bannedReviewReason": {
+        "EN": "Banned from reviews: %reason%",
+        "RU": "Бан на отзывы: %reason%",
+        "UA": "Бан на відгуки: %reason%"
+    },
+    "_rv_bannedComment": {
+        "EN": "You are banned from commenting",
+        "RU": "Вы в бане и не можете комментировать",
+        "UA": "Ви в бані і не можете коментувати"
+    },
+    "_rv_bannedCommentReason": {
+        "EN": "Banned from comments: %reason%",
+        "RU": "Бан на комментарии: %reason%",
+        "UA": "Бан на коментарі: %reason%"
+    },
+    "_rv_bannedReply": {
+        "EN": "You are banned from replying",
+        "RU": "Вы в бане и не можете отвечать",
+        "UA": "Ви в бані і не можете відповідати"
+    },
+    "_rv_bannedReplyReason": {
+        "EN": "Banned from replies: %reason%",
+        "RU": "Бан на ответы: %reason%",
+        "UA": "Бан на відповіді: %reason%"
+    },
+    "_rv_bannedVote": {
+        "EN": "You are banned and cannot vote",
+        "RU": "Вы в бане и не можете голосовать",
+        "UA": "Ви в бані і не можете голосувати"
+    },
+    "_rv_bannedVoteReason": {
+        "EN": "Vote ban: %reason%",
+        "RU": "Бан на голоса: %reason%",
+        "UA": "Бан на голоси: %reason%"
+    },
+    "_rv_ctaTitle": {
+        "EN": "Got something to share?",
+        "RU": "Есть что рассказать?",
+        "UA": "Є що розповісти?"
+    },
+    "_rv_ctaText": {
+        "EN": "Rate the project - your experience will help other players",
+        "RU": "Оцените проект - ваш опыт будет полезен другим игрокам",
+        "UA": "Оцініть проєкт - ваш досвід буде корисний іншим гравцям"
+    },
+    "_rv_lkMissing": {
+        "EN": "The balance module is not connected - the reward cannot be given.",
+        "RU": "Модуль баланса не подключён - награду выдать нельзя.",
+        "UA": "Модуль балансу не підключено - нагороду видати не можна."
+    },
+    "_rv_blacklistTitle": {
+        "EN": "Word blacklist",
+        "RU": "Чёрный список слов",
+        "UA": "Чорний список слів"
+    },
+    "_rv_blacklistHint": {
+        "EN": "Forbidden words separated by commas. Choose whether to mask them or block posting.",
+        "RU": "Запрещённые слова через запятую. Можно маскировать символами или блокировать отправку.",
+        "UA": "Заборонені слова через кому. Можна маскувати символами або блокувати відправку."
+    },
+    "_rv_blacklistEnable": {
+        "EN": "Filter forbidden words",
+        "RU": "Фильтровать запрещённые слова",
+        "UA": "Фільтрувати заборонені слова"
+    },
+    "_rv_blacklistWords": {
+        "EN": "Words",
+        "RU": "Слова",
+        "UA": "Слова"
+    },
+    "_rv_blacklistPlaceholder": {
+        "EN": "word1, word2, word3",
+        "RU": "слово1, слово2, слово3",
+        "UA": "слово1, слово2, слово3"
+    },
+    "_rv_blacklistMode": {
+        "EN": "Filter mode",
+        "RU": "Режим фильтра",
+        "UA": "Режим фільтра"
+    },
+    "_rv_blacklistModeCensor": {
+        "EN": "Mask with hearts/stars",
+        "RU": "Скрывать сердечками / звёздочками",
+        "UA": "Приховувати сердечками / зірочками"
+    },
+    "_rv_blacklistModeBlock": {
+        "EN": "Block posting",
+        "RU": "Не давать отправить",
+        "UA": "Не давати відправити"
+    },
+    "_rv_blacklistStyle": {
+        "EN": "Replacement style",
+        "RU": "Чем заменять",
+        "UA": "Чим замінювати"
+    },
+    "_rv_blacklistHearts": {
+        "EN": "Hearts",
+        "RU": "Сердечки",
+        "UA": "Сердечка"
+    },
+    "_rv_blacklistStars": {
+        "EN": "Stars",
+        "RU": "Звёздочки",
+        "UA": "Зірочки"
+    },
+    "_rv_ratingIconTitle": {
+        "EN": "Rating icon",
+        "RU": "Иконка рейтинга",
+        "UA": "Іконка рейтингу"
+    },
+    "_rv_ratingIconHint": {
+        "EN": "Choose any icon from the site sprite for the rating.",
+        "RU": "Выберите любую иконку из спрайта сайта для рейтинга.",
+        "UA": "Оберіть будь-яку іконку зі спрайту сайту для рейтингу."
+    },
+    "_rv_ratingIconLabel": {
+        "EN": "Icon",
+        "RU": "Иконка",
+        "UA": "Іконка"
+    },
+    "_rv_findIcon": {
+        "EN": "Find icon",
+        "RU": "Найти иконку",
+        "UA": "Знайти іконку"
+    },
+    "_rv_migrationTitle": {
+        "EN": "Migration",
+        "RU": "Миграция",
+        "UA": "Міграція"
+    },
+    "_rv_discordTitle": {
+        "EN": "Discord",
+        "RU": "Discord",
+        "UA": "Discord"
+    },
+    "_rv_discordHint": {
+        "EN": "Webhook for new reviews. Leave the URL empty to disable notifications.",
+        "RU": "Вебхук для новых отзывов. Оставьте URL пустым, чтобы отключить уведомления.",
+        "UA": "Вебхук для нових відгуків. Залиште URL порожнім, щоб вимкнути сповіщення."
+    },
+    "_rv_discordWebhookUrl": {
+        "EN": "Webhook URL",
+        "RU": "Webhook URL",
+        "UA": "Webhook URL"
+    },
+    "_rv_discordWebhookUrlPlaceholder": {
+        "EN": "https://discord.com/api/webhooks/.../...",
+        "RU": "https://discord.com/api/webhooks/.../...",
+        "UA": "https://discord.com/api/webhooks/.../..."
+    },
+    "_rv_discordWebhookImage": {
+        "EN": "Embed image (optional)",
+        "RU": "Картинка в embed (необязательно)",
+        "UA": "Зображення в embed (необов'язково)"
+    },
+    "_rv_discordWebhookColor": {
+        "EN": "Embed color",
+        "RU": "Цвет embed",
+        "UA": "Колір embed"
+    },
+    "_rv_webhookTitleNew": {
+        "EN": "New review",
+        "RU": "Новый отзыв",
+        "UA": "Новий відгук"
+    },
+    "_rv_webhookPlayer": {
+        "EN": "Player",
+        "RU": "Игрок",
+        "UA": "Гравець"
+    },
+    "_rv_webhookServer": {
+        "EN": "Server",
+        "RU": "Сервер",
+        "UA": "Сервер"
+    },
+    "_rv_webhookAllServers": {
+        "EN": "All servers",
+        "RU": "Все серверы",
+        "UA": "Усі сервери"
+    },
+    "_rv_webhookRating": {
+        "EN": "Rating",
+        "RU": "Оценка",
+        "UA": "Оцінка"
+    },
+    "_rv_webhookPros": {
+        "EN": "Pros",
+        "RU": "Плюсы",
+        "UA": "Плюси"
+    },
+    "_rv_webhookCons": {
+        "EN": "Cons",
+        "RU": "Минусы",
+        "UA": "Мінуси"
+    },
+    "_rv_webhookComment": {
+        "EN": "Comment",
+        "RU": "Комментарий",
+        "UA": "Коментар"
+    },
+    "_rv_migrationHint": {
+        "EN": "Old reviews were found. You can transfer them to the new module! Click the button to import.",
+        "RU": "Обнаружены старые отзывы. Можно перенести их в новый модуль! Нажмите на кнопку для импорта.",
+        "UA": "Виявлено старі відгуки. Можна перенести їх у новий модуль! Натисніть кнопку для імпорту."
+    },
+    "_rv_migrationMissing": {
+        "EN": "Old reviews were not found...",
+        "RU": "Старые отзывы не обнаружены...",
+        "UA": "Старі відгуки не виявлено..."
+    },
+    "_rv_migrationRun": {
+        "EN": "Import reviews",
+        "RU": "Импортировать отзывы",
+        "UA": "Імпортувати відгуки"
+    },
+    "_rv_migrationConfirm": {
+        "EN": "Import old reviews into the new module? This may take a little time.",
+        "RU": "Импортировать старые отзывы в новый модуль? Это может занять немного времени.",
+        "UA": "Імпортувати старі відгуки в новий модуль? Це може зайняти трохи часу."
+    },
+    "_rv_migrationSuccess": {
+        "EN": "Done! Imported: %imported%, skipped: %skipped%, likes: %likes%",
+        "RU": "Готово! Импортировано: %imported%, пропущено: %skipped%, лайков: %likes%",
+        "UA": "Готово! Імпортовано: %imported%, пропущено: %skipped%, лайків: %likes%"
+    },
+    "_rv_settingsSaved": {
+        "EN": "Settings saved",
+        "RU": "Настройки сохранены",
+        "UA": "Налаштування збережено"
+    },
+    "_rv_criteriaTitle": {
+        "EN": "Rating criteria",
+        "RU": "Критерии оценки",
+        "UA": "Критерії оцінки"
+    },
+    "_rv_creatingCriterion": {
+        "EN": "Create criterion",
+        "RU": "Создание критерия",
+        "UA": "Створення критерію"
+    },
+    "_rv_changingCriterion": {
+        "EN": "Edit criterion",
+        "RU": "Изменение критерия",
+        "UA": "Зміна критерію"
+    },
+    "_rv_createCriterion": {
+        "EN": "Create criterion",
+        "RU": "Создать критерий",
+        "UA": "Створити критерій"
+    },
+    "_rv_editCriterion": {
+        "EN": "Save changes",
+        "RU": "Сохранить изменения",
+        "UA": "Зберегти зміни"
+    },
+    "_rv_deleteCriterion": {
+        "EN": "Delete criterion",
+        "RU": "Удалить критерий",
+        "UA": "Видалити критерій"
+    },
+    "_rv_criterionName": {
+        "EN": "Name",
+        "RU": "Название",
+        "UA": "Назва"
+    },
+    "_rv_criterionSlug": {
+        "EN": "Slug",
+        "RU": "Ключ",
+        "UA": "Ключ"
+    },
+    "_rv_inactive": {
+        "EN": "Hidden",
+        "RU": "Скрыт",
+        "UA": "Прихований"
+    },
+    "_rv_moveUp": {
+        "EN": "Move up",
+        "RU": "Выше",
+        "UA": "Вище"
+    },
+    "_rv_moveDown": {
+        "EN": "Move down",
+        "RU": "Ниже",
+        "UA": "Нижче"
+    },
+    "_rv_no": {
+        "EN": "No",
+        "RU": "Нет",
+        "UA": "Ні"
+    },
+    "_rv_criteriaHint": {
+        "EN": "These criteria appear in the sidebar and review form. You can create your own.",
+        "RU": "Эти критерии показываются в сайдбаре и в форме отзыва. Можно добавлять свои.",
+        "UA": "Ці критерії показуються в сайдбарі та у формі відгуку. Можна додавати свої."
+    },
+    "_rv_newCriterion": {
+        "EN": "New criterion",
+        "RU": "Новый критерий",
+        "UA": "Новий критерій"
+    },
+    "_rv_criterionPlaceholder": {
+        "EN": "e.g. Anticheat",
+        "RU": "Например: Античит",
+        "UA": "Наприклад: Античит"
+    },
+    "_rv_add": {
+        "EN": "Add",
+        "RU": "Добавить",
+        "UA": "Додати"
+    },
+    "_rv_active": {
+        "EN": "Active",
+        "RU": "Активен",
+        "UA": "Активний"
+    },
+    "_rv_noCriteria": {
+        "EN": "No criteria yet",
+        "RU": "Пока нет критериев",
+        "UA": "Поки немає критеріїв"
+    },
+    "_rv_enterName": {
+        "EN": "Enter a name",
+        "RU": "Введите название",
+        "UA": "Введіть назву"
+    },
+    "_rv_added": {
+        "EN": "Added",
+        "RU": "Добавлено",
+        "UA": "Додано"
+    },
+    "_rv_saved": {
+        "EN": "Saved",
+        "RU": "Сохранено",
+        "UA": "Збережено"
+    },
+    "_rv_deleted": {
+        "EN": "Deleted",
+        "RU": "Удалено",
+        "UA": "Видалено"
+    },
+    "_rv_deleteCriterionConfirm": {
+        "EN": "Delete this criterion? Related ratings will be removed.",
+        "RU": "Удалить критерий? Оценки по нему будут удалены.",
+        "UA": "Видалити критерій? Оцінки за ним будуть видалені."
+    },
+    "_rv_deleteReviewConfirm": {
+        "EN": "Delete this review?",
+        "RU": "Удалить отзыв?",
+        "UA": "Видалити відгук?"
+    },
+    "_rv_deleteCommentConfirm": {
+        "EN": "Delete this comment? Replies will also be removed.",
+        "RU": "Удалить комментарий? Ответы к нему тоже будут удалены.",
+        "UA": "Видалити коментар? Відповіді до нього також будуть видалені."
+    },
+    "_rv_delete": {
+        "EN": "Delete",
+        "RU": "Удалить",
+        "UA": "Видалити"
+    },
+    "_rv_copyLink": {
+        "EN": "Copy link",
+        "RU": "Копировать ссылку",
+        "UA": "Копіювати посилання"
+    },
+    "_rv_linkCopied": {
+        "EN": "Link copied",
+        "RU": "Ссылка скопирована",
+        "UA": "Посилання скопійовано"
+    },
+    "_rv_edit": {
+        "EN": "Edit",
+        "RU": "Изменить",
+        "UA": "Змінити"
+    },
+    "_rv_exchangeText": {
+        "EN": "Write a review and get %amount%%currency% to your balance",
+        "RU": "Напиши отзыв и получи %amount%%currency% на баланс",
+        "UA": "Напиши відгук і отримай %amount%%currency% на баланс"
+    },
+    "_rv_rewardPayPromo": {
+        "EN": "Reward for first review",
+        "RU": "Награда за первый отзыв",
+        "UA": "Нагорода за перший відгук"
+    },
+    "_rv_rewardReceived": {
+        "EN": "You received +%amount% to your balance for the first review",
+        "RU": "Вам начислено +%amount% на баланс за первый отзыв",
+        "UA": "Вам нараховано +%amount% на баланс за перший відгук"
+    },
+    "_rv_noReviews": {
+        "EN": "No reviews yet",
+        "RU": "Пока нет отзывов",
+        "UA": "Поки немає відгуків"
+    },
+    "_rv_addReview": {
+        "EN": "Add review",
+        "RU": "Добавить отзыв",
+        "UA": "Додати відгук"
+    },
+    "_rv_loginToReview": {
+        "EN": "Log in to leave a review",
+        "RU": "Войти, чтобы оставить отзыв",
+        "UA": "Увійти, щоб залишити відгук"
+    },
+    "_rv_overall": {
+        "EN": "Overall rating:",
+        "RU": "Общая оценка:",
+        "UA": "Загальна оцінка:"
+    },
+    "_rv_hoursOnProject": {
+        "EN": "Hours on project: %hours% h.",
+        "RU": "Часов на проекте: %hours% ч.",
+        "UA": "Годин на проєкті: %hours% год."
+    },
+    "_rv_allServers": {
+        "EN": "All servers",
+        "RU": "Все сервера",
+        "UA": "Усі сервери"
+    },
+    "_rv_pros": {
+        "EN": "Pros",
+        "RU": "Достоинства",
+        "UA": "Переваги"
+    },
+    "_rv_cons": {
+        "EN": "Cons",
+        "RU": "Недостатки",
+        "UA": "Недоліки"
+    },
+    "_rv_comment": {
+        "EN": "Comment",
+        "RU": "Комментарий",
+        "UA": "Коментар"
+    },
+    "_rv_comments": {
+        "EN": "Comments",
+        "RU": "Комментарии",
+        "UA": "Коментарі"
+    },
+    "_rv_rateCriteria": {
+        "EN": "Rate the server by criteria",
+        "RU": "Оцените сервер по критериям",
+        "UA": "Оцініть сервер за критеріями"
+    },
+    "_rv_avgRating": {
+        "EN": "Average rating:",
+        "RU": "Средняя оценка:",
+        "UA": "Середня оцінка:"
+    },
+    "_rv_submitReview": {
+        "EN": "Submit review",
+        "RU": "Отправить отзыв",
+        "UA": "Надіслати відгук"
+    },
+    "_rv_saveChanges": {
+        "EN": "Save changes",
+        "RU": "Сохранить изменения",
+        "UA": "Зберегти зміни"
+    },
+    "_rv_reviewsCount": {
+        "EN": "%count% reviews",
+        "RU": "%count% отзывов",
+        "UA": "%count% відгуків"
+    },
+    "_rv_badgeSiteAdmin": {
+        "EN": "Site admin",
+        "RU": "Админ сайта",
+        "UA": "Адмін сайту"
+    },
+    "_rv_badgeAdmin": {
+        "EN": "Admin",
+        "RU": "Админ",
+        "UA": "Адмін"
+    },
+    "_rv_badgeVip": {
+        "EN": "VIP",
+        "RU": "VIP",
+        "UA": "VIP"
+    },
+    "_rv_pageTitle": {
+        "EN": "Reviews",
+        "RU": "Отзывы",
+        "UA": "Відгуки"
+    },
+    "_rv_ratingAria": {
+        "EN": "Rating %avg% out of 5",
+        "RU": "Рейтинг %avg% из 5",
+        "UA": "Рейтинг %avg% з 5"
+    },
+    "_rv_searchPlaceholder": {
+        "EN": "Search reviews...",
+        "RU": "Поиск по отзывам...",
+        "UA": "Пошук за відгуками..."
+    },
+    "_rv_filterRating": {
+        "EN": "Rating",
+        "RU": "Оценка",
+        "UA": "Оцінка"
+    },
+    "_rv_sortByDate": {
+        "EN": "By date",
+        "RU": "По дате",
+        "UA": "За датою"
+    },
+    "_rv_sortByPopular": {
+        "EN": "By popularity",
+        "RU": "По популярности",
+        "UA": "За популярністю"
+    },
+    "_rv_sortByRating": {
+        "EN": "By rating",
+        "RU": "По оценке",
+        "UA": "За оцінкою"
+    },
+    "_rv_resetFilters": {
+        "EN": "Reset filters",
+        "RU": "Сбросить фильтры",
+        "UA": "Скинути фільтри"
+    },
+    "_rv_editReviewTitle": {
+        "EN": "Edit review",
+        "RU": "Редактировать отзыв",
+        "UA": "Редагувати відгук"
+    },
+    "_rv_server": {
+        "EN": "Server",
+        "RU": "Сервер",
+        "UA": "Сервер"
+    },
+    "_rv_findServer": {
+        "EN": "Find server",
+        "RU": "Найти сервер",
+        "UA": "Знайти сервер"
+    },
+    "_rv_selectServer": {
+        "EN": "Select a server",
+        "RU": "Выберите сервер",
+        "UA": "Оберіть сервер"
+    },
+    "_rv_serverTag": {
+        "EN": "Server: %name%",
+        "RU": "Сервер: %name%",
+        "UA": "Сервер: %name%"
+    },
+    "_rv_gameTag": {
+        "EN": "Game: %name%",
+        "RU": "Игра: %name%",
+        "UA": "Гра: %name%"
+    },
+    "_rv_prosPlaceholder": {
+        "EN": "What you liked (10–2000)",
+        "RU": "Что понравилось (10–2000)",
+        "UA": "Що сподобалося (10–2000)"
+    },
+    "_rv_consPlaceholder": {
+        "EN": "What could be improved (10–2000)",
+        "RU": "Что можно улучшить (10–2000)",
+        "UA": "Що можна покращити (10–2000)"
+    },
+    "_rv_commentPlaceholder": {
+        "EN": "Overall impression (10–2000)",
+        "RU": "Общее впечатление (10–2000)",
+        "UA": "Загальне враження (10–2000)"
+    },
+    "_rv_leaveComment": {
+        "EN": "Leave a comment",
+        "RU": "Оставить комментарий",
+        "UA": "Залишити коментар"
+    },
+    "_rv_commentPlaceholderShort": {
+        "EN": "What do you think about the review? (10–2000)",
+        "RU": "Что думаете об отзыве? (10–2000)",
+        "UA": "Що думаєте про відгук? (10–2000)"
+    },
+    "_rv_replyPlaceholder": {
+        "EN": "Write a reply (10–2000)",
+        "RU": "Написать ответ (10–2000)",
+        "UA": "Написати відповідь (10–2000)"
+    },
+    "_rv_reply": {
+        "EN": "Reply",
+        "RU": "Ответить",
+        "UA": "Відповісти"
+    },
+    "_rv_showReplies": {
+        "EN": "Show replies (%count%)",
+        "RU": "Показать ответы (%count%)",
+        "UA": "Показати відповіді (%count%)"
+    },
+    "_rv_hideReplies": {
+        "EN": "Hide replies (%count%)",
+        "RU": "Скрыть ответы (%count%)",
+        "UA": "Сховати відповіді (%count%)"
+    },
+    "_rv_hideRepliesShort": {
+        "EN": "Hide replies",
+        "RU": "Скрыть ответы",
+        "UA": "Сховати відповіді"
+    },
+    "_rv_showRepliesShort": {
+        "EN": "Show replies",
+        "RU": "Показать ответы",
+        "UA": "Показати відповіді"
+    },
+    "_rv_cancel": {
+        "EN": "Cancel",
+        "RU": "Отмена",
+        "UA": "Скасувати"
+    },
+    "_rv_save": {
+        "EN": "Save",
+        "RU": "Сохранить",
+        "UA": "Зберегти"
+    },
+    "_rv_send": {
+        "EN": "Send",
+        "RU": "Отправить",
+        "UA": "Надіслати"
+    },
+    "_rv_menu": {
+        "EN": "Menu",
+        "RU": "Меню",
+        "UA": "Меню"
+    },
+    "_rv_like": {
+        "EN": "Like",
+        "RU": "Нравится",
+        "UA": "Подобається"
+    },
+    "_rv_dislike": {
+        "EN": "Dislike",
+        "RU": "Не нравится",
+        "UA": "Не подобається"
+    },
+    "_rv_commentsCount": {
+        "EN": "Comments (%count%)",
+        "RU": "Комментарии (%count%)",
+        "UA": "Коментарі (%count%)"
+    },
+    "_rv_loading": {
+        "EN": "Loading...",
+        "RU": "Загрузка...",
+        "UA": "Завантаження..."
+    },
+    "_rv_noComments": {
+        "EN": "No comments yet",
+        "RU": "Пока нет комментариев",
+        "UA": "Поки немає коментарів"
+    },
+    "_rv_commentsLoadFailed": {
+        "EN": "Failed to load comments",
+        "RU": "Не удалось загрузить комментарии",
+        "UA": "Не вдалося завантажити коментарі"
+    },
+    "_rv_copyFailed": {
+        "EN": "Failed to copy",
+        "RU": "Не удалось скопировать",
+        "UA": "Не вдалося скопіювати"
+    },
+    "_rv_networkError": {
+        "EN": "Network error",
+        "RU": "Ошибка сети",
+        "UA": "Помилка мережі"
+    },
+    "_rv_loadReviewsFailed": {
+        "EN": "Failed to load reviews",
+        "RU": "Не удалось загрузить отзывы",
+        "UA": "Не вдалося завантажити відгуки"
+    },
+    "_rv_reviewNotFound": {
+        "EN": "Review not found",
+        "RU": "Отзыв не найден",
+        "UA": "Відгук не знайдено"
+    },
+    "_rv_openReviewFailed": {
+        "EN": "Failed to open review",
+        "RU": "Не удалось открыть отзыв",
+        "UA": "Не вдалося відкрити відгук"
+    },
+    "_rv_deleteFailed": {
+        "EN": "Failed to delete",
+        "RU": "Не удалось удалить",
+        "UA": "Не вдалося видалити"
+    },
+    "_rv_saveFailed": {
+        "EN": "Failed to save",
+        "RU": "Не удалось сохранить",
+        "UA": "Не вдалося зберегти"
+    },
+    "_rv_sendFailed": {
+        "EN": "Failed to send",
+        "RU": "Не удалось отправить",
+        "UA": "Не вдалося надіслати"
+    },
+    "_rv_voteRejected": {
+        "EN": "Vote was not accepted",
+        "RU": "Голос не принят",
+        "UA": "Голос не прийнято"
+    },
+    "_rv_rateAllCriteria": {
+        "EN": "Rate all criteria",
+        "RU": "Оцените все критерии",
+        "UA": "Оцініть усі критерії"
+    },
+    "_rv_setOverall": {
+        "EN": "Set an overall rating",
+        "RU": "Поставьте общую оценку",
+        "UA": "Поставте загальну оцінку"
+    },
+    "_rv_reviewAdded": {
+        "EN": "Review added",
+        "RU": "Отзыв добавлен",
+        "UA": "Відгук додано"
+    },
+    "_rv_reviewUpdated": {
+        "EN": "Review updated",
+        "RU": "Отзыв обновлён",
+        "UA": "Відгук оновлено"
+    },
+    "_rv_toastError": {
+        "EN": "Error",
+        "RU": "Ошибка",
+        "UA": "Помилка"
+    },
+    "_rv_toastSuccess": {
+        "EN": "Done",
+        "RU": "Готово",
+        "UA": "Готово"
+    },
+    "_rv_textLabel": {
+        "EN": "Text",
+        "RU": "Текст",
+        "UA": "Текст"
+    },
+    "_rv_textMin": {
+        "EN": "%label%: minimum %min% characters",
+        "RU": "%label%: минимум %min% символов",
+        "UA": "%label%: мінімум %min% символів"
+    },
+    "_rv_textMax": {
+        "EN": "%label%: maximum %max% characters",
+        "RU": "%label%: максимум %max% символов",
+        "UA": "%label%: максимум %max% символів"
+    },
+    "_rv_writeAtLeastOne": {
+        "EN": "Fill in at least one field with %min%–%max% characters",
+        "RU": "Напишите хотя бы одно поле от %min% до %max% символов",
+        "UA": "Напишіть хоча б одне поле від %min% до %max% символів"
+    },
+    "_rv_rateOverallRange": {
+        "EN": "Set an overall rating from 1 to 5",
+        "RU": "Поставьте общую оценку от 1 до 5",
+        "UA": "Поставте загальну оцінку від 1 до 5"
+    },
+    "_rv_rateCriteriaRange": {
+        "EN": "Rate all criteria from 1 to 5",
+        "RU": "Оцените все критерии от 1 до 5",
+        "UA": "Оцініть усі критерії від 1 до 5"
+    },
+    "_rv_serverNotFound": {
+        "EN": "Server not found",
+        "RU": "Сервер не найден",
+        "UA": "Сервер не знайдено"
+    },
+    "_rv_notEnoughHours": {
+        "EN": "Not enough hours on the project to leave a review. You need at least %min% h, you have %hours% h.",
+        "RU": "Недостаточно часов на проекте для отзыва. Нужно минимум %min% ч., у вас %hours% ч.",
+        "UA": "Недостатньо годин на проєкті для відгуку. Потрібно мінімум %min% год., у вас %hours% год."
+    },
+    "_rv_reviewExists": {
+        "EN": "A review for this server already exists",
+        "RU": "Отзыв для этого сервера уже существует",
+        "UA": "Відгук для цього сервера вже існує"
+    },
+    "_rv_reviewDeleted": {
+        "EN": "Review deleted",
+        "RU": "Отзыв удалён",
+        "UA": "Відгук видалено"
+    },
+    "_rv_invalidVote": {
+        "EN": "Invalid vote",
+        "RU": "Некорректный голос",
+        "UA": "Некоректний голос"
+    },
+    "_rv_forbiddenWord": {
+        "EN": "The text contains a forbidden word. Remove it and try again.",
+        "RU": "Текст содержит запрещённое слово. Уберите его и попробуйте снова.",
+        "UA": "Текст містить заборонене слово. Приберіть його і спробуйте знову."
+    },
+    "_rv_commentNotFound": {
+        "EN": "Comment not found",
+        "RU": "Комментарий не найден",
+        "UA": "Коментар не знайдено"
+    },
+    "_rv_parentCommentNotFound": {
+        "EN": "Parent comment not found",
+        "RU": "Родительский комментарий не найден",
+        "UA": "Батьківський коментар не знайдено"
+    },
+    "_rv_nestedReplyForbidden": {
+        "EN": "Replying to a reply is not allowed",
+        "RU": "Ответ на ответ запрещён",
+        "UA": "Відповідь на відповідь заборонено"
+    },
+    "_rv_commentAdded": {
+        "EN": "Comment added",
+        "RU": "Комментарий добавлен",
+        "UA": "Коментар додано"
+    },
+    "_rv_commentUpdated": {
+        "EN": "Comment updated",
+        "RU": "Комментарий обновлён",
+        "UA": "Коментар оновлено"
+    },
+    "_rv_commentDeleted": {
+        "EN": "Comment deleted",
+        "RU": "Комментарий удалён",
+        "UA": "Коментар видалено"
+    },
+    "_rv_criterionNameRequired": {
+        "EN": "Enter a name in at least one language",
+        "RU": "Укажите название хотя бы на одном языке",
+        "UA": "Вкажіть назву хоча б однією мовою"
+    },
+    "_rv_criterionNotFound": {
+        "EN": "Criterion not found",
+        "RU": "Критерий не найден",
+        "UA": "Критерій не знайдено"
+    },
+    "_rv_criterionAdded": {
+        "EN": "Criterion added",
+        "RU": "Критерий добавлен",
+        "UA": "Критерій додано"
+    },
+    "_rv_criterionUpdated": {
+        "EN": "Criterion updated",
+        "RU": "Критерий обновлён",
+        "UA": "Критерій оновлено"
+    },
+    "_rv_criterionDeleted": {
+        "EN": "Criterion deleted",
+        "RU": "Критерий удалён",
+        "UA": "Критерій видалено"
+    },
+    "_rv_orderSaved": {
+        "EN": "Order saved",
+        "RU": "Порядок сохранён",
+        "UA": "Порядок збережено"
+    },
+    "_rv_invalidSteam": {
+        "EN": "Invalid SteamID64",
+        "RU": "Некорректный SteamID64",
+        "UA": "Некоректний SteamID64"
+    },
+    "_rv_banNeedTarget": {
+        "EN": "Specify SteamID64 and/or IP",
+        "RU": "Укажите SteamID64 и/или IP",
+        "UA": "Вкажіть SteamID64 та/або IP"
+    },
+    "_rv_tooManyBans": {
+        "EN": "Too many bans",
+        "RU": "Слишком много банов",
+        "UA": "Занадто багато банів"
+    },
+    "_rv_banAdded": {
+        "EN": "Ban added",
+        "RU": "Бан добавлен",
+        "UA": "Бан додано"
+    },
+    "_rv_banAddedWithDelete": {
+        "EN": "Ban added. Deleted: reviews %reviews%, comments %comments%",
+        "RU": "Бан добавлен. Удалено: отзывов %reviews%, комментариев %comments%",
+        "UA": "Бан додано. Видалено: відгуків %reviews%, коментарів %comments%"
+    },
+    "_rv_banNotFound": {
+        "EN": "Ban not found",
+        "RU": "Бан не найден",
+        "UA": "Бан не знайдено"
+    },
+    "_rv_banRemoved": {
+        "EN": "Ban removed",
+        "RU": "Бан удалён",
+        "UA": "Бан видалено"
+    },
+    "_rv_banRejectReview": {
+        "EN": "You are not allowed to leave reviews",
+        "RU": "Вам запрещено оставлять отзывы",
+        "UA": "Вам заборонено залишати відгуки"
+    },
+    "_rv_banRejectComment": {
+        "EN": "You are not allowed to leave comments",
+        "RU": "Вам запрещено оставлять комментарии",
+        "UA": "Вам заборонено залишати коментарі"
+    },
+    "_rv_banRejectReply": {
+        "EN": "You are not allowed to reply to comments",
+        "RU": "Вам запрещено отвечать на комментарии",
+        "UA": "Вам заборонено відповідати на коментарі"
+    },
+    "_rv_banRejectVote": {
+        "EN": "You are not allowed to vote",
+        "RU": "Вам запрещено голосовать",
+        "UA": "Вам заборонено голосувати"
+    },
+    "_rv_banRejectAll": {
+        "EN": "You are not allowed to perform this action",
+        "RU": "Вам запрещено выполнять это действие",
+        "UA": "Вам заборонено виконувати цю дію"
+    },
+    "_rv_migrationTableMissing": {
+        "EN": "Table web_reviews was not found in the Core database",
+        "RU": "Таблица web_reviews не найдена в базе Core",
+        "UA": "Таблицю web_reviews не знайдено в базі Core"
+    },
+    "_rv_migrationNoData": {
+        "EN": "No data to import in web_reviews",
+        "RU": "В web_reviews нет данных для импорта",
+        "UA": "У web_reviews немає даних для імпорту"
+    },
+    "_rv_migrationDone": {
+        "EN": "Migration completed",
+        "RU": "Миграция завершена",
+        "UA": "Міграцію завершено"
+    }
+}

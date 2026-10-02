@@ -1,0 +1,19 @@
+{
+    "title":"NEO3 - Check list",
+    "info":"Вывод проверок на читы",
+    "author":"onevalve.ru",
+    "page":"check",
+    "version":"0.1",
+    "setting":{
+        "status":1,
+        "type":1,
+        "available_types":"1",
+        "interface":1,
+        "interface_adjacent":"afternavbar",
+        "data":1,
+        "data_always":1,
+        "translation":1,
+        "css":1,
+        "js":1
+    }
+}

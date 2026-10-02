@@ -1,0 +1,29 @@
+{
+    "title": "NEO3 - Extended Monitoring Settings",
+    "info": "Настройки модуля мониторинга",
+    "author": "onevalve.ru",
+    "page": "monitoring",
+    "version": "1.4.0",
+    "required": {
+        "core": "0.2",
+        "php": "5.4"
+    },
+    "seo": {
+        "breadcrumb_phrase": "_Server_setting",
+        "breadcrumb_scope": "global",
+        "breadcrumb_url": "monitoring/",
+        "noindex": true,
+        "sitemap": false
+    },
+    "setting": {
+        "status": 1,
+        "type": 1,
+        "available_types": "1",
+        "translation": 1,
+        "interface": 1,
+        "interface_adjacent": "afternavbar",
+        "data": 1,
+        "js": 1,
+        "css": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "title": "NEO3 - Request",
+    "info": "Заявки на пост админа",
+    "author": "onevalve.ru",
+    "page": "request",
+    "version": "1.2",
+    "required": {
+        "core": "0.125",
+        "php": "7.0"
+    },
+    "setting": {
+        "status": 1,
+        "type": 1,
+        "available_types": "1",
+        "sessions": 0,
+        "translation": 1,
+        "interface": 1,
+        "data": 1,
+        "data_always": 1,
+        "css": 1,
+        "js": 1,
+        "cache_enable": 0,
+        "cache_time": 0
+    }
+}

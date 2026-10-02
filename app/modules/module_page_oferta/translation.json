@@ -1,0 +1,14 @@
+{
+    "_oferta":{
+        "EN" : "Offer",
+        "RU" : "Договор оферты"
+    },
+    "_oferta_desc":{
+        "EN" : "A public offer is a formal contract and is distributed regardless of position. <br>The contract is considered to be concluded from the moment the client donates money on the website.",
+        "RU" : "Публичная оферта является официальным договором и распространяется независимо от должности. <br>Договор считается заключенным с момента пожертвования денежных средств на сайте клиентом."
+    },
+    "_oferta_edit":{
+        "EN" : "Edited: ",
+        "RU" : "Изменено: "
+    }
+}

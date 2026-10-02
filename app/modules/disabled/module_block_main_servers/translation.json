@@ -1,0 +1,422 @@
+{
+    "_CountOnlineNow": {
+        "EN": "Now playing",
+        "UA": "Зараз грає",
+        "RU": "Сейчас играет"
+    },
+    "_Loading": {
+        "EN": "Loading",
+        "UA": "Завантажується",
+        "RU": "Загружается"
+    },
+    "_CurrentOnline": {
+        "EN": "Online",
+        "UA": "Онлайн",
+        "RU": "Онлайн"
+    },
+    "_ChooseMod": {
+        "EN": "Choose mod",
+        "UA": "Виберіть мод",
+        "RU": "Выберите мод"
+    },
+    "_AllMod": {
+        "EN": "All",
+        "UA": "Усе",
+        "RU": "Все"
+    },
+    "_CurrentMapPlay": {
+        "EN": "A map is being played now",
+        "UA": "Зараз грає картка",
+        "RU": "Сейчас играется карта"
+    },
+    "_CurrentMapPlayShort": {
+        "EN": "Map",
+        "UA": "Карта",
+        "RU": "Карта"
+    },
+    "_CurrentPlayers": {
+        "EN": "Players",
+        "UA": "Гравці",
+        "RU": "Игроки"
+    },
+    "_topPlace": {
+        "EN": "Place",
+        "UA": "Місце",
+        "RU": "Место"
+    },
+    "_topTen": {
+        "EN": "Top 10",
+        "UA": "Топ 10",
+        "RU": "Топ 10"
+    },
+    "_Rating_Monitoring": {
+        "EN": "Our server",
+        "UA": "Наші сервери",
+        "RU": "Наши сервера"
+    },
+    "_Monitoring_Players": {
+        "EN": "Players",
+        "UA": "Гравці",
+        "RU": "Игроки"
+    },
+    "_Monitoring_Players_Two": {
+        "EN": "Players",
+        "UA": "Гравців",
+        "RU": "Игроков"
+    },
+    "_Rating_Place": {
+        "EN": "place",
+        "UA": "місце",
+        "RU": "место"
+    },
+    "_Player": {
+        "EN": "Player",
+        "UA": "Гравець",
+        "RU": "Игрок"
+    },
+    "_Kills": {
+        "EN": "Kills",
+        "UA": "Вбивства",
+        "RU": "Убийства"
+    },
+    "_Death": {
+        "EN": "Deaths",
+        "UA": "Смерті",
+        "RU": "Смерти"
+    },
+    "_Assists": {
+        "EN": "Assists",
+        "UA": "Допомоги",
+        "RU": "Помощи"
+    },
+    "_KD": {
+        "EN": "K/D",
+        "UA": "К/Д",
+        "RU": "К/Д"
+    },
+    "_Headshots": {
+        "EN": "Headshots",
+        "UA": "Хедшотів",
+        "RU": "Хедшотов"
+    },
+    "_Level": {
+        "EN": "Level",
+        "UA": "Рівень",
+        "RU": "Уровень"
+    },
+    "_Play_time": {
+        "EN": "Playtime",
+        "UA": "Час гри",
+        "RU": "Время игры"
+    },
+    "_Connect": {
+        "EN": "Connect",
+        "UA": "Приєднатися",
+        "RU": "Присоединиться"
+    },
+    "_TakeIp": {
+        "EN": "Copy IP",
+        "UA": "Скопіювати IP",
+        "RU": "Скопировать IP"
+    },
+    "_Detailed": {
+        "EN": "Detailed statistics",
+        "UA": "Детальна статистика",
+        "RU": "Подробная статистика"
+    },
+    "_Hide": {
+        "EN": "Hide statistics",
+        "UA": "Приховати статистику",
+        "RU": "Скрыть статистику"
+    },
+    "_RefreshData": {
+        "EN": "Refresh",
+        "UA": "Оновити",
+        "RU": "Обновить"
+    },
+    "_EmptyServer": {
+        "EN": "Server is empty 😴",
+        "UA": "Сервер порожній 😴",
+        "RU": "Сервер пуст 😴"
+    },
+    "_PlayersRang": {
+        "EN": "Rank",
+        "UA": "Звання",
+        "RU": "Звание"
+    },
+    "_PlayersKills": {
+        "EN": "Kills",
+        "UA": "Киллы",
+        "RU": "Киллы"
+    },
+    "_PlayersInGame": {
+        "EN": "Play",
+        "UA": "У грі",
+        "RU": "В игре"
+    },
+    "_MuteMicrofon": {
+        "EN": "Mute microphone",
+        "UA": "Заглушити мікрофон",
+        "RU": "Заглушить микрофон"
+    },
+    "_GagChat": {
+        "EN": "Gag chat",
+        "UA": "Заглушити чат",
+        "RU": "Заглушить чат"
+    },
+    "_GiveBan": {
+        "EN": "Ban",
+        "UA": "Видати бан",
+        "RU": "Выдать бан"
+    },
+    "_KickPlayer": {
+        "EN": "Kick",
+        "UA": "Вигнати",
+        "RU": "Выгнать"
+    },
+    "_Admins_sb": {
+        "EN": "Admins",
+        "RU": "Админы",
+        "UA": "Список адмінів"
+    },
+    "_scoreLoad": {
+        "EN": "The invoice is loading",
+        "RU": "Счёт загружается",
+        "UA": "Рахунок завантажується"
+    },
+    "_timeSecond": {
+        "EN": "Time in sec.",
+        "RU": "Время в сек.",
+        "UA": "Час у сік."
+    },
+    "_banReason": {
+        "EN": "Reason ban",
+        "RU": "Причина бана",
+        "UA": "Причина бана"
+    },
+    "_muteReason": {
+        "EN": "Reason mute",
+        "RU": "Причина мута",
+        "UA": "Причина мута"
+    },
+    "_mute": {
+        "EN": "Mute",
+        "RU": "Мут",
+        "UA": "Мут"
+    },
+    "_gag": {
+        "EN": "Gag",
+        "RU": "Гаг",
+        "UA": "Гаг"
+    },
+    "_silence": {
+        "EN": "Full",
+        "RU": "Полный",
+        "UA": "Повний"
+    },
+    "_punish": {
+        "EN": "Punish",
+        "RU": "Наказать",
+        "UA": "Покарати"
+    },
+    "_selectPlayers": {
+        "EN": "Select players",
+        "RU": "Выберите игроков",
+        "UA": "Виберіть гравців"
+    },
+    "_inProgress": {
+        "EN": "In progress",
+        "RU": "В процессе ",
+        "UA": "У процесі"
+    },
+    "_areYouSure": {
+        "EN": "Are you sure?",
+        "RU": "Уверены?",
+        "UA": "Впевнені?"
+    },
+    "_srvNotFound": {
+        "EN": "Error: Server not found!",
+        "RU": "Ошибка сервер не найден!",
+        "UA": "Помилка сервера не знайдено!"
+    },
+    "_srvNotFound2": {
+        "EN": "Server not found!",
+        "RU": "Сервер не найден!",
+        "UA": "Сервер не знайдено!"
+    },
+    "_haventAccess": {
+        "EN": "You do not have access to punishments on this server!",
+        "RU": "У вас нет доступа к наказаниям на этом сервере!",
+        "UA": "У вас немає доступу до покарань на цьому сервері!"
+    },
+    "_specifyTime": {
+        "EN": "Set the time!",
+        "RU": "Укажите время!",
+        "UA": "Вкажіть час!"
+    },
+    "_setReason": {
+        "EN": "Please set a reason!",
+        "RU": "Укажите причину!",
+        "UA": "Вкажіть причину!"
+    },
+    "_punishIssued": {
+        "EN": "The punishment has been issued!",
+        "RU": "Наказание выдано!",
+        "UA": "Покарання видано!"
+    },
+    "_noDataAvailable": {
+        "EN": "No data available",
+        "RU": "Данные отсутсвуют",
+        "UA": "Дані відсутні"
+    },
+    "_unknown": {
+        "EN": "Unknown",
+        "RU": "Неизвестно",
+        "UA": "Невідомо"
+    },
+    "_ctWin": {
+        "EN": "The special forces team is in the lead",
+        "RU": "Команда спецназа лидирует",
+        "UA": "Команда спецназу лідирує"
+    },
+    "_tWin": {
+        "EN": "The terrorist team is in the lead",
+        "RU": "Команда террористов лидирует",
+        "UA": "Команда терористів лідирує"
+    },
+    "_draw": {
+        "EN": "Draw",
+        "RU": "Ничья",
+        "UA": "Нічия"
+    },
+    "_notAvailale": {
+        "EN": "☠️ Not available",
+        "RU": "☠️ Недоступен",
+        "UA": "☠️ Недоступний"
+    },
+    "_serverDown": {
+        "EN": "The server is down",
+        "RU": "Сервер отключен",
+        "UA": "Сервер вимкнено"
+    },
+    "_loadError": {
+        "EN": "Error loading data",
+        "RU": "Ошибка загрузки данных",
+        "UA": "Помилка завантаження даних"
+    },
+    "_Back": {
+        "EN": "Back",
+        "RU": "Назад",
+        "UA": "Назад"
+    },
+    "_serverFull": {
+        "EN": "The server is full",
+        "RU": "Сервер заполнен",
+        "UA": "Сервер переповнений"
+    },
+    "_serverOffline": {
+        "EN": "Server is offline",
+        "RU": "Сервер недоступен",
+        "UA": "Сервер недоступний"
+    },
+    "_errorPunish": {
+        "EN": "Error in issuing a penalty",
+        "RU": "Ошибка выдачи наказания",
+        "UA": "Помилка видачі покарання"
+    },
+    "_InGameMod": {
+        "EN": "in game",
+        "RU": "в игре",
+        "UA": "у грі"
+    },
+    "_searchServerButton": {
+        "EN": "Find server",
+        "RU": "Найти сервер",
+        "UA": "Знайти сервер"
+    },
+    "_fastGame": {
+        "EN": "Quick game",
+        "RU": "Быстрая игра",
+        "UA": "Швидка гра"
+    },
+    "_filterGrids": {
+        "EN": "Blocks",
+        "RU": "Блоки",
+        "UA": "Блоки"
+    },
+    "_filterTable": {
+        "EN": "Table",
+        "RU": "Таблица",
+        "UA": "Таблиця"
+    },
+    "_serversCount": {
+        "EN": "Servers",
+        "RU": "Серверов",
+        "UA": "Серверів"
+    },
+    "_filterMaps": {
+        "EN": "Maps",
+        "RU": "Карты",
+        "UA": "Мапи"
+    },
+    "_subModesFilters": {
+        "EN": "Sub-modes",
+        "RU": "Подрежимы",
+        "UA": "Підрежими"
+    },
+    "_filterLocation": {
+        "EN": "Location",
+        "RU": "Локация",
+        "UA": "Локація"
+    },
+    "_filterHideEmptys": {
+        "EN": "Hide empty",
+        "RU": "Скрыть пустые",
+        "UA": "Сховати порожні"
+    },
+    "_filterFavourites": {
+        "EN": "Show favourites only",
+        "RU": "Показать только любимые",
+        "UA": "Показати лише улюблені"
+    },
+    "_filterSorting": {
+        "EN": "Sorting",
+        "RU": "Сортировка",
+        "UA": "Сортування"
+    },
+    "_sortingDefault": {
+        "EN": "Default",
+        "RU": "По умолчанию",
+        "UA": "За замовчуванням"
+    },
+    "_sortingUp": {
+        "EN": "Players ascending",
+        "RU": "По возрастанию игроков",
+        "UA": "За зростанням гравців"
+    },
+    "_sortingDown": {
+        "EN": "Players descending",
+        "RU": "По убыванию игроков",
+        "UA": "За спаданням гравців"
+    },
+    "_noServers": {
+        "EN": "No servers",
+        "RU": "Серверов нет",
+        "UA": "Серверів немає"
+    },
+    "_noCategory": {
+        "EN": "Uncategorized",
+        "RU": "Без категории",
+        "UA": "Без категорії"
+    },
+    "_AllModDescription": {
+        "EN": "A complete list of game modes in our game project",
+        "RU": "Полный список игровых режимов нашего игрового проекта",
+        "UA": "Повний перелік ігрових режимів нашого ігрового проєкту"
+    },
+    "_techWork": {
+        "EN": "Technical work",
+        "RU": "Технические работы",
+        "UA": "Технічні роботи"
+    }
+}
